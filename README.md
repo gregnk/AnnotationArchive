@@ -2,7 +2,7 @@
 A public archive of Youtube annotation XML data.
 
 # Contributing
-If you would like to contribution some annotations to this archive, please open an issue or pull request on this repository. Alternatively you can contact me by email.
+If you would like to contribute some annotations to this archive, please open an issue or pull request on this repository. Alternatively you can contact me by email.
 
 You can backup annotation data by using Moder112's excellent [Mass Annotation Downloader](https://github.com/Moder112/MassAnnotationDownloader/releases), although I'm not sure if it will still work once annotations are down.
 
