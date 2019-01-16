@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMImcG17v_u3wIVFqaCCh066QfoKPgdMgJpdki2u_Tkx6HWigk">
+<annotation id="annotation_180828" type="text" style="popup" log_data="a-id=annotation_180828&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DehHUIP8y_3A&amp;xble=1&amp;ei=G2g9XNnHHZbMigS60p_ADg&amp;l-class=1&amp;a-type=1&amp;a-v=CRVZDHydHbY" itct="CAEQs-UBGP___________wEiEwiZwbXu_-7fAhUWpoIKHTrpB-go-B0yAml2SLa79OTHodaKCQ">
+  <TEXT>&lt;&lt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="16.56300" h="19.72200" t="0:00:20.2"/>
+      <rectRegion x="0.00000" y="0.00000" w="16.56300" h="19.72200" t="0:00:29.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14573741" fgColor="16777215" textSize="8.42496666666667" effects="textdropshadow">
+    <padding top="5.05497980118" left="2.84342622757" bottom="5.05497980118" right="3.79123497009"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_180828&amp;ei=G2g9XNnHHZbMigS60p_ADg&amp;feature=iv&amp;src_vid=CRVZDHydHbY&amp;v=ehHUIP8y_3A" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_735138" type="highlight" log_data="a-id=annotation_735138&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dnislt&amp;xble=1&amp;ei=G2g9XNnHHZbMigS60p_ADg&amp;l-class=5&amp;a-type=3&amp;a-v=CRVZDHydHbY" itct="CAIQs-UBGP___________wEiEwiZwbXu_-7fAhUWpoIKHTrpB-go-B0yAml2SLa79OTHodaKCQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.81300" y="69.16700" w="40.78100" h="27.50000" t="0:00:20.2"/>
+      <rectRegion x="27.81300" y="69.16700" w="40.78100" h="27.50000" t="0:00:29.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=nislt&amp;annotation_id=annotation_735138&amp;ei=G2g9XNnHHZbMigS60p_ADg&amp;feature=iv&amp;src_vid=CRVZDHydHbY" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_821233" type="text" style="popup" log_data="a-id=annotation_821233&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEYwidlJ-30g&amp;xble=1&amp;ei=G2g9XNnHHZbMigS60p_ADg&amp;l-class=1&amp;a-type=1&amp;a-v=CRVZDHydHbY" itct="CAMQs-UBGP___________wEiEwiZwbXu_-7fAhUWpoIKHTrpB-go-B0yAml2SLa79OTHodaKCQ">
+  <TEXT>&gt;&gt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.37500" y="0.00000" w="20.62500" h="22.50000" t="0:00:20.3"/>
+      <rectRegion x="79.37500" y="0.00000" w="20.62500" h="22.50000" t="0:00:29.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="8.42496666666667" effects="textdropshadow">
+    <padding top="5.05497980118" left="2.84342622757" bottom="5.05497980118" right="3.79123497009"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_821233&amp;ei=G2g9XNnHHZbMigS60p_ADg&amp;feature=iv&amp;src_vid=CRVZDHydHbY&amp;v=EYwidlJ-30g" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_92831" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>To mutch shake</TEXT>
+  <segment spaceRelative="annotation_735138">
+    <movingRegion type="rect">
+      <rectRegion x="0.15600" y="-4.72200" w="40.62500" h="5.55600" t="never"/>
+      <rectRegion x="0.15600" y="-4.72200" w="40.62500" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_735138" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_947027" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_947027&amp;xble=1&amp;ei=G2g9XNnHHZbMigS60p_ADg&amp;a-v=CRVZDHydHbY" itct="CAQQs-UBGP___________wEiEwiZwbXu_-7fAhUWpoIKHTrpB-go-B0yAml2SLa79OTHodaKCQ">
+  <TEXT> hi, friends!  do you want to see one really funny &quot;how to&quot; tutorial from black mesa game? leave comment :)
+</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="73.33300" w="30.00000" h="26.66700" t="0:00:20.2"/>
+      <rectRegion x="0.00000" y="73.33300" w="30.00000" h="26.66700" t="0:00:29.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation></annotations></document>

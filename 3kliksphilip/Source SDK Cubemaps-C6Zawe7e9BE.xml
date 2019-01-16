@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIkK7a5Yrv3wIVWbiCCh3q5QJCKPgdMgJpdkiR6Pv2ntiW0ws">
+<annotation id="annotation_240396" type="text" style="popup" log_data="ei=knM9XJAd2fCKBOrLi5AE&amp;a-id=annotation_240396&amp;xble=1&amp;a-type=1&amp;a-v=C6Zawe7e9BE" itct="CAEQs-UBGP___________wEiEwiQrtrliu_fAhVZuIIKHerlAkIo-B0yAml2SJHo-_ae2JbTCw">
+  <TEXT>This picture simply demonstrates how convincing models look with the cubemap of their surroundings. Notice how Dog reflects the sky and other objects around him. This is caused by the cubemaps.
+
+DISCLAIMER: Cubemaps do NOT make models appear in your street</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.62500" y="74.16700" w="89.58300" h="25.00000" t="0:00:00.0"/>
+      <rectRegion x="5.62500" y="74.16700" w="89.58300" h="25.00000" t="0:00:05.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_317950" type="text" style="popup" log_data="ei=knM9XJAd2fCKBOrLi5AE&amp;a-id=annotation_317950&amp;xble=1&amp;a-type=1&amp;a-v=C6Zawe7e9BE" itct="CAIQs-UBGP___________wEiEwiQrtrliu_fAhVZuIIKHerlAkIo-B0yAml2SJHo-_ae2JbTCw">
+  <TEXT>The cubemap is NOT that big orange thing. That&#39;s simply there to show off the reflections a bit more. The cubemap is an invisible entity near the cube. It reflects its surroundings, and reflective surfaces use its reflections to make them look better. Sorry if you thought that the large orange cube was the cubemap.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.20800" y="74.16700" w="99.37500" h="20.55600" t="0:00:44.1"/>
+      <rectRegion x="0.20800" y="74.16700" w="99.37500" h="20.55600" t="0:00:54.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3738832121" type="text" style="popup" log_data="l-class=1&amp;a-id=annotation_3738832121&amp;a-type=1&amp;a-v=C6Zawe7e9BE&amp;ei=knM9XJAd2fCKBOrLi5AE&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DA_PfKu4YVxM" itct="CAMQs-UBGP___________wEiEwiQrtrliu_fAhVZuIIKHerlAkIo-B0yAml2SJHo-_ae2JbTCw">
+  <TEXT>Watch my newer, clearer video here!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="5.00000" w="100.00000" h="12.22200" t="0:00.000"/>
+      <rectRegion x="0.00000" y="5.00000" w="100.00000" h="12.22200" t="0:13.573"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="8.424966666666666" effects="bevel dropshadow textdropshadow">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3738832121&amp;ei=knM9XJAd2fCKBOrLi5AE&amp;feature=iv&amp;src_vid=C6Zawe7e9BE&amp;v=A_PfKu4YVxM" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

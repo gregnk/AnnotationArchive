@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIqcfj2IHv3wIVl5mCCh0BtwDtKPgdMgJpdkjsxujn_MXJpGU">
+<annotation id="annotation_1457342033" type="text" style="popup" log_data="ei=Bmo9XKmsO5ezigSB7oLoDg&amp;a-id=annotation_1457342033&amp;l-class=1&amp;xble=1&amp;a-v=ZUkmL8z6I2w&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZUkmL8z6I2w%23t%3D1m22s&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwipx-PYge_fAhWXmYIKHQG3AO0o-B0yAml2SOzG6Of8xcmkZQ">
+  <TEXT>Skip to the PREMIERE!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="3.15500" w="25.20400" h="13.28000" t="0:00.000"/>
+      <rectRegion x="0.00000" y="3.15500" w="25.20400" h="13.28000" t="1:13.266"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="8249205" fgColor="16777215" textSize="3.911599999999999" effects="bevel dropshadow textdropshadow">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1457342033&amp;ei=Bmo9XKmsO5ezigSB7oLoDg&amp;feature=iv&amp;src_vid=ZUkmL8z6I2w&amp;v=ZUkmL8z6I2w#t=1m22s" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1510879781" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>SNES</TEXT>
+  <segment spaceRelative="annotation_4205257461">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="77.91800" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="77.91800" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4205257461" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2058233773" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Genesis</TEXT>
+  <segment spaceRelative="annotation_2973774931">
+    <movingRegion type="rect">
+      <rectRegion x="11.87900" y="81.70300" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="11.87900" y="81.70300" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2973774931" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2973774931" type="highlight" log_data="ei=Bmo9XKmsO5ezigSB7oLoDg&amp;a-id=annotation_2973774931&amp;l-class=3&amp;xble=1&amp;a-v=ZUkmL8z6I2w&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmatthewpatrick13&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwipx-PYge_fAhWXmYIKHQG3AO0o-B0yAml2SOzG6Of8xcmkZQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="63.12100" y="11.35600" w="36.96900" h="81.14900" t="11:36.598"/>
+      <rectRegion x="63.12100" y="11.35600" w="36.96900" h="81.14900" t="11:57.240"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16564776" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/matthewpatrick13?annotation_id=annotation_2973774931&amp;ei=Bmo9XKmsO5ezigSB7oLoDg&amp;feature=iv&amp;src_vid=ZUkmL8z6I2w" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4205257461" type="highlight" log_data="ei=Bmo9XKmsO5ezigSB7oLoDg&amp;a-id=annotation_4205257461&amp;l-class=3&amp;xble=1&amp;a-v=ZUkmL8z6I2w&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmatthewpatrick13&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwipx-PYge_fAhWXmYIKHQG3AO0o-B0yAml2SOzG6Of8xcmkZQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="12.61800" w="38.70100" h="77.51700" t="11:36.598"/>
+      <rectRegion x="0.00000" y="12.61800" w="38.70100" h="77.51700" t="11:57.240"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16564776" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/matthewpatrick13?annotation_id=annotation_4205257461&amp;ei=Bmo9XKmsO5ezigSB7oLoDg&amp;feature=iv&amp;src_vid=ZUkmL8z6I2w" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:589a634a-0000-2089-9b8f-94eb2c11b654" style="branding" type="branding"
+            log_data="ei=Bmo9XKmsO5ezigSB7oLoDg&amp;a-id=589a634a-0000-2089-9b8f-94eb2c11b654&amp;l-class=3&amp;xble=0&amp;a-v=ZUkmL8z6I2w&amp;a-ch=UCo_IB5145EVNcf8hw1Kku7w&amp;link-id=UCo_IB5145EVNcf8hw1Kku7w&amp;a-type=10">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCo_IB5145EVNcf8hw1Kku7w&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/o_IB5145EVNcf8hw1Kku7w\/featured_channel.jpg?v=589d1a88&quot;,&quot;end_ms&quot;:718000,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;11M&quot;,&quot;unsubscribeCount&quot;:&quot;11M&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026uilel=3\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FMatthewPatrick13%26continue_action%3DQUFFLUhqbVVYQTNyb2dQUzBITUJWVC1VYk5FZ2JUajZzd3xBQ3Jtc0tuaE12N0hibHFJakdVX0JWSkNYeU9weEtNMi0xb1g3ZUZPVGJPZ1NxZkg1eGJseVZHTWFSUnh2T0FmU2dGV2VfMTloM0RhcGIzMFgzNkFENXJPYm1EaTN5c2R3RF8yWVFfTDJ4Z1NrX1R3aW1lSHcxZWhHSHpPbFVrcEFsSFJFUlpEUDhBcTlyWkhhR0RHODhLRk82OTlfTHdSSkh5ZlpWM0U5VTJNUHktTGpNTlFWX08xQW9uS0JYclhIaTBQMUgwd2ljaWFibm5VcWVvVkpjTkFQTVN6SXZiMlRfNkcya3JWWHg3eUVHcEZhZU1xLTRN%26hl%3Den%26action_handle_signin%3Dtrue\u0026service=youtube&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;The Game Theorists&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_type&quot;:1,&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;11375813&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;589a634a-0000-2089-9b8f-94eb2c11b654&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;Bmo9XKmsO5ezigSB7oLoDg&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCKnH49iB798CFZeZggodAbcA7Sj4HTICaXZI7Mbo5_zFyaRl&quot;,&quot;src_vid&quot;:&quot;ZUkmL8z6I2w&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/MatthewPatrick13"/>
+  </action>
+</annotation>
+<annotation id="video:b484a2b1-6cec-40a0-bec5-e10d8633e5fd" style="playlist" type="card" log_data="a-ch=UCo_IB5145EVNcf8hw1Kku7w&amp;a-id=b484a2b1-6cec-40a0-bec5-e10d8633e5fd&amp;a-type=63&amp;a-v=ZUkmL8z6I2w&amp;ei=Bmo9XKmsO5ezigSB7oLoDg&amp;l-class=2&amp;link-id=PL35FE5C4B157509C9&amp;xble=0">
+  <data>{&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=dQ_BPzOGIL0\u0026list=PL35FE5C4B157509C9&quot;,&quot;start_ms&quot;:694863,&quot;playlist_video_count&quot;:&quot;269&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;end_ms&quot;:694863,&quot;title&quot;:&quot;Game Theory: The Complete Series&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;target&quot;:&quot;new&quot;,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;b484a2b1-6cec-40a0-bec5-e10d8633e5fd&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;Bmo9XKmsO5ezigSB7oLoDg&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCKnH49iB798CFZeZggodAbcA7Sj4HTIFY2FyZHNI7Mbo5_zFyaRl&quot;,&quot;src_vid&quot;:&quot;ZUkmL8z6I2w&quot;},&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAkQ1TYY____________ASITCKnH49iB798CFZeZggodAbcA7Sj4HTIFY2FyZHNI7Mbo5_zFyaRl&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCKnH49iB798CFZeZggodAbcA7Sj4HTIFY2FyZHNI7Mbo5_zFyaRl&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwipx-PYge_fAhWXmYIKHQG3AO0o-B0yBWNhcmRzSOzG6Of8xcmkZQ&quot;},&quot;meta_info&quot;:[&quot;by The Game Theorists&quot;,&quot;269 videos&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/dQ_BPzOGIL0\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: Game Theory: The Complete Series&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=dQ_BPzOGIL0&amp;list=PL35FE5C4B157509C9"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;Bmo9XKmsO5ezigSB7oLoDg&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCKnH49iB798CFZeZggodAbcA7Sj4HTIFY2FyZHNI7Mbo5/zFyaRl&quot;, 
+  &quot;headerText&quot;: &quot;From The Game Theorists&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwipx+PYge/fAhWXmYIKHQG3AO0o+B0yBWNhcmRzSOzG6Of8xcmkZQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwipx+PYge/fAhWXmYIKHQG3AO0o+B0yBWNhcmRzSOzG6Of8xcmkZQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

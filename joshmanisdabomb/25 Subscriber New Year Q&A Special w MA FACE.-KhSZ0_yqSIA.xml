@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIw5-QtYfv3wIVDWIDCh1fQg87KPgdMgJpdkiAkanlv7qmiio">
+<annotation id="annotation_109024" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fjoshmanisdabomb&amp;a-type=1&amp;ei=BnA9XMOEMo3EDd-EvdgD&amp;a-v=KhSZ0_yqSIA&amp;l-class=3&amp;a-id=annotation_109024&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjDn5C1h-_fAhUNYgMKHV9CDzso-B0yAml2SICRqeW_uqaKKg">
+  <TEXT>Josh</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.34400" y="78.61100" w="23.43800" h="15.83300" t="0:04:31.1"/>
+      <rectRegion x="2.34400" y="78.61100" w="23.43800" h="15.83300" t="0:05:02.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/joshmanisdabomb?annotation_id=annotation_109024&amp;ei=BnA9XMOEMo3EDd-EvdgD&amp;feature=iv&amp;src_vid=KhSZ0_yqSIA" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_261103" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>lolwut?</TEXT>
+  <segment spaceRelative="annotation_851094">
+    <movingRegion type="rect">
+      <rectRegion x="-0.31200" y="25.83300" w="24.53100" h="5.55600" t="never"/>
+      <rectRegion x="-0.31200" y="25.83300" w="24.53100" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_851094" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_47510" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>DO IT SO I CAN MAKE A 50 SUBSCRIBER SPECIAL OF SOMETHING.</TEXT>
+  <segment spaceRelative="annotation_693657">
+    <movingRegion type="rect">
+      <rectRegion x="-3.43800" y="14.16700" w="27.18700" h="14.44400" t="never"/>
+      <rectRegion x="-3.43800" y="14.16700" w="27.18700" h="14.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_693657" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_693657" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Djoshmanisdabomb&amp;a-type=3&amp;ei=BnA9XMOEMo3EDd-EvdgD&amp;a-v=KhSZ0_yqSIA&amp;l-class=5&amp;a-id=annotation_693657&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjDn5C1h-_fAhUNYgMKHV9CDzso-B0yAml2SICRqeW_uqaKKg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.62500" y="27.77800" w="22.96900" h="12.22200" t="0:04:31.1"/>
+      <rectRegion x="75.62500" y="27.77800" w="22.96900" h="12.22200" t="0:05:02.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=joshmanisdabomb&amp;annotation_id=annotation_693657&amp;ei=BnA9XMOEMo3EDd-EvdgD&amp;feature=iv&amp;src_vid=KhSZ0_yqSIA" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_719359" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAchYfQF0u5o&amp;a-type=3&amp;ei=BnA9XMOEMo3EDd-EvdgD&amp;a-v=KhSZ0_yqSIA&amp;l-class=1&amp;a-id=annotation_719359&amp;xble=1" itct="CAMQs-UBGP___________wEiEwjDn5C1h-_fAhUNYgMKHV9CDzso-B0yAml2SICRqeW_uqaKKg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.78100" y="1.66700" w="22.65600" h="11.94400" t="0:04:31.1"/>
+      <rectRegion x="75.78100" y="1.66700" w="22.65600" h="11.94400" t="0:05:02.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_719359&amp;ei=BnA9XMOEMo3EDd-EvdgD&amp;feature=iv&amp;src_vid=KhSZ0_yqSIA&amp;v=AchYfQF0u5o" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_851094" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8QAqs3zIkAI&amp;a-type=3&amp;ei=BnA9XMOEMo3EDd-EvdgD&amp;a-v=KhSZ0_yqSIA&amp;l-class=1&amp;a-id=annotation_851094&amp;xble=1" itct="CAQQs-UBGP___________wEiEwjDn5C1h-_fAhUNYgMKHV9CDzso-B0yAml2SICRqeW_uqaKKg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.62500" y="14.72200" w="22.96900" h="11.94400" t="0:04:31.1"/>
+      <rectRegion x="75.62500" y="14.72200" w="22.96900" h="11.94400" t="0:05:02.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_851094&amp;ei=BnA9XMOEMo3EDd-EvdgD&amp;feature=iv&amp;src_vid=KhSZ0_yqSIA&amp;v=8QAqs3zIkAI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_912756" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>I OWN BRAD.</TEXT>
+  <segment spaceRelative="annotation_719359">
+    <movingRegion type="rect">
+      <rectRegion x="0.31300" y="38.33300" w="23.12500" h="5.83300" t="never"/>
+      <rectRegion x="0.31300" y="38.33300" w="23.12500" h="5.83300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_719359" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:521909e2-0-2cf5-956a-47d7b3a8fdc" style="branding" type="branding"
+            log_data="a-ch=UCoeVgc-OYaaCqUEejYvPwHw&amp;a-type=10&amp;ei=BnA9XMOEMo3EDd-EvdgD&amp;a-v=KhSZ0_yqSIA&amp;l-class=3&amp;link-id=UCoeVgc-OYaaCqUEejYvPwHw&amp;a-id=521909e2-0-2cf5-956a-47d7b3a8fdc&amp;xble=0">
+  <data>{&quot;image_width&quot;:40,&quot;end_ms&quot;:302000,&quot;start_ms&quot;:0,&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;2.5K&quot;,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeCount&quot;:&quot;2.5K&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fjoshmanisdabomb%26continue_action%3DQUFFLUhqa29xTlpqM3Y5WmQyX3FmdUR5eWkzcWV4WnFwZ3xBQ3Jtc0tuSlVZNUI1RXZjWG5Ob3VVa2dyZHZwemp6RTFNdi1EdWpqQnBkTzByeTM4LWtCR2w0RTg0SGdId0dMWk1NOWcxeGNnb0NXckJoSnlYTExzaWtIYWI5MTFfMExLN3BSM1pTZnN4bXVJNWliWEczREhRenZ3dnBiZ3owNENRdXZqV2dtcGxaR1Bqd1M2Y2NHNjd4S0xJdlpxeGVnd0pVQWdJWkVzbnYtWWYtZmtqMFNXVkswRC1JSVRyT2dWejNxY2N0b29DLWZaNjlDYzhJeHdqSnM0aGVnbVNzMUFVYWJOQVZTZ3BXZEVKelUxcVB1VjFv%26hl%3Den%26action_handle_signin%3Dtrue%26feature%3Div\u0026hl=en\u0026service=youtube\u0026uilel=3&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;},&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCoeVgc-OYaaCqUEejYvPwHw&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/oeVgc-OYaaCqUEejYvPwHw\/featured_channel.jpg?v=52290abb&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;joshmanisdabomb&quot;,&quot;image_height&quot;:40,&quot;num_subscribers&quot;:&quot;2540&quot;,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;521909e2-0-2cf5-956a-47d7b3a8fdc&quot;,&quot;src_vid&quot;:&quot;KhSZ0_yqSIA&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCMOfkLWH798CFQ1iAwodX0IPOyj4HTICaXZIgJGp5b-6pooq&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;BnA9XMOEMo3EDd-EvdgD&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/joshmanisdabomb"/>
+  </action>
+</annotation></annotations></document>

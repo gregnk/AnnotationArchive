@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIvsmfkv3u3wIVlNyCCh0C6QvCKPgdMgJpdkjMvv6ykemD7y4">
+<annotation id="annotation_764868" type="highlight" log_data="ei=QWU9XP6kE5S5iwSC0q-QDA&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOC8a9_U6ym4&amp;a-id=annotation_764868&amp;a-type=3&amp;a-v=Lt4PSRZfn0w" itct="CAEQs-UBGP___________wEiEwi-yZ-S_e7fAhWU3IIKHQLpC8Io-B0yAml2SMy-_rKR6YPvLg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.81300" y="66.38900" w="23.59400" h="16.94400" t="0:01:46.8"/>
+      <rectRegion x="37.81300" y="66.38900" w="23.59400" h="16.94400" t="0:01:52.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_764868&amp;ei=QWU9XP6kE5S5iwSC0q-QDA&amp;feature=iv&amp;src_vid=Lt4PSRZfn0w&amp;v=OC8a9_U6ym4" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_857832" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click that.</TEXT>
+  <segment spaceRelative="annotation_764868">
+    <movingRegion type="rect">
+      <rectRegion x="17.65600" y="5.55600" w="25.00000" h="10.00000" t="never"/>
+      <rectRegion x="17.65600" y="5.55600" w="25.00000" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_764868" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:5583f5a5-0000-23dc-b4f7-94eb2c08d89e" style="branding" type="branding"
+            log_data="link-id=UC1UIj7Y9SphX5GuoG2e94XQ&amp;a-type=10&amp;ei=QWU9XP6kE5S5iwSC0q-QDA&amp;xble=0&amp;a-ch=UC1UIj7Y9SphX5GuoG2e94XQ&amp;a-id=5583f5a5-0000-23dc-b4f7-94eb2c08d89e&amp;l-class=3&amp;a-v=Lt4PSRZfn0w">
+  <data>{&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;89K&quot;,&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqa3hlbUxyMXMxdmN1ZE56dzZqQkZxUEVQZW44QXxBQ3Jtc0tuM3hMczVmYldxYVp2U2lUMEYxVWJDZjFmRk1USGRTSnJkb3ktakNIeTdaWkVFT0ctZjl5ZXE1dEl4blhhUk5FVnhHOE44VnZJeHVYODA3SmpYYWl0Q1dleXV5dV9ZaDNmNHVpbFI5R3BiNFlNVWFYTVExQ0hZVEJqNGNUbnJ6SURmVmlVcXlLQm1XUmF6UVc3ZUpDX2Z2cTBMeGNQeHVHZGxBWUJXSjNUbkstaGxZaTJVUFVfdDd2WkhtdkFPRGoxTlZiT2Fyc01wZDI5bkZjekxINDNPREFvbDNUSDZnbzRyV1NobXlCTTJuWG8tN2Fz%26action_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fjakechudnow\u0026passive=true&quot;,&quot;unsubscribeCount&quot;:&quot;89K&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;enabled&quot;:false},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;image_type&quot;:1,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCL7Jn5L97t8CFZTcggodAukLwij4HTICaXZIzL7-spHpg-8u&quot;,&quot;annotation_id&quot;:&quot;5583f5a5-0000-23dc-b4f7-94eb2c08d89e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;QWU9XP6kE5S5iwSC0q-QDA&quot;,&quot;src_vid&quot;:&quot;Lt4PSRZfn0w&quot;},&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UC1UIj7Y9SphX5GuoG2e94XQ&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/1UIj7Y9SphX5GuoG2e94XQ\/featured_channel.jpg?v=559511d5&quot;,&quot;num_subscribers&quot;:&quot;89770&quot;,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_name&quot;:&quot;Jake Chudnow&quot;,&quot;start_ms&quot;:98000,&quot;end_ms&quot;:113000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/jakechudnow"/>
+  </action>
+</annotation></annotations></document>

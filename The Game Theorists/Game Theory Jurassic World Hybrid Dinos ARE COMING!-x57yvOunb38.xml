@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIkcOylYLv3wIV16WCCh2iIQqUKPgdMgJpdkj_3p3dzte8z8cB">
+<annotation id="annotation_1414399375" type="text" style="anchored" log_data="a-id=annotation_1414399375&amp;ei=hmo9XJHoBdfLigSiw6igCQ&amp;a-v=x57yvOunb38&amp;a-type=8&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiRw7KVgu_fAhXXpYIKHaIhCpQo-B0yAml2SP_end3O17zPxwE">
+  <TEXT>Sponsored by Warner Bros Interactive Entertainment.</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="0.00000" y="81.91500" w="27.44100" h="11.47700" sx="2.91599988937" sy="95.3929977417" t="0:00.000"/>
+      <anchoredRegion x="0.00000" y="81.91500" w="27.44100" h="11.47700" sx="2.91599988937" sy="95.3929977417" t="0:06.606"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_2267144421" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>If you click this, you get +100 coolness points.</TEXT>
+  <segment spaceRelative="annotation_3023130013">
+    <movingRegion type="rect">
+      <rectRegion x="-2.42500" y="29.72200" w="26.71200" h="10.05300" t="never"/>
+      <rectRegion x="-2.42500" y="29.72200" w="26.71200" h="10.05300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3023130013" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3023130013" type="highlight" log_data="a-type=3&amp;a-id=annotation_3023130013&amp;xble=1&amp;l-class=3&amp;a-v=x57yvOunb38&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FFilmTheorists&amp;ei=hmo9XJHoBdfLigSiw6igCQ" itct="CAIQs-UBGP___________wEiEwiRw7KVgu_fAhXXpYIKHaIhCpQo-B0yAml2SP_end3O17zPxwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.71300" y="2.87300" w="24.28700" h="28.84500" t="2:02.973"/>
+      <rectRegion x="75.71300" y="2.87300" w="24.28700" h="28.84500" t="2:08.191"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16636470" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/FilmTheorists?annotation_id=annotation_3023130013&amp;ei=hmo9XJHoBdfLigSiw6igCQ&amp;feature=iv&amp;src_vid=x57yvOunb38" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_369129419" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Horny T-Rex</TEXT>
+  <segment spaceRelative="annotation_521080251">
+    <movingRegion type="rect">
+      <rectRegion x="0.65000" y="42.88700" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.65000" y="42.88700" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_521080251" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4082115051" type="highlight" log_data="a-type=3&amp;a-id=annotation_4082115051&amp;xble=1&amp;l-class=3&amp;a-v=x57yvOunb38&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmatthewpatrick13&amp;ei=hmo9XJHoBdfLigSiw6igCQ" itct="CAMQs-UBGP___________wEiEwiRw7KVgu_fAhXXpYIKHaIhCpQo-B0yAml2SP_end3O17zPxwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.68600" y="20.28200" w="44.68300" h="54.94400" t="13:35.057"/>
+      <rectRegion x="52.68600" y="20.28200" w="44.68300" h="54.94400" t="14:47.977"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/matthewpatrick13?annotation_id=annotation_4082115051&amp;ei=hmo9XJHoBdfLigSiw6igCQ&amp;feature=iv&amp;src_vid=x57yvOunb38" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_521080251" type="highlight" log_data="a-type=3&amp;a-id=annotation_521080251&amp;xble=1&amp;l-class=3&amp;a-v=x57yvOunb38&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCo_IB5145EVNcf8hw1Kku7w&amp;ei=hmo9XJHoBdfLigSiw6igCQ" itct="CAQQs-UBGP___________wEiEwiRw7KVgu_fAhXXpYIKHaIhCpQo-B0yAml2SP_end3O17zPxwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.70800" y="20.94400" w="45.32500" h="55.05600" t="13:35.185"/>
+      <rectRegion x="3.70800" y="20.94400" w="45.32500" h="55.05600" t="14:47.977"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCo_IB5145EVNcf8hw1Kku7w?annotation_id=annotation_521080251&amp;ei=hmo9XJHoBdfLigSiw6igCQ&amp;feature=iv&amp;src_vid=x57yvOunb38" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_573558909" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Raptors with some serious tail</TEXT>
+  <segment spaceRelative="annotation_4082115051">
+    <movingRegion type="rect">
+      <rectRegion x="0.93500" y="45.12700" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.93500" y="45.12700" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_4082115051" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:589a634a-0000-2089-9b8f-94eb2c11b654" style="branding" type="branding"
+            log_data="a-type=10&amp;a-id=589a634a-0000-2089-9b8f-94eb2c11b654&amp;xble=0&amp;l-class=3&amp;a-v=x57yvOunb38&amp;link-id=UCo_IB5145EVNcf8hw1Kku7w&amp;ei=hmo9XJHoBdfLigSiw6igCQ&amp;a-ch=UCo_IB5145EVNcf8hw1Kku7w">
+  <data>{&quot;num_subscribers&quot;:&quot;11375813&quot;,&quot;image_type&quot;:1,&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/o_IB5145EVNcf8hw1Kku7w\/featured_channel.jpg?v=589d1a88&quot;,&quot;image_width&quot;:40,&quot;end_ms&quot;:888000,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;The Game Theorists&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;unsubscribeCount&quot;:&quot;11M&quot;,&quot;subscribeCount&quot;:&quot;11M&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=en\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26continue_action%3DQUFFLUhqbWg1eVRVeWtrM0Zqei1EUUVLVVY2a1BfSGcyQXxBQ3Jtc0trMGRHeDZtR1phVWpUV2xzMG1Xc3U5XzByRHhmbEk3Zmw4WGs0SlNpTWdqVXpqRnVrRlRTYlVCUHZtMnZrM1RrQU5TMTZIcm55WUxQMDJyRmdMSk9ZOVFBUUp2NlBpaGdtVFV6eGRKMVZmRXhkamdZdmVzS0E0VzlXb3V2MnNmV3Y1SUwtMHZvU3Q0bThMUXNRMW5HRC0wM2V4X0VLRzFGb1B4Yi13R0t6Q3drOVpUaFhtUzRlYUVteWplclJTRlBReTlIclBBVGVXalR1SEZmRVpORDlQRVVnaG1XdjlZVmh3UTZVWDZvRnNMZXRMZENN%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FMatthewPatrick13%26hl%3Den\u0026uilel=3&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false},&quot;channel_id&quot;:&quot;UCo_IB5145EVNcf8hw1Kku7w&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;session_data&quot;:{&quot;ei&quot;:&quot;hmo9XJHoBdfLigSiw6igCQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;589a634a-0000-2089-9b8f-94eb2c11b654&quot;,&quot;src_vid&quot;:&quot;x57yvOunb38&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCJHDspWC798CFdelggodoiEKlCj4HTICaXZI_96d3c7XvM_HAQ&quot;},&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/MatthewPatrick13"/>
+  </action>
+</annotation>
+<annotation id="video:a2d79823-09d9-4272-8cd6-08d2cd362119" style="collaborator" type="card" log_data="a-ch=UCo_IB5145EVNcf8hw1Kku7w&amp;a-id=a2d79823-09d9-4272-8cd6-08d2cd362119&amp;a-type=69&amp;a-v=x57yvOunb38&amp;ei=hmo9XJHoBdfLigSiw6igCQ&amp;l-class=3&amp;link-id=UC3sznuotAs2ohg_U__Jzj_Q&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;end_ms&quot;:120785,&quot;card_type&quot;:&quot;collaborator&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAwQsJcBGP___________wEiEwiRw7KVgu_fAhXXpYIKHaIhCpQo-B0yBWNhcmRzSP_end3O17zPxwE&quot;,&quot;card&quot;:&quot;CAoQ1TYY____________ASITCJHDspWC798CFdelggodoiEKlCj4HTIFY2FyZHNI_96d3c7XvM_HAQ&quot;,&quot;teaser&quot;:&quot;CAsQ0DYY____________ASITCJHDspWC798CFdelggodoiEKlCj4HTIFY2FyZHNI_96d3c7XvM_HAQ&quot;},&quot;teaser_text&quot;:&quot;It&#39;s my other channel!&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/user\/FilmTheorists&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mDmLcPOgfUilx64ZMXTJK_JvofuHOkc8PwCXQ=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;meta_info&quot;:[&quot;7.1M subscribers&quot;],&quot;start_ms&quot;:120785,&quot;title&quot;:&quot;The Film Theorists&quot;,&quot;custom_message&quot;:&quot;It&#39;s my other channel!&quot;,&quot;channel_id&quot;:&quot;UC3sznuotAs2ohg_U__Jzj_Q&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;hmo9XJHoBdfLigSiw6igCQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;a2d79823-09d9-4272-8cd6-08d2cd362119&quot;,&quot;src_vid&quot;:&quot;x57yvOunb38&quot;,&quot;itct&quot;:&quot;CAoQ1TYY____________ASITCJHDspWC798CFdelggodoiEKlCj4HTIFY2FyZHNI_96d3c7XvM_HAQ&quot;},&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/FilmTheorists"/>
+  </action>
+</annotation>
+
+<annotation id="video:5c87b18a-c11a-4bcd-99b4-19fd7615a68b" style="video" type="card" log_data="a-ch=UCo_IB5145EVNcf8hw1Kku7w&amp;a-id=5c87b18a-c11a-4bcd-99b4-19fd7615a68b&amp;a-type=62&amp;a-v=x57yvOunb38&amp;ei=hmo9XJHoBdfLigSiw6igCQ&amp;l-class=1&amp;link-id=jzPj3xjM0Vo&amp;xble=0">
+  <data>{&quot;target&quot;:&quot;new&quot;,&quot;end_ms&quot;:797167,&quot;card_type&quot;:&quot;video&quot;,&quot;is_live_now&quot;:false,&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBAQsJcBGP___________wEiEwiRw7KVgu_fAhXXpYIKHaIhCpQo-B0yBWNhcmRzSP_end3O17zPxwE&quot;,&quot;card&quot;:&quot;CA4Q1TYY____________ASITCJHDspWC798CFdelggodoiEKlCj4HTIFY2FyZHNI_96d3c7XvM_HAQ&quot;,&quot;teaser&quot;:&quot;CA8Q0DYY____________ASITCJHDspWC798CFdelggodoiEKlCj4HTIFY2FyZHNI_96d3c7XvM_HAQ&quot;},&quot;teaser_text&quot;:&quot;Suggested: Game Theory: How Assassin&#39;s Creed Predicted the Future of Science&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=jzPj3xjM0Vo&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/jzPj3xjM0Vo\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;by The Game Theorists&quot;,&quot;3,680,397 views&quot;],&quot;start_ms&quot;:797167,&quot;title&quot;:&quot;Game Theory: How Assassin&#39;s Creed Predicted the Future of Science&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;video_duration&quot;:&quot;10:59&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;hmo9XJHoBdfLigSiw6igCQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;5c87b18a-c11a-4bcd-99b4-19fd7615a68b&quot;,&quot;src_vid&quot;:&quot;x57yvOunb38&quot;,&quot;itct&quot;:&quot;CA4Q1TYY____________ASITCJHDspWC798CFdelggodoiEKlCj4HTIFY2FyZHNI_96d3c7XvM_HAQ&quot;},&quot;pause_on_navigation&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=jzPj3xjM0Vo"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;From The Game Theorists&quot;, 
+  &quot;trackingParams&quot;: &quot;CAYQwjcY////////////ASITCJHDspWC798CFdelggodoiEKlCj4HTIFY2FyZHNI/96d3c7XvM/HAQ==&quot;, 
+  &quot;eventId&quot;: &quot;hmo9XJHoBdfLigSiw6igCQ&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAgQsJcBGP///////////wEiEwiRw7KVgu/fAhXXpYIKHaIhCpQo+B0yBWNhcmRzSP/end3O17zPxwE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAcQsZcBGP///////////wEiEwiRw7KVgu/fAhXXpYIKHaIhCpQo+B0yBWNhcmRzSP/end3O17zPxwE=&quot;
+}</data>
+</annotation>
+</annotations></document>

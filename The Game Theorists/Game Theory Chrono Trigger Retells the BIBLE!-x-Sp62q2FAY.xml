@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzends4Lv3wIVhgCDCh3s0ATHKPgdMgJpdkiGqNjVtr2q8scB">
+<annotation id="annotation_1655834783" type="highlight" log_data="l-class=5&amp;a-v=x-Sp62q2FAY&amp;a-type=3&amp;a-id=annotation_1655834783&amp;xble=1&amp;ei=xWo9XI3zK4aBjATsoZO4DA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dmatthewpatrick13" itct="CAEQs-UBGP___________wEiEwjN6d2zgu_fAhWGAIMKHezQBMco-B0yAml2SIao2NW2varyxwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.33000" y="74.74600" w="34.66700" h="25.25400" t="11:30.754"/>
+      <rectRegion x="32.33000" y="74.74600" w="34.66700" h="25.25400" t="11:45.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=matthewpatrick13&amp;annotation_id=annotation_1655834783&amp;ei=xWo9XI3zK4aBjATsoZO4DA&amp;feature=iv&amp;src_vid=x-Sp62q2FAY" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2085151955" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1655834783">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_1655834783" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2092202541" type="highlight" log_data="l-class=3&amp;a-v=x-Sp62q2FAY&amp;a-type=3&amp;a-id=annotation_2092202541&amp;xble=1&amp;ei=xWo9XI3zK4aBjATsoZO4DA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmatthewpatrick13" itct="CAIQs-UBGP___________wEiEwjN6d2zgu_fAhWGAIMKHezQBMco-B0yAml2SIao2NW2varyxwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.96200" y="0.84500" w="34.89700" h="84.32500" t="11:26.382"/>
+      <rectRegion x="3.96200" y="0.84500" w="34.89700" h="84.32500" t="11:45.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/matthewpatrick13?annotation_id=annotation_2092202541&amp;ei=xWo9XI3zK4aBjATsoZO4DA&amp;feature=iv&amp;src_vid=x-Sp62q2FAY" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2428669921" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Team Chrono</TEXT>
+  <segment spaceRelative="annotation_2092202541">
+    <movingRegion type="rect">
+      <rectRegion x="-0.79200" y="77.74600" w="25.63400" h="10.64100" t="never"/>
+      <rectRegion x="-0.79200" y="77.74600" w="25.63400" h="10.64100" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2092202541" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2846064687" type="highlight" log_data="l-class=3&amp;a-v=x-Sp62q2FAY&amp;a-type=3&amp;a-id=annotation_2846064687&amp;xble=1&amp;ei=xWo9XI3zK4aBjATsoZO4DA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmatthewpatrick13" itct="CAMQs-UBGP___________wEiEwjN6d2zgu_fAhWGAIMKHezQBMco-B0yAml2SIao2NW2varyxwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.95400" y="0.56300" w="32.76500" h="82.98600" t="11:26.382"/>
+      <rectRegion x="58.95400" y="0.56300" w="32.76500" h="82.98600" t="11:45.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/matthewpatrick13?annotation_id=annotation_2846064687&amp;ei=xWo9XI3zK4aBjATsoZO4DA&amp;feature=iv&amp;src_vid=x-Sp62q2FAY" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4254117327" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Team Choco</TEXT>
+  <segment spaceRelative="annotation_2846064687">
+    <movingRegion type="rect">
+      <rectRegion x="1.42600" y="76.90100" w="30.54700" h="9.23300" t="never"/>
+      <rectRegion x="1.42600" y="76.90100" w="30.54700" h="9.23300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2846064687" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:589a634a-0000-2089-9b8f-94eb2c11b654" style="branding" type="branding"
+            log_data="l-class=3&amp;link-id=UCo_IB5145EVNcf8hw1Kku7w&amp;a-v=x-Sp62q2FAY&amp;a-type=10&amp;a-id=589a634a-0000-2089-9b8f-94eb2c11b654&amp;xble=0&amp;ei=xWo9XI3zK4aBjATsoZO4DA&amp;a-ch=UCo_IB5145EVNcf8hw1Kku7w">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;The Game Theorists&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCM3p3bOC798CFYYAgwod7NAExyj4HTICaXZIhqjY1ba9qvLHAQ&quot;,&quot;ei&quot;:&quot;xWo9XI3zK4aBjATsoZO4DA&quot;,&quot;src_vid&quot;:&quot;x-Sp62q2FAY&quot;,&quot;annotation_id&quot;:&quot;589a634a-0000-2089-9b8f-94eb2c11b654&quot;},&quot;channel_id&quot;:&quot;UCo_IB5145EVNcf8hw1Kku7w&quot;,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/o_IB5145EVNcf8hw1Kku7w\/featured_channel.jpg?v=589d1a88&quot;,&quot;image_type&quot;:1,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;11M&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;subscribeCount&quot;:&quot;11M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FMatthewPatrick13%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbUljSlRVUDZURDNFQ1JjQnNZY0JZQzRhWERaUXxBQ3Jtc0tuNUVPQ2lLOUQ2UjZTZ2pFN3BES2RqVlNsX1lCblRpalFKdE1vTVZnZDR6dnk3WElPODBJTlVHZUM1VnFrMkxkeFRJbnJLdGp6dWYwTUpzemtZVXVWV1pOOGY2UDNvMzR6bHY2SDhxZGRCcHE2Z1FRTnptUGxIcWg1ZjI1dnFEVUlseGU3ai1haGxnMkhYd29ZcFptdmRNcHVLTzNrWm85NlJmZEhfX0VSVE5LbG02dV9oLWxKbm1VTXF6aUJTcW5LUUoxeXc5bUlCZFpzRXlvdkpTY0hQaUNueVNEZnRjWmVGS0V0YmZQYVpDS3VSczFn%26app%3Ddesktop\u0026passive=true\u0026hl=en&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false},&quot;end_ms&quot;:705000,&quot;start_ms&quot;:0,&quot;num_subscribers&quot;:&quot;11375813&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/MatthewPatrick13"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI-prF-IPv3wIVCOIDCh0ghwycKPgdMgJpdkjMoafZzYusyUU">
+<annotation id="annotation_1163115003" type="highlight" log_data="a-v=RZKwXNsp0Mw&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP38ld3J2PPA%26list%3DPLFr3c472Vstyzq3WECllYHH7qxOHYSdZG%26index%3D3&amp;ei=Ymw9XPrhG4jED6COsuAJ&amp;xble=1&amp;a-id=annotation_1163115003&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwj6msX4g-_fAhUI4gMKHSCHDJwo-B0yAml2SMyhp9nNi6zJRQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="57.21100" y="61.97200" w="32.29000" h="32.56300" t="3:58.543"/>
+      <rectRegion x="57.21100" y="61.97200" w="32.29000" h="32.56300" t="4:15.628"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1163115003&amp;ei=Ymw9XPrhG4jED6COsuAJ&amp;feature=iv&amp;index=3&amp;list=PLFr3c472Vstyzq3WECllYHH7qxOHYSdZG&amp;src_vid=RZKwXNsp0Mw&amp;v=P38ld3J2PPA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1564682057" type="highlight" log_data="a-v=RZKwXNsp0Mw&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZzd6nWkpS10%26list%3DPLFr3c472Vsty6Sqv8UwzgXx7tOpPhjpfH%26index%3D1&amp;ei=Ymw9XPrhG4jED6COsuAJ&amp;xble=1&amp;a-id=annotation_1564682057&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwj6msX4g-_fAhUI4gMKHSCHDJwo-B0yAml2SMyhp9nNi6zJRQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.73500" y="12.67600" w="32.76500" h="32.00000" t="3:58.543"/>
+      <rectRegion x="56.73500" y="12.67600" w="32.76500" h="32.00000" t="4:15.628"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1564682057&amp;ei=Ymw9XPrhG4jED6COsuAJ&amp;feature=iv&amp;index=1&amp;list=PLFr3c472Vsty6Sqv8UwzgXx7tOpPhjpfH&amp;src_vid=RZKwXNsp0Mw&amp;v=Zzd6nWkpS10" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2325298737" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1163115003">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1163115003" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3555384969" type="highlight" log_data="a-v=RZKwXNsp0Mw&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FThioJoe%3Fsub_confirmation%3D1&amp;ei=Ymw9XPrhG4jED6COsuAJ&amp;xble=1&amp;a-id=annotation_3555384969&amp;l-class=5" itct="CAMQs-UBGP___________wEiEwj6msX4g-_fAhUI4gMKHSCHDJwo-B0yAml2SMyhp9nNi6zJRQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="17.75000" y="54.36600" w="23.41500" h="12.56300" t="3:58.543"/>
+      <rectRegion x="17.75000" y="54.36600" w="23.41500" h="12.56300" t="4:15.628"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/ThioJoe?annotation_id=annotation_3555384969&amp;ei=Ymw9XPrhG4jED6COsuAJ&amp;feature=iv&amp;src_vid=RZKwXNsp0Mw&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3638775679" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3555384969">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3555384969" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_948291549" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1564682057">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1564682057" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:8b8a0d11-2a02-4140-a2f8-b2ba4c77d537" style="branding" type="branding"
+            log_data="a-v=RZKwXNsp0Mw&amp;a-type=10&amp;a-ch=UCQSpnDG3YsFNf5-qHocF-WQ&amp;link-id=UCQSpnDG3YsFNf5-qHocF-WQ&amp;ei=Ymw9XPrhG4jED6COsuAJ&amp;xble=0&amp;a-id=8b8a0d11-2a02-4140-a2f8-b2ba4c77d537&amp;l-class=3">
+  <data>{&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:1,&quot;image_width&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/QSpnDG3YsFNf5-qHocF-WQ\/featured_channel.jpg?v=5bbfd2e6&quot;,&quot;channel_id&quot;:&quot;UCQSpnDG3YsFNf5-qHocF-WQ&quot;,&quot;num_subscribers&quot;:&quot;2160636&quot;,&quot;image_height&quot;:40,&quot;start_ms&quot;:0,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;8b8a0d11-2a02-4140-a2f8-b2ba4c77d537&quot;,&quot;ei&quot;:&quot;Ymw9XPrhG4jED6COsuAJ&quot;,&quot;src_vid&quot;:&quot;RZKwXNsp0Mw&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCPqaxfiD798CFQjiAwodIIcMnCj4HTICaXZIzKGn2c2LrMlF&quot;},&quot;channel_name&quot;:&quot;ThioJoe&quot;,&quot;end_ms&quot;:256000,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;unsubscribeCount&quot;:&quot;2.1M&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026hl=en\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26continue_action%3DQUFFLUhqbnFNVnMwVWotTzluenlsTTFxNmJvREF6aEYwUXxBQ3Jtc0tsdE9QLUhvcUdOdW16d1BQM20wMExXYzdCUEw0S09wMi1tbG14ZWo1R2ZzdEpCdE1uSmhVc1dxM2pHbjNQTmdHWktNY1FMeXZ1WWUxVGNYcEtwSnA4Q2hNeFU4UWVSamljSnVHVWU1enBUSTZtbEdpRGlfeEtmQkhSVlpIMk1KeGxYZGVHOUtxVWZkeTFNRTFSbjlnUnAtVHE4a2dXSUtrLXNCZ0dWbWoyLUVoSHRCRGtOclBfVkpUTVBnaTJ0dS0wNGpTcTBHaUNGMTdndGpJTFdHTklOTzBCc25TUVlCOHplMktYSFVpY0ZYVVh2ODRZ%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FThioJoe%26hl%3Den%26app%3Ddesktop&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeCount&quot;:&quot;2.1M&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/ThioJoe"/>
+  </action>
+</annotation>
+<annotation id="video:b40ee708-de22-4fe3-a269-64427f5fdfdd" style="poll" type="card" log_data="a-ch=UCQSpnDG3YsFNf5-qHocF-WQ&amp;a-id=b40ee708-de22-4fe3-a269-64427f5fdfdd&amp;a-type=67&amp;a-v=RZKwXNsp0Mw&amp;ei=Ymw9XPrhG4jED6COsuAJ&amp;l-class=18&amp;xble=0">
+  <data>{&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;&quot;,&quot;timestamp&quot;:1466184913750,&quot;pause_on_navigation&quot;:true,&quot;end_ms&quot;:86591,&quot;choices&quot;:[{&quot;desc&quot;:&quot;Yes, do more&quot;,&quot;index&quot;:0,&quot;count&quot;:1777},{&quot;desc&quot;:&quot;It&#39;s fine&quot;,&quot;index&quot;:1,&quot;count&quot;:283},{&quot;desc&quot;:&quot;No I don&#39;t like it&quot;,&quot;index&quot;:2,&quot;count&quot;:74}],&quot;signin_url&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026hl=en\u0026passive=true\u0026continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3D__FEATURE__%26next%3Dhttp%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253DRZKwXNsp0Mw%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop&quot;,&quot;title&quot;:&quot;Poll: Do you like this series&quot;,&quot;teaser_text&quot;:&quot;Poll: Do you like this series&quot;,&quot;start_ms&quot;:86591,&quot;card_type&quot;:&quot;poll&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/www.youtube.com\/&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;b40ee708-de22-4fe3-a269-64427f5fdfdd&quot;,&quot;ei&quot;:&quot;Ymw9XPrhG4jED6COsuAJ&quot;,&quot;src_vid&quot;:&quot;RZKwXNsp0Mw&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCPqaxfiD798CFQjiAwodIIcMnCj4HTIFY2FyZHNIzKGn2c2LrMlF&quot;},&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwj6msX4g-_fAhUI4gMKHSCHDJwo-B0yBWNhcmRzSMyhp9nNi6zJRQ&quot;,&quot;card&quot;:&quot;CAkQ1TYY____________ASITCPqaxfiD798CFQjiAwodIIcMnCj4HTIFY2FyZHNIzKGn2c2LrMlF&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCPqaxfiD798CFQjiAwodIIcMnCj4HTIFY2FyZHNIzKGn2c2LrMlF&quot;},&quot;meta_info&quot;:[&quot;&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value=""/>
+  </action>
+</annotation>
+
+<annotation id="video:644d722a-09b7-452c-a73c-6b201556f281" style="video" type="card" log_data="a-ch=UCQSpnDG3YsFNf5-qHocF-WQ&amp;a-id=644d722a-09b7-452c-a73c-6b201556f281&amp;a-type=62&amp;a-v=RZKwXNsp0Mw&amp;ei=Ymw9XPrhG4jED6COsuAJ&amp;l-class=1&amp;link-id=Zzd6nWkpS10&amp;xble=0">
+  <data>{&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;&quot;,&quot;timestamp&quot;:1466184839191,&quot;pause_on_navigation&quot;:true,&quot;end_ms&quot;:151152,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwj6msX4g-_fAhUI4gMKHSCHDJwo-B0yBWNhcmRzSMyhp9nNi6zJRQ&quot;,&quot;card&quot;:&quot;CA0Q1TYY____________ASITCPqaxfiD798CFQjiAwodIIcMnCj4HTIFY2FyZHNIzKGn2c2LrMlF&quot;,&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCPqaxfiD798CFQjiAwodIIcMnCj4HTIFY2FyZHNIzKGn2c2LrMlF&quot;},&quot;title&quot;:&quot;HOW TO GET FAMOUS - Your Dumb Comments&quot;,&quot;is_live_now&quot;:false,&quot;teaser_text&quot;:&quot;Suggested: HOW TO GET FAMOUS - Your Dumb Comments&quot;,&quot;start_ms&quot;:151152,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/Zzd6nWkpS10\/mqdefault.jpg&quot;,&quot;target&quot;:&quot;new&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;644d722a-09b7-452c-a73c-6b201556f281&quot;,&quot;ei&quot;:&quot;Ymw9XPrhG4jED6COsuAJ&quot;,&quot;src_vid&quot;:&quot;RZKwXNsp0Mw&quot;,&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCPqaxfiD798CFQjiAwodIIcMnCj4HTIFY2FyZHNIzKGn2c2LrMlF&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Zzd6nWkpS10&quot;,&quot;meta_info&quot;:[&quot;by ThioJoe&quot;,&quot;45,248 views&quot;],&quot;video_duration&quot;:&quot;5:03&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=Zzd6nWkpS10"/>
+  </action>
+</annotation>
+
+<annotation id="video:1542be68-a2a8-4171-8028-b4762148b488" style="video" type="card" log_data="a-ch=UCQSpnDG3YsFNf5-qHocF-WQ&amp;a-id=1542be68-a2a8-4171-8028-b4762148b488&amp;a-type=62&amp;a-v=RZKwXNsp0Mw&amp;ei=Ymw9XPrhG4jED6COsuAJ&amp;l-class=1&amp;link-id=P38ld3J2PPA&amp;xble=0">
+  <data>{&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;&quot;,&quot;timestamp&quot;:1466184850244,&quot;pause_on_navigation&quot;:true,&quot;end_ms&quot;:240115,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBMQsJcBGP___________wEiEwj6msX4g-_fAhUI4gMKHSCHDJwo-B0yBWNhcmRzSMyhp9nNi6zJRQ&quot;,&quot;card&quot;:&quot;CBEQ1TYY____________ASITCPqaxfiD798CFQjiAwodIIcMnCj4HTIFY2FyZHNIzKGn2c2LrMlF&quot;,&quot;teaser&quot;:&quot;CBIQ0DYY____________ASITCPqaxfiD798CFQjiAwodIIcMnCj4HTIFY2FyZHNIzKGn2c2LrMlF&quot;},&quot;title&quot;:&quot;What to Do If You Get Hacked&quot;,&quot;is_live_now&quot;:false,&quot;teaser_text&quot;:&quot;Suggested: What to Do If You Get Hacked&quot;,&quot;start_ms&quot;:240115,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/P38ld3J2PPA\/mqdefault.jpg&quot;,&quot;target&quot;:&quot;new&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;1542be68-a2a8-4171-8028-b4762148b488&quot;,&quot;ei&quot;:&quot;Ymw9XPrhG4jED6COsuAJ&quot;,&quot;src_vid&quot;:&quot;RZKwXNsp0Mw&quot;,&quot;itct&quot;:&quot;CBEQ1TYY____________ASITCPqaxfiD798CFQjiAwodIIcMnCj4HTIFY2FyZHNIzKGn2c2LrMlF&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=P38ld3J2PPA&quot;,&quot;meta_info&quot;:[&quot;by ThioJoe&quot;,&quot;243,457 views&quot;],&quot;video_duration&quot;:&quot;4:57&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=P38ld3J2PPA"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwj6msX4g+/fAhUI4gMKHSCHDJwo+B0yBWNhcmRzSMyhp9nNi6zJRQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwj6msX4g+/fAhUI4gMKHSCHDJwo+B0yBWNhcmRzSMyhp9nNi6zJRQ==&quot;, 
+  &quot;headerText&quot;: &quot;From ThioJoe&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCPqaxfiD798CFQjiAwodIIcMnCj4HTIFY2FyZHNIzKGn2c2LrMlF&quot;, 
+  &quot;eventId&quot;: &quot;Ymw9XPrhG4jED6COsuAJ&quot;
+}</data>
+</annotation>
+</annotations></document>

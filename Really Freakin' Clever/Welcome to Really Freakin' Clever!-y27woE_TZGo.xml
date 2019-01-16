@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIneqEm4bv3wIVhjKDCh3J0gEBKPgdMgJpdkjqyM3-hJS8t8sB">
+<annotation id="annotation_778651" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DReallyFreakinClever&amp;a-v=y27woE_TZGo&amp;l-class=5&amp;a-type=3&amp;xble=1&amp;ei=w249XN38KIbljATJpYcI&amp;a-id=annotation_778651" itct="CAEQs-UBGP___________wEiEwid6oSbhu_fAhWGMoMKHcnSAQEo-B0yAml2SOrIzf6ElLy3ywE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.62500" y="12.77800" w="80.46900" h="22.22200" t="0:00:25.5"/>
+      <rectRegion x="10.62500" y="12.77800" w="80.46900" h="22.22200" t="0:00:33.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=ReallyFreakinClever&amp;annotation_id=annotation_778651&amp;ei=w249XN38KIbljATJpYcI&amp;feature=iv&amp;src_vid=y27woE_TZGo" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_884716" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_778651">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_778651" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

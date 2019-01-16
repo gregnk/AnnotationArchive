@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_Pv96P_u3wIVHYDCAR1g8AyWKPgdMgJpdkjj46H6_sWvwTk">
+<annotation id="annotation_211412" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DINUA8kSxToc&amp;xble=1&amp;ei=EGg9XPyzBZ2Air4P4OCzsAk&amp;l-class=1&amp;a-v=OYK-L-9IceM&amp;a-type=1&amp;a-id=annotation_211412" itct="CAEQs-UBGP___________wEiEwj8-_3o_-7fAhUdgMIBHWDwDJYo-B0yAml2SOPjofr-xa_BOQ">
+  <TEXT>NEXT&gt;&gt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="72.18800" y="0.55600" w="27.65600" h="25.55600" t="0:00:22.8"/>
+      <rectRegion x="72.18800" y="0.55600" w="27.65600" h="25.55600" t="0:00:36.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="8.42496666666667" effects="textdropshadow">
+    <padding top="5.05497980118" left="2.84342622757" bottom="5.05497980118" right="3.79123497009"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_211412&amp;ei=EGg9XPyzBZ2Air4P4OCzsAk&amp;feature=iv&amp;src_vid=OYK-L-9IceM&amp;v=INUA8kSxToc" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_348239" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FNISLT%2Fvideos&amp;xble=1&amp;ei=EGg9XPyzBZ2Air4P4OCzsAk&amp;l-class=3&amp;a-v=OYK-L-9IceM&amp;a-type=3&amp;a-id=annotation_348239" itct="CAIQs-UBGP___________wEiEwj8-_3o_-7fAhUdgMIBHWDwDJYo-B0yAml2SOPjofr-xa_BOQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="26.09400" y="75.83300" w="43.75000" h="20.55600" t="0:00:22.7"/>
+      <rectRegion x="26.09400" y="75.83300" w="43.75000" h="20.55600" t="0:00:36.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/NISLT/videos?annotation_id=annotation_348239&amp;ei=EGg9XPyzBZ2Air4P4OCzsAk&amp;feature=iv&amp;src_vid=OYK-L-9IceM" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_507901" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_348239">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.72200" w="31.87500" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="19.72200" w="31.87500" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_348239" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_630145" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>TF2: How works tf2lobby communication </TEXT>
+  <segment spaceRelative="annotation_881880">
+    <movingRegion type="rect">
+      <rectRegion x="-0.62500" y="23.88900" w="23.43800" h="15.00000" t="never"/>
+      <rectRegion x="-0.62500" y="23.88900" w="23.43800" h="15.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_881880" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_881880" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTf07Nh9E2_0&amp;xble=1&amp;ei=EGg9XPyzBZ2Air4P4OCzsAk&amp;l-class=1&amp;a-v=OYK-L-9IceM&amp;a-type=3&amp;a-id=annotation_881880" itct="CAMQs-UBGP___________wEiEwj8-_3o_-7fAhUdgMIBHWDwDJYo-B0yAml2SOPjofr-xa_BOQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.37500" y="16.38900" w="22.96900" h="22.77800" t="0:00:22.7"/>
+      <rectRegion x="4.37500" y="16.38900" w="22.96900" h="22.77800" t="0:00:36.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6267091" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_881880&amp;ei=EGg9XPyzBZ2Air4P4OCzsAk&amp;feature=iv&amp;src_vid=OYK-L-9IceM&amp;v=Tf07Nh9E2_0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_973273" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdSgUwDPmZ6U&amp;xble=1&amp;ei=EGg9XPyzBZ2Air4P4OCzsAk&amp;l-class=1&amp;a-v=OYK-L-9IceM&amp;a-type=1&amp;a-id=annotation_973273" itct="CAQQs-UBGP___________wEiEwj8-_3o_-7fAhUdgMIBHWDwDJYo-B0yAml2SOPjofr-xa_BOQ">
+  <TEXT>iksD | TF2 Frag Clip of the Day #59 Pew (spy clip)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="16.56300" y="62.50000" w="63.75000" h="12.50000" t="0:00:22.7"/>
+      <rectRegion x="16.56300" y="62.50000" w="63.75000" h="12.50000" t="0:00:36.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16636470" fgColor="0" textSize="4.81426666666667" effects="bevel dropshadow textdropshadow">
+    <padding top="2.88856005669" left="1.62481498718" bottom="2.88856005669" right="2.16641998291"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_973273&amp;ei=EGg9XPyzBZ2Air4P4OCzsAk&amp;feature=iv&amp;src_vid=OYK-L-9IceM&amp;v=dSgUwDPmZ6U" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

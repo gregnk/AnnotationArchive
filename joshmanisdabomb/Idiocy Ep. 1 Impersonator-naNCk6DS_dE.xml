@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMImdn7x4fv3wIVw1wDCh2KGAaTKPgdMgJpdkjR-8uGutLQ0Z0B">
+<annotation id="annotation_167455" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>SUB PLEEZ THANKU KISS KISS</TEXT>
+  <segment spaceRelative="annotation_937644">
+    <movingRegion type="rect">
+      <rectRegion x="0.15600" y="13.88900" w="24.21900" h="11.13900" t="never"/>
+      <rectRegion x="0.15600" y="13.88900" w="24.21900" h="11.13900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_937644" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2557432203" type="text" style="popup" log_data="a-type=1&amp;xble=1&amp;a-id=annotation_2557432203&amp;a-v=naNCk6DS_dE&amp;ei=LnA9XJmKFMO5DYqxmJgJ" itct="CAEQs-UBGP___________wEiEwiZ2fvHh-_fAhXDXAMKHYoYBpMo-B0yAml2SNH7y4a60tDRnQE">
+  <TEXT>Due to a recent change in YouTube&#39;s Terms of Service:
+Please do not harass this person if you were going to.
+Don&#39;t be a prick.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.62500" y="5.55600" w="57.25100" h="17.61300" t="0:00.000"/>
+      <rectRegion x="5.62500" y="5.55600" w="57.25100" h="17.61300" t="0:18.096"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_313922" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_313922&amp;ei=LnA9XJmKFMO5DYqxmJgJ&amp;a-v=naNCk6DS_dE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fjoshmanisdabomb&amp;xble=1&amp;l-class=3" itct="CAIQs-UBGP___________wEiEwiZ2fvHh-_fAhXDXAMKHYoYBpMo-B0yAml2SNH7y4a60tDRnQE">
+  <TEXT>Josh</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.34400" y="78.61100" w="11.71900" h="15.00000" t="0:05:41.0"/>
+      <rectRegion x="2.34400" y="78.61100" w="11.71900" h="15.00000" t="0:06:03.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/joshmanisdabomb?annotation_id=annotation_313922&amp;ei=LnA9XJmKFMO5DYqxmJgJ&amp;feature=iv&amp;src_vid=naNCk6DS_dE" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_377015" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>I DONT KNOW WHERE THIS GOES.</TEXT>
+  <segment spaceRelative="annotation_727106">
+    <movingRegion type="rect">
+      <rectRegion x="-0.93700" y="25.27800" w="25.29700" h="11.52800" t="never"/>
+      <rectRegion x="-0.93700" y="25.27800" w="25.29700" h="11.52800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_727106" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_402033" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_402033&amp;ei=LnA9XJmKFMO5DYqxmJgJ&amp;a-v=naNCk6DS_dE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fpoopanamie707&amp;xble=1&amp;l-class=3" itct="CAMQs-UBGP___________wEiEwiZ2fvHh-_fAhXDXAMKHYoYBpMo-B0yAml2SNH7y4a60tDRnQE">
+  <TEXT>Poop
+Anime</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.00000" y="78.61100" w="10.78100" h="14.44400" t="0:05:41.0"/>
+      <rectRegion x="15.00000" y="78.61100" w="10.78100" h="14.44400" t="0:06:03.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14573741" fgColor="16777215" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/poopanamie707?annotation_id=annotation_402033&amp;ei=LnA9XJmKFMO5DYqxmJgJ&amp;feature=iv&amp;src_vid=naNCk6DS_dE" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_40829" type="highlight" log_data="a-type=3&amp;a-id=annotation_40829&amp;ei=LnA9XJmKFMO5DYqxmJgJ&amp;a-v=naNCk6DS_dE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEhHTFBlZjoo&amp;xble=1&amp;l-class=1" itct="CAQQs-UBGP___________wEiEwiZ2fvHh-_fAhXDXAMKHYoYBpMo-B0yAml2SNH7y4a60tDRnQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.46900" y="1.66700" w="23.36700" h="12.38900" t="0:05:41.0"/>
+      <rectRegion x="75.46900" y="1.66700" w="23.36700" h="12.38900" t="0:06:03.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_40829&amp;ei=LnA9XJmKFMO5DYqxmJgJ&amp;feature=iv&amp;src_vid=naNCk6DS_dE&amp;v=EhHTFBlZjoo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_727106" type="highlight" log_data="a-type=3&amp;a-id=annotation_727106&amp;ei=LnA9XJmKFMO5DYqxmJgJ&amp;a-v=naNCk6DS_dE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dd-E_eu7UUrA&amp;xble=1&amp;l-class=1" itct="CAUQs-UBGP___________wEiEwiZ2fvHh-_fAhXDXAMKHYoYBpMo-B0yAml2SNH7y4a60tDRnQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.62500" y="15.27800" w="22.64800" h="11.48600" t="0:05:41.0"/>
+      <rectRegion x="75.62500" y="15.27800" w="22.64800" h="11.48600" t="0:06:03.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_727106&amp;ei=LnA9XJmKFMO5DYqxmJgJ&amp;feature=iv&amp;src_vid=naNCk6DS_dE&amp;v=d-E_eu7UUrA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_788876" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>My views on Facebook.</TEXT>
+  <segment spaceRelative="annotation_40829">
+    <movingRegion type="rect">
+      <rectRegion x="-1.25000" y="40.00000" w="25.76600" h="6.52800" t="never"/>
+      <rectRegion x="-1.25000" y="40.00000" w="25.76600" h="6.52800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_40829" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_937644" type="highlight" log_data="a-type=3&amp;a-id=annotation_937644&amp;ei=LnA9XJmKFMO5DYqxmJgJ&amp;a-v=naNCk6DS_dE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Djoshmanisdabomb&amp;xble=1&amp;l-class=5" itct="CAYQs-UBGP___________wEiEwiZ2fvHh-_fAhXDXAMKHYoYBpMo-B0yAml2SNH7y4a60tDRnQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.62500" y="28.05600" w="23.35200" h="12.33300" t="0:05:41.0"/>
+      <rectRegion x="75.62500" y="28.05600" w="23.35200" h="12.33300" t="0:06:03.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=joshmanisdabomb&amp;annotation_id=annotation_937644&amp;ei=LnA9XJmKFMO5DYqxmJgJ&amp;feature=iv&amp;src_vid=naNCk6DS_dE" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:521909e2-0-2cf5-956a-47d7b3a8fdc" style="branding" type="branding"
+            log_data="a-type=10&amp;a-id=521909e2-0-2cf5-956a-47d7b3a8fdc&amp;ei=LnA9XJmKFMO5DYqxmJgJ&amp;link-id=UCoeVgc-OYaaCqUEejYvPwHw&amp;xble=0&amp;a-v=naNCk6DS_dE&amp;l-class=3&amp;a-ch=UCoeVgc-OYaaCqUEejYvPwHw">
+  <data>{&quot;channel_id&quot;:&quot;UCoeVgc-OYaaCqUEejYvPwHw&quot;,&quot;image_type&quot;:1,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;naNCk6DS_dE&quot;,&quot;ei&quot;:&quot;LnA9XJmKFMO5DYqxmJgJ&quot;,&quot;annotation_id&quot;:&quot;521909e2-0-2cf5-956a-47d7b3a8fdc&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCJnZ-8eH798CFcNcAwodihgGkyj4HTICaXZI0fvLhrrS0NGdAQ&quot;},&quot;start_ms&quot;:0,&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;2.5K&quot;,&quot;subscribed&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbFBfT3U5Ykh2dWNyVnFoNU50V3ZCTXFEeTNzUXxBQ3Jtc0tuX0stNHZDVGc1RFgyY0t4dUlGakxLNWZ2aTJfeGxac19FTkxQZmYxUngxUmtHM0dzYzk3Q09PSUUtSXAxTTNfZ0NadE9mX0tWb1M4Q0U2OWViQkpGWlctWVowT25mQVE0Vk1VYXNIWHFHYTBKSzNyT2RjMHpDZzNkUm13SGp6ZVItaDg3WVg4OEhxa2V1QTEwcVR0S3lTRlBORFE0RGVCUE5sVnhmOWFieE1vR2dvTkNTY0dobTNQbjhKSG5YemxqX1pTVmlLYmlDZXd3cnBGNmVmcXRTYW5saW13bnBmaHptRndsa0VHS3ZOWTJwd29z%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fjoshmanisdabomb\u0026hl=en\u0026uilel=3\u0026service=youtube&quot;,&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;2.5K&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/oeVgc-OYaaCqUEejYvPwHw\/featured_channel.jpg?v=52290abb&quot;,&quot;image_height&quot;:40,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;joshmanisdabomb&quot;,&quot;end_ms&quot;:363000,&quot;num_subscribers&quot;:&quot;2540&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/joshmanisdabomb"/>
+  </action>
+</annotation></annotations></document>

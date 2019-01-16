@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI1rXXr_zu3wIVb4PCAR3eRwW8KPgdMgJpdkjfv8r6uNbqhG8">
+<annotation id="annotation_1155887815" type="highlight" log_data="l-class=1&amp;a-v=bwmqs49Sn98&amp;ei=cmQ9XNa0Je-Gir4P3o-V4As&amp;a-type=3&amp;a-id=annotation_1155887815&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVFWKEYAfMt8&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjWtdev_O7fAhVvg8IBHd5HBbwo-B0yAml2SN-_yvq41uqEbw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.91300" y="30.14100" w="39.73900" h="40.73200" t="6:00.651"/>
+      <rectRegion x="4.91300" y="30.14100" w="39.73900" h="40.73200" t="6:26.171"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1155887815&amp;ei=cmQ9XNa0Je-Gir4P3o-V4As&amp;feature=iv&amp;src_vid=bwmqs49Sn98&amp;v=VFWKEYAfMt8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1607186163" type="highlight" log_data="l-class=8&amp;a-v=bwmqs49Sn98&amp;ei=cmQ9XNa0Je-Gir4P3o-V4As&amp;a-type=3&amp;a-id=annotation_1607186163&amp;link=https%3A%2F%2Fwww.patreon.com%2Fnakeyjakey&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjWtdev_O7fAhVvg8IBHd5HBbwo-B0yAml2SN-_yvq41uqEbw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.81800" y="74.93000" w="19.45300" h="8.33800" t="6:06.862"/>
+      <rectRegion x="64.81800" y="74.93000" w="19.45300" h="8.33800" t="6:26.171"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.patreon.com/nakeyjakey" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1828010331" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3618048791">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3618048791" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2319529511" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1607186163">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1607186163" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3380987715" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1155887815">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1155887815" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3618048791" type="highlight" log_data="l-class=7&amp;a-v=bwmqs49Sn98&amp;ei=cmQ9XNa0Je-Gir4P3o-V4As&amp;a-type=3&amp;a-id=annotation_3618048791&amp;link=https%3A%2F%2Fteespring.com%2Fnakeyjakeyhotboy%23pid%3D2%26cid%3D573%26sid%3Dfront&amp;xble=1" itct="CAMQs-UBGP___________wEiEwjWtdev_O7fAhVvg8IBHd5HBbwo-B0yAml2SN-_yvq41uqEbw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="51.82300" y="84.22500" w="44.81000" h="8.05600" t="6:12.236"/>
+      <rectRegion x="51.82300" y="84.22500" w="44.81000" h="8.05600" t="6:26.171"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://teespring.com/nakeyjakeyhotboy#pid=2&amp;cid=573&amp;sid=front" link_class="7"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3787098435" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3902562067">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3902562067" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3902562067" type="highlight" log_data="l-class=1&amp;a-v=bwmqs49Sn98&amp;ei=cmQ9XNa0Je-Gir4P3o-V4As&amp;a-type=3&amp;a-id=annotation_3902562067&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyXrHAYXDeW4&amp;xble=1" itct="CAQQs-UBGP___________wEiEwjWtdev_O7fAhVvg8IBHd5HBbwo-B0yAml2SN-_yvq41uqEbw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="54.83400" y="30.98600" w="40.05500" h="39.32400" t="6:00.651"/>
+      <rectRegion x="54.83400" y="30.98600" w="40.05500" h="39.32400" t="6:26.171"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3902562067&amp;ei=cmQ9XNa0Je-Gir4P3o-V4As&amp;feature=iv&amp;src_vid=bwmqs49Sn98&amp;v=yXrHAYXDeW4" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

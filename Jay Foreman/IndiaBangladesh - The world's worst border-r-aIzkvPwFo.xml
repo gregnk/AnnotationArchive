@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI6vOQ0_vu3wIVN4DCAR2D6wraKPgdMgJpdkjagL_e5Jmi868B">
+<annotation id="annotation_2354180255" type="highlight" log_data="a-v=r-aIzkvPwFo&amp;l-class=1&amp;a-id=annotation_2354180255&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DENeCYwms-Cc&amp;a-type=3&amp;ei=sGM9XOrbH7eAir4Pg9er0A0" itct="CAEQs-UBGP___________wEiEwjq85DT--7fAhU3gMIBHYPrCtoo-B0yAml2SNqAv97kmaLzrwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="66.68000" y="45.06900" w="26.03100" h="25.94400" t="2:56.261"/>
+      <rectRegion x="66.68000" y="45.06900" w="26.03100" h="25.94400" t="3:05.566"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2354180255&amp;ei=sGM9XOrbH7eAir4Pg9er0A0&amp;feature=iv&amp;src_vid=r-aIzkvPwFo&amp;v=ENeCYwms-Cc" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_297670825" type="highlight" log_data="a-v=r-aIzkvPwFo&amp;l-class=1&amp;a-id=annotation_297670825&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXxYecjWUkJw&amp;a-type=3&amp;ei=sGM9XOrbH7eAir4Pg9er0A0" itct="CAIQs-UBGP___________wEiEwjq85DT--7fAhU3gMIBHYPrCtoo-B0yAml2SNqAv97kmaLzrwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.94500" y="44.75000" w="25.68700" h="26.55600" t="2:56.261"/>
+      <rectRegion x="35.94500" y="44.75000" w="25.68700" h="26.55600" t="3:05.566"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_297670825&amp;ei=sGM9XOrbH7eAir4Pg9er0A0&amp;feature=iv&amp;src_vid=r-aIzkvPwFo&amp;v=XxYecjWUkJw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3277574175" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>The worst world map?</TEXT>
+  <segment spaceRelative="annotation_297670825">
+    <movingRegion type="rect">
+      <rectRegion x="0.68000" y="18.87500" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.68000" y="18.87500" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_297670825" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_328392449" type="highlight" log_data="a-v=r-aIzkvPwFo&amp;l-class=1&amp;a-id=annotation_328392449&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJ5iJSXaVvao&amp;a-type=3&amp;ei=sGM9XOrbH7eAir4Pg9er0A0" itct="CAMQs-UBGP___________wEiEwjq85DT--7fAhU3gMIBHYPrCtoo-B0yAml2SNqAv97kmaLzrwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.89100" y="43.56900" w="25.68700" h="27.77800" t="2:56.261"/>
+      <rectRegion x="5.89100" y="43.56900" w="25.68700" h="27.77800" t="3:05.566"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_328392449&amp;ei=sGM9XOrbH7eAir4Pg9er0A0&amp;feature=iv&amp;src_vid=r-aIzkvPwFo&amp;v=J5iJSXaVvao" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4259802633" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Where is the north south divide?</TEXT>
+  <segment spaceRelative="annotation_2354180255">
+    <movingRegion type="rect">
+      <rectRegion x="1.10200" y="1.45800" w="23.43700" h="10.27800" t="never"/>
+      <rectRegion x="1.10200" y="1.45800" w="23.43700" h="10.27800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2354180255" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_604273049" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>The land nobody wants</TEXT>
+  <segment spaceRelative="annotation_328392449">
+    <movingRegion type="rect">
+      <rectRegion x="0.04700" y="18.93100" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.04700" y="18.93100" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_328392449" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

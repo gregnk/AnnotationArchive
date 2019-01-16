@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI-_nKsPzu3wIVx08DCh0fNAhIKPgdMgJpdkjwl8Togt2KxzU">
+<annotation id="annotation_2173883269" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_2173883269&amp;xble=1&amp;ei=dGQ9XPvvHsefDZ_ooMAE&amp;a-v=NY4q6C0RC_A" itct="CAEQs-UBGP___________wEiEwj7-cqw_O7fAhXHTwMKHR80CEgo-B0yAml2SPCXxOiC3YrHNQ">
+  <TEXT>I meant this month (July style)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="9.80700" y="73.61500" w="30.00000" h="8.88900" t="7:38.899"/>
+      <rectRegion x="9.80700" y="73.61500" w="30.00000" h="8.88900" t="7:41.129"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="4.814266666666667" effects="textdropshadow">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_2466942481" type="highlight" log_data="l-class=1&amp;a-id=annotation_2466942481&amp;xble=1&amp;ei=dGQ9XPvvHsefDZ_ooMAE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DK2Vs6WlHPBs&amp;a-type=3&amp;a-v=NY4q6C0RC_A" itct="CAIQs-UBGP___________wEiEwj7-cqw_O7fAhXHTwMKHR80CEgo-B0yAml2SPCXxOiC3YrHNQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="24.81400" y="20.31700" w="50.11100" h="50.19800" t="8:00.836"/>
+      <rectRegion x="24.81400" y="20.31700" w="50.11100" h="50.19800" t="8:18.532"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2466942481&amp;ei=dGQ9XPvvHsefDZ_ooMAE&amp;feature=iv&amp;src_vid=NY4q6C0RC_A&amp;v=K2Vs6WlHPBs" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3894368021" type="highlight" log_data="l-class=8&amp;a-id=annotation_3894368021&amp;xble=1&amp;ei=dGQ9XPvvHsefDZ_ooMAE&amp;link=https%3A%2F%2Fwww.patreon.com%2Fnakeyjakey&amp;a-type=3&amp;a-v=NY4q6C0RC_A" itct="CAMQs-UBGP___________wEiEwj7-cqw_O7fAhXHTwMKHR80CEgo-B0yAml2SPCXxOiC3YrHNQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="60.32700" y="75.19800" w="37.33300" h="21.97300" t="8:00.836"/>
+      <rectRegion x="60.32700" y="75.19800" w="37.33300" h="21.97300" t="8:18.531"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.patreon.com/nakeyjakey" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4278048123" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3894368021">
+    <movingRegion type="rect">
+      <rectRegion x="0.59400" y="21.37200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.59400" y="21.37200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3894368021" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_818190899" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2466942481">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2466942481" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

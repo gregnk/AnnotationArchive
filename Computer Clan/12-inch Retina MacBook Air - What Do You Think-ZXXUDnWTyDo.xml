@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzI_n2Ynv3wIV6IXCAR3n3QekKPgdMgJpdki6kM-s54H1umU">
+<annotation id="annotation_1212462939" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2085948541">
+    <movingRegion type="rect">
+      <rectRegion x="2.06000" y="-9.29600" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="2.06000" y="-9.29600" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2085948541" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1224628859" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2557086193">
+    <movingRegion type="rect">
+      <rectRegion x="3.48700" y="-10.42300" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="3.48700" y="-10.42300" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2557086193" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2085948541" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUBPfcbAiYCA&amp;a-v=ZXXUDnWTyDo&amp;xble=1&amp;l-class=1&amp;ei=bHI9XMypJeiLir4P57ufoAo&amp;a-id=annotation_2085948541&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjMj-fZie_fAhXohcIBHefdB6Qo-B0yAml2SLqQz6zngfW6ZQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="54.83400" y="33.23900" w="32.28600" h="33.40900" t="4:56.956"/>
+      <rectRegion x="54.83400" y="33.23900" w="32.28600" h="33.40900" t="5:13.399"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2085948541&amp;ei=bHI9XMypJeiLir4P57ufoAo&amp;feature=iv&amp;src_vid=ZXXUDnWTyDo&amp;v=UBPfcbAiYCA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2557086193" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq9MMLe3u0ZU&amp;a-v=ZXXUDnWTyDo&amp;xble=1&amp;l-class=1&amp;ei=bHI9XMypJeiLir4P57ufoAo&amp;a-id=annotation_2557086193&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjMj-fZie_fAhXohcIBHefdB6Qo-B0yAml2SLqQz6zngfW6ZQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.83700" y="33.80300" w="32.76400" h="32.54900" t="4:56.956"/>
+      <rectRegion x="12.83700" y="33.80300" w="32.76400" h="32.54900" t="5:13.399"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2557086193&amp;ei=bHI9XMypJeiLir4P57ufoAo&amp;feature=iv&amp;src_vid=ZXXUDnWTyDo&amp;v=q9MMLe3u0ZU" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:58da204e-0000-2747-9702-001a11483e08" style="branding" type="branding"
+            log_data="a-v=ZXXUDnWTyDo&amp;xble=0&amp;l-class=3&amp;a-ch=UCQ6fPy9wr7qnMxAbFOGBaLw&amp;ei=bHI9XMypJeiLir4P57ufoAo&amp;a-id=58da204e-0000-2747-9702-001a11483e08&amp;a-type=10&amp;link-id=UCQ6fPy9wr7qnMxAbFOGBaLw">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/Q6fPy9wr7qnMxAbFOGBaLw\/featured_channel.jpg?v=58e277f3&quot;,&quot;num_subscribers&quot;:&quot;99395&quot;,&quot;end_ms&quot;:314000,&quot;channel_name&quot;:&quot;Computer Clan&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;unsubscribeCount&quot;:&quot;99K&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026passive=true\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FHildron101010%26app%3Ddesktop%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqa1BFcWt0UG9IeXZzSEFMRlFEV09iWkRfcG5VZ3xBQ3Jtc0ttbnVSellkdU4yZDZzSHM3bkdWYmc4aGE1TjFUdGtQeEtaYzZ2ekZickxNUUowLTRfUFd5Yk90dllJMHdKbno1bzZPQ3N1MDdtVERFQnFlai1FdW5La3ZFU2s4WGlmZ0ZzWmdQWFI2MmtEZjNZMkJHVnhYcnlNVE14SElvdE1UcEF5TmNwS0ljVF8wdGw3VmloUTd6Q0xqNmNZYkR5d2E4M01nQWUxamc4cnc0WmFoSUp3bUZOYllQVDNla29VbjlrQnRnMmFKWW1SYVZqZ01vSnJoTE51N0lhRWk0bjFKX1YwdnB4ekFTa1lHbWN1QmZR%26hl%3Den&quot;,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;99K&quot;},&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;58da204e-0000-2747-9702-001a11483e08&quot;,&quot;ei&quot;:&quot;bHI9XMypJeiLir4P57ufoAo&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCMyP59mJ798CFeiFwgEd590HpCj4HTICaXZIupDPrOeB9bpl&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;ZXXUDnWTyDo&quot;},&quot;image_height&quot;:40,&quot;image_type&quot;:1,&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;channel_id&quot;:&quot;UCQ6fPy9wr7qnMxAbFOGBaLw&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Hildron101010"/>
+  </action>
+</annotation></annotations></document>

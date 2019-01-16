@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIhaDa3N7v3wIVxkuDCh3rJAZTKPgdMgJpdkjdv83Mhr6xkXI">
+<annotation id="annotation_185716305" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4130816437">
+    <movingRegion type="rect">
+      <rectRegion x="2.53600" y="89.29600" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="2.53600" y="89.29600" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4130816437" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3353887763" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_720997699">
+    <movingRegion type="rect">
+      <rectRegion x="0.63400" y="74.08500" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.63400" y="74.08500" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_720997699" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4130816437" type="highlight" log_data="a-type=3&amp;a-v=ciLF8GmTX90&amp;l-class=6&amp;xble=1&amp;ei=k8s9XMWKK8aXjQTryZiYBQ&amp;link=http%3A%2F%2Fwww.cgpgrey.com%2Fhellointernet&amp;a-id=annotation_4130816437" itct="CAEQs-UBGP___________wEiEwiFoNrc3u_fAhXGS4MKHeskBlMo-B0yAml2SN2_zcyGvrGRcg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.21900" y="4.50700" w="36.09400" h="62.14100" t="0:24.470"/>
+      <rectRegion x="2.21900" y="4.50700" w="36.09400" h="62.14100" t="0:45.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6710886" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.cgpgrey.com/hellointernet" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_720997699" type="highlight" log_data="a-type=3&amp;a-v=ciLF8GmTX90&amp;l-class=5&amp;xble=1&amp;ei=k8s9XMWKK8aXjQTryZiYBQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCwez9XDNV_wS0WNDZteXjgw%3Fsub_confirmation%3D1&amp;a-id=annotation_720997699" itct="CAIQs-UBGP___________wEiEwiFoNrc3u_fAhXGS4MKHeskBlMo-B0yAml2SN2_zcyGvrGRcg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="61.17300" y="3.94400" w="35.77700" h="63.26800" t="0:27.505"/>
+      <rectRegion x="61.17300" y="3.94400" w="35.77700" h="63.26800" t="0:45.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCwez9XDNV_wS0WNDZteXjgw?annotation_id=annotation_720997699&amp;ei=k8s9XMWKK8aXjQTryZiYBQ&amp;feature=iv&amp;src_vid=ciLF8GmTX90&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:555e76a4-0000-2d28-b62b-001a1149c50e" style="branding" type="branding"
+            log_data="link-id=UC2C_jShtL725hvbm1arSV9w&amp;a-type=10&amp;a-v=ciLF8GmTX90&amp;l-class=3&amp;xble=0&amp;ei=k8s9XMWKK8aXjQTryZiYBQ&amp;a-ch=UC2C_jShtL725hvbm1arSV9w&amp;a-id=555e76a4-0000-2d28-b62b-001a1149c50e">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:40,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;CGP Grey&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCIWg2tze798CFcZLgwod6yQGUyj4HTICaXZI3b_NzIa-sZFy&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;k8s9XMWKK8aXjQTryZiYBQ&quot;,&quot;annotation_id&quot;:&quot;555e76a4-0000-2d28-b62b-001a1149c50e&quot;,&quot;src_vid&quot;:&quot;ciLF8GmTX90&quot;},&quot;channel_id&quot;:&quot;UC2C_jShtL725hvbm1arSV9w&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;3.6M&quot;,&quot;subscribeCount&quot;:&quot;3.6M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=en\u0026uilel=3\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FCGPGrey%26action_handle_signin%3Dtrue%26app%3Ddesktop%26continue_action%3DQUFFLUhqbkNOSU81MHZuem9aVGdKSHoyT1h5amprUUhkUXxBQ3Jtc0tsVHp2YjY4Ni1JN3g5YlhjcFhHNU5BdTluWDlTcU5CUzhMbktNNi10dTFRc2RpUU5OVWtJbGxnYmNaaS1UUnl1NEc5bU90SHRLUHl3UDhYd0tSdVRkLUszV29xN19QMUVfSkI1Ulh5bWdiMER4b0dBMVNsNnRfSkFOOFIzcHJRTzlDd2tqeDBrQWxHQnF5eE54OTNkcW1hMThwZW10SzdBa3hNWmo3bF9EYWFYbGZ5TWpmRFEweHNwWlloY2RyTDl2N3FKQ2F0WWNzVDhPRTRyejl6VUU4MHBMcmxiOGNxSnA3Y2dIU3J2aXkxN3hacHpz&quot;,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;end_ms&quot;:46000,&quot;num_subscribers&quot;:&quot;3679425&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/2C_jShtL725hvbm1arSV9w\/featured_channel.jpg?v=5580965a&quot;,&quot;image_type&quot;:1,&quot;image_height&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/CGPGrey"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI1MCqkODv3wIVLCiDCh3iZwvAKPgdMgJpdkjykpjc9Zmj5Hw">
+<annotation id="annotation_1245354873" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3448900611">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3448900611" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_191758061" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3916316081">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3916316081" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1963884851" type="highlight" log_data="a-v=fMiMz1uGCXI&amp;a-type=3&amp;l-class=6&amp;link=http%3A%2F%2Fwww.lazygamereviews.com%2Fpatreon&amp;xble=1&amp;ei=DM09XNSKGazQjATiz62ADA&amp;a-id=annotation_1963884851" itct="CAEQs-UBGP___________wEiEwjUwKqQ4O_fAhUsKIMKHeJnC8Ao-B0yAml2SPKSmNz1maPkfA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="61.17300" y="55.77500" w="18.66100" h="33.40800" t="17:26.863"/>
+      <rectRegion x="61.17300" y="55.77500" w="18.66100" h="33.40800" t="17:41.267"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.lazygamereviews.com/patreon" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1970049327" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click here to see the episode!</TEXT>
+  <segment spaceRelative="annotation_2735759133">
+    <movingRegion type="rect">
+      <rectRegion x="6.02200" y="30.42300" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="6.02200" y="30.42300" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2735759133" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1998022361" type="highlight" log_data="a-v=fMiMz1uGCXI&amp;a-type=3&amp;l-class=6&amp;link=http%3A%2F%2Fwww.lazygamereviews.com%2Ftwitter&amp;xble=1&amp;ei=DM09XNSKGazQjATiz62ADA&amp;a-id=annotation_1998022361" itct="CAIQs-UBGP___________wEiEwjUwKqQ4O_fAhUsKIMKHeJnC8Ao-B0yAml2SPKSmNz1maPkfA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="20.60200" y="56.05600" w="18.18500" h="33.12700" t="17:26.863"/>
+      <rectRegion x="20.60200" y="56.05600" w="18.18500" h="33.12700" t="17:41.267"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.lazygamereviews.com/twitter" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2541926309" type="highlight" log_data="a-v=fMiMz1uGCXI&amp;a-type=3&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjSDhT8PDEHw&amp;xble=1&amp;ei=DM09XNSKGazQjATiz62ADA&amp;a-id=annotation_2541926309" itct="CAMQs-UBGP___________wEiEwjUwKqQ4O_fAhUsKIMKHeJnC8Ao-B0yAml2SPKSmNz1maPkfA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="8.24100" y="13.23900" w="37.99500" h="37.91500" t="17:26.863"/>
+      <rectRegion x="8.24100" y="13.23900" w="37.99500" h="37.91500" t="17:41.267"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2541926309&amp;ei=DM09XNSKGazQjATiz62ADA&amp;feature=iv&amp;src_vid=fMiMz1uGCXI&amp;v=jSDhT8PDEHw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2735759133" type="highlight" log_data="a-v=fMiMz1uGCXI&amp;a-type=3&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjSDhT8PDEHw&amp;xble=1&amp;ei=DM09XNSKGazQjATiz62ADA&amp;a-id=annotation_2735759133" itct="CAQQs-UBGP___________wEiEwjUwKqQ4O_fAhUsKIMKHeJnC8Ao-B0yAml2SPKSmNz1maPkfA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.27900" y="4.78900" w="37.04400" h="36.78900" t="0:21.614"/>
+      <rectRegion x="4.27900" y="4.78900" w="37.04400" h="36.78900" t="0:27.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2735759133&amp;ei=DM09XNSKGazQjATiz62ADA&amp;feature=iv&amp;src_vid=fMiMz1uGCXI&amp;v=jSDhT8PDEHw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3077894391" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1963884851">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1963884851" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3448900611" type="highlight" log_data="a-v=fMiMz1uGCXI&amp;a-type=3&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fphreakindee%3Fsub_confirmation%3D1&amp;xble=1&amp;ei=DM09XNSKGazQjATiz62ADA&amp;a-id=annotation_3448900611" itct="CAUQs-UBGP___________wEiEwjUwKqQ4O_fAhUsKIMKHeJnC8Ao-B0yAml2SPKSmNz1maPkfA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.47100" y="0.00000" w="41.32300" h="10.87300" t="17:26.863"/>
+      <rectRegion x="13.47100" y="0.00000" w="41.32300" h="10.87300" t="17:41.267"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/phreakindee?annotation_id=annotation_3448900611&amp;ei=DM09XNSKGazQjATiz62ADA&amp;feature=iv&amp;src_vid=fMiMz1uGCXI&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3465494869" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1998022361">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1998022361" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3916316081" type="highlight" log_data="a-v=fMiMz1uGCXI&amp;a-type=3&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3PB1-LohDng&amp;xble=1&amp;ei=DM09XNSKGazQjATiz62ADA&amp;a-id=annotation_3916316081" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.93200" y="13.52100" w="37.99500" h="37.91500" t="17:26.863"/>
+      <rectRegion x="52.93200" y="13.52100" w="37.99500" h="37.91500" t="17:41.267"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3916316081&amp;ei=DM09XNSKGazQjATiz62ADA&amp;feature=iv&amp;src_vid=fMiMz1uGCXI&amp;v=3PB1-LohDng" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4034628821" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2541926309">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2541926309" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_614688353" type="text" style="popup" log_data="a-v=fMiMz1uGCXI&amp;a-type=1&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1qBWSeGnOAs&amp;xble=1&amp;ei=DM09XNSKGazQjATiz62ADA&amp;a-id=annotation_614688353" itct="">
+  <TEXT>Watch this video by Dr. Moddnstine&#39;s about using a Chromecast on a 1978 TV!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.96400" y="19.43700" w="26.66400" h="17.32400" t="16:19.129"/>
+      <rectRegion x="32.96400" y="19.43700" w="26.66400" h="17.32400" t="16:28.527"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_614688353&amp;ei=DM09XNSKGazQjATiz62ADA&amp;feature=iv&amp;src_vid=fMiMz1uGCXI&amp;v=1qBWSeGnOAs" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_884440085" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_893590747">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_893590747" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_893590747" type="highlight" log_data="a-v=fMiMz1uGCXI&amp;a-type=3&amp;l-class=6&amp;link=http%3A%2F%2Fwww.lazygamereviews.com%2Ffacebook&amp;xble=1&amp;ei=DM09XNSKGazQjATiz62ADA&amp;a-id=annotation_893590747" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="40.57100" y="56.05600" w="18.66100" h="33.12700" t="17:26.863"/>
+      <rectRegion x="40.57100" y="56.05600" w="18.66100" h="33.12700" t="17:41.267"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.lazygamereviews.com/facebook" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:587a2126-ff5-2aba-8495-e0cd59b14" style="branding" type="branding"
+            log_data="link-id=UCLx053rWZxCiYWsBETgdKrQ&amp;a-v=fMiMz1uGCXI&amp;a-type=10&amp;l-class=3&amp;a-ch=UCLx053rWZxCiYWsBETgdKrQ&amp;xble=0&amp;ei=DM09XNSKGazQjATiz62ADA&amp;a-id=587a2126-ff5-2aba-8495-e0cd59b14">
+  <data>{&quot;start_ms&quot;:0,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;fMiMz1uGCXI&quot;,&quot;annotation_id&quot;:&quot;587a2126-ff5-2aba-8495-e0cd59b14&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCNTAqpDg798CFSwogwod4mcLwCj4HTICaXZI8pKY3PWZo-R8&quot;,&quot;ei&quot;:&quot;DM09XNSKGazQjATiz62ADA&quot;},&quot;channel_id&quot;:&quot;UCLx053rWZxCiYWsBETgdKrQ&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;LGR&quot;,&quot;num_subscribers&quot;:&quot;1049979&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;1M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fphreakindee%26action_handle_signin%3Dtrue%26feature%3Div%26hl%3Den%26continue_action%3DQUFFLUhqa21iRlJ2aENuWTl4clo0RVlNcU1WM1haYUJYQXxBQ3Jtc0tuRDNBaEFaQl9pSnRpeTlCWjUyOHNOY2xZd01ORlFLMjh5Z2FXVjVZMGtJVmZEZ0w2MlhjQ05QbjliSUdmSU8xWEtpaDJQMUNRUmhZZUNHRUpYWHQycEhrblFSLUJPbmY5REduZHdORWFnQXFUTDgtLXdzQ1lRdnF1WDV3Q2xuZ2ViWnBVM2dtbFpvRHdTd0FrQnV0WlVWU2FoWDR6eW8yeExrYUdLVmdqbzhsQlFXOWc5TFY0ZV93VGJJdjJLN0g4T0J6Uk5rNGE2Y2g0b1IwU0xsZEo2am1TR1Fucy1ESkNVSzVCM3NhZ256UjdRM2RR%26app%3Ddesktop\u0026passive=true\u0026uilel=3\u0026hl=en\u0026service=youtube&quot;,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;1M&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;end_ms&quot;:1062000,&quot;image_type&quot;:1,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/Lx053rWZxCiYWsBETgdKrQ\/featured_channel.jpg?v=50ca1fcc&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/phreakindee"/>
+  </action>
+</annotation>
+<annotation id="video:dcac719d-b02a-448b-ba65-a543c9b99e55" style="video" type="card" log_data="a-ch=UCLx053rWZxCiYWsBETgdKrQ&amp;a-id=dcac719d-b02a-448b-ba65-a543c9b99e55&amp;a-type=62&amp;a-v=fMiMz1uGCXI&amp;ei=DM09XNSKGazQjATiz62ADA&amp;l-class=1&amp;link-id=1qBWSeGnOAs&amp;xble=0">
+  <data>{&quot;start_ms&quot;:979454,&quot;meta_info&quot;:[&quot;by Dr. Moddnstine&quot;,&quot;105,766 views&quot;],&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwjUwKqQ4O_fAhUsKIMKHeJnC8Ao-B0yBWNhcmRzSPKSmNz1maPkfA&quot;,&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCNTAqpDg798CFSwogwod4mcLwCj4HTIFY2FyZHNI8pKY3PWZo-R8&quot;,&quot;card&quot;:&quot;CAsQ1TYY____________ASITCNTAqpDg798CFSwogwod4mcLwCj4HTIFY2FyZHNI8pKY3PWZo-R8&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;fMiMz1uGCXI&quot;,&quot;annotation_id&quot;:&quot;dcac719d-b02a-448b-ba65-a543c9b99e55&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCNTAqpDg798CFSwogwod4mcLwCj4HTIFY2FyZHNI8pKY3PWZo-R8&quot;,&quot;ei&quot;:&quot;DM09XNSKGazQjATiz62ADA&quot;},&quot;video_duration&quot;:&quot;26:30&quot;,&quot;target&quot;:&quot;new&quot;,&quot;timestamp&quot;:1464192128881,&quot;is_live_now&quot;:false,&quot;card_type&quot;:&quot;video&quot;,&quot;pause_on_navigation&quot;:true,&quot;custom_message&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=1qBWSeGnOAs&quot;,&quot;end_ms&quot;:979454,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[]},&quot;title&quot;:&quot;Full version: 1978 portable television converted to internet music \u0026 video steaming smart TV!&quot;,&quot;teaser_text&quot;:&quot;Suggested: Full version: 1978 portable television converted to internet music \u0026 video steaming smart TV!&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/1qBWSeGnOAs\/mqdefault.jpg&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=1qBWSeGnOAs"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;closeTrackingParams&quot;: &quot;CAgQsZcBGP///////////wEiEwjUwKqQ4O/fAhUsKIMKHeJnC8Ao+B0yBWNhcmRzSPKSmNz1maPkfA==&quot;, 
+  &quot;headerText&quot;: &quot;From LGR&quot;, 
+  &quot;trackingParams&quot;: &quot;CAcQwjcY////////////ASITCNTAqpDg798CFSwogwod4mcLwCj4HTIFY2FyZHNI8pKY3PWZo+R8&quot;, 
+  &quot;eventId&quot;: &quot;DM09XNSKGazQjATiz62ADA&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAkQsJcBGP///////////wEiEwjUwKqQ4O/fAhUsKIMKHeJnC8Ao+B0yBWNhcmRzSPKSmNz1maPkfA==&quot;
+}</data>
+</annotation>
+</annotations></document>

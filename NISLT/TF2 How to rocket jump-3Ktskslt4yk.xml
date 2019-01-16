@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI0eOm_P3u3wIVk1gwCh3GZArQKPgdMgJpdkipxrfLrJLb1dwB">
+<annotation id="annotation_2681515451" type="text" style="popup" log_data="l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYUwOOvg_s8Q&amp;a-id=annotation_2681515451&amp;ei=H2Y9XJHYLJOxwQHGyamADQ&amp;a-type=1&amp;a-v=3Ktskslt4yk" itct="CAEQs-UBGP___________wEiEwjR46b8_e7fAhWTWDAKHcZkCtAo-B0yAml2SKnGt8usktvV3AE">
+  <TEXT>NEXT&gt;&gt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.63500" y="0.00000" w="29.36500" h="21.28200" t="0:29.790"/>
+      <rectRegion x="70.63500" y="0.00000" w="29.36500" h="21.28200" t="0:42.142"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14573741" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2681515451&amp;ei=H2Y9XJHYLJOxwQHGyamADQ&amp;feature=iv&amp;src_vid=3Ktskslt4yk&amp;v=YUwOOvg_s8Q" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3076166699" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>TF2: How to heal a teammate</TEXT>
+  <segment spaceRelative="annotation_4078564805">
+    <movingRegion type="rect">
+      <rectRegion x="27.25800" y="0.84500" w="39.42200" h="26.40800" t="never"/>
+      <rectRegion x="27.25800" y="0.84500" w="39.42200" h="26.40800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_4078564805" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="" id="annotation_3177595513" itct="CAIQs-UBGP___________wEiEwjR46b8_e7fAhWTWDAKHcZkCtAo-B0yAml2SKnGt8usktvV3AE" log_data="l-class=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FNISLT%2Fvideos&amp;a-id=annotation_3177595513&amp;ei=H2Y9XJHYLJOxwQHGyamADQ&amp;a-type=9&amp;a-v=3Ktskslt4yk" style="label" type="text"><segment><movingRegion type="rect"><rectRegion d="0" h="17.2110004425" t="0:29.829" w="40.688999176" x="29.6350002289" y="77.1829986572" /><rectRegion d="0" h="17.2110004425" t="0:42.142" w="40.688999176" x="29.6350002289" y="77.1829986572" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="3" target="current" trusted="true" value="https://www.youtube.com/user/NISLT/videos?annotation_id=annotation_3177595513&amp;ei=H2Y9XJHYLJOxwQHGyamADQ&amp;feature=iv&amp;src_vid=3Ktskslt4yk" /></action><appearance effects="" textSize="3.911599999999999" /></annotation>
+<annotation id="annotation_4078564805" type="highlight" log_data="l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3GnOlIKUWsI&amp;a-id=annotation_4078564805&amp;ei=H2Y9XJHYLJOxwQHGyamADQ&amp;a-type=3&amp;a-v=3Ktskslt4yk" itct="CAMQs-UBGP___________wEiEwjR46b8_e7fAhWTWDAKHcZkCtAo-B0yAml2SKnGt8usktvV3AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.17000" y="14.08500" w="25.00000" h="27.77800" t="0:29.829"/>
+      <rectRegion x="3.17000" y="14.08500" w="25.00000" h="27.77800" t="0:42.142"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_4078564805&amp;ei=H2Y9XJHYLJOxwQHGyamADQ&amp;feature=iv&amp;src_vid=3Ktskslt4yk&amp;v=3GnOlIKUWsI" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

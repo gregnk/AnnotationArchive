@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMItauym__u3wIVJSGDCh1fOAECKPgdMgJpdkjGoLuFyOD_rS4">
+<annotation id="annotation_400376" type="text" style="popup" log_data="l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtUhDVw_QY0I&amp;a-id=annotation_400376&amp;ei=bWc9XPXAFqXCjATf8IQQ&amp;a-v=Llv_BICu0EY&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwi1q7Kb_-7fAhUlIYMKHV84AQIo-B0yAml2SMagu4XI4P-tLg">
+  <TEXT>NEXT Episode &gt;&gt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.78100" y="0.00000" w="44.21900" h="23.05600" t="0:00:29.2"/>
+      <rectRegion x="55.78100" y="0.00000" w="44.21900" h="23.05600" t="0:00:45.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16636470" fgColor="0" textSize="8.42496666666667" effects="textdropshadow">
+    <padding top="5.05497980118" left="2.84342622757" bottom="5.05497980118" right="3.79123497009"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_400376&amp;ei=bWc9XPXAFqXCjATf8IQQ&amp;feature=iv&amp;src_vid=Llv_BICu0EY&amp;v=tUhDVw_QY0I" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_454456" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>BEST AIRSHOT EVER!</TEXT>
+  <segment spaceRelative="annotation_971670">
+    <movingRegion type="rect">
+      <rectRegion x="0.15600" y="25.55600" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.15600" y="25.55600" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_971670" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_706205" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_952952">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="18.05600" w="3.12500" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="18.05600" w="3.12500" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_952952" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_952952" type="highlight" log_data="l-class=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FNISLT%2Fvideos&amp;a-id=annotation_952952&amp;ei=bWc9XPXAFqXCjATf8IQQ&amp;a-v=Llv_BICu0EY&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwi1q7Kb_-7fAhUlIYMKHV84AQIo-B0yAml2SMagu4XI4P-tLg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="28.75000" y="76.38900" w="41.09400" h="16.11100" t="0:00:29.1"/>
+      <rectRegion x="28.75000" y="76.38900" w="41.09400" h="16.11100" t="0:00:45.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/NISLT/videos?annotation_id=annotation_952952&amp;ei=bWc9XPXAFqXCjATf8IQQ&amp;feature=iv&amp;src_vid=Llv_BICu0EY" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_971670" type="highlight" log_data="l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlyMrIebqi_Y&amp;a-id=annotation_971670&amp;ei=bWc9XPXAFqXCjATf8IQQ&amp;a-v=Llv_BICu0EY&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwi1q7Kb_-7fAhUlIYMKHV84AQIo-B0yAml2SMagu4XI4P-tLg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.28100" y="15.00000" w="24.37500" h="24.44400" t="0:00:29.1"/>
+      <rectRegion x="3.28100" y="15.00000" w="24.37500" h="24.44400" t="0:00:45.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_971670&amp;ei=bWc9XPXAFqXCjATf8IQQ&amp;feature=iv&amp;src_vid=Llv_BICu0EY&amp;v=lyMrIebqi_Y" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

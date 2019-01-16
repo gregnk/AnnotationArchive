@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI8a3Msonv3wIVBp0DCh0jQgziKPgdMgJpdkjEjrXVhvycie0B">
+<annotation id="annotation_1249756429" type="highlight" log_data="a-id=annotation_1249756429&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLh-7kEk1ceE&amp;ei=GnI9XPG4F4a6DqOEsZAO&amp;a-v=7RJz4GqtR0Q&amp;xble=1&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjxrcyyie_fAhUGnQMKHSNCDOIo-B0yAml2SMSOtdWG_JyJ7QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.18100" y="22.81700" w="37.52000" h="38.19700" t="8:08.969"/>
+      <rectRegion x="6.18100" y="22.81700" w="37.52000" h="38.19700" t="8:22.497"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="8148142" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1249756429&amp;ei=GnI9XPG4F4a6DqOEsZAO&amp;feature=iv&amp;src_vid=7RJz4GqtR0Q&amp;v=Lh-7kEk1ceE" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1806146693" type="highlight" log_data="a-id=annotation_1806146693&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdW5jwbi5O2g&amp;ei=GnI9XPG4F4a6DqOEsZAO&amp;a-v=7RJz4GqtR0Q&amp;xble=1&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjxrcyyie_fAhUGnQMKHSNCDOIo-B0yAml2SMSOtdWG_JyJ7QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.46800" y="23.09900" w="37.36100" h="38.19700" t="8:08.969"/>
+      <rectRegion x="55.46800" y="23.09900" w="37.36100" h="38.19700" t="8:22.497"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="8148142" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1806146693&amp;ei=GnI9XPG4F4a6DqOEsZAO&amp;feature=iv&amp;src_vid=7RJz4GqtR0Q&amp;v=dW5jwbi5O2g" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2884908949" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1249756429">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1249756429" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4161388149" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1806146693">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1806146693" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:551d076a-0000-2d17-82e2-001a113f250e" style="branding" type="branding"
+            log_data="a-id=551d076a-0000-2d17-82e2-001a113f250e&amp;a-ch=UCwmFOfFuvRPI112vR5DNnrA&amp;l-class=3&amp;xble=0&amp;ei=GnI9XPG4F4a6DqOEsZAO&amp;a-v=7RJz4GqtR0Q&amp;a-type=10&amp;link-id=UCwmFOfFuvRPI112vR5DNnrA">
+  <data>{&quot;channel_name&quot;:&quot;Vsauce3&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;3.6M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026service=youtube\u0026hl=en\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbEN2M2cwX3F1SnNqdWJYU19GM0hDVzk3UklLd3xBQ3Jtc0trQ21nd2wwYWRZVjdvZW1lcmRSRHQwb24yUUpYeWlsY1IzRlpITnhSOFlCUVBndi1odXFnend1b3E4aDkzUFJLR0FsYl9fRUJzTHp2RndhRlRveHNLZWhlVXFFMkljTi1qRjJsN0g1ZTJEckZmY1ZzOWh6Vi1PRGVJSzk1SFdzekxfWmlPME5xSnV0YXZmTXFOTEt1M2FqMzczWVpFYzF3clQ4b0tldGxnbXFCUVY1T2hsMlhkVVFfTUZycnlyRERMbWhobk1Fdm1oUkU5TTNqTU00MVVNbGFhTmJ0aFYzOFBZRWxkZzRkSUZkcEVzTUdn%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FVsauce3%26app%3Ddesktop%26feature%3Div%26hl%3Den&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;3.6M&quot;,&quot;classic&quot;:true,&quot;enabled&quot;:false},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;start_ms&quot;:500000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/wmFOfFuvRPI112vR5DNnrA\/featured_channel.jpg?v=553fc27b&quot;,&quot;end_ms&quot;:515000,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;ei&quot;:&quot;GnI9XPG4F4a6DqOEsZAO&quot;,&quot;annotation_id&quot;:&quot;551d076a-0000-2d17-82e2-001a113f250e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;7RJz4GqtR0Q&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTICaXZIxI611Yb8nIntAQ&quot;},&quot;num_subscribers&quot;:&quot;3612612&quot;,&quot;channel_id&quot;:&quot;UCwmFOfFuvRPI112vR5DNnrA&quot;,&quot;is_mobile&quot;:false,&quot;image_width&quot;:48,&quot;image_height&quot;:28,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Vsauce3"/>
+  </action>
+</annotation>
+<annotation id="video:7695ce09-70ff-4a47-8601-46641a14720d" style="video" type="card" log_data="a-ch=UCwmFOfFuvRPI112vR5DNnrA&amp;a-id=7695ce09-70ff-4a47-8601-46641a14720d&amp;a-type=62&amp;a-v=7RJz4GqtR0Q&amp;ei=GnI9XPG4F4a6DqOEsZAO&amp;l-class=1&amp;link-id=TkI2JT6kr_8&amp;xble=0">
+  <data>{&quot;video_duration&quot;:&quot;5:28&quot;,&quot;start_ms&quot;:70377,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/TkI2JT6kr_8\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:70377,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAgQ1TYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwjxrcyyie_fAhUGnQMKHSNCDOIo-B0yBWNhcmRzSMSOtdWG_JyJ7QE&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;},&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;ei&quot;:&quot;GnI9XPG4F4a6DqOEsZAO&quot;,&quot;annotation_id&quot;:&quot;7695ce09-70ff-4a47-8601-46641a14720d&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;7RJz4GqtR0Q&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Suggested: Electric Catfish Shocks Owner Repeatedly&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;title&quot;:&quot;Electric Catfish Shocks Owner Repeatedly&quot;,&quot;meta_info&quot;:[&quot;by James King&quot;,&quot;3,574,174 views&quot;],&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=TkI2JT6kr_8&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=TkI2JT6kr_8"/>
+  </action>
+</annotation>
+
+<annotation id="video:d0b9c1e7-d340-4922-a85a-fe05143b2419" style="video" type="card" log_data="a-ch=UCwmFOfFuvRPI112vR5DNnrA&amp;a-id=d0b9c1e7-d340-4922-a85a-fe05143b2419&amp;a-type=62&amp;a-v=7RJz4GqtR0Q&amp;ei=GnI9XPG4F4a6DqOEsZAO&amp;l-class=1&amp;link-id=IdLv94Y5LsM&amp;xble=0">
+  <data>{&quot;video_duration&quot;:&quot;1:35&quot;,&quot;start_ms&quot;:157036,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/IdLv94Y5LsM\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:157036,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAwQ1TYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;,&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwjxrcyyie_fAhUGnQMKHSNCDOIo-B0yBWNhcmRzSMSOtdWG_JyJ7QE&quot;,&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;},&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;ei&quot;:&quot;GnI9XPG4F4a6DqOEsZAO&quot;,&quot;annotation_id&quot;:&quot;d0b9c1e7-d340-4922-a85a-fe05143b2419&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;7RJz4GqtR0Q&quot;,&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Suggested: 3.5 Million Volt Stun Gun for 3 Seconds&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;title&quot;:&quot;3.5 Million Volt Stun Gun for 3 Seconds&quot;,&quot;meta_info&quot;:[&quot;by Nicholas Smith&quot;,&quot;192,124 views&quot;],&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=IdLv94Y5LsM&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=IdLv94Y5LsM"/>
+  </action>
+</annotation>
+
+<annotation id="video:eb2c6847-340f-43ad-b9b1-f907f2326fab" style="video" type="card" log_data="a-ch=UCwmFOfFuvRPI112vR5DNnrA&amp;a-id=eb2c6847-340f-43ad-b9b1-f907f2326fab&amp;a-type=62&amp;a-v=7RJz4GqtR0Q&amp;ei=GnI9XPG4F4a6DqOEsZAO&amp;l-class=1&amp;link-id=dj3bkoUHk-Y&amp;xble=0">
+  <data>{&quot;video_duration&quot;:&quot;0:48&quot;,&quot;start_ms&quot;:162885,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/dj3bkoUHk-Y\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:162885,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CBAQ1TYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;,&quot;icon&quot;:&quot;CBIQsJcBGP___________wEiEwjxrcyyie_fAhUGnQMKHSNCDOIo-B0yBWNhcmRzSMSOtdWG_JyJ7QE&quot;,&quot;teaser&quot;:&quot;CBEQ0DYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;},&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;ei&quot;:&quot;GnI9XPG4F4a6DqOEsZAO&quot;,&quot;annotation_id&quot;:&quot;eb2c6847-340f-43ad-b9b1-f907f2326fab&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;7RJz4GqtR0Q&quot;,&quot;itct&quot;:&quot;CBAQ1TYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Suggested: I THINK I SHIT MYSELF - 100,000 volt taser gun VS. Man&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;title&quot;:&quot;I THINK I SHIT MYSELF - 100,000 volt taser gun VS. Man&quot;,&quot;meta_info&quot;:[&quot;by ROUNDpoolTABLES&quot;,&quot;227,105 views&quot;],&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=dj3bkoUHk-Y&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=dj3bkoUHk-Y"/>
+  </action>
+</annotation>
+
+<annotation id="video:43019a72-f423-424e-9b9e-ea43868201cd" style="video" type="card" log_data="a-ch=UCwmFOfFuvRPI112vR5DNnrA&amp;a-id=43019a72-f423-424e-9b9e-ea43868201cd&amp;a-type=62&amp;a-v=7RJz4GqtR0Q&amp;ei=GnI9XPG4F4a6DqOEsZAO&amp;l-class=1&amp;link-id=dW5jwbi5O2g&amp;xble=0">
+  <data>{&quot;video_duration&quot;:&quot;5:58&quot;,&quot;start_ms&quot;:488844,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/dW5jwbi5O2g\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:488844,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CBQQ1TYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;,&quot;icon&quot;:&quot;CBYQsJcBGP___________wEiEwjxrcyyie_fAhUGnQMKHSNCDOIo-B0yBWNhcmRzSMSOtdWG_JyJ7QE&quot;,&quot;teaser&quot;:&quot;CBUQ0DYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;},&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;ei&quot;:&quot;GnI9XPG4F4a6DqOEsZAO&quot;,&quot;annotation_id&quot;:&quot;43019a72-f423-424e-9b9e-ea43868201cd&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;7RJz4GqtR0Q&quot;,&quot;itct&quot;:&quot;CBQQ1TYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Suggested: This Pok\u00e9mon Will Kill You!&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;title&quot;:&quot;This Pok\u00e9mon Will Kill You!&quot;,&quot;meta_info&quot;:[&quot;by Vsauce3&quot;,&quot;4,321,097 views&quot;],&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=dW5jwbi5O2g&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=dW5jwbi5O2g"/>
+  </action>
+</annotation>
+
+<annotation id="video:6f414100-ec1e-4bb2-8d53-92ea45e9aa50" style="video" type="card" log_data="a-ch=UCwmFOfFuvRPI112vR5DNnrA&amp;a-id=6f414100-ec1e-4bb2-8d53-92ea45e9aa50&amp;a-type=62&amp;a-v=7RJz4GqtR0Q&amp;ei=GnI9XPG4F4a6DqOEsZAO&amp;l-class=1&amp;link-id=Lh-7kEk1ceE&amp;xble=0">
+  <data>{&quot;video_duration&quot;:&quot;4:55&quot;,&quot;start_ms&quot;:488844,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/Lh-7kEk1ceE\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:488844,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CBgQ1TYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;,&quot;icon&quot;:&quot;CBoQsJcBGP___________wEiEwjxrcyyie_fAhUGnQMKHSNCDOIo-B0yBWNhcmRzSMSOtdWG_JyJ7QE&quot;,&quot;teaser&quot;:&quot;CBkQ0DYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;},&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;ei&quot;:&quot;GnI9XPG4F4a6DqOEsZAO&quot;,&quot;annotation_id&quot;:&quot;6f414100-ec1e-4bb2-8d53-92ea45e9aa50&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;7RJz4GqtR0Q&quot;,&quot;itct&quot;:&quot;CBgQ1TYY____________ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Suggested: 3 Pok\u00e9mon Who Could Kill You&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;title&quot;:&quot;3 Pok\u00e9mon Who Could Kill You&quot;,&quot;meta_info&quot;:[&quot;by Vsauce3&quot;,&quot;7,983,542 views&quot;],&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Lh-7kEk1ceE&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=Lh-7kEk1ceE"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;From Vsauce3&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwjxrcyyie/fAhUGnQMKHSNCDOIo+B0yBWNhcmRzSMSOtdWG/JyJ7QE=&quot;, 
+  &quot;eventId&quot;: &quot;GnI9XPG4F4a6DqOEsZAO&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCPGtzLKJ798CFQadAwodI0IM4ij4HTIFY2FyZHNIxI611Yb8nIntAQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwjxrcyyie/fAhUGnQMKHSNCDOIo+B0yBWNhcmRzSMSOtdWG/JyJ7QE=&quot;
+}</data>
+</annotation>
+</annotations></document>

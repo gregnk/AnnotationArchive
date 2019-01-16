@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIz_bz64zv3wIVxkuDCh35rAppKPgdMgJpdkiykZ_XqNaGua4B">
+<annotation id="annotation_41024" type="highlight" log_data="a-type=3&amp;a-v=rnIasornyLI&amp;l-class=5&amp;xble=1&amp;ei=t3U9XI-_NcaXjQT52arIBg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Ddimitripetrov1&amp;a-id=annotation_41024" itct="CAEQs-UBGP___________wEiEwjP9vPrjO_fAhXGS4MKHfmsCmko-B0yAml2SLKRn9eo1oa5rgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="83.12500" y="80.55600" w="15.83300" h="19.44400" t="0:00:05.7"/>
+      <rectRegion x="83.12500" y="80.55600" w="15.83300" h="19.44400" t="0:01:48.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=dimitripetrov1&amp;annotation_id=annotation_41024&amp;ei=t3U9XI-_NcaXjQT52arIBg&amp;feature=iv&amp;src_vid=rnIasornyLI" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_845105" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_41024">
+    <movingRegion type="rect">
+      <rectRegion x="-12.70800" y="15.00000" w="29.58300" h="4.44400" t="never"/>
+      <rectRegion x="-12.70800" y="15.00000" w="29.58300" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_41024" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

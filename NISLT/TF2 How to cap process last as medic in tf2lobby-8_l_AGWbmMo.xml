@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI1emDmP_u3wIV1YgDCh0tSAgGKPgdMgJpdkjKse6shuDf_PMB">
+<annotation id="annotation_341440" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_570624">
+    <movingRegion type="rect">
+      <rectRegion x="-0.15600" y="12.77800" w="1.87500" h="6.66700" t="never"/>
+      <rectRegion x="-0.15600" y="12.77800" w="1.87500" h="6.66700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_570624" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_461095" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>TF2: How to wait for a medic </TEXT>
+  <segment spaceRelative="annotation_941161">
+    <movingRegion type="rect">
+      <rectRegion x="24.06300" y="6.38900" w="16.71900" h="10.00000" t="never"/>
+      <rectRegion x="24.06300" y="6.38900" w="16.71900" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_941161" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_570624" type="highlight" log_data="a-v=8_l_AGWbmMo&amp;l-class=3&amp;xble=1&amp;ei=Zmc9XNWeE9WRDq2QoTA&amp;a-id=annotation_570624&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FNISLT%2Fvideos" itct="CAEQs-UBGP___________wEiEwjV6YOY_-7fAhXViAMKHS1ICAYo-B0yAml2SMqx7qyG4N_88wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="30.62500" y="80.55600" w="37.18800" h="11.38900" t="0:01:01.6"/>
+      <rectRegion x="30.62500" y="80.55600" w="37.18800" h="11.38900" t="0:01:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/NISLT/videos?annotation_id=annotation_570624&amp;ei=Zmc9XNWeE9WRDq2QoTA&amp;feature=iv&amp;src_vid=8_l_AGWbmMo" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_613911" type="text" style="popup" log_data="a-v=8_l_AGWbmMo&amp;l-class=1&amp;xble=1&amp;ei=Zmc9XNWeE9WRDq2QoTA&amp;a-id=annotation_613911&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUnuOIuUOTEI" itct="CAIQs-UBGP___________wEiEwjV6YOY_-7fAhXViAMKHS1ICAYo-B0yAml2SMqx7qyG4N_88wE">
+  <TEXT>NEXT&gt;&gt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="72.65600" y="0.00000" w="27.34400" h="21.94400" t="0:01:01.7"/>
+      <rectRegion x="72.65600" y="0.00000" w="27.34400" h="21.94400" t="0:01:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="13319742" fgColor="16777215" textSize="8.42496666666667" effects="textdropshadow">
+    <padding top="5.05497980118" left="2.84342622757" bottom="5.05497980118" right="3.79123497009"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_613911&amp;ei=Zmc9XNWeE9WRDq2QoTA&amp;feature=iv&amp;src_vid=8_l_AGWbmMo&amp;v=UnuOIuUOTEI" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_770387" type="text" style="popup" log_data="a-v=8_l_AGWbmMo&amp;l-class=1&amp;xble=1&amp;ei=Zmc9XNWeE9WRDq2QoTA&amp;a-id=annotation_770387&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVsmjPd5hisI" itct="CAMQs-UBGP___________wEiEwjV6YOY_-7fAhXViAMKHS1ICAYo-B0yAml2SMqx7qyG4N_88wE">
+  <TEXT>TF2: Weapon Evaluation &quot;The Huntsman&quot;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="61.11100" w="94.84400" h="19.72200" t="0:01:01.6"/>
+      <rectRegion x="0.00000" y="61.11100" w="94.84400" h="19.72200" t="0:01:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14573741" fgColor="0" textSize="8.42496666666667" effects="bevel dropshadow textdropshadow">
+    <padding top="5.05497980118" left="2.84342622757" bottom="5.05497980118" right="3.79123497009"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_770387&amp;ei=Zmc9XNWeE9WRDq2QoTA&amp;feature=iv&amp;src_vid=8_l_AGWbmMo&amp;v=VsmjPd5hisI" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_941161" type="highlight" log_data="a-v=8_l_AGWbmMo&amp;l-class=1&amp;xble=1&amp;ei=Zmc9XNWeE9WRDq2QoTA&amp;a-id=annotation_941161&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVk_L7CkSrL4" itct="CAQQs-UBGP___________wEiEwjV6YOY_-7fAhXViAMKHS1ICAYo-B0yAml2SMqx7qyG4N_88wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.81300" y="15.55600" w="24.68800" h="23.88900" t="0:01:01.6"/>
+      <rectRegion x="2.81300" y="15.55600" w="24.68800" h="23.88900" t="0:01:16.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_941161&amp;ei=Zmc9XNWeE9WRDq2QoTA&amp;feature=iv&amp;src_vid=8_l_AGWbmMo&amp;v=Vk_L7CkSrL4" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

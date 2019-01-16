@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3pH1qP3u3wIVD2cwCh05zgCNKPgdMgJpdkjGnf_3mtmX8soB">
+<annotation id="annotation_472370" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLt4PSRZfn0w&amp;a-v=yuReya7_zsY&amp;ei=cGU9XN6ZNI_OwQG5nIPoCA&amp;a-type=3&amp;a-id=annotation_472370&amp;l-class=1&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjekfWo_e7fAhUPZzAKHTnOAI0o-B0yAml2SMad__ea2ZfyygE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.96900" y="34.16700" w="31.09400" h="17.50000" t="0:02:00.8"/>
+      <rectRegion x="52.96900" y="34.16700" w="31.09400" h="17.50000" t="0:02:06.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="15395562" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_472370&amp;ei=cGU9XN6ZNI_OwQG5nIPoCA&amp;feature=iv&amp;src_vid=yuReya7_zsY&amp;v=Lt4PSRZfn0w" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_791410" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Listen to the next song</TEXT>
+  <segment spaceRelative="annotation_472370">
+    <movingRegion type="rect">
+      <rectRegion x="3.75000" y="20.27800" w="24.06300" h="5.55600" t="never"/>
+      <rectRegion x="3.75000" y="20.27800" w="24.06300" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.30980833333333" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_472370" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:5583f5a5-0000-23dc-b4f7-94eb2c08d89e" style="branding" type="branding"
+            log_data="ei=cGU9XN6ZNI_OwQG5nIPoCA&amp;a-v=yuReya7_zsY&amp;link-id=UC1UIj7Y9SphX5GuoG2e94XQ&amp;a-type=10&amp;a-id=5583f5a5-0000-23dc-b4f7-94eb2c08d89e&amp;a-ch=UC1UIj7Y9SphX5GuoG2e94XQ&amp;l-class=3&amp;xble=0">
+  <data>{&quot;is_mobile&quot;:false,&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UC1UIj7Y9SphX5GuoG2e94XQ&quot;,&quot;image_height&quot;:40,&quot;num_subscribers&quot;:&quot;89770&quot;,&quot;image_type&quot;:1,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;89K&quot;,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;89K&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=en\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fjakechudnow%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbjN6LUVidWZJSDJGN29DLXhMYXRIdjYtLVdHd3xBQ3Jtc0tsLVJ2eEZKRGluQVpRaTNGZ09WSUJtNW8yVzA2VDlRc1diN2ZLZ3pkLWR3Q0tFdVRnRW1MeDRrRzRFVjZHem9xWkRtOXVSTlRyN0doSDJYckUtem03bVg2XzB1YURsWXRLMlhqTEVnd21acUxobjV5cHZyTTdhU0RuLVdyNXhQY3JORTZnMHNBQklSUWdIaDhRUXh6Si1uazVNVkFKUVQ1WWNFTjR0RFBEc1lCOFZoMWxLUWxJZ2o4YUJKTC1iZmRXQmVyT1FTMm1KZmRZdEZyUjg4S3R4ZTNxZl9lc0RsN0ZzSGJXdnhMdHUxcDFEazN3%26app%3Ddesktop\u0026service=youtube&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;Jake Chudnow&quot;,&quot;start_ms&quot;:110000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/1UIj7Y9SphX5GuoG2e94XQ\/featured_channel.jpg?v=559511d5&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;5583f5a5-0000-23dc-b4f7-94eb2c08d89e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;cGU9XN6ZNI_OwQG5nIPoCA&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCN6R9aj97t8CFQ9nMAodOc4AjSj4HTICaXZIxp3_95rZl_LKAQ&quot;,&quot;src_vid&quot;:&quot;yuReya7_zsY&quot;},&quot;end_ms&quot;:125000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/jakechudnow"/>
+  </action>
+</annotation></annotations></document>

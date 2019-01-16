@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_aP_kf3u3wIVV4HCAR19yAS6KPgdMgJpdkiI5p6e947voK0B">
+<annotation id="annotation_178888" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click here to watch the next music video</TEXT>
+  <segment spaceRelative="annotation_178897">
+    <movingRegion type="rect">
+      <rectRegion x="-0.46900" y="19.16700" w="38.75000" h="9.44400" t="never"/>
+      <rectRegion x="-0.46900" y="19.16700" w="38.75000" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_178897" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_178897" type="highlight" log_data="ei=QGU9XP2DMNeCir4P_ZCT0As&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_Q_47b507vg%26index%3D2%26list%3DSPEB70A61CE00960B8&amp;xble=1&amp;a-id=annotation_178897&amp;l-class=1&amp;a-v=rUG8d3PHswg&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwj9o_-R_e7fAhVXgcIBHX3IBLoo-B0yAml2SIjmnp73ju-grQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.81300" y="66.94400" w="23.62500" h="16.20800" t="0:02:22.1"/>
+      <rectRegion x="37.81300" y="66.94400" w="23.62500" h="16.20800" t="0:02:28.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_178897&amp;ei=QGU9XP2DMNeCir4P_ZCT0As&amp;feature=iv&amp;index=2&amp;list=SPEB70A61CE00960B8&amp;src_vid=rUG8d3PHswg&amp;v=_Q_47b507vg" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_202398" type="text" style="popup" log_data="ei=QGU9XP2DMNeCir4P_ZCT0As&amp;xble=1&amp;a-id=annotation_202398&amp;a-type=1&amp;a-v=rUG8d3PHswg" itct="CAIQs-UBGP___________wEiEwj9o_-R_e7fAhVXgcIBHX3IBLoo-B0yAml2SIjmnp73ju-grQE">
+  <TEXT>A link to this video&#39;s animations is in the description</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.46900" y="89.16700" w="51.87500" h="8.61100" t="0:02:20.2"/>
+      <rectRegion x="25.46900" y="89.16700" w="51.87500" h="8.61100" t="0:02:25.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation>
+<annotation id="channel:5583f5a5-0000-23dc-b4f7-94eb2c08d89e" style="branding" type="branding"
+            log_data="ei=QGU9XP2DMNeCir4P_ZCT0As&amp;a-ch=UC1UIj7Y9SphX5GuoG2e94XQ&amp;xble=0&amp;a-id=5583f5a5-0000-23dc-b4f7-94eb2c08d89e&amp;l-class=3&amp;a-v=rUG8d3PHswg&amp;link-id=UC1UIj7Y9SphX5GuoG2e94XQ&amp;a-type=10">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/1UIj7Y9SphX5GuoG2e94XQ\/featured_channel.jpg?v=559511d5&quot;,&quot;num_subscribers&quot;:&quot;89770&quot;,&quot;channel_name&quot;:&quot;Jake Chudnow&quot;,&quot;image_type&quot;:1,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_width&quot;:40,&quot;end_ms&quot;:148000,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026hl=en\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26continue_action%3DQUFFLUhqa2tlSWlCbUpQWGY0YnR3U0lYOE5ERmFGX0lYUXxBQ3Jtc0tsVk9uVXlndFhZdlZvX3llTmFQZmtfQ0NwaDVXcmdNbXpRRkF5TDZtYkhKN0U3aEZtMjlaT2dTZmRBWVBUUFNPeEF2dV9nZDJ0MFVDaXdSdnFlR3M0NU53c3YwM2ZrQzF3ZXl5TFJ0RVIzSl9Ub2tvdUJIYzF5bVJPa2M0aVE4V1hBdmI2ZzhZSXBKQnVOSkdFLXVuZzFnaklBcWZtbHVuOWZxeGZ6bU82MGRpUndWZm9ZdUp6RzJRSE5MUmVpUFhPYmtnc0VTTXJPYmZZWWd6LS1YU0pmbFVKVjdnUVZJMktmdTFpenFDSlFla0FLS2Qw%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fjakechudnow%26hl%3Den%26feature%3Div&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;89K&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;89K&quot;},&quot;channel_id&quot;:&quot;UC1UIj7Y9SphX5GuoG2e94XQ&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:40,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;5583f5a5-0000-23dc-b4f7-94eb2c08d89e&quot;,&quot;src_vid&quot;:&quot;rUG8d3PHswg&quot;,&quot;ei&quot;:&quot;QGU9XP2DMNeCir4P_ZCT0As&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCP2j_5H97t8CFVeBwgEdfcgEuij4HTICaXZIiOaenveO76CtAQ&quot;},&quot;start_ms&quot;:133000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/jakechudnow"/>
+  </action>
+</annotation></annotations></document>

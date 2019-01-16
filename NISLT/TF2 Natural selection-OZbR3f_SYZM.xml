@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIk7bo-P3u3wIVIyGDCh29rgsNKPgdMgJpdkiTw8n-37u0yzk">
+<annotation id="annotation_1020179499" type="text" style="popup" log_data="a-id=annotation_1020179499&amp;a-type=1&amp;a-v=OZbR3f_SYZM&amp;ei=GGY9XJPKGaPCjAS93a5o&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh03-85loxdc&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiTtuj4_e7fAhUjIYMKHb2uCw0o-B0yAml2SJPDyf7fu7TLOQ">
+  <TEXT>NEXT&gt;&gt;&gt;&gt;&gt;&gt;&gt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="48.01900" y="7.60600" w="42.67800" h="17.33800" t="0:25.480"/>
+      <rectRegion x="48.01900" y="7.60600" w="42.67800" h="17.33800" t="0:37.125"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16636470" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1020179499&amp;ei=GGY9XJPKGaPCjAS93a5o&amp;feature=iv&amp;src_vid=OZbR3f_SYZM&amp;v=h03-85loxdc" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2442257329" type="highlight" log_data="a-id=annotation_2442257329&amp;a-type=3&amp;a-v=OZbR3f_SYZM&amp;ei=GGY9XJPKGaPCjAS93a5o&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDSVwdFTvkuU&amp;xble=1" itct="CAIQs-UBGP___________wEiEwiTtuj4_e7fAhUjIYMKHb2uCw0o-B0yAml2SJPDyf7fu7TLOQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.01100" y="13.52100" w="25.00000" h="27.77800" t="0:25.564"/>
+      <rectRegion x="3.01100" y="13.52100" w="25.00000" h="27.77800" t="0:37.125"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6267091" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2442257329&amp;ei=GGY9XJPKGaPCjAS93a5o&amp;feature=iv&amp;src_vid=OZbR3f_SYZM&amp;v=DSVwdFTvkuU" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3098435117" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>TF2: How to sing (David Bowie)</TEXT>
+  <segment spaceRelative="annotation_2442257329">
+    <movingRegion type="rect">
+      <rectRegion x="27.25800" y="2.81700" w="34.50900" h="21.33400" t="never"/>
+      <rectRegion x="27.25800" y="2.81700" w="34.50900" h="21.33400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_2442257329" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="" id="annotation_3493261315" itct="CAMQs-UBGP___________wEiEwiTtuj4_e7fAhUjIYMKHb2uCw0o-B0yAml2SJPDyf7fu7TLOQ" log_data="a-id=annotation_3493261315&amp;a-type=9&amp;a-v=OZbR3f_SYZM&amp;ei=GGY9XJPKGaPCjAS93a5o&amp;l-class=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FNISLT%2Fvideos&amp;xble=1" style="label" type="text"><segment><movingRegion type="rect"><rectRegion d="0" h="17.7749996185" t="0:25.564" w="40.688999176" x="29.1599998474" y="77.7460021973" /><rectRegion d="0" h="17.7749996185" t="0:37.125" w="40.688999176" x="29.1599998474" y="77.7460021973" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="3" target="current" trusted="true" value="https://www.youtube.com/user/NISLT/videos?annotation_id=annotation_3493261315&amp;ei=GGY9XJPKGaPCjAS93a5o&amp;feature=iv&amp;src_vid=OZbR3f_SYZM" /></action><appearance bgAlpha="0.600000023842" bgColor="6267091" effects="" textSize="3.911599999999999" /></annotation>
+<annotation id="annotation_3718019271" type="text" style="anchored" log_data="a-type=8&amp;a-id=annotation_3718019271&amp;a-v=OZbR3f_SYZM&amp;ei=GGY9XJPKGaPCjAS93a5o&amp;xble=1" itct="CAQQs-UBGP___________wEiEwiTtuj4_e7fAhUjIYMKHb2uCw0o-B0yAml2SJPDyf7fu7TLOQ">
+  <TEXT>Thumbs up for animal planet</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="48.17700" y="36.05600" w="29.16700" h="8.88900" sx="55.4599990845" sy="46.9449996948" t="0:23.077"/>
+      <anchoredRegion x="48.17700" y="36.05600" w="29.16700" h="8.88900" sx="55.4599990845" sy="46.9449996948" t="0:25.417"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_87420541" type="text" style="popup" log_data="a-id=annotation_87420541&amp;a-type=1&amp;a-v=OZbR3f_SYZM&amp;ei=GGY9XJPKGaPCjAS93a5o&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZtVOp007Xsg&amp;xble=1" itct="CAUQs-UBGP___________wEiEwiTtuj4_e7fAhUjIYMKHb2uCw0o-B0yAml2SJPDyf7fu7TLOQ">
+  <TEXT>iksD | Pub Hero (NEW SERIES)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="33.59700" y="25.63400" w="56.47400" h="12.54900" t="0:25.543"/>
+      <rectRegion x="33.59700" y="25.63400" w="56.47400" h="12.54900" t="0:37.125"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="10415454" fgColor="0" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_87420541&amp;ei=GGY9XJPKGaPCjAS93a5o&amp;feature=iv&amp;src_vid=OZbR3f_SYZM&amp;v=ZtVOp007Xsg" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

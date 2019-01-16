@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIoqSB-Ynv3wIV0nIwCh0v0gH0KPgdMgJpdkjEwc-x8Kf_kIgB">
+<annotation id="annotation_1651513179" type="text" style="popup" log_data="ei=rnI9XKKVA9LlwQGvpIegDw&amp;a-id=annotation_1651513179&amp;a-v=iCH9PwYz4MQ&amp;a-type=1&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiipIH5ie_fAhXScjAKHS_SAfQo-B0yAml2SMTBz7Hwp_-QiAE">
+  <TEXT>*This is mouse smoothing, though they often go hand-in-hand. Smoothing = averaging out the mouse movements to make it look smooth on-screen, hence why it doesn&#39;t stop straight away in this test.
+
+Mouse acceleration makes the mouse move different speeds across the screen to how it should, based on how quickly you move it. This means that it might be the equivalent of 800 DPI if moved slowly, but 1000 if moved quickly. This makes it impossible to &#39;learn&#39; flick-shots. To test for this, move your mouse slowly in one direction then quickly in the other until you reach the same point on your desk again. See if your mouse returns to its original location on-screen. If it does, your mouse is good.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="54.47100" h="55.07600" t="1:38.455"/>
+      <rectRegion x="0.00000" y="0.00000" w="54.47100" h="55.07600" t="1:52.611"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

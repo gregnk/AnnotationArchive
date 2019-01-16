@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI0aaP-Nzv3wIVBL6CCh2s2AJcKPgdMgJpdkjK7JD_5az0-vgB">
+<annotation id="annotation_1187189031" type="highlight" log_data="a-v=-PXRZl_kNko&amp;a-id=annotation_1187189031&amp;ei=tMk9XNH8E4T8igSssYvgBQ&amp;xble=1&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjRpo_43O_fAhUEvoIKHazYAlwo-B0yAml2SMrskP_lrPT6-AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="28.52600" y="62.25400" w="57.33000" h="22.15500" t="3:37.204"/>
+      <rectRegion x="28.52600" y="62.25400" w="57.33000" h="22.15500" t="3:41.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_1688802207" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>http://www.zippcast.com/user/coolcat001100</TEXT>
+  <segment spaceRelative="annotation_3999124001">
+    <movingRegion type="rect">
+      <rectRegion x="-4.12000" y="9.85900" w="61.60100" h="33.32700" t="never"/>
+      <rectRegion x="-4.12000" y="9.85900" w="61.60100" h="33.32700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3999124001" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2647444317" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>http://coolcat001100.tumblr.com/</TEXT>
+  <segment spaceRelative="annotation_1187189031">
+    <movingRegion type="rect">
+      <rectRegion x="10.61800" y="9.85900" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="10.61800" y="9.85900" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1187189031" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3999124001" type="highlight" log_data="a-v=-PXRZl_kNko&amp;a-id=annotation_3999124001&amp;ei=tMk9XNH8E4T8igSssYvgBQ&amp;xble=1&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjRpo_43O_fAhUEvoIKHazYAlwo-B0yAml2SMrskP_lrPT6-AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="24.56400" y="56.90100" w="57.80500" h="35.66200" t="3:32.703"/>
+      <rectRegion x="24.56400" y="56.90100" w="57.80500" h="35.66200" t="3:35.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+</annotations></document>

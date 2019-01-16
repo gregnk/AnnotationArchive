@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI9vbYxonv3wIVCSgDCh0c4gHBKPgdMgJpdkin067TvPvR200">
+<annotation id="annotation_3323535849" type="highlight" log_data="l-class=14&amp;a-v=TbdH28prqac&amp;link=http%3A%2F%2Fwww.twitter.com%2Fvsaucethree&amp;xble=1&amp;a-type=3&amp;a-id=annotation_3323535849&amp;ei=RHI9XPbEIInQDJzEh4gM" itct="CAEQs-UBGP___________wEiEwj29tjGie_fAhUJKAMKHRziAcEo-B0yAml2SKfTrtO8-9HbTQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.29000" y="53.80300" w="84.11300" h="31.17200" t="3:16.082"/>
+      <rectRegion x="7.29000" y="53.80300" w="84.11300" h="31.17200" t="3:22.018"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="8148142" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.twitter.com/vsaucethree" link_class="14"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_754766533" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3323535849">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3323535849" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:551d076a-0000-2d17-82e2-001a113f250e" style="branding" type="branding"
+            log_data="l-class=3&amp;a-v=TbdH28prqac&amp;a-ch=UCwmFOfFuvRPI112vR5DNnrA&amp;a-type=10&amp;a-id=551d076a-0000-2d17-82e2-001a113f250e&amp;link-id=UCwmFOfFuvRPI112vR5DNnrA&amp;xble=0&amp;ei=RHI9XPbEIInQDJzEh4gM">
+  <data>{&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;Vsauce3&quot;,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;TbdH28prqac&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCPb22MaJ798CFQkoAwodHOIBwSj4HTICaXZIp9Ou07z70dtN&quot;,&quot;annotation_id&quot;:&quot;551d076a-0000-2d17-82e2-001a113f250e&quot;,&quot;ei&quot;:&quot;RHI9XPbEIInQDJzEh4gM&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;channel_id&quot;:&quot;UCwmFOfFuvRPI112vR5DNnrA&quot;,&quot;image_height&quot;:28,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/wmFOfFuvRPI112vR5DNnrA\/featured_channel.jpg?v=553fc27b&quot;,&quot;start_ms&quot;:195000,&quot;use_standalone_subscribe_button&quot;:true,&quot;end_ms&quot;:210000,&quot;image_width&quot;:48,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;unsubscribeCount&quot;:&quot;3.6M&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26continue_action%3DQUFFLUhqbmRsdjZIUHM5dEFTS0s5MVFhR09kVks4cTEtQXxBQ3Jtc0ttbE15bkJPeG96bW5OV0NCNmFvR0dWQkJtNTFiM0NQdDdBN0xKb0tBT0FVeHZaVlJxbHkzS2RISllXbklOMXI5dUpZZS1taENtZ2QtMU9XSGk2MDF2eVJyNDNRRVJuYjBSckxlbDhNWWxLQ1VlaVU1YVRCRlJFemhFQlJTUHhibGJtcVFLRk90eURnUVNOSlk4cllVbkgyTHRsVVVYWWpVc0ZoT255T2t4WGxweUVtWUJVSkc3aXp1d05CWFJhTE9ZNHluclY4TURrOTZfWlJLOW5pVEpqVG04T0tyTUJuam1NZ1hlM1h6QkVEUEtPa2I0%26app%3Ddesktop%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FVsauce3%26action_handle_signin%3Dtrue\u0026uilel=3\u0026service=youtube\u0026hl=en&quot;,&quot;subscribeCount&quot;:&quot;3.6M&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true},&quot;num_subscribers&quot;:&quot;3612612&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Vsauce3"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMItcXZk4Lv3wIVS1IDCh2Kcg_rKPgdMgJpdkjBr-DXrcuT8twB">
+<annotation id="annotation_1580504755" type="text" style="popup" log_data="ei=gmo9XLX8IMukDYrlvdgO&amp;l-class=3&amp;xble=1&amp;a-id=annotation_1580504755&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmatthewpatrick13&amp;a-v=3OROWtr4F8E" itct="CAEQs-UBGP___________wEiEwi1xdmTgu_fAhVLUgMKHYpyD-so-B0yAml2SMGv4Nety5Py3AE">
+  <TEXT>or the underdog, SMITE!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="33.43900" y="2.81700" w="31.89400" h="10.85900" t="13:44.202"/>
+      <rectRegion x="33.43900" y="2.81700" w="31.89400" h="10.85900" t="14:01.652"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="8249205" fgColor="16777215" textSize="4.814266666666667" effects="bevel dropshadow textdropshadow">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/matthewpatrick13?annotation_id=annotation_1580504755&amp;ei=gmo9XLX8IMukDYrlvdgO&amp;feature=iv&amp;src_vid=3OROWtr4F8E" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2512703829" type="highlight" log_data="ei=gmo9XLX8IMukDYrlvdgO&amp;l-class=3&amp;xble=1&amp;a-id=annotation_2512703829&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmatthewpatrick13&amp;a-v=3OROWtr4F8E" itct="CAIQs-UBGP___________wEiEwi1xdmTgu_fAhVLUgMKHYpyD-so-B0yAml2SMGv4Nety5Py3AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="19.15500" w="35.76900" h="72.04300" t="13:44.226"/>
+      <rectRegion x="0.00000" y="19.15500" w="35.76900" h="72.04300" t="14:01.653"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/matthewpatrick13?annotation_id=annotation_2512703829&amp;ei=gmo9XLX8IMukDYrlvdgO&amp;feature=iv&amp;src_vid=3OROWtr4F8E" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3163713899" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>LoL</TEXT>
+  <segment spaceRelative="annotation_491795359">
+    <movingRegion type="rect">
+      <rectRegion x="27.82400" y="88.73200" w="7.09200" h="4.02400" t="never"/>
+      <rectRegion x="27.82400" y="88.73200" w="7.09200" h="4.02400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_491795359" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_491795359" type="highlight" log_data="ei=gmo9XLX8IMukDYrlvdgO&amp;l-class=3&amp;xble=1&amp;a-id=annotation_491795359&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmatthewpatrick13&amp;a-v=3OROWtr4F8E" itct="CAMQs-UBGP___________wEiEwi1xdmTgu_fAhVLUgMKHYpyD-so-B0yAml2SMGv4Nety5Py3AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="62.13200" y="17.21100" w="37.86800" h="76.32600" t="13:44.226"/>
+      <rectRegion x="62.13200" y="17.21100" w="37.86800" h="76.32600" t="14:01.652"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/matthewpatrick13?annotation_id=annotation_491795359&amp;ei=gmo9XLX8IMukDYrlvdgO&amp;feature=iv&amp;src_vid=3OROWtr4F8E" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_998438373" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>DOTA</TEXT>
+  <segment spaceRelative="annotation_2512703829">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2512703829" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:589a634a-0000-2089-9b8f-94eb2c11b654" style="branding" type="branding"
+            log_data="l-class=3&amp;xble=0&amp;a-id=589a634a-0000-2089-9b8f-94eb2c11b654&amp;a-type=10&amp;ei=gmo9XLX8IMukDYrlvdgO&amp;a-ch=UCo_IB5145EVNcf8hw1Kku7w&amp;a-v=3OROWtr4F8E&amp;link-id=UCo_IB5145EVNcf8hw1Kku7w">
+  <data>{&quot;channel_name&quot;:&quot;The Game Theorists&quot;,&quot;image_width&quot;:40,&quot;image_height&quot;:40,&quot;end_ms&quot;:842000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;11375813&quot;,&quot;channel_id&quot;:&quot;UCo_IB5145EVNcf8hw1Kku7w&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCLXF2ZOC798CFUtSAwodinIP6yj4HTICaXZIwa_g163Lk_LcAQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;gmo9XLX8IMukDYrlvdgO&quot;,&quot;annotation_id&quot;:&quot;589a634a-0000-2089-9b8f-94eb2c11b654&quot;,&quot;src_vid&quot;:&quot;3OROWtr4F8E&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26action_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26continue_action%3DQUFFLUhqbGw5ejVraFlzUTRBUjA0elo0bVJMZWxIY09YUXxBQ3Jtc0trLWp0dEJObWhLQVpRWk1RbEdkT0t1YmlMU0h2RmdwbmlXOF9UZE9uYklkcjBmU2R4a3drOTl6bTVyakJiUUs4eUJGTUhPYWd1Wm5odHNkbTQxSTNQT0t6SGpvdm9SMzJsWW9aT3ZvN0R1a3QtMWlyeG5xbWVQYS0tWFM3a1FjMU9ReEhlNFBIMXNsbEVpeHVIem12eE1nZmdyMndvZEQ5Mmd1QjFDR19IV0pEZm52bVpJbjBKT0owV3JTXzVOREVkV2dKbThpVEkwV2FVaWlwZEZZc1JEbzRmNHhHaUUwd1o4cWJhRGdST1Q0YmRfQWhZ%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FMatthewPatrick13\u0026uilel=3\u0026passive=true&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;unsubscribeCount&quot;:&quot;11M&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeCount&quot;:&quot;11M&quot;,&quot;enabled&quot;:false,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/o_IB5145EVNcf8hw1Kku7w\/featured_channel.jpg?v=589d1a88&quot;,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/MatthewPatrick13"/>
+  </action>
+</annotation>
+<annotation id="video:45c5dc1d-34d2-41f9-94d8-57c9a64fc80b" style="video" type="card" log_data="a-ch=UCo_IB5145EVNcf8hw1Kku7w&amp;a-id=45c5dc1d-34d2-41f9-94d8-57c9a64fc80b&amp;a-type=62&amp;a-v=3OROWtr4F8E&amp;ei=gmo9XLX8IMukDYrlvdgO&amp;l-class=1&amp;link-id=UiPZFPYhmzs&amp;xble=0">
+  <data>{&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAkQ1TYY____________ASITCLXF2ZOC798CFUtSAwodinIP6yj4HTIFY2FyZHNIwa_g163Lk_LcAQ&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCLXF2ZOC798CFUtSAwodinIP6yj4HTIFY2FyZHNIwa_g163Lk_LcAQ&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwi1xdmTgu_fAhVLUgMKHYpyD-so-B0yBWNhcmRzSMGv4Nety5Py3AE&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=UiPZFPYhmzs&quot;,&quot;teaser_text&quot;:&quot;Suggested: Game Theory: Are SMITE&#39;s Goddesses TOO SEXY?&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;end_ms&quot;:415748,&quot;target&quot;:&quot;new&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;video_duration&quot;:&quot;13:40&quot;,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCLXF2ZOC798CFUtSAwodinIP6yj4HTIFY2FyZHNIwa_g163Lk_LcAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;gmo9XLX8IMukDYrlvdgO&quot;,&quot;annotation_id&quot;:&quot;45c5dc1d-34d2-41f9-94d8-57c9a64fc80b&quot;,&quot;src_vid&quot;:&quot;3OROWtr4F8E&quot;},&quot;card_type&quot;:&quot;video&quot;,&quot;title&quot;:&quot;Game Theory: Are SMITE&#39;s Goddesses TOO SEXY?&quot;,&quot;start_ms&quot;:415748,&quot;meta_info&quot;:[&quot;by The Game Theorists&quot;,&quot;7,415,807 views&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/UiPZFPYhmzs\/mqdefault.jpg&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=UiPZFPYhmzs"/>
+  </action>
+</annotation>
+
+<annotation id="video:903bf14e-7c83-47ae-a905-81e7a3cbfabf" style="video" type="card" log_data="a-ch=UCo_IB5145EVNcf8hw1Kku7w&amp;a-id=903bf14e-7c83-47ae-a905-81e7a3cbfabf&amp;a-type=62&amp;a-v=3OROWtr4F8E&amp;ei=gmo9XLX8IMukDYrlvdgO&amp;l-class=1&amp;link-id=ZUkmL8z6I2w&amp;xble=0">
+  <data>{&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA0Q1TYY____________ASITCLXF2ZOC798CFUtSAwodinIP6yj4HTIFY2FyZHNIwa_g163Lk_LcAQ&quot;,&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCLXF2ZOC798CFUtSAwodinIP6yj4HTIFY2FyZHNIwa_g163Lk_LcAQ&quot;,&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwi1xdmTgu_fAhVLUgMKHYpyD-so-B0yBWNhcmRzSMGv4Nety5Py3AE&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=ZUkmL8z6I2w&quot;,&quot;teaser_text&quot;:&quot;Suggested: Game Theory Presents - DeadLock: SNES vs. Genesis&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;end_ms&quot;:773730,&quot;target&quot;:&quot;new&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;video_duration&quot;:&quot;11:58&quot;,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCLXF2ZOC798CFUtSAwodinIP6yj4HTIFY2FyZHNIwa_g163Lk_LcAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;gmo9XLX8IMukDYrlvdgO&quot;,&quot;annotation_id&quot;:&quot;903bf14e-7c83-47ae-a905-81e7a3cbfabf&quot;,&quot;src_vid&quot;:&quot;3OROWtr4F8E&quot;},&quot;card_type&quot;:&quot;video&quot;,&quot;title&quot;:&quot;Game Theory Presents - DeadLock: SNES vs. Genesis&quot;,&quot;start_ms&quot;:773730,&quot;meta_info&quot;:[&quot;by The Game Theorists&quot;,&quot;3,014,784 views&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/ZUkmL8z6I2w\/mqdefault.jpg&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=ZUkmL8z6I2w"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwi1xdmTgu/fAhVLUgMKHYpyD+so+B0yBWNhcmRzSMGv4Nety5Py3AE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwi1xdmTgu/fAhVLUgMKHYpyD+so+B0yBWNhcmRzSMGv4Nety5Py3AE=&quot;, 
+  &quot;headerText&quot;: &quot;From The Game Theorists&quot;, 
+  &quot;eventId&quot;: &quot;gmo9XLX8IMukDYrlvdgO&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCLXF2ZOC798CFUtSAwodinIP6yj4HTIFY2FyZHNIwa/g163Lk/LcAQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

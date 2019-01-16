@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI45_O-P3u3wIVRCODCh3KFQe-KPgdMgJpdkjRg-rnrtf3mpQB">
+<annotation id="annotation_1570160503" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Firestreak&#39;s Channel!</TEXT>
+  <segment spaceRelative="annotation_1595236735">
+    <movingRegion type="rect">
+      <rectRegion x="-1.10900" y="20.00000" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-1.10900" y="20.00000" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1595236735" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1595236735" type="highlight" log_data="ei=F2Y9XKO4PMTGjATKq5zwCw&amp;a-v=lDXeuuz6gdE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCd31ceS3gsahbHU9W-4iIpQ&amp;a-id=annotation_1595236735&amp;a-type=3&amp;xble=1&amp;l-class=3" itct="CAEQs-UBGP___________wEiEwjjn874_e7fAhVEI4MKHcoVB74o-B0yAml2SNGD6ueu1_ealAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="8.87500" y="51.83100" w="82.36900" h="19.62000" t="00:07:18.5"/>
+      <rectRegion x="8.87500" y="51.83100" w="82.36900" h="19.62000" t="00:07:24.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCd31ceS3gsahbHU9W-4iIpQ?annotation_id=annotation_1595236735&amp;ei=F2Y9XKO4PMTGjATKq5zwCw&amp;feature=iv&amp;src_vid=lDXeuuz6gdE" link_class="3"/>
+  </action>
+
+</annotation>
+</annotations></document>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIhPKJzofv3wIVkmwwCh1rEAgcKPgdMgJpdkjn6KT-j-7p4TE">
+<annotation id="annotation_110402" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Derpy Bird Time</TEXT>
+  <segment spaceRelative="annotation_872307">
+    <movingRegion type="rect">
+      <rectRegion x="-0.93700" y="25.83300" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="-0.93700" y="25.83300" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_872307" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_41980" type="text" style="popup" log_data="a-v=McOncP_JNGc&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fjoshmanisdabomb&amp;xble=1&amp;ei=O3A9XMToCJLZwQHroKDgAQ&amp;l-class=3&amp;a-type=1&amp;a-id=annotation_41980" itct="CAEQs-UBGP___________wEiEwiE8onOh-_fAhWSbDAKHWsQCBwo-B0yAml2SOfopP6P7unhMQ">
+  <TEXT>Josh</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.03100" y="78.61100" w="24.06300" h="15.83300" t="0:06:43.4"/>
+      <rectRegion x="2.03100" y="78.61100" w="24.06300" h="15.83300" t="0:07:14.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/joshmanisdabomb?annotation_id=annotation_41980&amp;ei=O3A9XMToCJLZwQHroKDgAQ&amp;feature=iv&amp;src_vid=McOncP_JNGc" link_class="3"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_795720" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Help my mother find out how to get hot water.</TEXT>
+  <segment spaceRelative="annotation_873454">
+    <movingRegion type="rect">
+      <rectRegion x="-0.62500" y="13.33300" w="25.00000" h="10.00000" t="never"/>
+      <rectRegion x="-0.62500" y="13.33300" w="25.00000" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_873454" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_83829" type="highlight" log_data="a-v=McOncP_JNGc&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dg5ker_r69Jc&amp;xble=1&amp;ei=O3A9XMToCJLZwQHroKDgAQ&amp;l-class=1&amp;a-type=3&amp;a-id=annotation_83829" itct="CAIQs-UBGP___________wEiEwiE8onOh-_fAhWSbDAKHWsQCBwo-B0yAml2SOfopP6P7unhMQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.62500" y="1.38900" w="22.96900" h="13.33300" t="0:06:43.4"/>
+      <rectRegion x="75.62500" y="1.38900" w="22.96900" h="13.33300" t="0:07:14.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_83829&amp;ei=O3A9XMToCJLZwQHroKDgAQ&amp;feature=iv&amp;src_vid=McOncP_JNGc&amp;v=g5ker_r69Jc" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_872307" type="highlight" log_data="a-v=McOncP_JNGc&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsgkBXlWutpE&amp;xble=1&amp;ei=O3A9XMToCJLZwQHroKDgAQ&amp;l-class=1&amp;a-type=3&amp;a-id=annotation_872307" itct="CAMQs-UBGP___________wEiEwiE8onOh-_fAhWSbDAKHWsQCBwo-B0yAml2SOfopP6P7unhMQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.93800" y="15.27800" w="22.50000" h="11.66700" t="0:06:43.4"/>
+      <rectRegion x="75.93800" y="15.27800" w="22.50000" h="11.66700" t="0:07:14.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_872307&amp;ei=O3A9XMToCJLZwQHroKDgAQ&amp;feature=iv&amp;src_vid=McOncP_JNGc&amp;v=sgkBXlWutpE" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_873454" type="highlight" log_data="a-v=McOncP_JNGc&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Djoshmanisdabomb&amp;xble=1&amp;ei=O3A9XMToCJLZwQHroKDgAQ&amp;l-class=5&amp;a-type=3&amp;a-id=annotation_873454" itct="CAQQs-UBGP___________wEiEwiE8onOh-_fAhWSbDAKHWsQCBwo-B0yAml2SOfopP6P7unhMQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="75.62500" y="27.77800" w="22.81300" h="12.22200" t="0:06:43.4"/>
+      <rectRegion x="75.62500" y="27.77800" w="22.81300" h="12.22200" t="0:07:14.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=joshmanisdabomb&amp;annotation_id=annotation_873454&amp;ei=O3A9XMToCJLZwQHroKDgAQ&amp;feature=iv&amp;src_vid=McOncP_JNGc" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_951313" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>DeathSmith&#39;s Camtasia Studio Spaghetti Edition</TEXT>
+  <segment spaceRelative="annotation_83829">
+    <movingRegion type="rect">
+      <rectRegion x="-0.62500" y="39.44400" w="25.00000" h="10.00000" t="never"/>
+      <rectRegion x="-0.62500" y="39.44400" w="25.00000" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_83829" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:521909e2-0-2cf5-956a-47d7b3a8fdc" style="branding" type="branding"
+            log_data="xble=0&amp;a-v=McOncP_JNGc&amp;ei=O3A9XMToCJLZwQHroKDgAQ&amp;l-class=3&amp;a-ch=UCoeVgc-OYaaCqUEejYvPwHw&amp;link-id=UCoeVgc-OYaaCqUEejYvPwHw&amp;a-type=10&amp;a-id=521909e2-0-2cf5-956a-47d7b3a8fdc">
+  <data>{&quot;end_ms&quot;:434000,&quot;is_mobile&quot;:false,&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;joshmanisdabomb&quot;,&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCoeVgc-OYaaCqUEejYvPwHw&quot;,&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/oeVgc-OYaaCqUEejYvPwHw\/featured_channel.jpg?v=52290abb&quot;,&quot;image_width&quot;:40,&quot;num_subscribers&quot;:&quot;2540&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;2.5K&quot;,&quot;unsubscribeCount&quot;:&quot;2.5K&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbmQ0dm9GbXdwam1PdnJGUkJ4V19wYlJWektVUXxBQ3Jtc0trS2RWYzMyOWdjR3RpYklBakVDbTR1S2JPYzRjTjlzMkllcl9SSUU0U1hDaDNaTGRmR3d2VWZCSnBhZC1reUhNYW5qWHBuNkJJcEIySkJnYnRPa0JYZE5sOE9STW91SjVSQml1bVNkWnEtYnFzVUp5TmdyR0g5YU5zM0FWTkxMWkxJZU94eFFHOVZQbUZLdUw5MHcySTRnY3BRUVl1Zm1URm9DeFFhQlQwaURrS3NGNXN4cHhIaXYwYl9TTGJ4R3ozT3JlMmc3ajc2VE5DN1l2SmNmUXhFaTk3Z1VzclBtT3pWNHptcmdmUW1Cb2JoeWE4%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fjoshmanisdabomb%26feature%3Div\u0026uilel=3\u0026service=youtube&quot;,&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;},&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;521909e2-0-2cf5-956a-47d7b3a8fdc&quot;,&quot;ei&quot;:&quot;O3A9XMToCJLZwQHroKDgAQ&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCITyic6H798CFZJsMAodaxAIHCj4HTICaXZI5-ik_o_u6eEx&quot;,&quot;src_vid&quot;:&quot;McOncP_JNGc&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/joshmanisdabomb"/>
+  </action>
+</annotation></annotations></document>

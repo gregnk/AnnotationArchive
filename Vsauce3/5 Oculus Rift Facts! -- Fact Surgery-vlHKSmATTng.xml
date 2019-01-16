@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI-ZeMxYnv3wIVkUYwCh2qTQiMKPgdMgJpdkj4nM2ApsnyqL4B">
+<annotation id="annotation_3550799789" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_501007255">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_501007255" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_501007255" type="highlight" log_data="a-id=annotation_501007255&amp;a-type=3&amp;ei=QXI9XLnzCpGNwQGqm6HgCA&amp;a-v=vlHKSmATTng&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fvsauce3%3Fsub_confirmation%3D1&amp;xble=1&amp;l-class=5" itct="CAEQs-UBGP___________wEiEwj5l4zFie_fAhWRRjAKHapNCIwo-B0yAml2SPiczYCmyfKovgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.76700" y="64.78900" w="26.26800" h="19.60900" t="1:59.566"/>
+      <rectRegion x="36.76700" y="64.78900" w="26.26800" h="19.60900" t="2:03.074"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="8148142" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/vsauce3?annotation_id=annotation_501007255&amp;ei=QXI9XLnzCpGNwQGqm6HgCA&amp;feature=iv&amp;src_vid=vlHKSmATTng&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:551d076a-0000-2d17-82e2-001a113f250e" style="branding" type="branding"
+            log_data="a-id=551d076a-0000-2d17-82e2-001a113f250e&amp;a-type=10&amp;ei=QXI9XLnzCpGNwQGqm6HgCA&amp;a-v=vlHKSmATTng&amp;link-id=UCwmFOfFuvRPI112vR5DNnrA&amp;a-ch=UCwmFOfFuvRPI112vR5DNnrA&amp;xble=0&amp;l-class=3">
+  <data>{&quot;image_width&quot;:48,&quot;end_ms&quot;:131000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_name&quot;:&quot;Vsauce3&quot;,&quot;num_subscribers&quot;:&quot;3612612&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=en\u0026uilel=3\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FVsauce3%26app%3Ddesktop%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqazE3ZWQxczBQNmdGNGw3ZTlkazlGZWYtWjkwd3xBQ3Jtc0tscmZYU1YtemFxel9xZHRVcWNFU1p5VkI4MnFsWlloTTJ0N3ZDMmhvTUFtUUExczA5VEFoUDBEb291bTMySkF1TGo1UFZYdlhNU3FuMnE4SHBmTGRxNXd1ekpaYW1yU0hLQkpmZ3BtNUZRWkwxVlhZR01Wc0hhYkR6MDItYl9OcVYtdDRIQ0x4SEVWUFFHeUF0aTFFM1RRQVp1U3FQNnlucVJSSmlDbzJzb0NQYWRCdjNlOUhRZC1rNHlfV2wtMGcxdzJUbHlIdlJ4M3dMRlZhSWpvZmE3dHRfLTMzVjNiU3pPZkhRQUs0VTQtVy1DZGhV%26hl%3Den&quot;,&quot;subscribeCount&quot;:&quot;3.6M&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;3.6M&quot;},&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;551d076a-0000-2d17-82e2-001a113f250e&quot;,&quot;ei&quot;:&quot;QXI9XLnzCpGNwQGqm6HgCA&quot;,&quot;src_vid&quot;:&quot;vlHKSmATTng&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCPmXjMWJ798CFZFGMAodqk0IjCj4HTICaXZI-JzNgKbJ8qi-AQ&quot;},&quot;is_mobile&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/wmFOfFuvRPI112vR5DNnrA\/featured_channel.jpg?v=553fc27b&quot;,&quot;start_ms&quot;:116000,&quot;channel_id&quot;:&quot;UCwmFOfFuvRPI112vR5DNnrA&quot;,&quot;image_height&quot;:28,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Vsauce3"/>
+  </action>
+</annotation></annotations></document>

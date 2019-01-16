@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIhP6Xmd3v3wIVGbgNCh2VlwKLKPgdMgJpdkjPt_ji1LeIxgs">
+<annotation id="annotation_1291089545" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1460762823">
+    <movingRegion type="rect">
+      <rectRegion x="8.87500" y="-0.56300" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="8.87500" y="-0.56300" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1460762823" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1367861635" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Previous video</TEXT>
+  <segment spaceRelative="annotation_1924779555">
+    <movingRegion type="rect">
+      <rectRegion x="26.78300" y="0.84500" w="23.09800" h="9.93000" t="never"/>
+      <rectRegion x="26.78300" y="0.84500" w="23.09800" h="9.93000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1924779555" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1443880719" type="text" style="popup" log_data="a-type=1&amp;a-v=C4whvUxeG88&amp;a-id=annotation_1443880719&amp;l-class=1&amp;xble=1&amp;ei=-ck9XMSdKZnwNpWvitgI&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYJ6MglxlKo8%26list%3DUUcEPmwpXKrKzZahqjwpIAsQ" itct="CAEQs-UBGP___________wEiEwiE_peZ3e_fAhUZuA0KHZWXAoso-B0yAml2SM-3-OLUt4jGCw">
+  <TEXT>Episode 2</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="82.68500" y="0.00000" w="17.31500" h="8.59200" t="13:34.809"/>
+      <rectRegion x="82.68500" y="0.00000" w="17.31500" h="8.59200" t="13:58.561"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1443880719&amp;ei=-ck9XMSdKZnwNpWvitgI&amp;feature=iv&amp;list=UUcEPmwpXKrKzZahqjwpIAsQ&amp;src_vid=C4whvUxeG88&amp;v=YJ6MglxlKo8" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1460762823" type="highlight" log_data="a-type=3&amp;a-v=C4whvUxeG88&amp;a-id=annotation_1460762823&amp;l-class=5&amp;xble=1&amp;ei=-ck9XMSdKZnwNpWvitgI&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fwonderwhy7439%3Fsub_confirmation%3D1" itct="CAIQs-UBGP___________wEiEwiE_peZ3e_fAhUZuA0KHZWXAoso-B0yAml2SM-3-OLUt4jGCw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.80500" y="79.43700" w="34.03300" h="14.53500" t="13:53.116"/>
+      <rectRegion x="32.80500" y="79.43700" w="34.03300" h="14.53500" t="13:58.600"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/wonderwhy7439?annotation_id=annotation_1460762823&amp;ei=-ck9XMSdKZnwNpWvitgI&amp;feature=iv&amp;src_vid=C4whvUxeG88&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1924779555" type="highlight" log_data="a-type=3&amp;a-v=C4whvUxeG88&amp;a-id=annotation_1924779555&amp;l-class=1&amp;xble=1&amp;ei=-ck9XMSdKZnwNpWvitgI&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgtLxZiiuaXs" itct="CAMQs-UBGP___________wEiEwiE_peZ3e_fAhUZuA0KHZWXAoso-B0yAml2SM-3-OLUt4jGCw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.80300" y="20.00000" w="47.66200" h="48.33800" t="13:53.116"/>
+      <rectRegion x="3.80300" y="20.00000" w="47.66200" h="48.33800" t="13:58.600"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1924779555&amp;ei=-ck9XMSdKZnwNpWvitgI&amp;feature=iv&amp;src_vid=C4whvUxeG88&amp;v=gtLxZiiuaXs" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2947788275" type="text" style="popup" log_data="a-id=annotation_2947788275&amp;a-type=1&amp;a-v=C4whvUxeG88&amp;xble=1&amp;ei=-ck9XMSdKZnwNpWvitgI" itct="CAQQs-UBGP___________wEiEwiE_peZ3e_fAhUZuA0KHZWXAoso-B0yAml2SM-3-OLUt4jGCw">
+  <TEXT>(Actually, China also borders 14 countries)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.81800" y="93.52100" w="35.22300" h="6.62700" t="0:44.200"/>
+      <rectRegion x="64.81800" y="93.52100" w="35.22300" h="6.62700" t="0:48.548"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="video:2c6af847-6a90-445b-953d-c398281b0757" style="video" type="card" log_data="a-ch=UCcEPmwpXKrKzZahqjwpIAsQ&amp;a-id=2c6af847-6a90-445b-953d-c398281b0757&amp;a-type=62&amp;a-v=C4whvUxeG88&amp;ei=-ck9XMSdKZnwNpWvitgI&amp;l-class=1&amp;link-id=nx4VdNPhV-4&amp;xble=0">
+  <data>{&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:703143,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=nx4VdNPhV-4&quot;,&quot;target&quot;:&quot;new&quot;,&quot;end_ms&quot;:703143,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCIT-l5nd798CFRm4DQodlZcCiyj4HTIFY2FyZHNIz7f44tS3iMYL&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwiE_peZ3e_fAhUZuA0KHZWXAoso-B0yBWNhcmRzSM-3-OLUt4jGCw&quot;,&quot;card&quot;:&quot;CAkQ1TYY____________ASITCIT-l5nd798CFRm4DQodlZcCiyj4HTIFY2FyZHNIz7f44tS3iMYL&quot;},&quot;timestamp&quot;:1503681453198,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;teaser_text&quot;:&quot;Suggested: What&#39;s the oldest country in the world?&quot;,&quot;title&quot;:&quot;What&#39;s the oldest country in the world?&quot;,&quot;meta_info&quot;:[&quot;by WonderWhy&quot;,&quot;1,432,736 views&quot;],&quot;video_duration&quot;:&quot;16:33&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;C4whvUxeG88&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCIT-l5nd798CFRm4DQodlZcCiyj4HTIFY2FyZHNIz7f44tS3iMYL&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;2c6af847-6a90-445b-953d-c398281b0757&quot;,&quot;ei&quot;:&quot;-ck9XMSdKZnwNpWvitgI&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/nx4VdNPhV-4\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=nx4VdNPhV-4"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwiE/peZ3e/fAhUZuA0KHZWXAoso+B0yBWNhcmRzSM+3+OLUt4jGCw==&quot;, 
+  &quot;headerText&quot;: &quot;From WonderWhy&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCIT+l5nd798CFRm4DQodlZcCiyj4HTIFY2FyZHNIz7f44tS3iMYL&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwiE/peZ3e/fAhUZuA0KHZWXAoso+B0yBWNhcmRzSM+3+OLUt4jGCw==&quot;, 
+  &quot;eventId&quot;: &quot;-ck9XMSdKZnwNpWvitgI&quot;
+}</data>
+</annotation>
+</annotations></document>

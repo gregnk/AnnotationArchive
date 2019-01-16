@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI-Yea5_3u3wIViYUDCh0mGgfrKPgdMgJpdkjCtdGUyNLztNwB"><annotation author="" id="annotation_1858567649" itct="CAEQs-UBGP___________wEiEwj5h5rn_e7fAhWJhQMKHSYaB-so-B0yAml2SMK10ZTI0vO03AE" log_data="ei=82U9XLnCHYmLDqa0nNgO&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FNISLT%2Fvideos&amp;a-v=3GnOlIKUWsI&amp;a-type=9&amp;xble=1&amp;l-class=3&amp;a-id=annotation_1858567649" style="label" type="text"><segment><movingRegion type="rect"><rectRegion d="0" h="18.3379993439" t="0:28.884" w="45.9189987183" x="26.4659996033" y="77.4649963379" /><rectRegion d="0" h="18.3379993439" t="0:39.131" w="45.9189987183" x="26.4659996033" y="77.4649963379" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="3" target="current" trusted="true" value="https://www.youtube.com/user/NISLT/videos?annotation_id=annotation_1858567649&amp;ei=82U9XLnCHYmLDqa0nNgO&amp;feature=iv&amp;src_vid=3GnOlIKUWsI" /></action><appearance effects="" textSize="3.911599999999999" /></annotation>
+<annotation id="annotation_236127725" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>TF2: How to splendid screen</TEXT>
+  <segment spaceRelative="annotation_3293102801">
+    <movingRegion type="rect">
+      <rectRegion x="28.36800" y="1.12700" w="33.08200" h="25.84500" t="never"/>
+      <rectRegion x="28.36800" y="1.12700" w="33.08200" h="25.84500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_3293102801" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2876471275" type="text" style="popup" log_data="ei=82U9XLnCHYmLDqa0nNgO&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3Ktskslt4yk&amp;a-v=3GnOlIKUWsI&amp;a-type=1&amp;xble=1&amp;l-class=1&amp;a-id=annotation_2876471275" itct="CAIQs-UBGP___________wEiEwj5h5rn_e7fAhWJhQMKHSYaB-so-B0yAml2SMK10ZTI0vO03AE">
+  <TEXT>NEXT&gt;&gt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="74.12000" y="0.00000" w="25.88000" h="15.93000" t="0:28.884"/>
+      <rectRegion x="74.12000" y="0.00000" w="25.88000" h="15.93000" t="0:39.131"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2876471275&amp;ei=82U9XLnCHYmLDqa0nNgO&amp;feature=iv&amp;src_vid=3GnOlIKUWsI&amp;v=3Ktskslt4yk" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3293102801" type="highlight" log_data="ei=82U9XLnCHYmLDqa0nNgO&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGxL5Ll7ZQto&amp;a-v=3GnOlIKUWsI&amp;a-type=3&amp;xble=1&amp;l-class=1&amp;a-id=annotation_3293102801" itct="CAMQs-UBGP___________wEiEwj5h5rn_e7fAhWJhQMKHSYaB-so-B0yAml2SMK10ZTI0vO03AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.01100" y="13.80300" w="25.00000" h="27.77800" t="0:28.884"/>
+      <rectRegion x="3.01100" y="13.80300" w="25.00000" h="27.77800" t="0:39.131"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3293102801&amp;ei=82U9XLnCHYmLDqa0nNgO&amp;feature=iv&amp;src_vid=3GnOlIKUWsI&amp;v=GxL5Ll7ZQto" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

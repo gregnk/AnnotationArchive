@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIrIDp7orv3wIVznEwCh3QtAenKPgdMgJpdki9qIn06-Xvkzg">
+<annotation id="annotation_201900" type="text" style="popup" log_data="a-id=annotation_201900&amp;ei=pXM9XOyZB87jwQHQ6Z64Cg&amp;a-type=1&amp;xble=1&amp;a-v=OCe_Lr6CVD0" itct="CAEQs-UBGP___________wEiEwisgOnuiu_fAhXOcTAKHdC0B6co-B0yAml2SL2oifTr5e-TOA">
+  <TEXT>Teleporting back to your starting position when you click MAKE KEY?!?! Try holding down the mouse button on the MAKE KEY button as you fly about the map, and when you get to the place you want to be, let go of the mouse button. Your view will jump back to your start position, but the key will be made in the right place.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.50000" y="6.38900" w="96.45800" h="25.00000" t="0:03:13.3"/>
+      <rectRegion x="2.50000" y="6.38900" w="96.45800" h="25.00000" t="0:03:26.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation><annotation author="3kliksphilip" id="annotation_398705" itct="CAIQs-UBGP___________wEiEwisgOnuiu_fAhXOcTAKHdC0B6co-B0yAml2SL2oifTr5e-TOA" log_data="a-id=annotation_398705&amp;ei=pXM9XOyZB87jwQHQ6Z64Cg&amp;a-type=2&amp;xble=1&amp;a-v=OCe_Lr6CVD0" style="speech" type="text"><TEXT>These purple lines must be close together, if there's a large space between them then your video will be vibratey and bumpy. To make it smoother, add more ticks between keyframes.</TEXT><segment><movingRegion type="anchored"><anchoredRegion h="18.2080001831" sx="41.9379997253" sy="67.5830001831" t="0:05:14.27" w="95.1149978638" x="2.72900009155" y="80.7220001221" /><anchoredRegion h="18.2080001831" sx="41.9379997253" sy="67.5830001831" t="0:05:19.27" w="95.1149978638" x="2.72900009155" y="80.7220001221" /></movingRegion></segment></annotation><annotation author="3kliksphilip" id="annotation_39971" itct="CAMQs-UBGP___________wEiEwisgOnuiu_fAhXOcTAKHdC0B6co-B0yAml2SL2oifTr5e-TOA" log_data="a-id=annotation_39971&amp;ei=pXM9XOyZB87jwQHQ6Z64Cg&amp;a-type=2&amp;xble=1&amp;a-v=OCe_Lr6CVD0" style="speech" type="text"><TEXT>There needs to be a gap of 100 or so ticks between keyframes or your video will vibrate and look horrible. The more ticks the better, try doing 200 just to make sure. It also depends upon how far apart the keyframes are.</TEXT><segment><movingRegion type="anchored"><anchoredRegion h="18.2080001831" sx="26.8229999542" sy="75.236000061" t="0:04:21.58" w="97.3330001831" x="0.0" y="80.138999939" /><anchoredRegion h="18.2080001831" sx="26.8229999542" sy="75.236000061" t="0:04:36.50" w="97.3330001831" x="0.0" y="80.138999939" /></movingRegion></segment></annotation>
+<annotation id="annotation_96362" type="text" style="popup" log_data="a-id=annotation_96362&amp;ei=pXM9XOyZB87jwQHQ6Z64Cg&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DICXPs0MjKuk&amp;xble=1&amp;a-v=OCe_Lr6CVD0&amp;l-class=1" itct="CAQQs-UBGP___________wEiEwisgOnuiu_fAhXOcTAKHdC0B6co-B0yAml2SL2oifTr5e-TOA">
+  <TEXT>Here, have a nice, new, cleaner tutorial on this subject- CLICK HERE</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.20800" y="35.27800" w="99.37500" h="31.94400" t="0:00:00.0"/>
+      <rectRegion x="0.20800" y="35.27800" w="99.37500" h="31.94400" t="0:07:00.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="8.42496666666667" effects="textdropshadow">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_96362&amp;ei=pXM9XOyZB87jwQHQ6Z64Cg&amp;feature=iv&amp;src_vid=OCe_Lr6CVD0&amp;v=ICXPs0MjKuk" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

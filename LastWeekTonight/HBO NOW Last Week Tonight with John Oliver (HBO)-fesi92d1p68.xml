@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3KOs-4bv3wIV5oXCAR04pQSDKPgdMgJpdkivz9a79t7I9X0">
+<annotation id="annotation_713392573" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_884138077">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_884138077" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_884138077" type="highlight" log_data="ei=jW89XJypJ-aLir4PuMqSmAg&amp;xble=1&amp;a-id=annotation_884138077&amp;link=http%3A%2F%2Forder.hbonow.com%2F%3Fcamp%3DNOWM79&amp;a-type=3&amp;l-class=12&amp;a-v=fesi92d1p68" itct="CAEQs-UBGP___________wEiEwjco6z7hu_fAhXmhcIBHTilBIMo-B0yAml2SK_P1rv23sj1fQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.13300" y="53.80300" w="27.85300" h="7.77500" t="1:54.436"/>
+      <rectRegion x="36.13300" y="53.80300" w="27.85300" h="7.77500" t="2:04.412"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://order.hbonow.com/?camp=NOWM79" link_class="12"/>
+  </action>
+
+</annotation>
+</annotations></document>

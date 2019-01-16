@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIqfiUyP7u3wIVwmgDCh2KjQOMKPgdMgJpdkjlpb6nxY7ckg0">
+<annotation id="annotation_1745232603" type="text" style="popup" log_data="ei=vmY9XKmhMsLRDYqbjuAI&amp;a-id=annotation_1745232603&amp;l-class=1&amp;xble=1&amp;a-v=DSVwdFTvkuU&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOZbR3f_SYZM&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwip-JTI_u7fAhXCaAMKHYqNA4wo-B0yAml2SOWlvqfFjtySDQ">
+  <TEXT>NEXT&gt;&gt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="68.25700" y="0.00000" w="31.74300" h="21.56300" t="4:47.150"/>
+      <rectRegion x="68.25700" y="0.00000" w="31.74300" h="21.56300" t="4:59.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14573741" fgColor="0" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1745232603&amp;ei=vmY9XKmhMsLRDYqbjuAI&amp;feature=iv&amp;src_vid=DSVwdFTvkuU&amp;v=OZbR3f_SYZM" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3297741061" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>TF2: How to assist for medic</TEXT>
+  <segment spaceRelative="annotation_3625516383">
+    <movingRegion type="rect">
+      <rectRegion x="26.78300" y="3.38000" w="30.54700" h="19.93000" t="never"/>
+      <rectRegion x="26.78300" y="3.38000" w="30.54700" h="19.93000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_3625516383" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_333565703" type="text" style="popup" log_data="ei=vmY9XKmhMsLRDYqbjuAI&amp;a-id=annotation_333565703&amp;l-class=1&amp;xble=1&amp;a-v=DSVwdFTvkuU&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwBGiHy_joYY&amp;a-type=1" itct="CAIQs-UBGP___________wEiEwip-JTI_u7fAhXCaAMKHYqNA4wo-B0yAml2SOWlvqfFjtySDQ">
+  <TEXT>TF2: How to do HEAD SHOT #2</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="13.62900" y="62.81700" w="75.31700" h="15.36600" t="4:47.150"/>
+      <rectRegion x="13.62900" y="62.81700" w="75.31700" h="15.36600" t="4:59.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="5218515" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_333565703&amp;ei=vmY9XKmhMsLRDYqbjuAI&amp;feature=iv&amp;src_vid=DSVwdFTvkuU&amp;v=wBGiHy_joYY" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3625516383" type="highlight" log_data="ei=vmY9XKmhMsLRDYqbjuAI&amp;a-id=annotation_3625516383&amp;l-class=1&amp;xble=1&amp;a-v=DSVwdFTvkuU&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdXqLh44ddzI&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwip-JTI_u7fAhXCaAMKHYqNA4wo-B0yAml2SOWlvqfFjtySDQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.85300" y="13.52100" w="25.00000" h="27.77800" t="4:47.150"/>
+      <rectRegion x="2.85300" y="13.52100" w="25.00000" h="27.77800" t="4:59.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3625516383&amp;ei=vmY9XKmhMsLRDYqbjuAI&amp;feature=iv&amp;src_vid=DSVwdFTvkuU&amp;v=dXqLh44ddzI" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

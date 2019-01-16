@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI7euv2uDv3wIViYUDCh3BiAtlKPgdMgJpdkjtu66ZvabQiSk">
+<annotation id="annotation_960046353" type="highlight" log_data="ei=p809XK38KYmLDsGRrqgG&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCn5rHarSrVDxsH7Sb5K_BDA&amp;a-v=KRNBM9Mrne0&amp;a-type=3&amp;xble=1&amp;l-class=3&amp;a-id=annotation_960046353" itct="CAEQs-UBGP___________wEiEwjt66_a4O_fAhWJhQMKHcGIC2Uo-B0yAml2SO27rpm9ptCJKQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="9.98400" y="29.85900" w="80.30100" h="37.35900" t="4:36.381"/>
+      <rectRegion x="9.98400" y="29.85900" w="80.30100" h="37.35900" t="4:46.139"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCn5rHarSrVDxsH7Sb5K_BDA?annotation_id=annotation_960046353&amp;ei=p809XK38KYmLDsGRrqgG&amp;feature=iv&amp;src_vid=KRNBM9Mrne0" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_994911707" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_960046353">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_960046353" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:587a2126-ff5-2aba-8495-e0cd59b14" style="branding" type="branding"
+            log_data="a-ch=UCLx053rWZxCiYWsBETgdKrQ&amp;ei=p809XK38KYmLDsGRrqgG&amp;a-v=KRNBM9Mrne0&amp;a-type=10&amp;link-id=UCLx053rWZxCiYWsBETgdKrQ&amp;xble=0&amp;l-class=3&amp;a-id=587a2126-ff5-2aba-8495-e0cd59b14">
+  <data>{&quot;num_subscribers&quot;:&quot;1049979&quot;,&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;LGR&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/Lx053rWZxCiYWsBETgdKrQ\/featured_channel.jpg?v=50ca1fcc&quot;,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;587a2126-ff5-2aba-8495-e0cd59b14&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;KRNBM9Mrne0&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCO3rr9rg798CFYmFAwodwYgLZSj4HTICaXZI7buumb2m0Ikp&quot;,&quot;ei&quot;:&quot;p809XK38KYmLDsGRrqgG&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;end_ms&quot;:287000,&quot;image_width&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeCount&quot;:&quot;1M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026passive=true\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbGVFSE1YYkR2YXRCOHY5cnhsbVVnS2hwd0pwd3xBQ3Jtc0tsd0Z5OWFGMWhvcTgzaThKakpLV3hhT0JtcmRZeVB3cTRqY0Y0bzBRYnBMam9rdC1naTBuRk1EYUtXYWlDT3ZoX0FPQndyc2lKZWJZMThBSk44VkNUYnNtbDI5UE5GZVR3Y0JwSTZMX2ltUkVOT3JzWVBwdUNiZ2FQR2gzV3Z1Xzg5VlBnYnhuTVhkb3JocDhyOG9femd2NUNUeVBVYnhnSGpVWWIyekR0NnRxSnZrOTNTdXlMQm1VUVI0VkI0d3RQdXpWMDdCVDl2LXh2YlAxRzY3WHNvVXJQdmxjeHdsVHlDMW9lNEpON1E4cmsxRnFv%26action_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fphreakindee&quot;,&quot;unsubscribeCount&quot;:&quot;1M&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_id&quot;:&quot;UCLx053rWZxCiYWsBETgdKrQ&quot;,&quot;image_height&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/phreakindee"/>
+  </action>
+</annotation></annotations></document>

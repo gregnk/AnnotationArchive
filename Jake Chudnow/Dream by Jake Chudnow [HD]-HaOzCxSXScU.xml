@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIrerQov3u3wIVCwADCh3V_gV6KPgdMgJpdkjFk92kseHs0R0">
+<annotation id="annotation_69840" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrUG8d3PHswg%26index%3D1%26list%3DSPEB70A61CE00960B8&amp;ei=Y2U9XO2sKYuADNX9l9AH&amp;a-id=annotation_69840&amp;a-type=3&amp;a-v=HaOzCxSXScU&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwit6tCi_e7fAhULAAMKHdX-BXoo-B0yAml2SMWT3aSx4ezRHQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.96900" y="66.38900" w="23.28100" h="16.94400" t="0:03:58.1"/>
+      <rectRegion x="37.96900" y="66.38900" w="23.28100" h="16.94400" t="0:04:04.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="15395562" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_69840&amp;ei=Y2U9XO2sKYuADNX9l9AH&amp;feature=iv&amp;index=1&amp;list=SPEB70A61CE00960B8&amp;src_vid=HaOzCxSXScU&amp;v=rUG8d3PHswg" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_949224" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Watch the next video</TEXT>
+  <segment spaceRelative="annotation_69840">
+    <movingRegion type="rect">
+      <rectRegion x="-3.75000" y="20.83300" w="31.87500" h="5.55600" t="never"/>
+      <rectRegion x="-3.75000" y="20.83300" w="31.87500" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_69840" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:5583f5a5-0000-23dc-b4f7-94eb2c08d89e" style="branding" type="branding"
+            log_data="xble=0&amp;ei=Y2U9XO2sKYuADNX9l9AH&amp;a-id=5583f5a5-0000-23dc-b4f7-94eb2c08d89e&amp;l-class=3&amp;a-v=HaOzCxSXScU&amp;a-type=10&amp;link-id=UC1UIj7Y9SphX5GuoG2e94XQ&amp;a-ch=UC1UIj7Y9SphX5GuoG2e94XQ">
+  <data>{&quot;image_height&quot;:40,&quot;end_ms&quot;:246000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/1UIj7Y9SphX5GuoG2e94XQ\/featured_channel.jpg?v=559511d5&quot;,&quot;start_ms&quot;:231000,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCK3q0KL97t8CFQsAAwod1f4Feij4HTICaXZIxZPdpLHh7NEd&quot;,&quot;annotation_id&quot;:&quot;5583f5a5-0000-23dc-b4f7-94eb2c08d89e&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;Y2U9XO2sKYuADNX9l9AH&quot;,&quot;src_vid&quot;:&quot;HaOzCxSXScU&quot;},&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;Jake Chudnow&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;num_subscribers&quot;:&quot;89770&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;unsubscribeCount&quot;:&quot;89K&quot;,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26hl%3Den%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fjakechudnow%26feature%3Div%26continue_action%3DQUFFLUhqbXl4YWZYLWVaTldSQjUyVVpKMTdNckdubEF2Z3xBQ3Jtc0trYjBHeXR1OTNqbnhPX0RYMVNkNGdXNU9NSUZRRmFvM2JDcDNxci1GVnJwUWRMMUZKMFdPbFh0X3oxTkJjYzJvbmN1dVlBNV90YnFsQ2NQV21keFJyY1BwbWRBdmR3ekdfbFlKUE1yd1hYLWhvQmIzdkZDV29pRFc3Zi1Ua0xYV250MmRSc1hBQm9qdFhjWnlvWU5pZWRCOTUyeGcybzh6Y0g5MU1STW5IUURkNEc4NHhFMnNYMDd6bEhzUVd1aEtrVGE3Nm55SW1qejExRmNoeEZzQTN3UWV6ckpEcWlvSktBQWpvVEZwbklMdmUtUWdz\u0026passive=true&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;89K&quot;,&quot;enabled&quot;:false},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UC1UIj7Y9SphX5GuoG2e94XQ&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/jakechudnow"/>
+  </action>
+</annotation></annotations></document>

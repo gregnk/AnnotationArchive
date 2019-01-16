@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI2Lzm3IHv3wIVC74NCh3zTg_tKPgdMgJpdkjQls2wypWB5scB">
+<annotation id="annotation_2869288919" type="text" style="anchored" log_data="a-v=x8wErKYTS1A&amp;xble=1&amp;a-id=annotation_2869288919&amp;a-type=8&amp;ei=D2o9XJj5GIv8NvOdvegO" itct="CAEQs-UBGP___________wEiEwjYvObcge_fAhULvg0KHfNOD-0o-B0yAml2SNCWzbDKlYHmxwE">
+  <TEXT>NorthEAST corner...man, I need to git gud at directions...</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="0.00000" y="81.97200" w="34.01700" h="11.93100" sx="6.14900016785" sy="95.9029998779" t="3:37.573"/>
+      <anchoredRegion x="0.00000" y="81.97200" w="34.01700" h="11.93100" sx="6.14900016785" sy="95.9029998779" t="3:43.950"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_336368373" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_618891373">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_618891373" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4268326831" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_665738429">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_665738429" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_551113461" type="text" style="anchored" log_data="a-v=x8wErKYTS1A&amp;xble=1&amp;a-id=annotation_551113461&amp;a-type=8&amp;ei=D2o9XJj5GIv8NvOdvegO" itct="CAIQs-UBGP___________wEiEwjYvObcge_fAhULvg0KHfNOD-0o-B0yAml2SNCWzbDKlYHmxwE">
+  <TEXT>More like &quot;E3 announcements&quot; -- this was before I went to the convention!</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="2.56700" y="80.59200" w="33.43900" h="13.47900" sx="6.78299999237" sy="96.0699996948" t="1:41.527"/>
+      <anchoredRegion x="2.56700" y="80.59200" w="33.43900" h="13.47900" sx="6.78299999237" sy="96.0699996948" t="1:46.136"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.911599999999999" effects="bevel dropshadow textdropshadow">
+    
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_618891373" type="highlight" log_data="a-id=annotation_618891373&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FKoolGoldfinch&amp;xble=1&amp;a-v=x8wErKYTS1A&amp;ei=D2o9XJj5GIv8NvOdvegO&amp;l-class=3" itct="CAMQs-UBGP___________wEiEwjYvObcge_fAhULvg0KHfNOD-0o-B0yAml2SNCWzbDKlYHmxwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.97100" y="35.02800" w="59.85700" h="34.39800" t="11:17.708"/>
+      <rectRegion x="37.97100" y="35.02800" w="59.85700" h="34.39800" t="11:23.703"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16636470" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/KoolGoldfinch?annotation_id=annotation_618891373&amp;ei=D2o9XJj5GIv8NvOdvegO&amp;feature=iv&amp;src_vid=x8wErKYTS1A" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_665738429" type="highlight" log_data="a-id=annotation_665738429&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FKoolGoldfinch&amp;xble=1&amp;a-v=x8wErKYTS1A&amp;ei=D2o9XJj5GIv8NvOdvegO&amp;l-class=3" itct="CAQQs-UBGP___________wEiEwjYvObcge_fAhULvg0KHfNOD-0o-B0yAml2SNCWzbDKlYHmxwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="20.42000" y="65.62000" w="57.85300" h="34.38000" t="14:24.382"/>
+      <rectRegion x="20.42000" y="65.62000" w="57.85300" h="34.38000" t="14:33.648"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/KoolGoldfinch?annotation_id=annotation_665738429&amp;ei=D2o9XJj5GIv8NvOdvegO&amp;feature=iv&amp;src_vid=x8wErKYTS1A" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:589a634a-0000-2089-9b8f-94eb2c11b654" style="branding" type="branding"
+            log_data="a-id=589a634a-0000-2089-9b8f-94eb2c11b654&amp;a-type=10&amp;ei=D2o9XJj5GIv8NvOdvegO&amp;xble=0&amp;a-v=x8wErKYTS1A&amp;link-id=UCo_IB5145EVNcf8hw1Kku7w&amp;a-ch=UCo_IB5145EVNcf8hw1Kku7w&amp;l-class=3">
+  <data>{&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;589a634a-0000-2089-9b8f-94eb2c11b654&quot;,&quot;src_vid&quot;:&quot;x8wErKYTS1A&quot;,&quot;ei&quot;:&quot;D2o9XJj5GIv8NvOdvegO&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCNi85tyB798CFQu-DQod804P7Sj4HTICaXZI0JbNsMqVgebHAQ&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;The Game Theorists&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_width&quot;:40,&quot;end_ms&quot;:885000,&quot;image_type&quot;:1,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/o_IB5145EVNcf8hw1Kku7w\/featured_channel.jpg?v=589d1a88&quot;,&quot;num_subscribers&quot;:&quot;11375813&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;unsubscribeCount&quot;:&quot;11M&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026hl=en\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FMatthewPatrick13%26continue_action%3DQUFFLUhqbHdPVnlGT19nMC0tZzNWbHI3UVJzSnIweVYwZ3xBQ3Jtc0tsX0hJNUJDSHFHLUIxV1NDNHdRV2xwS0xPcXV6RF8yejNWMVVvYXM4UU5vR1FmUHQwUGMxUnQ1QXlRRFVsVFRCRE15TktUTmhaOGI2aTRwYVZWaWpJVVFZR1RLZVNpMzFqYjF0QjJBbVBqMDY5eFQxMk16SGNudGNUeDRMMVZXSXFYODV3RlRYYVZlSDJKaURuVWxEMVBDM2RWTmtEZVJmeHJyd3NzX1g4NWRwRm5JR1htd0h1ZGlJSEswZjNKamxzaUhnWDQwN2pHTjhfTjdkWGFRMG04Y1hmaTdzc0R0cWtfdXZEMVlaMkxtWWhpak1N%26hl%3Den%26feature%3Div%26app%3Ddesktop%26action_handle_signin%3Dtrue\u0026service=youtube&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;11M&quot;},&quot;channel_id&quot;:&quot;UCo_IB5145EVNcf8hw1Kku7w&quot;,&quot;start_ms&quot;:0,&quot;image_height&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/MatthewPatrick13"/>
+  </action>
+</annotation>
+<annotation id="video:bce6e445-40c4-4294-8a97-6a07a654ff5d" style="video" type="card" log_data="a-ch=UCo_IB5145EVNcf8hw1Kku7w&amp;a-id=bce6e445-40c4-4294-8a97-6a07a654ff5d&amp;a-type=62&amp;a-v=x8wErKYTS1A&amp;ei=D2o9XJj5GIv8NvOdvegO&amp;l-class=1&amp;link-id=PjnPyGFYKrI&amp;xble=0">
+  <data>{&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;bce6e445-40c4-4294-8a97-6a07a654ff5d&quot;,&quot;src_vid&quot;:&quot;x8wErKYTS1A&quot;,&quot;ei&quot;:&quot;D2o9XJj5GIv8NvOdvegO&quot;,&quot;itct&quot;:&quot;CAoQ1TYY____________ASITCNi85tyB798CFQu-DQod804P7Sj4HTIFY2FyZHNI0JbNsMqVgebHAQ&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=PjnPyGFYKrI&quot;,&quot;video_duration&quot;:&quot;13:56&quot;,&quot;teaser_text&quot;:&quot;Suggested: Game Theory - Humans are Pokemon&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/PjnPyGFYKrI\/mqdefault.jpg&quot;,&quot;title&quot;:&quot;Game Theory - Humans are Pokemon&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;meta_info&quot;:[&quot;by The Game Theorists&quot;,&quot;9,375,194 views&quot;],&quot;pause_on_navigation&quot;:true,&quot;end_ms&quot;:471760,&quot;timestamp&quot;:1466280695038,&quot;is_live_now&quot;:false,&quot;teaser_duration_ms&quot;:7000,&quot;target&quot;:&quot;new&quot;,&quot;start_ms&quot;:471760,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAwQsJcBGP___________wEiEwjYvObcge_fAhULvg0KHfNOD-0o-B0yBWNhcmRzSNCWzbDKlYHmxwE&quot;,&quot;card&quot;:&quot;CAoQ1TYY____________ASITCNi85tyB798CFQu-DQod804P7Sj4HTIFY2FyZHNI0JbNsMqVgebHAQ&quot;,&quot;teaser&quot;:&quot;CAsQ0DYY____________ASITCNi85tyB798CFQu-DQod804P7Sj4HTIFY2FyZHNI0JbNsMqVgebHAQ&quot;},&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=PjnPyGFYKrI"/>
+  </action>
+</annotation>
+
+<annotation id="video:2ea60037-7aa4-43f3-997b-9ba621bda6ea" style="video" type="card" log_data="a-ch=UCo_IB5145EVNcf8hw1Kku7w&amp;a-id=2ea60037-7aa4-43f3-997b-9ba621bda6ea&amp;a-type=62&amp;a-v=x8wErKYTS1A&amp;ei=D2o9XJj5GIv8NvOdvegO&amp;l-class=1&amp;link-id=JF2mRcAoXLQ&amp;xble=0">
+  <data>{&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;2ea60037-7aa4-43f3-997b-9ba621bda6ea&quot;,&quot;src_vid&quot;:&quot;x8wErKYTS1A&quot;,&quot;ei&quot;:&quot;D2o9XJj5GIv8NvOdvegO&quot;,&quot;itct&quot;:&quot;CA4Q1TYY____________ASITCNi85tyB798CFQu-DQod804P7Sj4HTIFY2FyZHNI0JbNsMqVgebHAQ&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=JF2mRcAoXLQ&quot;,&quot;video_duration&quot;:&quot;11:38&quot;,&quot;teaser_text&quot;:&quot;Suggested: Game Theory: How Pidgey \&quot;Proves\&quot; Darwinian Evolution&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/JF2mRcAoXLQ\/mqdefault.jpg&quot;,&quot;title&quot;:&quot;Game Theory: How Pidgey \&quot;Proves\&quot; Darwinian Evolution&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;meta_info&quot;:[&quot;by The Game Theorists&quot;,&quot;5,208,997 views&quot;],&quot;pause_on_navigation&quot;:true,&quot;end_ms&quot;:773664,&quot;timestamp&quot;:1466280731755,&quot;is_live_now&quot;:false,&quot;teaser_duration_ms&quot;:7000,&quot;target&quot;:&quot;new&quot;,&quot;start_ms&quot;:773664,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBAQsJcBGP___________wEiEwjYvObcge_fAhULvg0KHfNOD-0o-B0yBWNhcmRzSNCWzbDKlYHmxwE&quot;,&quot;card&quot;:&quot;CA4Q1TYY____________ASITCNi85tyB798CFQu-DQod804P7Sj4HTIFY2FyZHNI0JbNsMqVgebHAQ&quot;,&quot;teaser&quot;:&quot;CA8Q0DYY____________ASITCNi85tyB798CFQu-DQod804P7Sj4HTIFY2FyZHNI0JbNsMqVgebHAQ&quot;},&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=JF2mRcAoXLQ"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;closeTrackingParams&quot;: &quot;CAcQsZcBGP///////////wEiEwjYvObcge/fAhULvg0KHfNOD+0o+B0yBWNhcmRzSNCWzbDKlYHmxwE=&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAgQsJcBGP///////////wEiEwjYvObcge/fAhULvg0KHfNOD+0o+B0yBWNhcmRzSNCWzbDKlYHmxwE=&quot;, 
+  &quot;headerText&quot;: &quot;From The Game Theorists&quot;, 
+  &quot;trackingParams&quot;: &quot;CAYQwjcY////////////ASITCNi85tyB798CFQu+DQod804P7Sj4HTIFY2FyZHNI0JbNsMqVgebHAQ==&quot;, 
+  &quot;eventId&quot;: &quot;D2o9XJj5GIv8NvOdvegO&quot;
+}</data>
+</annotation>
+</annotations></document>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMInb-Kz4Hv3wIVhy6DCh1a4wMuKPgdMgJpdkiMiZK79o23268B">
+<annotation id="annotation_1454742087" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Minecraft Cell Phone</TEXT>
+  <segment spaceRelative="annotation_2526584035">
+    <movingRegion type="rect">
+      <rectRegion x="2.85300" y="-5.63400" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="2.85300" y="-5.63400" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2526584035" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1817701423" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Kidnap Dallas!</TEXT>
+  <segment spaceRelative="annotation_3453396829">
+    <movingRegion type="rect">
+      <rectRegion x="-1.26800" y="10.14100" w="12.00500" h="13.60600" t="never"/>
+      <rectRegion x="-1.26800" y="10.14100" w="12.00500" h="13.60600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3453396829" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2198373195" type="highlight" log_data="a-v=r7bcb2dkhIw&amp;a-type=3&amp;xble=1&amp;l-class=1&amp;a-id=annotation_2198373195&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8KuH0-994Hk%26list%3DPL35FE5C4B157509C9%26index%3D62&amp;ei=8mk9XJ3-JofdjATaxo_wAg" itct="CAEQs-UBGP___________wEiEwidv4rPge_fAhWHLoMKHVrjAy4o-B0yAml2SIyJkrv2jbfbrwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="20.45100" y="51.83100" w="71.90300" h="41.72300" t="14:14.070"/>
+      <rectRegion x="20.45100" y="51.83100" w="71.90300" h="41.72300" t="14:50.902"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2198373195&amp;ei=8mk9XJ3-JofdjATaxo_wAg&amp;feature=iv&amp;index=62&amp;list=PL35FE5C4B157509C9&amp;src_vid=r7bcb2dkhIw&amp;v=8KuH0-994Hk" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2526584035" type="highlight" log_data="a-v=r7bcb2dkhIw&amp;a-type=3&amp;xble=1&amp;l-class=1&amp;a-id=annotation_2526584035&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcTh66b7n484%26list%3DPL5P5eGJK4qOed0YxZwsjGGrRnNeSsEYO1%26index%3D15&amp;ei=8mk9XJ3-JofdjATaxo_wAg" itct="CAIQs-UBGP___________wEiEwidv4rPge_fAhWHLoMKHVrjAy4o-B0yAml2SIyJkrv2jbfbrwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.37700" y="13.80300" w="36.56900" h="68.33800" t="13:48.708"/>
+      <rectRegion x="2.37700" y="13.80300" w="36.56900" h="68.33800" t="14:14.070"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2526584035&amp;ei=8mk9XJ3-JofdjATaxo_wAg&amp;feature=iv&amp;index=15&amp;list=PL5P5eGJK4qOed0YxZwsjGGrRnNeSsEYO1&amp;src_vid=r7bcb2dkhIw&amp;v=cTh66b7n484" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3036170567" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Diamonds are a gamer&#39;s best friend</TEXT>
+  <segment spaceRelative="annotation_2198373195">
+    <movingRegion type="rect">
+      <rectRegion x="34.22400" y="1.40800" w="31.33900" h="10.50700" t="never"/>
+      <rectRegion x="34.22400" y="1.40800" w="31.33900" h="10.50700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2198373195" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3278775031" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Minecraft Cell Phone</TEXT>
+  <segment spaceRelative="annotation_4103730909">
+    <movingRegion type="rect">
+      <rectRegion x="4.43700" y="-5.91500" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="4.43700" y="-5.91500" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4103730909" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3453396829" type="highlight" log_data="a-v=r7bcb2dkhIw&amp;a-type=3&amp;xble=1&amp;l-class=1&amp;a-id=annotation_3453396829&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcTh66b7n484%26list%3DPL5P5eGJK4qOed0YxZwsjGGrRnNeSsEYO1%26index%3D15&amp;ei=8mk9XJ3-JofdjATaxo_wAg" itct="CAMQs-UBGP___________wEiEwidv4rPge_fAhWHLoMKHVrjAy4o-B0yAml2SIyJkrv2jbfbrwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="8.87500" y="6.76100" w="77.64700" h="38.63700" t="14:14.070"/>
+      <rectRegion x="8.87500" y="6.76100" w="77.64700" h="38.63700" t="14:50.902"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3453396829&amp;ei=8mk9XJ3-JofdjATaxo_wAg&amp;feature=iv&amp;index=15&amp;list=PL5P5eGJK4qOed0YxZwsjGGrRnNeSsEYO1&amp;src_vid=r7bcb2dkhIw&amp;v=cTh66b7n484" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4103730909" type="highlight" log_data="a-v=r7bcb2dkhIw&amp;a-type=3&amp;xble=1&amp;l-class=1&amp;a-id=annotation_4103730909&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcTh66b7n484%26list%3DPL5P5eGJK4qOed0YxZwsjGGrRnNeSsEYO1%26index%3D15&amp;ei=8mk9XJ3-JofdjATaxo_wAg" itct="CAQQs-UBGP___________wEiEwidv4rPge_fAhWHLoMKHVrjAy4o-B0yAml2SIyJkrv2jbfbrwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="38.03500" y="13.80300" w="34.98400" h="68.05600" t="13:48.708"/>
+      <rectRegion x="38.03500" y="13.80300" w="34.98400" h="68.05600" t="14:14.070"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_4103730909&amp;ei=8mk9XJ3-JofdjATaxo_wAg&amp;feature=iv&amp;index=15&amp;list=PL5P5eGJK4qOed0YxZwsjGGrRnNeSsEYO1&amp;src_vid=r7bcb2dkhIw&amp;v=cTh66b7n484" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:589a634a-0000-2089-9b8f-94eb2c11b654" style="branding" type="branding"
+            log_data="a-v=r7bcb2dkhIw&amp;a-type=10&amp;link-id=UCo_IB5145EVNcf8hw1Kku7w&amp;xble=0&amp;l-class=3&amp;a-id=589a634a-0000-2089-9b8f-94eb2c11b654&amp;a-ch=UCo_IB5145EVNcf8hw1Kku7w&amp;ei=8mk9XJ3-JofdjATaxo_wAg">
+  <data>{&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;589a634a-0000-2089-9b8f-94eb2c11b654&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCJ2_is-B798CFYcugwodWuMDLij4HTICaXZIjImSu_aNt9uvAQ&quot;,&quot;ei&quot;:&quot;8mk9XJ3-JofdjATaxo_wAg&quot;,&quot;src_vid&quot;:&quot;r7bcb2dkhIw&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;end_ms&quot;:891000,&quot;image_width&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;11M&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeCount&quot;:&quot;11M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026hl=en\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FMatthewPatrick13%26continue_action%3DQUFFLUhqbDVEZzd6d3lTcnAxTEhsa0NtTHFKR1V3Nk1BZ3xBQ3Jtc0tuMjRmUjVWdVpxWkk4NGMyMUQzNW1Oc1JlaHQ5bjRxZXNwMWNwYm1FbFctTk1ZNHNIelpYazk2OXY4NFhXZ2NZZnJaOEpCWUdMck5nOWRaUncxYzNxWWhGdVpsQU90c1NCT1U1YXYtdXlNY05yeWRzTzZJREhUc1hYOWYwTkNVMTBGR0hocXRKVV85Mi00MTFsdGRkWE91UzdIaGdrX0NqV3djbmRFSUVwanJBT1MtakJLOXBQQlBlTG01NVBnVkNGZURpSE1yRjh4M05qM1R4alhlLTNUWk1fNGdvUk1rVlNfaGxHZDcxLWZnYWNkSy1N%26action_handle_signin%3Dtrue%26app%3Ddesktop\u0026passive=true&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_id&quot;:&quot;UCo_IB5145EVNcf8hw1Kku7w&quot;,&quot;num_subscribers&quot;:&quot;11375813&quot;,&quot;image_height&quot;:40,&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;The Game Theorists&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/o_IB5145EVNcf8hw1Kku7w\/featured_channel.jpg?v=589d1a88&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/MatthewPatrick13"/>
+  </action>
+</annotation>
+<annotation id="video:503e4bef-6b49-4aa4-ad04-494e8597e340" style="video" type="card" log_data="a-ch=UCo_IB5145EVNcf8hw1Kku7w&amp;a-id=503e4bef-6b49-4aa4-ad04-494e8597e340&amp;a-type=62&amp;a-v=r7bcb2dkhIw&amp;ei=8mk9XJ3-JofdjATaxo_wAg&amp;l-class=1&amp;link-id=cTh66b7n484&amp;xble=0">
+  <data>{&quot;start_ms&quot;:86136,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;503e4bef-6b49-4aa4-ad04-494e8597e340&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAoQ1TYY____________ASITCJ2_is-B798CFYcugwodWuMDLij4HTIFY2FyZHNIjImSu_aNt9uvAQ&quot;,&quot;ei&quot;:&quot;8mk9XJ3-JofdjATaxo_wAg&quot;,&quot;src_vid&quot;:&quot;r7bcb2dkhIw&quot;},&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAoQ1TYY____________ASITCJ2_is-B798CFYcugwodWuMDLij4HTIFY2FyZHNIjImSu_aNt9uvAQ&quot;,&quot;icon&quot;:&quot;CAwQsJcBGP___________wEiEwidv4rPge_fAhWHLoMKHVrjAy4o-B0yBWNhcmRzSIyJkrv2jbfbrwE&quot;,&quot;teaser&quot;:&quot;CAsQ0DYY____________ASITCJ2_is-B798CFYcugwodWuMDLij4HTIFY2FyZHNIjImSu_aNt9uvAQ&quot;},&quot;end_ms&quot;:86136,&quot;target&quot;:&quot;new&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=cTh66b7n484&quot;,&quot;meta_info&quot;:[&quot;by GTLive&quot;,&quot;1,180,684 views&quot;],&quot;title&quot;:&quot;Minecraft: World&#39;s LARGEST MINECRAFT Selfie!&quot;,&quot;teaser_text&quot;:&quot;Suggested: Minecraft: World&#39;s LARGEST MINECRAFT Selfie!&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;video&quot;,&quot;timestamp&quot;:1452967574427,&quot;custom_message&quot;:&quot;&quot;,&quot;video_duration&quot;:&quot;1:27:58&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/cTh66b7n484\/mqdefault.jpg&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=cTh66b7n484"/>
+  </action>
+</annotation>
+
+<annotation id="video:eefeca61-42d9-4222-8b65-3c7fcc3509cc" style="video" type="card" log_data="a-ch=UCo_IB5145EVNcf8hw1Kku7w&amp;a-id=eefeca61-42d9-4222-8b65-3c7fcc3509cc&amp;a-type=62&amp;a-v=r7bcb2dkhIw&amp;ei=8mk9XJ3-JofdjATaxo_wAg&amp;l-class=1&amp;link-id=8KuH0-994Hk&amp;xble=0">
+  <data>{&quot;start_ms&quot;:816904,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;eefeca61-42d9-4222-8b65-3c7fcc3509cc&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CA4Q1TYY____________ASITCJ2_is-B798CFYcugwodWuMDLij4HTIFY2FyZHNIjImSu_aNt9uvAQ&quot;,&quot;ei&quot;:&quot;8mk9XJ3-JofdjATaxo_wAg&quot;,&quot;src_vid&quot;:&quot;r7bcb2dkhIw&quot;},&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA4Q1TYY____________ASITCJ2_is-B798CFYcugwodWuMDLij4HTIFY2FyZHNIjImSu_aNt9uvAQ&quot;,&quot;icon&quot;:&quot;CBAQsJcBGP___________wEiEwidv4rPge_fAhWHLoMKHVrjAy4o-B0yBWNhcmRzSIyJkrv2jbfbrwE&quot;,&quot;teaser&quot;:&quot;CA8Q0DYY____________ASITCJ2_is-B798CFYcugwodWuMDLij4HTIFY2FyZHNIjImSu_aNt9uvAQ&quot;},&quot;end_ms&quot;:816904,&quot;target&quot;:&quot;new&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=8KuH0-994Hk&quot;,&quot;meta_info&quot;:[&quot;by The Game Theorists&quot;,&quot;7,973,086 views&quot;],&quot;title&quot;:&quot;Game Theory: How Much is Minecraft Diamond Armor Worth?&quot;,&quot;teaser_text&quot;:&quot;Suggested: Game Theory: How Much is Minecraft Diamond Armor Worth?&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;video&quot;,&quot;timestamp&quot;:1452967543354,&quot;custom_message&quot;:&quot;&quot;,&quot;video_duration&quot;:&quot;8:44&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/8KuH0-994Hk\/mqdefault.jpg&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=8KuH0-994Hk"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAgQsJcBGP///////////wEiEwidv4rPge/fAhWHLoMKHVrjAy4o+B0yBWNhcmRzSIyJkrv2jbfbrwE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAcQsZcBGP///////////wEiEwidv4rPge/fAhWHLoMKHVrjAy4o+B0yBWNhcmRzSIyJkrv2jbfbrwE=&quot;, 
+  &quot;eventId&quot;: &quot;8mk9XJ3-JofdjATaxo_wAg&quot;, 
+  &quot;headerText&quot;: &quot;From The Game Theorists&quot;, 
+  &quot;trackingParams&quot;: &quot;CAYQwjcY////////////ASITCJ2/is+B798CFYcugwodWuMDLij4HTIFY2FyZHNIjImSu/aNt9uvAQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIhPHmn4vv3wIVB2YwCh1Z6QPXKPgdMgJpdkjtga3uoN7nvbcB">
+<annotation id="annotation_121531739" type="text" style="popup" log_data="a-id=annotation_121531739&amp;a-type=1&amp;a-v=t3ue8g3LQO0&amp;xble=1&amp;ei=C3Q9XMS_M4fMwQHZ0o-4DQ" itct="CAEQs-UBGP___________wEiEwiE8eafi-_fAhUHZjAKHVnpA9co-B0yAml2SO2Bre6g3ue9twE">
+  <TEXT>i3! I3! My mistake.
+
+But it&#39;s true, hyperthreading still seems to make some kind of difference so i5 CPUs (which don&#39;t have any hyperthreading!) are likely at a disadvantage compared with i7&#39;s. Provided the CPU is the bottleneck in the system. Which it probably won&#39;t be.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.94400" w="32.52000" h="51.98600" t="2:39.687"/>
+      <rectRegion x="0.00000" y="23.94400" w="32.52000" h="51.98600" t="2:50.765"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_2076851009" type="text" style="popup" log_data="a-id=annotation_2076851009&amp;a-type=1&amp;a-v=t3ue8g3LQO0&amp;xble=1&amp;ei=C3Q9XMS_M4fMwQHZ0o-4DQ" itct="CAIQs-UBGP___________wEiEwiE8eafi-_fAhUHZjAKHVnpA9co-B0yAml2SO2Bre6g3ue9twE">
+  <TEXT>CORRECTIONS:
+12 threads = 6 core i7
+8 threads = 4 core i7
+4 threads = 2 core i3
+
+None of these results accurately represent an i5, since that&#39;s 4 proper cores and no hyper-threaded ones. Plus the clockspeeds / comparisons would be wrong since my CPU is based on the rare 5000 series of Intel CPU. Sorry!
+
+In case you&#39;re interested I disabled CPU 11 first and worked backwards, it looks like doing so disables HT and then a core, alternating between them every time.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="7.32400" w="38.17600" h="78.58400" t="2:27.812"/>
+      <rectRegion x="0.00000" y="7.32400" w="38.17600" h="78.58400" t="2:38.334"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="channel:589b8c39-0000-2efc-ab6e-94eb2c08b7b4" style="branding" type="branding"
+            log_data="a-id=589b8c39-0000-2efc-ab6e-94eb2c08b7b4&amp;a-type=10&amp;l-class=3&amp;ei=C3Q9XMS_M4fMwQHZ0o-4DQ&amp;link-id=UCEKJKJ3FO-9SFv5x5BzyxhQ&amp;a-ch=UCEKJKJ3FO-9SFv5x5BzyxhQ&amp;a-v=t3ue8g3LQO0&amp;xble=0">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:40,&quot;end_ms&quot;:211000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;439994&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252F2kliksphilip%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqa1NIQ0JDbXllZlFOVFdKS1VtRWJILVctaEVaZ3xBQ3Jtc0ttQVkwcUVlYWhsamdYdUR3OVFJU3NrZ2tpSWJPbUxibG9WMW55TkJhWExodEhDbWFaSVJROHFFVzRiTmhWZEVuUUNGLU96ZDdBdkhOc05XNE80R3RqbVk3M0NfaFJ0XzlUSU05aHNWbWNrYWxjUVdfRWlybXBqU1p0ckh1QnhfOTVpYnFjR1dNUk5UUGlucVRiajcteWdMV3dsNFdqWGY1YmhsMnhIem9Od205WUd4WDdWNDFaTndRd2JKbS1PZVoySzVUVnhoUjdwd21FVnJlejZma0ZQRjVXN1ZFYmZTWm9UMkxodlNoNHZILUhuMEFF%26hl%3Den\u0026hl=en\u0026uilel=3\u0026service=youtube&quot;,&quot;subscribeCount&quot;:&quot;439K&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;unsubscribeCount&quot;:&quot;439K&quot;},&quot;channel_name&quot;:&quot;2kliksphilip&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;t3ue8g3LQO0&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCITx5p-L798CFQdmMAodWekD1yj4HTICaXZI7YGt7qDe5723AQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;589b8c39-0000-2efc-ab6e-94eb2c08b7b4&quot;,&quot;ei&quot;:&quot;C3Q9XMS_M4fMwQHZ0o-4DQ&quot;},&quot;channel_id&quot;:&quot;UCEKJKJ3FO-9SFv5x5BzyxhQ&quot;,&quot;image_height&quot;:40,&quot;is_mobile&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/EKJKJ3FO-9SFv5x5BzyxhQ\/featured_channel.jpg?v=58a1e888&quot;,&quot;start_ms&quot;:5000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/2kliksphilip"/>
+  </action>
+</annotation></annotations></document>

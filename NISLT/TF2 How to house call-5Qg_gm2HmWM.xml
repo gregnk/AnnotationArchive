@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIkKLCiv_u3wIVqoDCAR1ITgCOKPgdMgJpdkjjsp7spvCPhOUB">
+<annotation id="annotation_1494581955" type="text" style="popup" log_data="l-class=1&amp;a-id=annotation_1494581955&amp;ei=SWc9XNDZO6qBir4PyJyB8Ag&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSMygWh89ViA&amp;a-type=1&amp;a-v=5Qg_gm2HmWM" itct="CAEQs-UBGP___________wEiEwiQosKK_-7fAhWqgMIBHUhOAI4o-B0yAml2SOOynuym8I-E5QE">
+  <TEXT>NEXT&gt;&gt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.34200" y="5.91500" w="32.86100" h="24.66200" t="0:32.708"/>
+      <rectRegion x="64.34200" y="5.91500" w="32.86100" h="24.66200" t="0:43.145"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16564776" fgColor="0" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1494581955&amp;ei=SWc9XNDZO6qBir4PyJyB8Ag&amp;feature=iv&amp;src_vid=5Qg_gm2HmWM&amp;v=SMygWh89ViA" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1524868609" type="highlight" log_data="l-class=1&amp;a-id=annotation_1524868609&amp;ei=SWc9XNDZO6qBir4PyJyB8Ag&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOJTsCSBKI_w&amp;a-type=3&amp;a-v=5Qg_gm2HmWM" itct="CAIQs-UBGP___________wEiEwiQosKK_-7fAhWqgMIBHUhOAI4o-B0yAml2SOOynuym8I-E5QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.32800" y="13.80300" w="25.00000" h="27.77800" t="0:32.708"/>
+      <rectRegion x="3.32800" y="13.80300" w="25.00000" h="27.77800" t="0:43.145"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="8249205" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1524868609&amp;ei=SWc9XNDZO6qBir4PyJyB8Ag&amp;feature=iv&amp;src_vid=5Qg_gm2HmWM&amp;v=OJTsCSBKI_w" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation author="" id="annotation_1554401241" itct="CAMQs-UBGP___________wEiEwiQosKK_-7fAhWqgMIBHUhOAI4o-B0yAml2SOOynuym8I-E5QE" log_data="l-class=3&amp;a-id=annotation_1554401241&amp;ei=SWc9XNDZO6qBir4PyJyB8Ag&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FNISLT%2Fvideos&amp;a-type=9&amp;a-v=5Qg_gm2HmWM" style="label" type="text"><segment><movingRegion type="rect"><rectRegion d="0" h="13.8310003281" t="0:32.708" w="38.1539993286" x="30.9029998779" y="78.8730010986" /><rectRegion d="0" h="13.8310003281" t="0:43.145" w="38.1539993286" x="30.9029998779" y="78.8730010986" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="3" target="current" trusted="true" value="https://www.youtube.com/user/NISLT/videos?annotation_id=annotation_1554401241&amp;ei=SWc9XNDZO6qBir4PyJyB8Ag&amp;feature=iv&amp;src_vid=5Qg_gm2HmWM" /></action><appearance bgAlpha="0.600000023842" bgColor="16636470" effects="" textSize="3.911599999999999" /></annotation>
+<annotation id="annotation_329218205" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>TF2: How to do back-cap on granary</TEXT>
+  <segment spaceRelative="annotation_1524868609">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="22.14700" h="22.74300" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="22.14700" h="22.74300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1524868609" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_80079853" type="text" style="popup" log_data="l-class=1&amp;a-id=annotation_80079853&amp;ei=SWc9XNDZO6qBir4PyJyB8Ag&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DN5htamH2_vg&amp;a-type=1&amp;a-v=5Qg_gm2HmWM" itct="CAQQs-UBGP___________wEiEwiQosKK_-7fAhWqgMIBHUhOAI4o-B0yAml2SOOynuym8I-E5QE">
+  <TEXT>#127 DamnEasy (demoman)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="22.18700" y="61.97200" w="60.73700" h="14.78900" t="0:32.708"/>
+      <rectRegion x="22.18700" y="61.97200" w="60.73700" h="14.78900" t="0:43.145"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16770675" fgColor="0" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_80079853&amp;ei=SWc9XNDZO6qBir4PyJyB8Ag&amp;feature=iv&amp;src_vid=5Qg_gm2HmWM&amp;v=N5htamH2_vg" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_823702903" type="text" style="popup" log_data="l-class=1&amp;a-id=annotation_823702903&amp;ei=SWc9XNDZO6qBir4PyJyB8Ag&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGhFtzij7wJo&amp;a-type=1&amp;a-v=5Qg_gm2HmWM" itct="CAUQs-UBGP___________wEiEwiQosKK_-7fAhWqgMIBHUhOAI4o-B0yAml2SOOynuym8I-E5QE">
+  <TEXT>TF2: How to fingerbang</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="29.00200" y="33.52100" w="51.70400" h="13.11300" t="0:32.708"/>
+      <rectRegion x="29.00200" y="33.52100" w="51.70400" h="13.11300" t="0:43.145"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="12642020" fgColor="0" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_823702903&amp;ei=SWc9XNDZO6qBir4PyJyB8Ag&amp;feature=iv&amp;src_vid=5Qg_gm2HmWM&amp;v=GhFtzij7wJo" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

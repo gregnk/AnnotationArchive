@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMItMnD2-Dv3wIVDP0DCh3hWg0VKPgdMgJpdkjP-4TGmoPbp7oB">
+<annotation id="annotation_1124852493" type="highlight" log_data="a-v=uk9sGajBPc8&amp;ei=qs09XLTMBoz6D-G1tagB&amp;a-type=3&amp;a-id=annotation_1124852493&amp;link=http%3A%2F%2Fwww.lazygamereviews.com%2Ffacebook&amp;l-class=6&amp;xble=1" itct="CAEQs-UBGP___________wEiEwi0ycPb4O_fAhUM_QMKHeFaDRUo-B0yAml2SM_7hMaag9unugE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="40.72900" y="56.33800" w="18.50200" h="32.28200" t="14:30.374"/>
+      <rectRegion x="40.72900" y="56.33800" w="18.50200" h="32.28200" t="15:01.862"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.lazygamereviews.com/facebook" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1328054997" type="highlight" log_data="a-v=uk9sGajBPc8&amp;ei=qs09XLTMBoz6D-G1tagB&amp;a-type=3&amp;a-id=annotation_1328054997&amp;link=http%3A%2F%2Fwww.lazygamereviews.com%2Fpatreon&amp;l-class=6&amp;xble=1" itct="CAIQs-UBGP___________wEiEwi0ycPb4O_fAhUM_QMKHeFaDRUo-B0yAml2SM_7hMaag9unugE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="61.17300" y="55.77500" w="18.66100" h="33.40800" t="14:30.374"/>
+      <rectRegion x="61.17300" y="55.77500" w="18.66100" h="33.40800" t="15:01.862"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.lazygamereviews.com/patreon" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1797061815" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1124852493">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1124852493" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2352237781" type="highlight" log_data="a-v=uk9sGajBPc8&amp;ei=qs09XLTMBoz6D-G1tagB&amp;a-type=3&amp;a-id=annotation_2352237781&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXuWm4NHN848&amp;l-class=1&amp;xble=1" itct="CAMQs-UBGP___________wEiEwi0ycPb4O_fAhUM_QMKHeFaDRUo-B0yAml2SM_7hMaag9unugE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="8.08200" y="13.23900" w="38.15400" h="37.63400" t="14:30.374"/>
+      <rectRegion x="8.08200" y="13.23900" w="38.15400" h="37.63400" t="15:01.863"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2352237781&amp;ei=qs09XLTMBoz6D-G1tagB&amp;feature=iv&amp;src_vid=uk9sGajBPc8&amp;v=XuWm4NHN848" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3287761045" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2352237781">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2352237781" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_329997981" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_99995907">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_99995907" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3360428561" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1328054997">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1328054997" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3723562387" type="highlight" log_data="a-v=uk9sGajBPc8&amp;ei=qs09XLTMBoz6D-G1tagB&amp;a-type=3&amp;a-id=annotation_3723562387&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fphreakindee%3Fsub_confirmation%3D1&amp;l-class=5&amp;xble=1" itct="CAQQs-UBGP___________wEiEwi0ycPb4O_fAhUM_QMKHeFaDRUo-B0yAml2SM_7hMaag9unugE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.99500" y="0.00000" w="42.27400" h="11.15500" t="14:30.374"/>
+      <rectRegion x="12.99500" y="0.00000" w="42.27400" h="11.15500" t="15:01.862"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/phreakindee?annotation_id=annotation_3723562387&amp;ei=qs09XLTMBoz6D-G1tagB&amp;feature=iv&amp;src_vid=uk9sGajBPc8&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4091629447" type="highlight" log_data="a-v=uk9sGajBPc8&amp;ei=qs09XLTMBoz6D-G1tagB&amp;a-type=3&amp;a-id=annotation_4091629447&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrIF5gX4f1k4&amp;l-class=1&amp;xble=1" itct="CAUQs-UBGP___________wEiEwi0ycPb4O_fAhUM_QMKHeFaDRUo-B0yAml2SM_7hMaag9unugE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.09000" y="13.80300" w="38.15400" h="37.63400" t="14:30.374"/>
+      <rectRegion x="53.09000" y="13.80300" w="38.15400" h="37.63400" t="15:01.862"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_4091629447&amp;ei=qs09XLTMBoz6D-G1tagB&amp;feature=iv&amp;src_vid=uk9sGajBPc8&amp;v=rIF5gX4f1k4" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4239370747" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3723562387">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3723562387" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_686580313" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4091629447">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4091629447" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_99995907" type="highlight" log_data="a-v=uk9sGajBPc8&amp;ei=qs09XLTMBoz6D-G1tagB&amp;a-type=3&amp;a-id=annotation_99995907&amp;link=http%3A%2F%2Fwww.lazygamereviews.com%2Ftwitter&amp;l-class=6&amp;xble=1" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="20.28500" y="56.05600" w="18.50200" h="33.12700" t="14:30.374"/>
+      <rectRegion x="20.28500" y="56.05600" w="18.50200" h="33.12700" t="15:01.862"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.lazygamereviews.com/twitter" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:587a2126-ff5-2aba-8495-e0cd59b14" style="branding" type="branding"
+            log_data="a-v=uk9sGajBPc8&amp;ei=qs09XLTMBoz6D-G1tagB&amp;a-type=10&amp;link-id=UCLx053rWZxCiYWsBETgdKrQ&amp;a-id=587a2126-ff5-2aba-8495-e0cd59b14&amp;l-class=3&amp;xble=0&amp;a-ch=UCLx053rWZxCiYWsBETgdKrQ">
+  <data>{&quot;channel_id&quot;:&quot;UCLx053rWZxCiYWsBETgdKrQ&quot;,&quot;is_mobile&quot;:false,&quot;image_width&quot;:40,&quot;image_type&quot;:1,&quot;image_height&quot;:40,&quot;start_ms&quot;:0,&quot;channel_name&quot;:&quot;LGR&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;1M&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26action_handle_signin%3Dtrue%26hl%3Den%26app%3Ddesktop%26continue_action%3DQUFFLUhqblZoOTVCVEFOWGwzeGQ5T2c2dGlVRnJzVk9hUXxBQ3Jtc0ttSUJFRWNQU05MUWhCNHNWM3Z6VmZMLU5nUHQzRF8tTGRIZDlLMWVQQ0VUOGhmNDdLVVVsQWVtM2s1Y3Fqa2o3Xy1YRmVzY0ZXcXZZdDJ5TFZjMzNTRTVTUXFsMGU4YjJ1a3JfUHo3YV9GT3RFcjFNa2pLRlJSUUl3MHU4SndnZ2NJajM3MHpxbXBxdU51SVZBU3Yyd1BpdXdNUWhGOTgyUXdKSnhxUldNNTZBbDlCMlJhdTJSRWhzSDFGMTkxVndCUFpOQm9ZQVJwTkFNMEZJMG5ia25obkwyMUNxSHRHZGdiWG5WS0RJRGg4RlY3b01j%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fphreakindee\u0026hl=en\u0026passive=true&quot;,&quot;subscribeCount&quot;:&quot;1M&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;enabled&quot;:false,&quot;subscribed&quot;:false},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;end_ms&quot;:902000,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCLTJw9vg798CFQz9Awod4VoNFSj4HTICaXZIz_uExpqD26e6AQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;qs09XLTMBoz6D-G1tagB&quot;,&quot;annotation_id&quot;:&quot;587a2126-ff5-2aba-8495-e0cd59b14&quot;,&quot;src_vid&quot;:&quot;uk9sGajBPc8&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/Lx053rWZxCiYWsBETgdKrQ\/featured_channel.jpg?v=50ca1fcc&quot;,&quot;num_subscribers&quot;:&quot;1049979&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/phreakindee"/>
+  </action>
+</annotation>
+<annotation id="video:b79a03ce-7c0c-4aef-a1f4-b2c73ef990e6" style="simple" type="card" log_data="a-ch=UCLx053rWZxCiYWsBETgdKrQ&amp;a-id=b79a03ce-7c0c-4aef-a1f4-b2c73ef990e6&amp;a-type=61&amp;a-v=uk9sGajBPc8&amp;ei=qs09XLTMBoz6D-G1tagB&amp;l-class=8&amp;link=https%3A%2F%2Fwww.patreon.com%2FLazyGameReviews&amp;xble=0">
+  <data>{&quot;show_link_icon&quot;:true,&quot;target&quot;:&quot;new&quot;,&quot;sponsored&quot;:false,&quot;display_domain&quot;:&quot;patreon.com&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;timestamp&quot;:1443978877014,&quot;title&quot;:&quot;Support LGR!&quot;,&quot;url&quot;:&quot;\/redirect?event=infocard\u0026redir_token=8hHhaAsNv-u9LwbwkUE22lSOdh98MTU0NzY0MDYxOEAxNTQ3NTU0MjE4\u0026q=https%3A%2F%2Fwww.patreon.com%2FLazyGameReviews&quot;,&quot;card_type&quot;:&quot;simple&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[]},&quot;teaser_text&quot;:&quot;Want more videos like this?&quot;,&quot;start_ms&quot;:195733,&quot;meta_info&quot;:[],&quot;end_ms&quot;:195733,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAsQ1TYY____________ASITCLTJw9vg798CFQz9Awod4VoNFSj4HTIFY2FyZHNIz_uExpqD26e6AQ&quot;,&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCLTJw9vg798CFQz9Awod4VoNFSj4HTIFY2FyZHNIz_uExpqD26e6AQ&quot;,&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwi0ycPb4O_fAhUM_QMKHeFaDRUo-B0yBWNhcmRzSM_7hMaag9unugE&quot;},&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCLTJw9vg798CFQz9Awod4VoNFSj4HTIFY2FyZHNIz_uExpqD26e6AQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;qs09XLTMBoz6D-G1tagB&quot;,&quot;annotation_id&quot;:&quot;b79a03ce-7c0c-4aef-a1f4-b2c73ef990e6&quot;,&quot;src_vid&quot;:&quot;uk9sGajBPc8&quot;},&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/IfhrTzzF3vWpnhQjhmZX5FTc-B8zSCzfe1CDkBlet8KKDjalXO7cdEEYqsUaWmJHBmmu4lV-PsPCFdU5_NGD54qqRLNe7WWxaTjHBwbo6Oxg-DE=s300-c&quot;,&quot;custom_message&quot;:&quot;See videos early \u0026 other perks&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?event=infocard&amp;redir_token=8hHhaAsNv-u9LwbwkUE22lSOdh98MTU0NzY0MDYxOEAxNTQ3NTU0MjE4&amp;q=https%3A%2F%2Fwww.patreon.com%2FLazyGameReviews"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAkQsJcBGP///////////wEiEwi0ycPb4O/fAhUM/QMKHeFaDRUo+B0yBWNhcmRzSM/7hMaag9unugE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAgQsZcBGP///////////wEiEwi0ycPb4O/fAhUM/QMKHeFaDRUo+B0yBWNhcmRzSM/7hMaag9unugE=&quot;, 
+  &quot;headerText&quot;: &quot;From LGR&quot;, 
+  &quot;eventId&quot;: &quot;qs09XLTMBoz6D-G1tagB&quot;, 
+  &quot;trackingParams&quot;: &quot;CAcQwjcY////////////ASITCLTJw9vg798CFQz9Awod4VoNFSj4HTIFY2FyZHNIz/uExpqD26e6AQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMItdjdueHv3wIVEIDCAR328gzFKPgdMgJpdki78dDxhI360hA">
+<annotation id="annotation_1119141637" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe!</TEXT>
+  <segment spaceRelative="annotation_213341877">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_213341877" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_213341877" type="highlight" log_data="l-class=5&amp;a-v=EKXoaE40OLs&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dphreakindee&amp;ei=b849XPXkKJCAir4P9uWzqAw&amp;xble=1&amp;a-id=annotation_213341877" itct="CAEQs-UBGP___________wEiEwi12N254e_fAhUQgMIBHfbyDMUo-B0yAml2SLvx0PGEjfrSEA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.91300" y="28.45100" w="89.50100" h="15.94400" t="16:26.842"/>
+      <rectRegion x="4.91300" y="28.45100" w="89.50100" h="15.94400" t="16:41.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=phreakindee&amp;annotation_id=annotation_213341877&amp;ei=b849XPXkKJCAir4P9uWzqAw&amp;feature=iv&amp;src_vid=EKXoaE40OLs" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:587a2126-ff5-2aba-8495-e0cd59b14" style="branding" type="branding"
+            log_data="l-class=3&amp;a-v=EKXoaE40OLs&amp;a-type=10&amp;a-ch=UCLx053rWZxCiYWsBETgdKrQ&amp;ei=b849XPXkKJCAir4P9uWzqAw&amp;xble=0&amp;a-id=587a2126-ff5-2aba-8495-e0cd59b14&amp;link-id=UCLx053rWZxCiYWsBETgdKrQ">
+  <data>{&quot;end_ms&quot;:1001000,&quot;channel_name&quot;:&quot;LGR&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/Lx053rWZxCiYWsBETgdKrQ\/featured_channel.jpg?v=50ca1fcc&quot;,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:40,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCLx053rWZxCiYWsBETgdKrQ&quot;,&quot;num_subscribers&quot;:&quot;1049979&quot;,&quot;is_mobile&quot;:false,&quot;start_ms&quot;:0,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;1M&quot;,&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;1M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026hl=en\u0026uilel=3\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26feature%3Div%26continue_action%3DQUFFLUhqa2JWaFFhREZlRkcyLXVUeGJVQ1hPUTdaQnE3d3xBQ3Jtc0tsRlF3SUhpcm9yZGNmVjM0UV9aRWxqTjM3OWh5dHYwenM0cEs0cERQZ2Q5c3g4b2dETVdGS180NmxCLVVISjM1Y3QtWEc3SXZPeEJTT1VQSnYwajI3bkR1bUctVW9PM1ZvMDRrVV9IVWxMbGNiWlN3WlZpbjJtS2M0QTU5dGZtNkFuWHZsdHVDQU9GcEpDc0hsQUwyVUJDaFNqNlQ4TWw5d3VQN0JvcDl3b1Z1TUs4SmN3VGtuRVh6VmpzNHFObFplanpMZTU2NzZyU2ppSHFkRUY5ZWFlcHJ4UE40bE90NXg1a2YtOGh0UG5ObnFaR3pN%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fphreakindee%26action_handle_signin%3Dtrue&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribed&quot;:false},&quot;session_data&quot;:{&quot;ei&quot;:&quot;b849XPXkKJCAir4P9uWzqAw&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCLXY3bnh798CFRCAwgEd9vIMxSj4HTICaXZIu_HQ8YSN-tIQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;587a2126-ff5-2aba-8495-e0cd59b14&quot;,&quot;src_vid&quot;:&quot;EKXoaE40OLs&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/phreakindee"/>
+  </action>
+</annotation></annotations></document>

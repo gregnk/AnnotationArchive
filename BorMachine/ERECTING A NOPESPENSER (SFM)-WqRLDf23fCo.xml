@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIs-bA8vzu3wIVrIDCAR3YWAykKPgdMgJpdkiq-N3t3-GS0lo">
+<annotation id="annotation_1100904439" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3433269645">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.14100" w="30.86400" h="30.50700" t="never"/>
+      <rectRegion x="0.00000" y="0.14100" w="30.86400" h="30.50700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3433269645" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1646059985" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3399987915">
+    <movingRegion type="rect">
+      <rectRegion x="-0.25400" y="-0.04200" w="17.86800" h="52.47900" t="never"/>
+      <rectRegion x="-0.25400" y="-0.04200" w="17.86800" h="52.47900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3399987915" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3399987915" type="highlight" log_data="a-v=WqRLDf23fCo&amp;l-class=5&amp;a-type=3&amp;ei=_mQ9XLPvLayBir4P2LGxoAo&amp;a-id=annotation_3399987915&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FBorMachine%3Fsub_confirmation%3D1" itct="CAEQs-UBGP___________wEiEwiz5sDy_O7fAhWsgMIBHdhYDKQo-B0yAml2SKr43e3f4ZLSWg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="59.68300" y="30.74600" w="17.71000" h="52.85900" t="0:23.000"/>
+      <rectRegion x="59.68300" y="30.74600" w="17.71000" h="52.85900" t="0:33.111"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/BorMachine?annotation_id=annotation_3399987915&amp;ei=_mQ9XLPvLayBir4P2LGxoAo&amp;feature=iv&amp;src_vid=WqRLDf23fCo&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_341862859" type="highlight" log_data="a-v=WqRLDf23fCo&amp;l-class=1&amp;a-type=3&amp;ei=_mQ9XLPvLayBir4P2LGxoAo&amp;a-id=annotation_341862859&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAEAJ93jp9K0" itct="CAIQs-UBGP___________wEiEwiz5sDy_O7fAhWsgMIBHdhYDKQo-B0yAml2SKr43e3f4ZLSWg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="28.62100" y="41.16900" w="31.02200" h="30.60600" t="0:24.000"/>
+      <rectRegion x="28.62100" y="41.16900" w="31.02200" h="30.60600" t="0:33.111"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="3355443" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_341862859&amp;ei=_mQ9XLPvLayBir4P2LGxoAo&amp;feature=iv&amp;src_vid=WqRLDf23fCo&amp;v=AEAJ93jp9K0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3433269645" type="highlight" log_data="a-v=WqRLDf23fCo&amp;l-class=1&amp;a-type=3&amp;ei=_mQ9XLPvLayBir4P2LGxoAo&amp;a-id=annotation_3433269645&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfCbwg1m00Co" itct="CAMQs-UBGP___________wEiEwiz5sDy_O7fAhWsgMIBHdhYDKQo-B0yAml2SKr43e3f4ZLSWg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.30900" y="17.22500" w="31.02200" h="31.16900" t="0:23.000"/>
+      <rectRegion x="15.30900" y="17.22500" w="31.02200" h="31.16900" t="0:33.111"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="3355443" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3433269645&amp;ei=_mQ9XLPvLayBir4P2LGxoAo&amp;feature=iv&amp;src_vid=WqRLDf23fCo&amp;v=fCbwg1m00Co" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_66860447" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_341862859">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.14100" w="31.02200" h="30.22500" t="never"/>
+      <rectRegion x="0.00000" y="0.14100" w="31.02200" h="30.22500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_341862859" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:5655ecc8-0000-2dc7-8805-94eb2c060c9c" style="branding" type="branding"
+            log_data="link-id=UC6wcdLNprq1bAlOuVDgNHFw&amp;a-v=WqRLDf23fCo&amp;a-id=5655ecc8-0000-2dc7-8805-94eb2c060c9c&amp;l-class=3&amp;a-type=10&amp;ei=_mQ9XLPvLayBir4P2LGxoAo&amp;a-ch=UC6wcdLNprq1bAlOuVDgNHFw&amp;xble=0">
+  <data>{&quot;channel_id&quot;:&quot;UC6wcdLNprq1bAlOuVDgNHFw&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;80K&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbk9HblFjbVM0Q0tnN1VBYnRDdTRTbkdUTzYyQXxBQ3Jtc0tuLWJrQ3NNV3FNNkdpZTFXQVBIdGdHVk1MenY4NE5zbnJSWmxTbkJ2VWliSnVmVjJFS3dzV0dtSFVZNW9VeUZGWlVBcHllT2hyM1FITHFXZmR2d25RWHNzWFhWZUZlY0J3RkUtX0cyb2p0b2wxVDhrNmd3YVczWTE3LTNXQVZ6WjkyWU9JV0Z0QW9iUWVPYW85VnhQOXJOM0dVVWJqdWpwSGw0N1Y3SDlsN0VxbjkyRWpwQnFjeE94VjZhZ0phRjdocHcwWFp2SzlkenA4MVVvb1U0ZnNYaEdaYjhTdUpIb05xaEJqLVNTX0VCN21pVDdr%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FBorMachine%26feature%3Div%26hl%3Den%26action_handle_signin%3Dtrue\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;80K&quot;,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;image_width&quot;:52,&quot;end_ms&quot;:34000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/6wcdLNprq1bAlOuVDgNHFw\/featured_channel.jpg?v=56589b89&quot;,&quot;start_ms&quot;:5000,&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;BorMachine&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCLPmwPL87t8CFayAwgEd2FgMpCj4HTICaXZIqvjd7d_hktJa&quot;,&quot;annotation_id&quot;:&quot;5655ecc8-0000-2dc7-8805-94eb2c060c9c&quot;,&quot;ei&quot;:&quot;_mQ9XLPvLayBir4P2LGxoAo&quot;,&quot;src_vid&quot;:&quot;WqRLDf23fCo&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:21,&quot;num_subscribers&quot;:&quot;80850&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/BorMachine"/>
+  </action>
+</annotation></annotations></document>

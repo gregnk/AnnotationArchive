@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIv-Oem93v3wIVh0wwCh2rVg65KPgdMgJpdkiP9Yizy_OzwxI">
+<annotation id="annotation_2253832865" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Why Korea Split</TEXT>
+  <segment spaceRelative="annotation_3417067069">
+    <movingRegion type="rect">
+      <rectRegion x="-2.21900" y="2.25400" w="25.31700" h="8.80300" t="never"/>
+      <rectRegion x="-2.21900" y="2.25400" w="25.31700" h="8.80300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_3417067069" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3417067069" type="highlight" log_data="xble=1&amp;a-id=annotation_3417067069&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dl0E9Kel8BtE&amp;a-v=EobPnLZiOo8&amp;a-type=3&amp;ei=_ck9XP_wO4eZwQGrrbnICw" itct="CAEQs-UBGP___________wEiEwi_456b3e_fAhWHTDAKHatWDrko-B0yAml2SI_1iLPL87PDEg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.01100" y="29.01400" w="44.65100" h="44.11300" t="9:52.622"/>
+      <rectRegion x="3.01100" y="29.01400" w="44.65100" h="44.11300" t="10:09.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3417067069&amp;ei=_ck9XP_wO4eZwQGrrbnICw&amp;feature=iv&amp;src_vid=EobPnLZiOo8&amp;v=l0E9Kel8BtE" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

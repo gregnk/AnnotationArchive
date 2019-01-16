@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_tzI_P3u3wIVBO4DCh3BWQl3KPgdMgJpdkiFhIfqkaKAgmk"><annotation author="" id="annotation_2267868831" itct="CAEQs-UBGP___________wEiEwj-3Mj8_e7fAhUE7gMKHcFZCXco-B0yAml2SIWEh-qRooCCaQ" log_data="a-type=9&amp;a-v=aQQBER1BwgU&amp;l-class=3&amp;ei=IGY9XP7MEYTcD8GzpbgH&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FNISLT%2Fvideos&amp;a-id=annotation_2267868831" style="label" type="text"><segment><movingRegion type="rect"><rectRegion d="0" h="17.4930000305" t="0:32.594" w="41.3230018616" x="29.0020008087" y="78.3099975586" /><rectRegion d="0" h="17.4930000305" t="0:47.159" w="41.3230018616" x="29.0020008087" y="78.3099975586" /></movingRegion></segment><action trigger="click" type="openUrl"><url link_class="3" target="current" trusted="true" value="https://www.youtube.com/user/NISLT/videos?annotation_id=annotation_2267868831&amp;ei=IGY9XP7MEYTcD8GzpbgH&amp;feature=iv&amp;src_vid=aQQBER1BwgU" /></action><appearance bgAlpha="0.600000023842" bgColor="14562356" effects="" textSize="3.911599999999999" /></annotation>
+<annotation id="annotation_4226019599" type="text" style="popup" log_data="a-type=1&amp;a-v=aQQBER1BwgU&amp;l-class=1&amp;ei=IGY9XP7MEYTcD8GzpbgH&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwFW3xc4UJDM&amp;a-id=annotation_4226019599" itct="CAIQs-UBGP___________wEiEwj-3Mj8_e7fAhUE7gMKHcFZCXco-B0yAml2SIWEh-qRooCCaQ">
+  <TEXT>NEXT&gt;&gt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.36600" y="0.00000" w="30.63400" h="22.12700" t="0:33.237"/>
+      <rectRegion x="69.36600" y="0.00000" w="30.63400" h="22.12700" t="0:47.159"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6994293" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_4226019599&amp;ei=IGY9XP7MEYTcD8GzpbgH&amp;feature=iv&amp;src_vid=aQQBER1BwgU&amp;v=wFW3xc4UJDM" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_440173965" type="highlight" log_data="a-type=3&amp;a-v=aQQBER1BwgU&amp;l-class=1&amp;ei=IGY9XP7MEYTcD8GzpbgH&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYUwOOvg_s8Q&amp;a-id=annotation_440173965" itct="CAMQs-UBGP___________wEiEwj-3Mj8_e7fAhUE7gMKHcFZCXco-B0yAml2SIWEh-qRooCCaQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.32800" y="13.80300" w="25.00000" h="27.77800" t="0:32.594"/>
+      <rectRegion x="3.32800" y="13.80300" w="25.00000" h="27.77800" t="0:47.159"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16636470" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_440173965&amp;ei=IGY9XP7MEYTcD8GzpbgH&amp;feature=iv&amp;src_vid=aQQBER1BwgU&amp;v=YUwOOvg_s8Q" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_838408289" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>TF2: prem rollout on badwater and place iron sticky trap</TEXT>
+  <segment spaceRelative="annotation_440173965">
+    <movingRegion type="rect">
+      <rectRegion x="25.83200" y="-1.40800" w="45.76100" h="36.26800" t="never"/>
+      <rectRegion x="25.83200" y="-1.40800" w="45.76100" h="36.26800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_440173965" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIu5qu6Ynv3wIVQeGCCh00NA2uKPgdMgJpdkjT3bGQr92cxEY">
+<annotation id="annotation_218086" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAH6snV13D08&amp;a-type=3&amp;ei=jXI9XPufDsHCiwS06LTwCg&amp;a-id=annotation_218086&amp;l-class=1&amp;xble=1&amp;a-v=Rohy6vIMbtM" itct="CAEQs-UBGP___________wEiEwi7mq7pie_fAhVB4YIKHTQ0Da4o-B0yAml2SNPdsZCv3ZzERg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="41.25000" h="41.66700" t="0:05:30.8"/>
+      <rectRegion x="0.00000" y="0.00000" w="41.25000" h="41.66700" t="0:05:35.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_218086&amp;ei=jXI9XPufDsHCiwS06LTwCg&amp;feature=iv&amp;src_vid=Rohy6vIMbtM&amp;v=AH6snV13D08" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_255166" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Rise of the RPG</TEXT>
+  <segment spaceRelative="annotation_836284">
+    <movingRegion type="rect">
+      <rectRegion x="8.59400" y="35.27800" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="8.59400" y="35.27800" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_836284" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_255315" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FClanOfTheGrayWolf&amp;a-type=3&amp;ei=jXI9XPufDsHCiwS06LTwCg&amp;a-id=annotation_255315&amp;l-class=3&amp;xble=1&amp;a-v=Rohy6vIMbtM" itct="CAIQs-UBGP___________wEiEwi7mq7pie_fAhVB4YIKHTQ0Da4o-B0yAml2SNPdsZCv3ZzERg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.87500" y="83.33300" w="94.84400" h="16.66700" t="0:05:28.0"/>
+      <rectRegion x="1.87500" y="83.33300" w="94.84400" h="16.66700" t="0:05:38.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/ClanOfTheGrayWolf?annotation_id=annotation_255315&amp;ei=jXI9XPufDsHCiwS06LTwCg&amp;feature=iv&amp;src_vid=Rohy6vIMbtM" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_323297" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>The Way Games Work: NES Zapper</TEXT>
+  <segment spaceRelative="annotation_59705">
+    <movingRegion type="rect">
+      <rectRegion x="8.28100" y="0.55600" w="23.59400" h="10.00000" t="never"/>
+      <rectRegion x="8.28100" y="0.55600" w="23.59400" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_59705" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_491630" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_255315">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="11.38900" w="31.87500" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="11.38900" w="31.87500" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_255315" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_596423" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>16-Bit Gems: EarthBound</TEXT>
+  <segment spaceRelative="annotation_218086">
+    <movingRegion type="rect">
+      <rectRegion x="7.65600" y="36.38900" w="26.40600" h="5.55600" t="never"/>
+      <rectRegion x="7.65600" y="36.38900" w="26.40600" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_218086" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_59705" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dc3tBk-LYyzo&amp;a-type=3&amp;ei=jXI9XPufDsHCiwS06LTwCg&amp;a-id=annotation_59705&amp;l-class=1&amp;xble=1&amp;a-v=Rohy6vIMbtM" itct="CAMQs-UBGP___________wEiEwi7mq7pie_fAhVB4YIKHTQ0Da4o-B0yAml2SNPdsZCv3ZzERg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="30.15600" y="42.77800" w="40.00000" h="39.44400" t="0:05:32.6"/>
+      <rectRegion x="30.15600" y="42.77800" w="40.00000" h="39.44400" t="0:05:35.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_59705&amp;ei=jXI9XPufDsHCiwS06LTwCg&amp;feature=iv&amp;src_vid=Rohy6vIMbtM&amp;v=c3tBk-LYyzo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_836284" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsglKS-HfZMw&amp;a-type=3&amp;ei=jXI9XPufDsHCiwS06LTwCg&amp;a-id=annotation_836284&amp;l-class=1&amp;xble=1&amp;a-v=Rohy6vIMbtM" itct="CAQQs-UBGP___________wEiEwi7mq7pie_fAhVB4YIKHTQ0Da4o-B0yAml2SNPdsZCv3ZzERg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.90600" y="0.55600" w="40.78100" h="41.38900" t="0:05:31.5"/>
+      <rectRegion x="58.90600" y="0.55600" w="40.78100" h="41.38900" t="0:05:35.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_836284&amp;ei=jXI9XPufDsHCiwS06LTwCg&amp;feature=iv&amp;src_vid=Rohy6vIMbtM&amp;v=sglKS-HfZMw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:551d076a-0000-2d17-82e2-001a113f250e" style="branding" type="branding"
+            log_data="a-ch=UCwmFOfFuvRPI112vR5DNnrA&amp;a-type=10&amp;link-id=UCwmFOfFuvRPI112vR5DNnrA&amp;ei=jXI9XPufDsHCiwS06LTwCg&amp;a-id=551d076a-0000-2d17-82e2-001a113f250e&amp;l-class=3&amp;xble=0&amp;a-v=Rohy6vIMbtM">
+  <data>{&quot;channel_name&quot;:&quot;Vsauce3&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026service=youtube\u0026hl=en\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbjExQ3NRM3JPY2NhZVBMN0hLcVgtM2RycWxCZ3xBQ3Jtc0tsOFpHMWNiQk9ubVh2SGtIMWNPekRYQkkzUm1OUnNqOW9waFNQblB1UWpiNDBtNHBQR01qZHdCSHIwdGJYZS0zWEdHQWNreFZFS0g0TVhJbzRwRmxJOV9ZSmNHNFE5WWxtZ3BidEJJQUxzRkJwcHhoUnNQRHJ4YlB4TXZ5WkV4Z2RHVmhEaUhGX0xkcGlYZUFweEtkeGVZdnoxMW54ZjVNUFBpX3NCdlhKSUVBRGx0ajI3QUxPQmt4MTlldEEySFczbUdQcWpLbnJKYnhwLTA1SHVyLVEySzFqVWxQRnRjV3VZVXIyZzVRY3pUdEp0MEk0%26feature%3Div%26hl%3Den%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FVsauce3%26app%3Ddesktop&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeCount&quot;:&quot;3.6M&quot;,&quot;subscribeCount&quot;:&quot;3.6M&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true},&quot;image_height&quot;:28,&quot;is_mobile&quot;:false,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:48,&quot;end_ms&quot;:338000,&quot;start_ms&quot;:323000,&quot;num_subscribers&quot;:&quot;3612612&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_id&quot;:&quot;UCwmFOfFuvRPI112vR5DNnrA&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;jXI9XPufDsHCiwS06LTwCg&quot;,&quot;annotation_id&quot;:&quot;551d076a-0000-2d17-82e2-001a113f250e&quot;,&quot;src_vid&quot;:&quot;Rohy6vIMbtM&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCLuarumJ798CFUHhggodNDQNrij4HTICaXZI092xkK_dnMRG&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/wmFOfFuvRPI112vR5DNnrA\/featured_channel.jpg?v=553fc27b&quot;,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Vsauce3"/>
+  </action>
+</annotation></annotations></document>

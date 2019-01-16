@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3dTemN3v3wIVUR0DCh0ZIQAFKPgdMgJpdkjex-7K_-DD_eIB">
+<annotation id="annotation_444569" type="highlight" log_data="a-type=3&amp;xble=1&amp;l-class=3&amp;a-id=annotation_444569&amp;a-v=4vsPB_lbo94&amp;ei=-Mk9XN34LNG6DJnCgCg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FWonderWhy7439" itct="CAEQs-UBGP___________wEiEwjd1N6Y3e_fAhVRHQMKHRkhAAUo-B0yAml2SN7H7sr_4MP94gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="29.53100" y="71.66700" w="38.90600" h="14.16700" t="0:14:55.3"/>
+      <rectRegion x="29.53100" y="71.66700" w="38.90600" h="14.16700" t="0:15:02.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/WonderWhy7439?annotation_id=annotation_444569&amp;ei=-Mk9XN34LNG6DJnCgCg&amp;feature=iv&amp;src_vid=4vsPB_lbo94" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_773785" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click to subscribe!</TEXT>
+  <segment spaceRelative="annotation_444569">
+    <movingRegion type="rect">
+      <rectRegion x="6.56300" y="15.83300" w="27.34400" h="7.22200" t="never"/>
+      <rectRegion x="6.56300" y="15.83300" w="27.34400" h="7.22200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_444569" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

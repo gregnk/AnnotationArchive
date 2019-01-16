@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI4Ivg_v3u3wIVAmgwCh0LqABBKPgdMgJpdkiZ99rnkJSOiLYB">
+<annotation id="annotation_1135240323" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1142248945">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_1142248945" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1142248945" type="highlight" log_data="l-class=3&amp;a-v=thA4oQz2u5k&amp;a-type=3&amp;a-id=annotation_1142248945&amp;xble=1&amp;ei=JGY9XODpNILQwQGL0IKIBA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FNISLT%2Fvideos" itct="CAEQs-UBGP___________wEiEwjgi-D-_e7fAhUCaDAKHQuoAEEo-B0yAml2SJn32ueQlI6ItgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="30.42800" y="80.00000" w="41.32300" h="19.89100" t="0:49.012"/>
+      <rectRegion x="30.42800" y="80.00000" w="41.32300" h="19.89100" t="1:01.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/NISLT/videos?annotation_id=annotation_1142248945&amp;ei=JGY9XODpNILQwQGL0IKIBA&amp;feature=iv&amp;src_vid=thA4oQz2u5k" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_215012449" type="highlight" log_data="l-class=1&amp;a-v=thA4oQz2u5k&amp;a-type=3&amp;a-id=annotation_215012449&amp;xble=1&amp;ei=JGY9XODpNILQwQGL0IKIBA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DM_yHd8Cc_Gs" itct="CAIQs-UBGP___________wEiEwjgi-D-_e7fAhUCaDAKHQuoAEEo-B0yAml2SJn32ueQlI6ItgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.48700" y="15.21100" w="24.36600" h="24.39400" t="0:49.012"/>
+      <rectRegion x="3.48700" y="15.21100" w="24.36600" h="24.39400" t="1:01.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_215012449&amp;ei=JGY9XODpNILQwQGL0IKIBA&amp;feature=iv&amp;src_vid=thA4oQz2u5k&amp;v=M_yHd8Cc_Gs" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2293773751" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>TF2: How to market garden from grave</TEXT>
+  <segment spaceRelative="annotation_215012449">
+    <movingRegion type="rect">
+      <rectRegion x="25.19800" y="3.09900" w="29.91300" h="20.49300" t="never"/>
+      <rectRegion x="25.19800" y="3.09900" w="29.91300" h="20.49300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_215012449" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2425915673" type="text" style="popup" log_data="l-class=1&amp;a-v=thA4oQz2u5k&amp;a-type=1&amp;a-id=annotation_2425915673&amp;xble=1&amp;ei=JGY9XODpNILQwQGL0IKIBA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTBnNY2EOTiE" itct="CAMQs-UBGP___________wEiEwjgi-D-_e7fAhUCaDAKHQuoAEEo-B0yAml2SJn32ueQlI6ItgE">
+  <TEXT>NEXT&gt;&gt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="72.53600" y="0.00000" w="27.46400" h="21.56300" t="0:49.027"/>
+      <rectRegion x="72.53600" y="0.00000" w="27.46400" h="21.56300" t="1:01.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2425915673&amp;ei=JGY9XODpNILQwQGL0IKIBA&amp;feature=iv&amp;src_vid=thA4oQz2u5k&amp;v=TBnNY2EOTiE" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2985943411" type="text" style="popup" log_data="l-class=1&amp;a-v=thA4oQz2u5k&amp;a-type=1&amp;a-id=annotation_2985943411&amp;xble=1&amp;ei=JGY9XODpNILQwQGL0IKIBA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfgnAh5-3Hrk" itct="CAQQs-UBGP___________wEiEwjgi-D-_e7fAhUCaDAKHQuoAEEo-B0yAml2SJn32ueQlI6ItgE">
+  <TEXT>First HowTO Episode with GaGa</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="17.93700" y="59.43700" w="63.17500" h="10.85900" t="0:49.027"/>
+      <rectRegion x="17.93700" y="59.43700" w="63.17500" h="10.85900" t="1:01.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="5218515" fgColor="0" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2985943411&amp;ei=JGY9XODpNILQwQGL0IKIBA&amp;feature=iv&amp;src_vid=thA4oQz2u5k&amp;v=fgnAh5-3Hrk" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_4161247515" type="text" style="popup" log_data="l-class=1&amp;a-v=thA4oQz2u5k&amp;a-type=1&amp;a-id=annotation_4161247515&amp;xble=1&amp;ei=JGY9XODpNILQwQGL0IKIBA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRsv7rtnRvlQ" itct="CAUQs-UBGP___________wEiEwjgi-D-_e7fAhUCaDAKHQuoAEEo-B0yAml2SJn32ueQlI6ItgE">
+  <TEXT>iksD | TF2 Frag Clip of the Day #93 Robert</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="14.76200" y="69.01400" w="68.18500" h="13.95800" t="0:49.012"/>
+      <rectRegion x="14.76200" y="69.01400" w="68.18500" h="13.95800" t="1:01.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14573741" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_4161247515&amp;ei=JGY9XODpNILQwQGL0IKIBA&amp;feature=iv&amp;src_vid=thA4oQz2u5k&amp;v=Rsv7rtnRvlQ" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>

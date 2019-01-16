@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIq5nW0_7u3wIVSoDCAR3bHQ_NKPgdMgJpdkiPw_7wkpLJuMYB">
+<annotation id="annotation_179532" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FNISLT%2Fvideos&amp;ei=1mY9XKvWOsqAir4P27u86Aw&amp;a-type=3&amp;a-v=xnEkkS4foY8&amp;l-class=3&amp;a-id=annotation_179532&amp;xble=1" itct="CAEQs-UBGP___________wEiEwirmdbT_u7fAhVKgMIBHdsdD80o-B0yAml2SI_D_vCSksm4xgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="26.56300" y="76.11100" w="44.37500" h="20.83300" t="0:00:31.6"/>
+      <rectRegion x="26.56300" y="76.11100" w="44.37500" h="20.83300" t="0:00:45.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/NISLT/videos?annotation_id=annotation_179532&amp;ei=1mY9XKvWOsqAir4P27u86Aw&amp;feature=iv&amp;src_vid=xnEkkS4foY8" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_448089" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DS1Sde8wlysI&amp;ei=1mY9XKvWOsqAir4P27u86Aw&amp;a-type=3&amp;a-v=xnEkkS4foY8&amp;l-class=1&amp;a-id=annotation_448089&amp;xble=1" itct="CAIQs-UBGP___________wEiEwirmdbT_u7fAhVKgMIBHdsdD80o-B0yAml2SI_D_vCSksm4xgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.96900" y="15.83300" w="24.84400" h="24.16700" t="0:00:31.6"/>
+      <rectRegion x="2.96900" y="15.83300" w="24.84400" h="24.16700" t="0:00:45.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_448089&amp;ei=1mY9XKvWOsqAir4P27u86Aw&amp;feature=iv&amp;src_vid=xnEkkS4foY8&amp;v=S1Sde8wlysI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_477649" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>TF2: How to cross the border </TEXT>
+  <segment spaceRelative="annotation_448089">
+    <movingRegion type="rect">
+      <rectRegion x="0.15600" y="26.66700" w="24.84400" h="13.05600" t="never"/>
+      <rectRegion x="0.15600" y="26.66700" w="24.84400" h="13.05600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_448089" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_778429" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwHHGuZd9Cp4&amp;ei=1mY9XKvWOsqAir4P27u86Aw&amp;a-type=1&amp;a-v=xnEkkS4foY8&amp;l-class=1&amp;a-id=annotation_778429&amp;xble=1" itct="CAMQs-UBGP___________wEiEwirmdbT_u7fAhVKgMIBHdsdD80o-B0yAml2SI_D_vCSksm4xgE">
+  <TEXT>NEXT&gt;&gt;</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="72.18800" y="0.00000" w="27.65600" h="21.94400" t="0:00:31.9"/>
+      <rectRegion x="72.18800" y="0.00000" w="27.65600" h="21.94400" t="0:00:45.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="5670865" fgColor="16777215" textSize="8.42496666666667" effects="textdropshadow">
+    <padding top="5.05497980118" left="2.84342622757" bottom="5.05497980118" right="3.79123497009"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_778429&amp;ei=1mY9XKvWOsqAir4P27u86Aw&amp;feature=iv&amp;src_vid=xnEkkS4foY8&amp;v=wHHGuZd9Cp4" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_873636" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_179532">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="13.88900" w="3.12500" h="6.94400" t="never"/>
+      <rectRegion x="0.00000" y="13.88900" w="3.12500" h="6.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_179532" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_937159" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4vTuFjsU1z8&amp;ei=1mY9XKvWOsqAir4P27u86Aw&amp;a-type=1&amp;a-v=xnEkkS4foY8&amp;l-class=1&amp;a-id=annotation_937159&amp;xble=1" itct="CAQQs-UBGP___________wEiEwirmdbT_u7fAhVKgMIBHdsdD80o-B0yAml2SI_D_vCSksm4xgE">
+  <TEXT>MEDIC vs BEST TEAM EU </TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.15600" y="62.22200" w="68.75000" h="19.72200" t="0:00:31.6"/>
+      <rectRegion x="15.15600" y="62.22200" w="68.75000" h="19.72200" t="0:00:45.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="8.42496666666667" effects="textdropshadow">
+    <padding top="5.05497980118" left="2.84342622757" bottom="5.05497980118" right="3.79123497009"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_937159&amp;ei=1mY9XKvWOsqAir4P27u86Aw&amp;feature=iv&amp;src_vid=xnEkkS4foY8&amp;v=4vTuFjsU1z8" link_class="1"/>
+  </action>
+
+</annotation></annotations></document>
