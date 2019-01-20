@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_bjh_Obt3wIVUp4DCh3nYgqbKPgdMgJpdkjBv_LQgKfZksEB">
+<annotation id="annotation_1641559297" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_359459077">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_359459077" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_239589891" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Subscribe to GTLive!</TEXT>
+  <segment spaceRelative="annotation_384224641">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_384224641" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_359459077" type="highlight" log_data="a-type=3&amp;ei=ysc8XP2rOdK8DufFqdgJ&amp;a-id=annotation_359459077&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCAaegDUlb7doIKo0Rc1F08g%2Ffeatured&amp;a-v=wSVlOAocn8E&amp;l-class=3" itct="CAEQs-UBGP___________wEiEwj9uOH85u3fAhVSngMKHediCpso-B0yAml2SMG_8tCAp9mSwQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="24.20300" y="11.77800" w="51.53100" h="51.04200" t="13:44.418"/>
+      <rectRegion x="24.20300" y="11.77800" w="51.53100" h="51.04200" t="14:18.208"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCAaegDUlb7doIKo0Rc1F08g/featured?annotation_id=annotation_359459077&amp;ei=ysc8XP2rOdK8DufFqdgJ&amp;feature=iv&amp;src_vid=wSVlOAocn8E" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_384224641" type="highlight" log_data="a-type=3&amp;ei=ysc8XP2rOdK8DufFqdgJ&amp;a-id=annotation_384224641&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCAaegDUlb7doIKo0Rc1F08g%3Fsub_confirmation%3D1&amp;a-v=wSVlOAocn8E&amp;l-class=5" itct="CAIQs-UBGP___________wEiEwj9uOH85u3fAhVSngMKHediCpso-B0yAml2SMG_8tCAp9mSwQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="17.42200" y="67.75000" w="65.76600" h="28.07000" t="13:53.413"/>
+      <rectRegion x="17.42200" y="67.75000" w="65.76600" h="28.07000" t="14:18.208"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCAaegDUlb7doIKo0Rc1F08g?annotation_id=annotation_384224641&amp;ei=ysc8XP2rOdK8DufFqdgJ&amp;feature=iv&amp;src_vid=wSVlOAocn8E&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:5561941a-0000-2837-a53d-001a1141f772" style="branding" type="branding"
+            log_data="a-type=10&amp;ei=ysc8XP2rOdK8DufFqdgJ&amp;a-id=5561941a-0000-2837-a53d-001a1141f772&amp;xble=0&amp;link-id=UC3sznuotAs2ohg_U__Jzj_Q&amp;a-v=wSVlOAocn8E&amp;l-class=3&amp;a-ch=UC3sznuotAs2ohg_U__Jzj_Q">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_id&quot;:&quot;UC3sznuotAs2ohg_U__Jzj_Q&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;7.1M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbFpOVG9ueXFCa0hsbk95RVZDRW5qZ3VOZzN4Z3xBQ3Jtc0tsdTBCQXVlazdVNmkteVpBYkhkeWE3Szdpbm53LWNOM2hBVEdKRFFhbktKTlRleFdzellGcWc5ZzZtRk1DR3J5X2hkS1IzODlGM0pmaTdTYXY1Y1VTRVU3RGRfOFNGalYtNXpXSGdaOFVkZXdTZGdzR0tYYW1FRkpVZ21tbzl6ZnRWWnhpMzV5MUtyci1ES2x2WWRMVFlCXzRWYUFsRkd2dm1Xa1plS2YwNlBBdHhtbzcybHU4WjNFZmhHLU1IT0otZFlQamhTel93Y0VydmpyRGRaU1ZuX2V0a0F5Ni1NekxBdEdNM0JPVnVHQ0YwNXg0%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FFilmTheorists\u0026uilel=3\u0026service=youtube&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;7.1M&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;start_ms&quot;:0,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;wSVlOAocn8E&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;5561941a-0000-2837-a53d-001a1141f772&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCP244fzm7d8CFVKeAwod52IKmyj4HTICaXZIwb_y0ICn2ZLBAQ&quot;,&quot;ei&quot;:&quot;ysc8XP2rOdK8DufFqdgJ&quot;},&quot;is_mobile&quot;:false,&quot;image_width&quot;:40,&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/3sznuotAs2ohg_U__Jzj_Q\/featured_channel.jpg?v=556d4ebc&quot;,&quot;image_type&quot;:1,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;end_ms&quot;:859000,&quot;channel_name&quot;:&quot;The Film Theorists&quot;,&quot;num_subscribers&quot;:&quot;7178831&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/FilmTheorists"/>
+  </action>
+</annotation>
+<annotation id="video:76e705c9-dc0e-45ce-8412-f72a9b28153b" style="collaborator" type="card" log_data="a-ch=UC3sznuotAs2ohg_U__Jzj_Q&amp;a-id=76e705c9-dc0e-45ce-8412-f72a9b28153b&amp;a-type=69&amp;a-v=wSVlOAocn8E&amp;ei=ysc8XP2rOdK8DufFqdgJ&amp;l-class=3&amp;link-id=UCAaegDUlb7doIKo0Rc1F08g&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;https:\/\/www.youtube.com\/channel\/UCAaegDUlb7doIKo0Rc1F08g&quot;,&quot;channel_id&quot;:&quot;UCAaegDUlb7doIKo0Rc1F08g&quot;,&quot;title&quot;:&quot;GTLive&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:812987,&quot;card_type&quot;:&quot;collaborator&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwj9uOH85u3fAhVSngMKHediCpso-B0yBWNhcmRzSMG_8tCAp9mSwQE&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCP244fzm7d8CFVKeAwod52IKmyj4HTIFY2FyZHNIwb_y0ICn2ZLBAQ&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCP244fzm7d8CFVKeAwod52IKmyj4HTIFY2FyZHNIwb_y0ICn2ZLBAQ&quot;},&quot;teaser_text&quot;:&quot;Hang out with us!&quot;,&quot;timestamp&quot;:1444344128665,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mBhDQn4Yry6KJNbsaxKDoNjX-z5iBrN5BJXSg=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;custom_message&quot;:&quot;Check Out the GTLive Channel!&quot;,&quot;tracking&quot;:{&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[]},&quot;end_ms&quot;:812987,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;wSVlOAocn8E&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;76e705c9-dc0e-45ce-8412-f72a9b28153b&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCP244fzm7d8CFVKeAwod52IKmyj4HTIFY2FyZHNIwb_y0ICn2ZLBAQ&quot;,&quot;ei&quot;:&quot;ysc8XP2rOdK8DufFqdgJ&quot;},&quot;target&quot;:&quot;new&quot;,&quot;meta_info&quot;:[&quot;1.9M subscribers&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCAaegDUlb7doIKo0Rc1F08g"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwj9uOH85u3fAhVSngMKHediCpso+B0yBWNhcmRzSMG/8tCAp9mSwQE=&quot;, 
+  &quot;eventId&quot;: &quot;ysc8XP2rOdK8DufFqdgJ&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwj9uOH85u3fAhVSngMKHediCpso+B0yBWNhcmRzSMG/8tCAp9mSwQE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCP244fzm7d8CFVKeAwod52IKmyj4HTIFY2FyZHNIwb/y0ICn2ZLBAQ==&quot;, 
+  &quot;headerText&quot;: &quot;From The Film Theorists&quot;
+}</data>
+</annotation>
+</annotations></document>

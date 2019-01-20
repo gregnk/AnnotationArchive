@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI362qh-7t3wIV0LKCCh1yKAFvKPgdMgJpdkio7-3-r8XKvyw">
+<annotation id="annotation_1337797331" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Never miss a video!</TEXT>
+  <segment spaceRelative="annotation_4096603013">
+    <movingRegion type="rect">
+      <rectRegion x="27.25800" y="12.39400" w="40.21400" h="10.78900" t="never"/>
+      <rectRegion x="27.25800" y="12.39400" w="40.21400" h="10.78900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_4096603013" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4096603013" type="highlight" log_data="a-type=3&amp;ei=OM88XN-xCdDligTy0IT4Bg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCGy6uV7yqGWDeUWTZzT3ZE&amp;a-id=annotation_4096603013&amp;xble=1&amp;a-v=LH8qKv_bd6g&amp;l-class=3" itct="CAEQs-UBGP___________wEiEwjfraqH7u3fAhXQsoIKHXIoAW8o-B0yAml2SKjv7f6vxcq_LA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.97300" y="56.62000" w="74.41600" h="40.31400" t="3:28.000"/>
+      <rectRegion x="6.97300" y="56.62000" w="74.41600" h="40.31400" t="3:34.597"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="3355443" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCGy6uV7yqGWDeUWTZzT3ZE?annotation_id=annotation_4096603013&amp;ei=OM88XN-xCdDligTy0IT4Bg&amp;feature=iv&amp;src_vid=LH8qKv_bd6g" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_616399719" type="text" style="anchored" log_data="a-type=8&amp;ei=OM88XN-xCdDligTy0IT4Bg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVH2NxmGbSqo&amp;a-id=annotation_616399719&amp;xble=1&amp;a-v=LH8qKv_bd6g&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwjfraqH7u3fAhXQsoIKHXIoAW8o-B0yAml2SKjv7f6vxcq_LA">
+  <TEXT>NEXT: 500 Danish Muslims mourn terrorist</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="43.89100" y="7.88700" w="52.94000" h="9.45100" sx="71.7939987183" sy="19.3379993439" t="3:27.000"/>
+      <anchoredRegion x="43.89100" y="7.88700" w="52.94000" h="9.45100" sx="71.7939987183" sy="19.3379993439" t="3:34.597"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_616399719&amp;ei=OM88XN-xCdDligTy0IT4Bg&amp;feature=iv&amp;src_vid=LH8qKv_bd6g&amp;v=VH2NxmGbSqo" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

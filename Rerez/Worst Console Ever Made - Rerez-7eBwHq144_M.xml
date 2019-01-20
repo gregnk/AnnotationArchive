@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIkeP_0ebt3wIVCU7tCh0_rA_gKPgdMgJpdkjzx-Pr6oOc8O0B">
+<annotation id="annotation_1250857939" type="text" style="popup" log_data="a-v=7eBwHq144_M&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5qiRCU0SCTs&amp;xble=1&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;a-id=annotation_1250857939&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwiR4__R5u3fAhUJTu0KHT-sD-Ao-B0yAml2SPPH4-vqg5zw7QE">
+  <TEXT>Be sure to check out Worst Console Ever 2! Click here!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="19.49300" y="86.47900" w="63.90600" h="8.60600" t="0:00.000"/>
+      <rectRegion x="19.49300" y="86.47900" w="63.90600" h="8.60600" t="0:17.191"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16636470" fgColor="16777215" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1250857939&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;feature=iv&amp;src_vid=7eBwHq144_M&amp;v=5qiRCU0SCTs" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_1446135909" type="text" style="popup" log_data="a-v=7eBwHq144_M&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5qiRCU0SCTs&amp;xble=1&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;a-id=annotation_1446135909&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwiR4__R5u3fAhUJTu0KHT-sD-Ao-B0yAml2SPPH4-vqg5zw7QE">
+  <TEXT>Click Here To Watch Part 2!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="9.82600" y="80.28200" w="39.97600" h="8.04200" t="21:00.373"/>
+      <rectRegion x="9.82600" y="80.28200" w="39.97600" h="8.04200" t="21:14.960"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16777215" fgColor="0" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1446135909&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;feature=iv&amp;src_vid=7eBwHq144_M&amp;v=5qiRCU0SCTs" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_153469" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_477984">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_477984" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_263658" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_353999">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_353999" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_353999" type="highlight" log_data="a-v=7eBwHq144_M&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FLaserFrog&amp;xble=1&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;a-id=annotation_353999&amp;l-class=3" itct="CAMQs-UBGP___________wEiEwiR4__R5u3fAhUJTu0KHT-sD-Ao-B0yAml2SPPH4-vqg5zw7QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.68800" y="59.16700" w="48.28100" h="4.44400" t="0:21:00.7"/>
+      <rectRegion x="4.68800" y="59.16700" w="48.28100" h="4.44400" t="0:21:16.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/LaserFrog?annotation_id=annotation_353999&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;feature=iv&amp;src_vid=7eBwHq144_M" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_477984" type="highlight" log_data="a-v=7eBwHq144_M&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvXfMcqTcSvI&amp;xble=1&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;a-id=annotation_477984&amp;l-class=1" itct="CAQQs-UBGP___________wEiEwiR4__R5u3fAhUJTu0KHT-sD-Ao-B0yAml2SPPH4-vqg5zw7QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.21900" y="4.16700" w="37.50000" h="42.77800" t="0:21:00.8"/>
+      <rectRegion x="4.21900" y="4.16700" w="37.50000" h="42.77800" t="0:21:16.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_477984&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;feature=iv&amp;src_vid=7eBwHq144_M&amp;v=vXfMcqTcSvI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_828826" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_892507">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_892507" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_892507" type="highlight" log_data="a-v=7eBwHq144_M&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DRerezTV&amp;xble=1&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;a-id=annotation_892507&amp;l-class=5" itct="CAUQs-UBGP___________wEiEwiR4__R5u3fAhUJTu0KHT-sD-Ao-B0yAml2SPPH4-vqg5zw7QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="62.03100" y="10.83300" w="30.15600" h="27.22200" t="0:21:00.8"/>
+      <rectRegion x="62.03100" y="10.83300" w="30.15600" h="27.22200" t="0:21:16.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=RerezTV&amp;annotation_id=annotation_892507&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;feature=iv&amp;src_vid=7eBwHq144_M" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:53176afc-0-2971-9f80-bcaec5171b21" style="branding" type="branding"
+            log_data="a-v=7eBwHq144_M&amp;a-type=10&amp;a-ch=UCoFpRCAsKfWAshvLE1bYzdw&amp;link-id=UCoFpRCAsKfWAshvLE1bYzdw&amp;xble=0&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;a-id=53176afc-0-2971-9f80-bcaec5171b21&amp;l-class=3">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;53176afc-0-2971-9f80-bcaec5171b21&quot;,&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTICaXZI88fj6-qDnPDtAQ&quot;,&quot;src_vid&quot;:&quot;7eBwHq144_M&quot;,&quot;ei&quot;:&quot;ccc8XNHmD4mctQe_2L6ADg&quot;},&quot;is_mobile&quot;:false,&quot;image_type&quot;:1,&quot;image_width&quot;:54,&quot;end_ms&quot;:1275000,&quot;image_height&quot;:15,&quot;channel_id&quot;:&quot;UCoFpRCAsKfWAshvLE1bYzdw&quot;,&quot;num_subscribers&quot;:&quot;173993&quot;,&quot;start_ms&quot;:0,&quot;channel_name&quot;:&quot;Rerez&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;unsubscribeCount&quot;:&quot;173K&quot;,&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;173K&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=en\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbWxPS3BzMnZaN2JtOEZnVmtTMUxHVFAwdTZPQXxBQ3Jtc0trdXpuTWpGSlc4QTg0WExPNDMxUnN4blpUaWNIODJpa2l6RVRENmFxbWhTNE9PUGFOZVd2NUNLMzZFU01XeEpwVnNnVTYtRWhnUTNsc0FuWWwzWGg0eXZ3TE4zdjktYVFOdTdDa0FXNzFoVUNFa3JSVEROM1BPdGh0dkNCaWI4bERVcXF1VV9fbkpXUEZzc21mWk9UX3ptRnhuZHhJRERleWc3OENYUVgxXzhMNDBlYi1qbk43UDd6QUhUTnktZi1sRFJONTJ4cXI0cTZTaWFFQ05rbGFLZlV5a2hoZVVTVVhZd1Z3Q2ZkUXZmcl91bWVZ%26feature%3Div%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FRerezTV%26hl%3Den%26app%3Ddesktop\u0026service=youtube\u0026passive=true&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/oFpRCAsKfWAshvLE1bYzdw\/featured_channel.jpg?v=5317f5e7&quot;,&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/RerezTV"/>
+  </action>
+</annotation>
+<annotation id="video:dffffe76-d44c-46f1-883d-9f83e643c4a0" style="video" type="card" log_data="a-ch=UCoFpRCAsKfWAshvLE1bYzdw&amp;a-id=dffffe76-d44c-46f1-883d-9f83e643c4a0&amp;a-type=62&amp;a-v=7eBwHq144_M&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;l-class=1&amp;link-id=q97hPbyRqqA&amp;xble=0">
+  <data>{&quot;custom_message&quot;:&quot;&quot;,&quot;title&quot;:&quot;Top 5 NES Games - Rare Obscure or Retro - Rerez&quot;,&quot;end_ms&quot;:38216,&quot;timestamp&quot;:1439917416016,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwiR4__R5u3fAhUJTu0KHT-sD-Ao-B0yBWNhcmRzSPPH4-vqg5zw7QE&quot;,&quot;card&quot;:&quot;CAsQ1TYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;,&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/q97hPbyRqqA\/mqdefault.jpg&quot;,&quot;start_ms&quot;:38216,&quot;teaser_text&quot;:&quot;Suggested: Top 5 NES Games - Rare Obscure or Retro - Rerez&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;dffffe76-d44c-46f1-883d-9f83e643c4a0&quot;,&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;,&quot;src_vid&quot;:&quot;7eBwHq144_M&quot;,&quot;ei&quot;:&quot;ccc8XNHmD4mctQe_2L6ADg&quot;},&quot;target&quot;:&quot;new&quot;,&quot;meta_info&quot;:[&quot;by Rerez&quot;,&quot;34,916 views&quot;],&quot;video_duration&quot;:&quot;6:20&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=q97hPbyRqqA&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=q97hPbyRqqA"/>
+  </action>
+</annotation>
+
+<annotation id="video:02a4e5c0-a562-4cc1-88e3-1459f169821c" style="playlist" type="card" log_data="a-ch=UCoFpRCAsKfWAshvLE1bYzdw&amp;a-id=02a4e5c0-a562-4cc1-88e3-1459f169821c&amp;a-type=63&amp;a-v=7eBwHq144_M&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;l-class=2&amp;link-id=PLzx_ak-EKl1zidmIkj9TdZIcd4e9C34fg&amp;xble=0">
+  <data>{&quot;custom_message&quot;:&quot;&quot;,&quot;title&quot;:&quot;Positives \u0026 Negatives Series&quot;,&quot;end_ms&quot;:128989,&quot;timestamp&quot;:1439917455264,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBEQsJcBGP___________wEiEwiR4__R5u3fAhUJTu0KHT-sD-Ao-B0yBWNhcmRzSPPH4-vqg5zw7QE&quot;,&quot;card&quot;:&quot;CA8Q1TYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;,&quot;teaser&quot;:&quot;CBAQ0DYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/okwzfLtQs4c\/mqdefault.jpg&quot;,&quot;start_ms&quot;:128989,&quot;teaser_text&quot;:&quot;Suggested: Positives \u0026 Negatives Series&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;playlist&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;02a4e5c0-a562-4cc1-88e3-1459f169821c&quot;,&quot;itct&quot;:&quot;CA8Q1TYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;,&quot;src_vid&quot;:&quot;7eBwHq144_M&quot;,&quot;ei&quot;:&quot;ccc8XNHmD4mctQe_2L6ADg&quot;},&quot;target&quot;:&quot;new&quot;,&quot;meta_info&quot;:[&quot;by Rerez&quot;,&quot;34 videos&quot;],&quot;playlist_video_count&quot;:&quot;34&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=okwzfLtQs4c\u0026list=PLzx_ak-EKl1zidmIkj9TdZIcd4e9C34fg&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=okwzfLtQs4c&amp;list=PLzx_ak-EKl1zidmIkj9TdZIcd4e9C34fg"/>
+  </action>
+</annotation>
+
+<annotation id="video:7b094bef-8a25-4418-bee8-7e6384909af4" style="video" type="card" log_data="a-ch=UCoFpRCAsKfWAshvLE1bYzdw&amp;a-id=7b094bef-8a25-4418-bee8-7e6384909af4&amp;a-type=62&amp;a-v=7eBwHq144_M&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;l-class=1&amp;link-id=lVLY769ho0o&amp;xble=0">
+  <data>{&quot;custom_message&quot;:&quot;&quot;,&quot;title&quot;:&quot;My Pick For Best Video Game Controller - Rerez&quot;,&quot;end_ms&quot;:209889,&quot;timestamp&quot;:1439917693086,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBUQsJcBGP___________wEiEwiR4__R5u3fAhUJTu0KHT-sD-Ao-B0yBWNhcmRzSPPH4-vqg5zw7QE&quot;,&quot;card&quot;:&quot;CBMQ1TYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;,&quot;teaser&quot;:&quot;CBQQ0DYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/lVLY769ho0o\/mqdefault.jpg&quot;,&quot;start_ms&quot;:209889,&quot;teaser_text&quot;:&quot;Suggested: My Pick For Best Video Game Controller - Rerez&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;7b094bef-8a25-4418-bee8-7e6384909af4&quot;,&quot;itct&quot;:&quot;CBMQ1TYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;,&quot;src_vid&quot;:&quot;7eBwHq144_M&quot;,&quot;ei&quot;:&quot;ccc8XNHmD4mctQe_2L6ADg&quot;},&quot;target&quot;:&quot;new&quot;,&quot;meta_info&quot;:[&quot;by Rerez&quot;,&quot;34,553 views&quot;],&quot;video_duration&quot;:&quot;2:12&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=lVLY769ho0o&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=lVLY769ho0o"/>
+  </action>
+</annotation>
+
+<annotation id="video:34da52f0-b6da-4ced-b780-2c054f79be25" style="video" type="card" log_data="a-ch=UCoFpRCAsKfWAshvLE1bYzdw&amp;a-id=34da52f0-b6da-4ced-b780-2c054f79be25&amp;a-type=62&amp;a-v=7eBwHq144_M&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;l-class=1&amp;link-id=5qiRCU0SCTs&amp;xble=0">
+  <data>{&quot;custom_message&quot;:&quot;&quot;,&quot;title&quot;:&quot;Worst Console Ever Made 2 - Rerez&quot;,&quot;end_ms&quot;:1223686,&quot;timestamp&quot;:1439917601169,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBkQsJcBGP___________wEiEwiR4__R5u3fAhUJTu0KHT-sD-Ao-B0yBWNhcmRzSPPH4-vqg5zw7QE&quot;,&quot;card&quot;:&quot;CBcQ1TYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;,&quot;teaser&quot;:&quot;CBgQ0DYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/5qiRCU0SCTs\/mqdefault.jpg&quot;,&quot;start_ms&quot;:1223686,&quot;teaser_text&quot;:&quot;Suggested: Worst Console Ever Made 2 - Rerez&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;34da52f0-b6da-4ced-b780-2c054f79be25&quot;,&quot;itct&quot;:&quot;CBcQ1TYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;,&quot;src_vid&quot;:&quot;7eBwHq144_M&quot;,&quot;ei&quot;:&quot;ccc8XNHmD4mctQe_2L6ADg&quot;},&quot;target&quot;:&quot;new&quot;,&quot;meta_info&quot;:[&quot;by Rerez&quot;,&quot;1,107,006 views&quot;],&quot;video_duration&quot;:&quot;38:20&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=5qiRCU0SCTs&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=5qiRCU0SCTs"/>
+  </action>
+</annotation>
+
+<annotation id="video:b094a816-d83b-4311-95df-66a5e6ddbbfc" style="playlist" type="card" log_data="a-ch=UCoFpRCAsKfWAshvLE1bYzdw&amp;a-id=b094a816-d83b-4311-95df-66a5e6ddbbfc&amp;a-type=63&amp;a-v=7eBwHq144_M&amp;ei=ccc8XNHmD4mctQe_2L6ADg&amp;l-class=2&amp;link-id=PLzx_ak-EKl1xu-QIYTJnInKjvID-nm9sm&amp;xble=0">
+  <data>{&quot;custom_message&quot;:&quot;&quot;,&quot;title&quot;:&quot;Rerez Episodes&quot;,&quot;end_ms&quot;:1245287,&quot;timestamp&quot;:1442910223630,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CB0QsJcBGP___________wEiEwiR4__R5u3fAhUJTu0KHT-sD-Ao-B0yBWNhcmRzSPPH4-vqg5zw7QE&quot;,&quot;card&quot;:&quot;CBsQ1TYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;,&quot;teaser&quot;:&quot;CBwQ0DYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/ZqXuAuTFXpA\/mqdefault.jpg&quot;,&quot;start_ms&quot;:1245287,&quot;teaser_text&quot;:&quot;Suggested: Rerez Episodes&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;playlist&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;b094a816-d83b-4311-95df-66a5e6ddbbfc&quot;,&quot;itct&quot;:&quot;CBsQ1TYY____________ASITCJHj_9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6-qDnPDtAQ&quot;,&quot;src_vid&quot;:&quot;7eBwHq144_M&quot;,&quot;ei&quot;:&quot;ccc8XNHmD4mctQe_2L6ADg&quot;},&quot;target&quot;:&quot;new&quot;,&quot;meta_info&quot;:[&quot;by Rerez&quot;,&quot;167 videos&quot;],&quot;playlist_video_count&quot;:&quot;167&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=ZqXuAuTFXpA\u0026list=PLzx_ak-EKl1xu-QIYTJnInKjvID-nm9sm&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=ZqXuAuTFXpA&amp;list=PLzx_ak-EKl1xu-QIYTJnInKjvID-nm9sm"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAkQsJcBGP///////////wEiEwiR4//R5u3fAhUJTu0KHT+sD+Ao+B0yBWNhcmRzSPPH4+vqg5zw7QE=&quot;, 
+  &quot;eventId&quot;: &quot;ccc8XNHmD4mctQe_2L6ADg&quot;, 
+  &quot;trackingParams&quot;: &quot;CAcQwjcY////////////ASITCJHj/9Hm7d8CFQlO7QodP6wP4Cj4HTIFY2FyZHNI88fj6+qDnPDtAQ==&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAgQsZcBGP///////////wEiEwiR4//R5u3fAhUJTu0KHT+sD+Ao+B0yBWNhcmRzSPPH4+vqg5zw7QE=&quot;, 
+  &quot;headerText&quot;: &quot;From Rerez&quot;
+}</data>
+</annotation>
+</annotations></document>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3cPVlujt3wIVJeGCCh2UlwSlKPgdMgJpdkjP2o7NzfPLpBU">
+<annotation id="annotation_1304561911" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3333134865">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3333134865" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1646800865" type="highlight" log_data="a-type=3&amp;a-v=FUkvnNmjrU8&amp;a-id=annotation_1646800865&amp;l-class=5&amp;xble=1&amp;ei=Dck8XJ2JK6XCiwSUr5KoCg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTestTubeNetwork%3Fsub_confirmation%3D1" itct="CAEQs-UBGP___________wEiEwjdw9WW6O3fAhUl4YIKHZSXBKUo-B0yAml2SM_ajs3N88ukFQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="22.82100" y="5.63400" w="54.47700" h="17.91500" t="2:20.481"/>
+      <rectRegion x="22.82100" y="5.63400" w="54.47700" h="17.91500" t="2:42.182"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TestTubeNetwork?annotation_id=annotation_1646800865&amp;ei=Dck8XJ2JK6XCiwSUr5KoCg&amp;feature=iv&amp;src_vid=FUkvnNmjrU8&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2369295695" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1646800865">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1646800865" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3333134865" type="highlight" log_data="a-type=3&amp;a-v=FUkvnNmjrU8&amp;a-id=annotation_3333134865&amp;l-class=2&amp;xble=1&amp;ei=Dck8XJ2JK6XCiwSUr5KoCg&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLS0CO0PT_kEJ7V1WlDeHdpXpgjQsq7zJI" itct="CAIQs-UBGP___________wEiEwjdw9WW6O3fAhUl4YIKHZSXBKUo-B0yAml2SM_ajs3N88ukFQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="19.96800" y="83.38000" w="59.84900" h="11.69000" t="2:20.481"/>
+      <rectRegion x="19.96800" y="83.38000" w="59.84900" h="11.69000" t="2:42.216"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_3333134865&amp;ei=Dck8XJ2JK6XCiwSUr5KoCg&amp;feature=iv&amp;list=PLS0CO0PT_kEJ7V1WlDeHdpXpgjQsq7zJI&amp;src_vid=FUkvnNmjrU8" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:a987cffe-b30f-4517-a30d-024cefc96c25" style="branding" type="branding"
+            log_data="link-id=UCgRvm1yLFoaQKhmaTqXk9SA&amp;a-type=10&amp;a-v=FUkvnNmjrU8&amp;a-id=a987cffe-b30f-4517-a30d-024cefc96c25&amp;l-class=3&amp;xble=0&amp;a-ch=UCgRvm1yLFoaQKhmaTqXk9SA&amp;ei=Dck8XJ2JK6XCiwSUr5KoCg">
+  <data>{&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;image_height&quot;:41,&quot;channel_id&quot;:&quot;UCgRvm1yLFoaQKhmaTqXk9SA&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;1.9M&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;1.9M&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTestTubeNetwork%26hl%3Den%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbXdXR1A1dzR2b0pnbUJ6OEFTLWsxOTgzVUFVQXxBQ3Jtc0trYUt1dmVXR28yUXptdldnekFXXzBEbjU2ZzNObjNzOGpuUDdYZnJaMmR2SFZZSDJvRTg5UWl1c2w4N1lNbXlvZlFEbDlzMU12TGZhWnlQZG9QdWFkU2RRZEV6MkxGMUlMV2FHempoX0xfMVJ1bEU5TjlGNy10LUEtYm90TjN1aXlmRlpmcHJ6d1o1ZHNfQU9oWTJ5U2g1c2c0Nm1zSHJhVjNnUzMxMUMwZ3ZzWXBzSERyZ1JZdlNQbGZIbTJiZWxob1REeTc5R2JXLUNsX1VEUG9kN1ZYTVBWazlScjI0OUdtQmttSzhiS1lGVE5HYXVN%26app%3Ddesktop\u0026passive=true\u0026uilel=3\u0026hl=en\u0026service=youtube&quot;},&quot;image_width&quot;:38,&quot;end_ms&quot;:163000,&quot;channel_name&quot;:&quot;NowThis World&quot;,&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;1949571&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCN3D1Zbo7d8CFSXhggodlJcEpSj4HTICaXZIz9qOzc3zy6QV&quot;,&quot;src_vid&quot;:&quot;FUkvnNmjrU8&quot;,&quot;annotation_id&quot;:&quot;a987cffe-b30f-4517-a30d-024cefc96c25&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;Dck8XJ2JK6XCiwSUr5KoCg&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/gRvm1yLFoaQKhmaTqXk9SA\/featured_channel.jpg?v=59b2a5b7&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TestTubeNetwork"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIyqHEpN7t3wIVgyiDCh3K-QdKKPgdMgJpdkiMtO6ByJLG5KgB">
+<annotation id="annotation_141621" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_268498">
+    <movingRegion type="rect">
+      <rectRegion x="18.75000" y="66.11100" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="18.75000" y="66.11100" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_268498" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_208362" type="text" style="popup" log_data="a-v=qMkYlIA7mgw&amp;a-id=annotation_208362&amp;ei=rr48XMqSGoPRjATK85_QBA&amp;xble=1&amp;a-type=1" itct="CAEQs-UBGP___________wEiEwjKocSk3u3fAhWDKIMKHcr5B0oo-B0yAml2SIy07oHIksbkqAE">
+  <TEXT>I don&#39;t normally ask, but if you enjoyed the video, would you consider &#39;liking&#39; it on YouTube and sharing it?</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="17.65600" y="53.61100" w="61.71900" h="13.88900" t="0:05:17.8"/>
+      <rectRegion x="17.65600" y="53.61100" w="61.71900" h="13.88900" t="0:05:26.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_245100" type="highlight" log_data="l-class=1&amp;a-v=qMkYlIA7mgw&amp;a-id=annotation_245100&amp;ei=rr48XMqSGoPRjATK85_QBA&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWVZQapdkwLo" itct="CAIQs-UBGP___________wEiEwjKocSk3u3fAhWDKIMKHcr5B0oo-B0yAml2SIy07oHIksbkqAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="32.03100" y="5.27800" w="35.46900" h="31.11100" t="0:00:09.1"/>
+      <rectRegion x="32.03100" y="5.27800" w="35.46900" h="31.11100" t="0:00:11.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_245100&amp;ei=rr48XMqSGoPRjATK85_QBA&amp;feature=iv&amp;src_vid=qMkYlIA7mgw&amp;v=WVZQapdkwLo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_265945" type="text" style="popup" log_data="l-class=1&amp;a-v=qMkYlIA7mgw&amp;a-id=annotation_265945&amp;ei=rr48XMqSGoPRjATK85_QBA&amp;a-type=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVui-qGCfXuA%26index%3D1%26list%3DPLqs5ohhass_T9M9EfVlXYjJM29QlosjE6" itct="CAMQs-UBGP___________wEiEwjKocSk3u3fAhWDKIMKHcr5B0oo-B0yAml2SIy07oHIksbkqAE">
+  <TEXT>☜ Part 1</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="13.90600" h="8.88900" t="0:03:49.9"/>
+      <rectRegion x="0.00000" y="0.00000" w="13.90600" h="8.88900" t="0:04:53.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_265945&amp;ei=rr48XMqSGoPRjATK85_QBA&amp;feature=iv&amp;index=1&amp;list=PLqs5ohhass_T9M9EfVlXYjJM29QlosjE6&amp;src_vid=qMkYlIA7mgw&amp;v=Vui-qGCfXuA" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_268498" type="highlight" log_data="l-class=1&amp;a-v=qMkYlIA7mgw&amp;a-id=annotation_268498&amp;ei=rr48XMqSGoPRjATK85_QBA&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVui-qGCfXuA%26index%3D1%26list%3DPLqs5ohhass_T9M9EfVlXYjJM29QlosjE6" itct="CAQQs-UBGP___________wEiEwjKocSk3u3fAhWDKIMKHcr5B0oo-B0yAml2SIy07oHIksbkqAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.75000" y="20.00000" w="58.59400" h="58.88900" t="0:04:53.0"/>
+      <rectRegion x="3.75000" y="20.00000" w="58.59400" h="58.88900" t="0:05:13.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6994293" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_268498&amp;ei=rr48XMqSGoPRjATK85_QBA&amp;feature=iv&amp;index=1&amp;list=PLqs5ohhass_T9M9EfVlXYjJM29QlosjE6&amp;src_vid=qMkYlIA7mgw&amp;v=Vui-qGCfXuA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_280966" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_245100">
+    <movingRegion type="rect">
+      <rectRegion x="9.79200" y="45.27800" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="9.79200" y="45.27800" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_245100" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_552489" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_874086">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_874086" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_63980" type="highlight" log_data="l-class=6&amp;a-v=qMkYlIA7mgw&amp;a-id=annotation_63980&amp;ei=rr48XMqSGoPRjATK85_QBA&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.cgpgrey.com%2Fyt-email-list" itct="CAUQs-UBGP___________wEiEwjKocSk3u3fAhWDKIMKHcr5B0oo-B0yAml2SIy07oHIksbkqAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="17.61400" y="0.00000" w="64.84400" h="15.27800" t="4:31.500"/>
+      <rectRegion x="17.61400" y="0.00000" w="64.84400" h="15.27800" t="5:13.500"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.cgpgrey.com/yt-email-list" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_646366" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_63980">
+    <movingRegion type="rect">
+      <rectRegion x="3.28100" y="18.61100" w="58.12500" h="5.55600" t="never"/>
+      <rectRegion x="3.28100" y="18.61100" w="58.12500" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_63980" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_816242" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_946360">
+    <movingRegion type="rect">
+      <rectRegion x="-0.31200" y="33.88900" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="-0.31200" y="33.88900" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_946360" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_874086" type="highlight" log_data="l-class=7&amp;a-v=qMkYlIA7mgw&amp;a-id=annotation_874086&amp;ei=rr48XMqSGoPRjATK85_QBA&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fstore.dftba.com%2Fproducts%2Fcgp-grey-logo-shirt" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="70.62500" y="20.00000" w="15.78100" h="26.94400" t="4:53.000"/>
+      <rectRegion x="70.62500" y="20.00000" w="15.78100" h="26.94400" t="5:13.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14048063" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://store.dftba.com/products/cgp-grey-logo-shirt" link_class="7"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_885260" type="text" style="popup" log_data="a-v=qMkYlIA7mgw&amp;a-id=annotation_885260&amp;ei=rr48XMqSGoPRjATK85_QBA&amp;xble=1&amp;a-type=1" itct="">
+  <TEXT>Sorry about the music running long.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="28.90600" y="35.00000" w="40.15600" h="9.44400" t="0:05:14.0"/>
+      <rectRegion x="28.90600" y="35.00000" w="40.15600" h="9.44400" t="0:05:26.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14562356" fgColor="16777215" textSize="3.9116" effects="textdropshadow">
+    <padding top="2.34696006775" left="1.32016503811" bottom="2.34696006775" right="1.76022005081"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_946360" type="highlight" log_data="l-class=6&amp;a-v=qMkYlIA7mgw&amp;a-id=annotation_946360&amp;ei=rr48XMqSGoPRjATK85_QBA&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.cgpgrey.com%2Fblog%2Fcanada-the-united-states-bizarre-borders-part-2" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="66.09400" y="50.00000" w="24.84400" h="28.88900" t="0:04:34.9"/>
+      <rectRegion x="66.09400" y="50.00000" w="24.84400" h="28.88900" t="0:05:13.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16564776" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.cgpgrey.com/blog/canada-the-united-states-bizarre-borders-part-2" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:555e76a4-0000-2d28-b62b-001a1149c50e" style="branding" type="branding"
+            log_data="link-id=UC2C_jShtL725hvbm1arSV9w&amp;xble=0&amp;a-type=10&amp;a-v=qMkYlIA7mgw&amp;a-id=555e76a4-0000-2d28-b62b-001a1149c50e&amp;ei=rr48XMqSGoPRjATK85_QBA&amp;l-class=3&amp;a-ch=UC2C_jShtL725hvbm1arSV9w">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbkNoQnNnaDFHRTByWUNEazVDWkZJUVJLbEpTUXxBQ3Jtc0tsRG5pNVZOdlBNdlo1dnlxX185WVkyNVhQY0dxbzhKQ1RnY21KZ0t1TXB5UnlsanJ5VW1IMmZBRm1rM1BjdnI0WnVqYnMyWmFsZ1RQUTZ1STlKTXNJY05QcWxpZG0wSUQ4UVdxN2p3bDRkWi1LbGlZTzFDQ1ZJVDd4bGVYaXpqWDdzNDZzVm9DclpfeElPaG1oV21sZVZsWnZwOW5mSGhxTDd6RjJ0RE1KVkpsdklSeC1nTkstU1J6bVFhbmJZU2FkbExHZzY3MTBoTEIydDlhbWNoYlgyWWY4dFBpMDdfMVNSZVIydEdESUYyYkp4MGJr%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FCGPGrey%26app%3Ddesktop%26feature%3Div%26hl%3Den%26action_handle_signin%3Dtrue\u0026hl=en\u0026passive=true&quot;,&quot;subscribeCount&quot;:&quot;3.6M&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;3.6M&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;image_width&quot;:40,&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UC2C_jShtL725hvbm1arSV9w&quot;,&quot;num_subscribers&quot;:&quot;3678697&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;555e76a4-0000-2d28-b62b-001a1149c50e&quot;,&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCMqhxKTe7d8CFYMogwodyvkHSij4HTICaXZIjLTugciSxuSoAQ&quot;,&quot;ei&quot;:&quot;rr48XMqSGoPRjATK85_QBA&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;qMkYlIA7mgw&quot;},&quot;image_height&quot;:40,&quot;channel_name&quot;:&quot;CGP Grey&quot;,&quot;image_type&quot;:1,&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/2C_jShtL725hvbm1arSV9w\/featured_channel.jpg?v=5580965a&quot;,&quot;end_ms&quot;:326000,&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/CGPGrey"/>
+  </action>
+</annotation>
+<annotation id="video:3a9d28b6-7f42-40fd-8e72-69c4e90999f2" style="simple" type="card" log_data="a-ch=UC2C_jShtL725hvbm1arSV9w&amp;a-id=3a9d28b6-7f42-40fd-8e72-69c4e90999f2&amp;a-type=68&amp;a-v=qMkYlIA7mgw&amp;ei=rr48XMqSGoPRjATK85_QBA&amp;l-class=6&amp;link=http%3A%2F%2Fwww.cgpgrey.com%2Fyt-email-list&amp;xble=0">
+  <data>{&quot;display_domain&quot;:&quot;cgpgrey.com&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;3a9d28b6-7f42-40fd-8e72-69c4e90999f2&quot;,&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCMqhxKTe7d8CFYMogwodyvkHSij4HTIFY2FyZHNIjLTugciSxuSoAQ&quot;,&quot;ei&quot;:&quot;rr48XMqSGoPRjATK85_QBA&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;qMkYlIA7mgw&quot;},&quot;show_link_icon&quot;:true,&quot;custom_message&quot;:&quot;Get notified for new videos.&quot;,&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;simple&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;start_ms&quot;:1,&quot;teaser_text&quot;:&quot;Get notified for new videos.&quot;,&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;CGP Email List&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAsQ1TYY____________ASITCMqhxKTe7d8CFYMogwodyvkHSij4HTIFY2FyZHNIjLTugciSxuSoAQ&quot;,&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwjKocSk3u3fAhWDKIMKHcr5B0oo-B0yBWNhcmRzSIy07oHIksbkqAE&quot;,&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCMqhxKTe7d8CFYMogwodyvkHSij4HTIFY2FyZHNIjLTugciSxuSoAQ&quot;},&quot;meta_info&quot;:[],&quot;url&quot;:&quot;\/redirect?event=infocard\u0026redir_token=dQ6-085UXSX-Wnl-6Dcn61KfAd58MTU0NzU3MTI0NkAxNTQ3NDg0ODQ2\u0026q=http%3A%2F%2Fwww.cgpgrey.com%2Fyt-email-list&quot;,&quot;sponsored&quot;:false,&quot;end_ms&quot;:1,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/qMkYlIA7mgw\/3a9d28b6-7f42-40fd-8e72-69c4e90999f2_mq.jpg?v=54e5b138&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?event=infocard&amp;redir_token=dQ6-085UXSX-Wnl-6Dcn61KfAd58MTU0NzU3MTI0NkAxNTQ3NDg0ODQ2&amp;q=http%3A%2F%2Fwww.cgpgrey.com%2Fyt-email-list"/>
+  </action>
+</annotation>
+
+<annotation id="video:5d9f0188-fa7b-4272-aa98-48be743f20a9" style="simple" type="card" log_data="a-ch=UC2C_jShtL725hvbm1arSV9w&amp;a-id=5d9f0188-fa7b-4272-aa98-48be743f20a9&amp;a-type=66&amp;a-v=qMkYlIA7mgw&amp;ei=rr48XMqSGoPRjATK85_QBA&amp;l-class=7&amp;link=http%3A%2F%2Fstore.dftba.com%2Fproducts%2Fcgp-grey-logo-shirt&amp;xble=0">
+  <data>{&quot;display_domain&quot;:&quot;store.dftba.com&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;5d9f0188-fa7b-4272-aa98-48be743f20a9&quot;,&quot;itct&quot;:&quot;CA8Q1TYY____________ASITCMqhxKTe7d8CFYMogwodyvkHSij4HTIFY2FyZHNIjLTugciSxuSoAQ&quot;,&quot;ei&quot;:&quot;rr48XMqSGoPRjATK85_QBA&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;qMkYlIA7mgw&quot;},&quot;show_link_icon&quot;:true,&quot;custom_message&quot;:&quot;Buy Now!&quot;,&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;simple&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;start_ms&quot;:296000,&quot;teaser_text&quot;:&quot;Buy Now!&quot;,&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;CGP Grey Logo Shirt&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA8Q1TYY____________ASITCMqhxKTe7d8CFYMogwodyvkHSij4HTIFY2FyZHNIjLTugciSxuSoAQ&quot;,&quot;icon&quot;:&quot;CBEQsJcBGP___________wEiEwjKocSk3u3fAhWDKIMKHcr5B0oo-B0yBWNhcmRzSIy07oHIksbkqAE&quot;,&quot;teaser&quot;:&quot;CBAQ0DYY____________ASITCMqhxKTe7d8CFYMogwodyvkHSij4HTIFY2FyZHNIjLTugciSxuSoAQ&quot;},&quot;meta_info&quot;:[],&quot;url&quot;:&quot;\/redirect?event=infocard\u0026redir_token=dQ6-085UXSX-Wnl-6Dcn61KfAd58MTU0NzU3MTI0NkAxNTQ3NDg0ODQ2\u0026q=http%3A%2F%2Fstore.dftba.com%2Fproducts%2Fcgp-grey-logo-shirt&quot;,&quot;sponsored&quot;:false,&quot;end_ms&quot;:296000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/qMkYlIA7mgw\/5d9f0188-fa7b-4272-aa98-48be743f20a9_mq.jpg?v=5478d221&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?event=infocard&amp;redir_token=dQ6-085UXSX-Wnl-6Dcn61KfAd58MTU0NzU3MTI0NkAxNTQ3NDg0ODQ2&amp;q=http%3A%2F%2Fstore.dftba.com%2Fproducts%2Fcgp-grey-logo-shirt"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;From CGP Grey&quot;, 
+  &quot;trackingParams&quot;: &quot;CAcQwjcY////////////ASITCMqhxKTe7d8CFYMogwodyvkHSij4HTIFY2FyZHNIjLTugciSxuSoAQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAkQsJcBGP///////////wEiEwjKocSk3u3fAhWDKIMKHcr5B0oo+B0yBWNhcmRzSIy07oHIksbkqAE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAgQsZcBGP///////////wEiEwjKocSk3u3fAhWDKIMKHcr5B0oo+B0yBWNhcmRzSIy07oHIksbkqAE=&quot;, 
+  &quot;eventId&quot;: &quot;rr48XMqSGoPRjATK85_QBA&quot;
+}</data>
+</annotation>
+</annotations></document>

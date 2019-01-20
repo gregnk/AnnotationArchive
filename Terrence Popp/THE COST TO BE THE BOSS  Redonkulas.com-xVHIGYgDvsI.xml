@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5-z4o-rt3wIVVmWDCh0yZARoKPgdMgJpdkjC_Y7AmIPyqMUB">
+<annotation id="annotation_2633674239" type="highlight" log_data="l-class=1&amp;a-id=annotation_2633674239&amp;ei=Qss8XOfDGdbKjQSyyJHABg&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCQkWUTDrWas&amp;a-type=3&amp;a-v=xVHIGYgDvsI" itct="CAEQs-UBGP___________wEiEwjn7Pij6u3fAhVWZYMKHTJkBGgo-B0yAml2SML9jsCYg_KoxQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="9.98400" y="23.66200" w="25.00000" h="25.23900" t="6:50.400"/>
+      <rectRegion x="9.98400" y="23.66200" w="25.00000" h="25.23900" t="7:13.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2633674239&amp;ei=Qss8XOfDGdbKjQSyyJHABg&amp;feature=iv&amp;src_vid=xVHIGYgDvsI&amp;v=CQkWUTDrWas" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3338857981" type="highlight" log_data="l-class=5&amp;a-id=annotation_3338857981&amp;ei=Qss8XOfDGdbKjQSyyJHABg&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fredonkulaspopp%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-v=xVHIGYgDvsI" itct="CAIQs-UBGP___________wEiEwjn7Pij6u3fAhVWZYMKHTJkBGgo-B0yAml2SML9jsCYg_KoxQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="60.38000" y="31.83100" w="30.70500" h="15.66200" t="6:36.900"/>
+      <rectRegion x="60.38000" y="31.83100" w="30.70500" h="15.66200" t="6:44.500"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/redonkulaspopp?annotation_id=annotation_3338857981&amp;ei=Qss8XOfDGdbKjQSyyJHABg&amp;feature=iv&amp;src_vid=xVHIGYgDvsI&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3454019583" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2633674239">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2633674239" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_377148711" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3338857981">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="31.12700" w="28.17000" h="4.59500" t="never"/>
+      <rectRegion x="0.00000" y="31.12700" w="28.17000" h="4.59500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3338857981" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:58b64c55-0000-2d6d-a5ce-94eb2c0853b6" style="branding" type="branding"
+            log_data="l-class=3&amp;a-id=58b64c55-0000-2d6d-a5ce-94eb2c0853b6&amp;ei=Qss8XOfDGdbKjQSyyJHABg&amp;xble=0&amp;link-id=UCwd_sSDZ8EQt6SEeOO2tBRA&amp;a-ch=UCwd_sSDZ8EQt6SEeOO2tBRA&amp;a-type=10&amp;a-v=xVHIGYgDvsI">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fredonkulaspopp%26action_handle_signin%3Dtrue%26feature%3Div%26continue_action%3DQUFFLUhqbnpURjc1djE4R01kaXdfNDkweUw2XzJ1RVI3UXxBQ3Jtc0tuUWJoWkpHMHU5WFl6amdkSmpIdHlrNFZKbUJlQkU4TFAtZnF6elhoT3paQk1sdklvRkRCZTE4U0dLVVpNT1R2OEhZTnByMHpUazlXa3pWdzlHb0xZUXA2VlVSSWpQNGZiSlFMYkhkNlg5VGlocWI5dFlDWDVaMjRaa2dlV0RWR0FLX0FRSV9tUG1aX3Fmd0RRY2Q4eFVrQUFNSWdPN2tJcm1JVWhoWGphWE5NM1MyMjNodFJ2TnNYaWJOZVduX2dSNm9JdEJrdjJrSUpmNTRya0dEbFNhUWIxblFKNVhfRFRVQ2tTb2hzTGFLTGFhNmxn\u0026uilel=3\u0026hl=en\u0026service=youtube&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeCount&quot;:&quot;83K&quot;,&quot;subscribeCount&quot;:&quot;83K&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;},&quot;channel_name&quot;:&quot;Terrence Popp&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/wd_sSDZ8EQt6SEeOO2tBRA\/featured_channel.jpg?v=58caad4a&quot;,&quot;start_ms&quot;:5000,&quot;channel_id&quot;:&quot;UCwd_sSDZ8EQt6SEeOO2tBRA&quot;,&quot;image_height&quot;:40,&quot;end_ms&quot;:433000,&quot;image_width&quot;:40,&quot;image_type&quot;:1,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;xVHIGYgDvsI&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCOfs-KPq7d8CFVZlgwodMmQEaCj4HTICaXZIwv2OwJiD8qjFAQ&quot;,&quot;annotation_id&quot;:&quot;58b64c55-0000-2d6d-a5ce-94eb2c0853b6&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;Qss8XOfDGdbKjQSyyJHABg&quot;},&quot;num_subscribers&quot;:&quot;83243&quot;,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/redonkulaspopp"/>
+  </action>
+</annotation></annotations></document>

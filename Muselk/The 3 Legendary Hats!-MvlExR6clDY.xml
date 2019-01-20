@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIkeKxw_Tt3wIVwxsDCh39-AEdKPgdMgJpdki2qPL00ZjR_DI">
+<annotation id="annotation_1099006427" type="highlight" log_data="a-v=MvlExR6clDY&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmrmuselk%3Fsub_confirmation%3D1&amp;xble=1&amp;l-class=5&amp;a-id=annotation_1099006427&amp;a-type=3&amp;ei=ANY8XJHiK8O3DP3xh-gB" itct="CAEQs-UBGP___________wEiEwiR4rHD9O3fAhXDGwMKHf34AR0o-B0yAml2SLao8vTRmNH8Mg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="43.09000" y="6.08500" w="51.96500" h="23.46800" t="4:54.331"/>
+      <rectRegion x="43.09000" y="6.08500" w="51.96500" h="23.46800" t="5:09.822"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/mrmuselk?annotation_id=annotation_1099006427&amp;ei=ANY8XJHiK8O3DP3xh-gB&amp;feature=iv&amp;src_vid=MvlExR6clDY&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2251095937" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1099006427">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1099006427" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3571301689" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_45586175">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_45586175" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_45586175" type="highlight" log_data="a-v=MvlExR6clDY&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTiu_F-nAzm0&amp;xble=1&amp;l-class=1&amp;a-id=annotation_45586175&amp;a-type=3&amp;ei=ANY8XJHiK8O3DP3xh-gB" itct="CAIQs-UBGP___________wEiEwiR4rHD9O3fAhXDGwMKHf34AR0o-B0yAml2SLao8vTRmNH8Mg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="50.11100" y="34.78900" w="35.26900" h="37.66200" t="4:54.587"/>
+      <rectRegion x="50.11100" y="34.78900" w="35.26900" h="37.66200" t="5:09.822"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_45586175&amp;ei=ANY8XJHiK8O3DP3xh-gB&amp;feature=iv&amp;src_vid=MvlExR6clDY&amp;v=Tiu_F-nAzm0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:555ec55c-0000-2b08-8a0b-001a1149b786" style="branding" type="branding"
+            log_data="a-ch=UCd534c_ehOvrLVL2v7Nl61w&amp;a-v=MvlExR6clDY&amp;link-id=UCd534c_ehOvrLVL2v7Nl61w&amp;ei=ANY8XJHiK8O3DP3xh-gB&amp;xble=0&amp;l-class=3&amp;a-id=555ec55c-0000-2b08-8a0b-001a1149b786&amp;a-type=10">
+  <data>{&quot;channel_id&quot;:&quot;UCd534c_ehOvrLVL2v7Nl61w&quot;,&quot;image_height&quot;:38,&quot;start_ms&quot;:5000,&quot;num_subscribers&quot;:&quot;7460654&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;7.4M&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26continue_action%3DQUFFLUhqa0dscW1PVjNCWEFsWi10blJlME5iLWE2Ml9RZ3xBQ3Jtc0trOEZPM3hGczF2ZVMyZTVVblBSVGJZWG9ka2ljVC1tM01ob1V1WHFsX19ackVCRTlHeHB1b2xOdHJHS21IMEs3TWlGMFFFNDNQOHNoWVJRT3VDMXlKUXU1QnNPakcxamhjcmxCZFd3c1pkQ24xcnNNR29LbWFBdzVsWHR6bmVuc1lOOGs1MnJ2VHVmV1BqNDBZNEJGdkVCYWtnQ3pVNFREdGtUVkpLck0yYXRVZFVZTHJmbURaWEhGdWFSenZreXRLa0Vfa2lyVVBHSTVsVUtZTUFvOXVmZVd6R3YwclREY2lkXy10NDZaYkVreXB4amZR%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FMrMuselk\u0026hl=en\u0026uilel=3\u0026service=youtube&quot;,&quot;unsubscribeCount&quot;:&quot;7.4M&quot;,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;},&quot;image_type&quot;:1,&quot;image_width&quot;:41,&quot;end_ms&quot;:310000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;Muselk&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/d534c_ehOvrLVL2v7Nl61w\/featured_channel.jpg?v=55700f27&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;MvlExR6clDY&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCJHiscP07d8CFcMbAwod_fgBHSj4HTICaXZItqjy9NGY0fwy&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;555ec55c-0000-2b08-8a0b-001a1149b786&quot;,&quot;ei&quot;:&quot;ANY8XJHiK8O3DP3xh-gB&quot;},&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/MrMuselk"/>
+  </action>
+</annotation></annotations></document>

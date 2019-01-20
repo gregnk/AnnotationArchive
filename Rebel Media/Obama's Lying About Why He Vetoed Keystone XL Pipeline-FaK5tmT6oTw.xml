@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgeyWhu7t3wIVFXADCh02ZAz5KPgdMgJpdki8wuqn5rau0RU">
+<annotation id="annotation_1947249697" type="highlight" log_data="ei=Nc88XMH9LJXgDbbIscgP&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCGy6uV7yqGWDeUWTZzT3ZEg&amp;l-class=3&amp;a-type=3&amp;a-id=annotation_1947249697&amp;a-v=FaK5tmT6oTw" itct="CAEQs-UBGP___________wEiEwiB7JaG7u3fAhUVcAMKHTZkDPko-B0yAml2SLzC6qfmtq7RFQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.86100" y="56.09900" w="77.05500" h="38.93300" t="6:57.900"/>
+      <rectRegion x="7.86100" y="56.09900" w="77.05500" h="38.93300" t="7:05.156"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="6710886" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCGy6uV7yqGWDeUWTZzT3ZEg?annotation_id=annotation_1947249697&amp;ei=Nc88XMH9LJXgDbbIscgP&amp;feature=iv&amp;src_vid=FaK5tmT6oTw" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4195613309" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Never miss a new video!</TEXT>
+  <segment spaceRelative="annotation_1947249697">
+    <movingRegion type="rect">
+      <rectRegion x="26.21200" y="13.19700" w="38.78800" h="7.40800" t="never"/>
+      <rectRegion x="26.21200" y="13.19700" w="38.78800" h="7.40800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1947249697" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_441094685" type="text" style="anchored" log_data="ei=Nc88XMH9LJXgDbbIscgP&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Df_53pbmiFHQ&amp;l-class=1&amp;a-type=8&amp;a-id=annotation_441094685&amp;a-v=FaK5tmT6oTw" itct="CAIQs-UBGP___________wEiEwiB7JaG7u3fAhUVcAMKHTZkDPko-B0yAml2SLzC6qfmtq7RFQ">
+  <TEXT>NEXT: What &quot;global warming&quot;?</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="54.04100" y="9.29600" w="42.16200" h="9.73400" sx="81.6190032959" sy="21.0300006866" t="6:57.000"/>
+      <anchoredRegion x="54.04100" y="9.29600" w="42.16200" h="9.73400" sx="81.6190032959" sy="21.0300006866" t="7:05.156"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_441094685&amp;ei=Nc88XMH9LJXgDbbIscgP&amp;feature=iv&amp;src_vid=FaK5tmT6oTw&amp;v=f_53pbmiFHQ" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIn_aLtPPt3wIVCwADCh3yUA91KPgdMgJpdkiv252Do9v7i4MB">
+<annotation id="annotation_1146575559" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1336827767">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1336827767" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_123222931" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2998234809">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2998234809" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1295056055" type="highlight" log_data="ei=1NQ8XJ-8DIuADPKhvagH&amp;a-v=gxfu2jBnba8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCiTPTWaedFg%26list%3DPL2EFHtV2xCe0e-B5xU2AwKCPthjdVJtnd%26index%3D102&amp;a-id=annotation_1295056055&amp;a-type=3&amp;xble=1&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwif9ou08-3fAhULAAMKHfJQD3Uo-B0yAml2SK_bnYOj2_uLgwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.23400" y="30.00000" w="52.10200" h="51.18100" t="5:15.785"/>
+      <rectRegion x="5.23400" y="30.00000" w="52.10200" h="51.18100" t="5:26.820"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1295056055&amp;ei=1NQ8XJ-8DIuADPKhvagH&amp;feature=iv&amp;index=102&amp;list=PL2EFHtV2xCe0e-B5xU2AwKCPthjdVJtnd&amp;src_vid=gxfu2jBnba8&amp;v=CiTPTWaedFg" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1336827767" type="highlight" log_data="ei=1NQ8XJ-8DIuADPKhvagH&amp;a-v=gxfu2jBnba8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Falltimeconspiracies%3Fsub_confirmation%3D1&amp;a-id=annotation_1336827767&amp;a-type=3&amp;xble=1&amp;l-class=5" itct="CAIQs-UBGP___________wEiEwif9ou08-3fAhULAAMKHfJQD3Uo-B0yAml2SK_bnYOj2_uLgwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="62.96900" y="8.05600" w="29.13300" h="74.66700" t="5:15.785"/>
+      <rectRegion x="62.96900" y="8.05600" w="29.13300" h="74.66700" t="5:26.820"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/alltimeconspiracies?annotation_id=annotation_1336827767&amp;ei=1NQ8XJ-8DIuADPKhvagH&amp;feature=iv&amp;src_vid=gxfu2jBnba8&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1919399517" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1295056055">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1295056055" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2960264073" type="text" style="popup" log_data="a-v=gxfu2jBnba8&amp;a-id=annotation_2960264073&amp;ei=1NQ8XJ-8DIuADPKhvagH&amp;xble=1&amp;a-type=1" itct="CAMQs-UBGP___________wEiEwif9ou08-3fAhULAAMKHfJQD3Uo-B0yAml2SK_bnYOj2_uLgwE">
+  <TEXT>Get paid to view this video to the end</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.62500" w="40.40600" h="8.90200" t="0:13.500"/>
+      <rectRegion x="0.00000" y="0.62500" w="40.40600" h="8.90200" t="0:23.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_2998234809" type="highlight" log_data="ei=1NQ8XJ-8DIuADPKhvagH&amp;a-v=gxfu2jBnba8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCiTPTWaedFg%26list%3DPL2EFHtV2xCe0e-B5xU2AwKCPthjdVJtnd%26index%3D102&amp;a-id=annotation_2998234809&amp;a-type=3&amp;xble=1&amp;l-class=1" itct="CAQQs-UBGP___________wEiEwif9ou08-3fAhULAAMKHfJQD3Uo-B0yAml2SK_bnYOj2_uLgwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.28100" y="6.36100" w="51.83600" h="22.56900" t="5:15.785"/>
+      <rectRegion x="5.28100" y="6.36100" w="51.83600" h="22.56900" t="5:26.820"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2998234809&amp;ei=1NQ8XJ-8DIuADPKhvagH&amp;feature=iv&amp;index=102&amp;list=PL2EFHtV2xCe0e-B5xU2AwKCPthjdVJtnd&amp;src_vid=gxfu2jBnba8&amp;v=CiTPTWaedFg" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_853227285" type="text" style="popup" log_data="a-v=gxfu2jBnba8&amp;a-id=annotation_853227285&amp;ei=1NQ8XJ-8DIuADPKhvagH&amp;xble=1&amp;a-type=1" itct="CAUQs-UBGP___________wEiEwif9ou08-3fAhULAAMKHfJQD3Uo-B0yAml2SK_bnYOj2_uLgwE">
+  <TEXT>Click on the Vuooze reward card at the end to earn cash</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="59.77300" h="7.98600" t="2:50.700"/>
+      <rectRegion x="0.00000" y="0.00000" w="59.77300" h="7.98600" t="2:57.700"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="channel:55d03e4f-0000-2906-8ae9-001a114e4d44" style="branding" type="branding"
+            log_data="ei=1NQ8XJ-8DIuADPKhvagH&amp;xble=0&amp;a-id=55d03e4f-0000-2906-8ae9-001a114e4d44&amp;a-type=10&amp;a-v=gxfu2jBnba8&amp;link-id=UCPZiqlNI3RLyF47QTdq93GQ&amp;a-ch=UCPZiqlNI3RLyF47QTdq93GQ&amp;l-class=3">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UCPZiqlNI3RLyF47QTdq93GQ&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/PZiqlNI3RLyF47QTdq93GQ\/featured_channel.jpg?v=55dae327&quot;,&quot;image_type&quot;:1,&quot;end_ms&quot;:327000,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;55d03e4f-0000-2906-8ae9-001a114e4d44&quot;,&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCJ_2i7Tz7d8CFQsAAwod8lAPdSj4HTICaXZIr9udg6Pb-4uDAQ&quot;,&quot;ei&quot;:&quot;1NQ8XJ-8DIuADPKhvagH&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;gxfu2jBnba8&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;1.7M&quot;,&quot;subscribeCount&quot;:&quot;1.7M&quot;,&quot;subscribed&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26continue_action%3DQUFFLUhqa2oyYlR4ZWR2UUN3OXNKMThsZW9iVl9mcVlRUXxBQ3Jtc0ttaWg0MkVDS0xMZ2NoQ1QyWWtMM0hXSGh5dVJTU0NkT1NRSEE3SXNBaGMyM1RwOWUybTZkMGxRaEVLejNHMEVXR0NpUWg0ZUVVdzNTY0lqTVZ6elNnVlFKQmJzVjg0bGVYZElxakhrYUgxSURDWWk1b2doVmQ2ZGhVZl80YmRCTmtZWk15SjcxQWliWklOVFpTdXdGekpINnJGcXlDVU00LWNxZ0l2Tk9PYkoxUUlSdlVuc3FfSE5WNTl6SEk3RTZmQ3djTGVlTm16MC1McC0xdmppVG03YU93UkNFb2o2Tkp1V3hxRmxZV3JTVHlILXhZ%26action_handle_signin%3Dtrue%26hl%3Den%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FAlltimeConspiracies\u0026hl=en\u0026passive=true&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;enabled&quot;:false},&quot;image_height&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;num_subscribers&quot;:&quot;1768252&quot;,&quot;image_width&quot;:40,&quot;channel_name&quot;:&quot;Alltime Conspiracies&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/AlltimeConspiracies"/>
+  </action>
+</annotation>
+<annotation id="video:946fbb09-ed30-43ec-9e37-74aa5e6911ef" style="simple" type="card" log_data="a-ch=UCPZiqlNI3RLyF47QTdq93GQ&amp;a-id=946fbb09-ed30-43ec-9e37-74aa5e6911ef&amp;a-type=68&amp;a-v=gxfu2jBnba8&amp;ei=1NQ8XJ-8DIuADPKhvagH&amp;l-class=6&amp;link=http%3A%2F%2Fwww.vuooze.com%2Fvuooze9&amp;xble=0">
+  <data>{&quot;start_ms&quot;:106394,&quot;meta_info&quot;:[],&quot;sponsored&quot;:false,&quot;title&quot;:&quot;Click for cash Vuooze rewards&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/gxfu2jBnba8\/946fbb09-ed30-43ec-9e37-74aa5e6911ef_mq.jpg?v=5638d85b&quot;,&quot;display_domain&quot;:&quot;vuooze.com&quot;,&quot;show_link_icon&quot;:true,&quot;teaser_text&quot;:&quot;Click for cash Vuooze rewards&quot;,&quot;end_ms&quot;:106394,&quot;custom_message&quot;:&quot;Click for cash Vuooze rewards&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;pause_on_navigation&quot;:true,&quot;url&quot;:&quot;\/redirect?event=infocard\u0026redir_token=QNqWGSd1FtA7pKM1navlek-i7Ih8MTU0NzU3NjkxNkAxNTQ3NDkwNTE2\u0026q=http%3A%2F%2Fwww.vuooze.com%2Fvuooze9&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;simple&quot;,&quot;timestamp&quot;:1446565979771,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;946fbb09-ed30-43ec-9e37-74aa5e6911ef&quot;,&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCJ_2i7Tz7d8CFQsAAwod8lAPdSj4HTIFY2FyZHNIr9udg6Pb-4uDAQ&quot;,&quot;ei&quot;:&quot;1NQ8XJ-8DIuADPKhvagH&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;gxfu2jBnba8&quot;},&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAsQ1TYY____________ASITCJ_2i7Tz7d8CFQsAAwod8lAPdSj4HTIFY2FyZHNIr9udg6Pb-4uDAQ&quot;,&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwif9ou08-3fAhULAAMKHfJQD3Uo-B0yBWNhcmRzSK_bnYOj2_uLgwE&quot;,&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCJ_2i7Tz7d8CFQsAAwod8lAPdSj4HTIFY2FyZHNIr9udg6Pb-4uDAQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?event=infocard&amp;redir_token=QNqWGSd1FtA7pKM1navlek-i7Ih8MTU0NzU3NjkxNkAxNTQ3NDkwNTE2&amp;q=http%3A%2F%2Fwww.vuooze.com%2Fvuooze9"/>
+  </action>
+</annotation>
+
+<annotation id="video:8d7d1ba1-e500-4fe3-8bcb-ca1aa7e371ba" style="simple" type="card" log_data="a-ch=UCPZiqlNI3RLyF47QTdq93GQ&amp;a-id=8d7d1ba1-e500-4fe3-8bcb-ca1aa7e371ba&amp;a-type=68&amp;a-v=gxfu2jBnba8&amp;ei=1NQ8XJ-8DIuADPKhvagH&amp;l-class=6&amp;link=http%3A%2F%2Fwww.vuooze.com%2Fvuooze9&amp;xble=0">
+  <data>{&quot;start_ms&quot;:209389,&quot;meta_info&quot;:[],&quot;sponsored&quot;:false,&quot;title&quot;:&quot;Click for cash Vuooze rewards&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/gxfu2jBnba8\/8d7d1ba1-e500-4fe3-8bcb-ca1aa7e371ba_mq.jpg?v=5638d9d9&quot;,&quot;display_domain&quot;:&quot;vuooze.com&quot;,&quot;show_link_icon&quot;:true,&quot;teaser_text&quot;:&quot;Click for cash Vuooze rewards&quot;,&quot;end_ms&quot;:209389,&quot;custom_message&quot;:&quot;Click for cash Vuooze rewards&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;pause_on_navigation&quot;:true,&quot;url&quot;:&quot;\/redirect?event=infocard\u0026redir_token=QNqWGSd1FtA7pKM1navlek-i7Ih8MTU0NzU3NjkxNkAxNTQ3NDkwNTE2\u0026q=http%3A%2F%2Fwww.vuooze.com%2Fvuooze9&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;simple&quot;,&quot;timestamp&quot;:1446566361824,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;8d7d1ba1-e500-4fe3-8bcb-ca1aa7e371ba&quot;,&quot;itct&quot;:&quot;CA8Q1TYY____________ASITCJ_2i7Tz7d8CFQsAAwod8lAPdSj4HTIFY2FyZHNIr9udg6Pb-4uDAQ&quot;,&quot;ei&quot;:&quot;1NQ8XJ-8DIuADPKhvagH&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;gxfu2jBnba8&quot;},&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA8Q1TYY____________ASITCJ_2i7Tz7d8CFQsAAwod8lAPdSj4HTIFY2FyZHNIr9udg6Pb-4uDAQ&quot;,&quot;icon&quot;:&quot;CBEQsJcBGP___________wEiEwif9ou08-3fAhULAAMKHfJQD3Uo-B0yBWNhcmRzSK_bnYOj2_uLgwE&quot;,&quot;teaser&quot;:&quot;CBAQ0DYY____________ASITCJ_2i7Tz7d8CFQsAAwod8lAPdSj4HTIFY2FyZHNIr9udg6Pb-4uDAQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?event=infocard&amp;redir_token=QNqWGSd1FtA7pKM1navlek-i7Ih8MTU0NzU3NjkxNkAxNTQ3NDkwNTE2&amp;q=http%3A%2F%2Fwww.vuooze.com%2Fvuooze9"/>
+  </action>
+</annotation>
+
+<annotation id="video:8bcedd8a-6901-4b55-aec9-bcda332e0dfc" style="simple" type="card" log_data="a-ch=UCPZiqlNI3RLyF47QTdq93GQ&amp;a-id=8bcedd8a-6901-4b55-aec9-bcda332e0dfc&amp;a-type=68&amp;a-v=gxfu2jBnba8&amp;ei=1NQ8XJ-8DIuADPKhvagH&amp;l-class=6&amp;link=http%3A%2F%2Fwww.vuooze.com%2Fvuooze9&amp;xble=0">
+  <data>{&quot;start_ms&quot;:299467,&quot;meta_info&quot;:[],&quot;sponsored&quot;:false,&quot;title&quot;:&quot;Click for cash Vuooze rewards&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/gxfu2jBnba8\/8bcedd8a-6901-4b55-aec9-bcda332e0dfc_mq.jpg?v=5638da04&quot;,&quot;display_domain&quot;:&quot;vuooze.com&quot;,&quot;show_link_icon&quot;:true,&quot;teaser_text&quot;:&quot;Click for cash Vuooze rewards&quot;,&quot;end_ms&quot;:299467,&quot;custom_message&quot;:&quot;Click for cash Vuooze rewards&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;pause_on_navigation&quot;:true,&quot;url&quot;:&quot;\/redirect?event=infocard\u0026redir_token=QNqWGSd1FtA7pKM1navlek-i7Ih8MTU0NzU3NjkxNkAxNTQ3NDkwNTE2\u0026q=http%3A%2F%2Fwww.vuooze.com%2Fvuooze9&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;simple&quot;,&quot;timestamp&quot;:1446566404710,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;8bcedd8a-6901-4b55-aec9-bcda332e0dfc&quot;,&quot;itct&quot;:&quot;CBMQ1TYY____________ASITCJ_2i7Tz7d8CFQsAAwod8lAPdSj4HTIFY2FyZHNIr9udg6Pb-4uDAQ&quot;,&quot;ei&quot;:&quot;1NQ8XJ-8DIuADPKhvagH&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;gxfu2jBnba8&quot;},&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CBMQ1TYY____________ASITCJ_2i7Tz7d8CFQsAAwod8lAPdSj4HTIFY2FyZHNIr9udg6Pb-4uDAQ&quot;,&quot;icon&quot;:&quot;CBUQsJcBGP___________wEiEwif9ou08-3fAhULAAMKHfJQD3Uo-B0yBWNhcmRzSK_bnYOj2_uLgwE&quot;,&quot;teaser&quot;:&quot;CBQQ0DYY____________ASITCJ_2i7Tz7d8CFQsAAwod8lAPdSj4HTIFY2FyZHNIr9udg6Pb-4uDAQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?event=infocard&amp;redir_token=QNqWGSd1FtA7pKM1navlek-i7Ih8MTU0NzU3NjkxNkAxNTQ3NDkwNTE2&amp;q=http%3A%2F%2Fwww.vuooze.com%2Fvuooze9"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;trackingParams&quot;: &quot;CAcQwjcY////////////ASITCJ/2i7Tz7d8CFQsAAwod8lAPdSj4HTIFY2FyZHNIr9udg6Pb+4uDAQ==&quot;, 
+  &quot;headerText&quot;: &quot;From Alltime Conspiracies&quot;, 
+  &quot;eventId&quot;: &quot;1NQ8XJ-8DIuADPKhvagH&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAgQsZcBGP///////////wEiEwif9ou08+3fAhULAAMKHfJQD3Uo+B0yBWNhcmRzSK/bnYOj2/uLgwE=&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAkQsJcBGP///////////wEiEwif9ou08+3fAhULAAMKHfJQD3Uo+B0yBWNhcmRzSK/bnYOj2/uLgwE=&quot;
+}</data>
+</annotation>
+</annotations></document>

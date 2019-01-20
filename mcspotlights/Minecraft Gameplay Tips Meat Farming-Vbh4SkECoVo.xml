@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI18i6oNrt3wIVhlCDCh3FPQgJKPgdMgJpdkjawoqIpIme3FU">
+<annotation id="annotation_1100064933" type="highlight" log_data="a-v=Vbh4SkECoVo&amp;l-class=5&amp;a-type=3&amp;a-id=annotation_1100064933&amp;ei=dLo8XNe-CIahjQTF-6BI&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmcspotlight%3Fsub_confirmation%3D1" itct="CAEQs-UBGP___________wEiEwjXyLqg2u3fAhWGUIMKHcU9CAko-B0yAml2SNrCioikiZ7cVQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="28.40900" y="48.23200" w="43.46600" h="23.48500" t="0:58.646"/>
+      <rectRegion x="28.40900" y="48.23200" w="43.46600" h="23.48500" t="1:09.392"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/mcspotlight?annotation_id=annotation_1100064933&amp;ei=dLo8XNe-CIahjQTF-6BI&amp;feature=iv&amp;src_vid=Vbh4SkECoVo&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1118029757" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1100064933">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1100064933" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1364309311" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Available Soon!</TEXT>
+  <segment spaceRelative="annotation_2002961069">
+    <movingRegion type="rect">
+      <rectRegion x="1.42000" y="11.61600" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="1.42000" y="11.61600" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2002961069" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2002961069" type="highlight" log_data="a-type=3&amp;a-id=annotation_2002961069&amp;xble=1&amp;ei=dLo8XNe-CIahjQTF-6BI&amp;a-v=Vbh4SkECoVo" itct="CAIQs-UBGP___________wEiEwjXyLqg2u3fAhWGUIMKHcU9CAko-B0yAml2SNrCioikiZ7cVQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="23.01100" y="4.04000" w="27.41500" h="31.56600" t="0:58.646"/>
+      <rectRegion x="23.01100" y="4.04000" w="27.41500" h="31.56600" t="1:09.421"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_2159826413" type="highlight" log_data="a-type=3&amp;a-id=annotation_2159826413&amp;xble=1&amp;ei=dLo8XNe-CIahjQTF-6BI&amp;a-v=Vbh4SkECoVo" itct="CAMQs-UBGP___________wEiEwjXyLqg2u3fAhWGUIMKHcU9CAko-B0yAml2SNrCioikiZ7cVQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.41500" y="4.04000" w="26.70500" h="31.56600" t="0:58.646"/>
+      <rectRegion x="52.41500" y="4.04000" w="26.70500" h="31.56600" t="1:09.474"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_2193881513" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Available Soon!</TEXT>
+  <segment spaceRelative="annotation_2159826413">
+    <movingRegion type="rect">
+      <rectRegion x="1.13600" y="12.87900" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="1.13600" y="12.87900" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2159826413" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

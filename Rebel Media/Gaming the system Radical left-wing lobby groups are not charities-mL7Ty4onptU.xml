@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIrdS9hO7t3wIVkHCDCh0awgYSKPgdMgJpdkjVzZ7RuPm035gB">
+<annotation id="annotation_1302938849" type="highlight" log_data="ei=Ms88XK3zCpDhjQSahJuQAQ&amp;a-id=annotation_1302938849&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCGy6uV7yqGWDeUWTZzT3ZEg&amp;xble=1&amp;l-class=3&amp;a-v=mL7Ty4onptU" itct="CAEQs-UBGP___________wEiEwit1L2E7u3fAhWQcIMKHRrCBhIo-B0yAml2SNXNntG4-bTfmAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="9.66700" y="52.95800" w="72.11400" h="41.60100" t="2:54.274"/>
+      <rectRegion x="9.66700" y="52.95800" w="72.11400" h="41.60100" t="3:01.301"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/channel/UCGy6uV7yqGWDeUWTZzT3ZEg?annotation_id=annotation_1302938849&amp;ei=Ms88XK3zCpDhjQSahJuQAQ&amp;feature=iv&amp;src_vid=mL7Ty4onptU" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1890853001" type="text" style="anchored" log_data="ei=Ms88XK3zCpDhjQSahJuQAQ&amp;a-id=annotation_1890853001&amp;a-type=8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuhWXpph36nM&amp;xble=1&amp;l-class=1&amp;a-v=mL7Ty4onptU" itct="CAIQs-UBGP___________wEiEwit1L2E7u3fAhWQcIMKHRrCBhIo-B0yAml2SNXNntG4-bTfmAE">
+  <TEXT>Solving the Atlantic Canada Gas Shortage With One Easy Fix</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="3.12500" y="18.88900" w="29.79100" h="34.51900" sx="17.7080001831" sy="55.408000946" t="1:28.610"/>
+      <anchoredRegion x="3.12500" y="18.88900" w="29.79100" h="34.51900" sx="17.7080001831" sy="55.408000946" t="1:41.932"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="8.424966666666666" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1890853001&amp;ei=Ms88XK3zCpDhjQSahJuQAQ&amp;feature=iv&amp;src_vid=mL7Ty4onptU&amp;v=uhWXpph36nM" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_204867751" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Never miss a video</TEXT>
+  <segment spaceRelative="annotation_1302938849">
+    <movingRegion type="rect">
+      <rectRegion x="11.09400" y="5.91500" w="66.04600" h="33.32400" t="never"/>
+      <rectRegion x="11.09400" y="5.91500" w="66.04600" h="33.32400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1302938849" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

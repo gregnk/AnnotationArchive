@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIvOGjj9vt3wIVzxmDCh21bgURKPgdMgJpdkjnyM2UnYvih-4B">
+<annotation id="annotation_264487" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_34425">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="30.55600" w="19.53100" h="6.38900" t="never"/>
+      <rectRegion x="0.00000" y="30.55600" w="19.53100" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_34425" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_301553" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDzjfS3xA5TY&amp;a-type=1&amp;ei=XLs8XLzDIc-zjAS13ZWIAQ&amp;a-v=7g-IWdKTZGc&amp;l-class=1&amp;a-id=annotation_301553&amp;xble=1" itct="CAEQs-UBGP___________wEiEwi84aOP2-3fAhXPGYMKHbVuBREo-B0yAml2SOfIzZSdi-KH7gE">
+  <TEXT>Floating Away</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="80.78100" y="7.50000" w="19.21900" h="6.94400" t="00:00:00.0"/>
+      <rectRegion x="80.78100" y="7.50000" w="19.21900" h="6.94400" t="00:02:51.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_301553&amp;ei=XLs8XLzDIc-zjAS13ZWIAQ&amp;feature=iv&amp;src_vid=7g-IWdKTZGc&amp;v=DzjfS3xA5TY" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_34425" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Ddummeh&amp;a-type=3&amp;ei=XLs8XLzDIc-zjAS13ZWIAQ&amp;a-v=7g-IWdKTZGc&amp;l-class=5&amp;a-id=annotation_34425&amp;xble=1" itct="CAIQs-UBGP___________wEiEwi84aOP2-3fAhXPGYMKHbVuBREo-B0yAml2SOfIzZSdi-KH7gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="40.15600" y="3.61100" w="20.93800" h="8.88900" t="00:00:00.0"/>
+      <rectRegion x="40.15600" y="3.61100" w="20.93800" h="8.88900" t="00:02:51.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=dummeh&amp;annotation_id=annotation_34425&amp;ei=XLs8XLzDIc-zjAS13ZWIAQ&amp;feature=iv&amp;src_vid=7g-IWdKTZGc" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_38725" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvhZdw41lYaw&amp;a-type=1&amp;ei=XLs8XLzDIc-zjAS13ZWIAQ&amp;a-v=7g-IWdKTZGc&amp;l-class=1&amp;a-id=annotation_38725&amp;xble=1" itct="CAMQs-UBGP___________wEiEwi84aOP2-3fAhXPGYMKHbVuBREo-B0yAml2SOfIzZSdi-KH7gE">
+  <TEXT>Fallout 3 SNES</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.09400" y="7.22200" w="20.15600" h="7.77800" t="00:00:00.0"/>
+      <rectRegion x="1.09400" y="7.22200" w="20.15600" h="7.77800" t="00:02:51.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_38725&amp;ei=XLs8XLzDIc-zjAS13ZWIAQ&amp;feature=iv&amp;src_vid=7g-IWdKTZGc&amp;v=vhZdw41lYaw" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="channel:57434c17-0000-24ba-b463-94eb2c057d58" style="branding" type="branding"
+            log_data="a-ch=UCQOm3j7QTQqAJVCyiCNOXBA&amp;a-type=10&amp;ei=XLs8XLzDIc-zjAS13ZWIAQ&amp;link-id=UCQOm3j7QTQqAJVCyiCNOXBA&amp;a-v=7g-IWdKTZGc&amp;l-class=3&amp;a-id=57434c17-0000-24ba-b463-94eb2c057d58&amp;xble=0">
+  <data>{&quot;image_width&quot;:49,&quot;end_ms&quot;:172000,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;7g-IWdKTZGc&quot;,&quot;annotation_id&quot;:&quot;57434c17-0000-24ba-b463-94eb2c057d58&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCLzho4_b7d8CFc8ZgwodtW4FESj4HTICaXZI58jNlJ2L4ofuAQ&quot;,&quot;ei&quot;:&quot;XLs8XLzDIc-zjAS13ZWIAQ&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;139K&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;subscribeCount&quot;:&quot;139K&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fdummeh%26continue_action%3DQUFFLUhqbWdLSkNoWHZIWVFyNTVKT2RrN1FmRU9JaDlhZ3xBQ3Jtc0tteUJMZHpJblRPck9FNUF3d3NVNUdjZDBrMEZERmJGc1JUYTd3a3cyb3ZPRUlnYllxaFhtZmRrSlZ4eERJUDNrbHQ4WEtOQ1pRZDlUZjZVdGZiV21DSGJfMzdGdGdZX0RJc2owVEFJU0FGQW14bzBPTGJvQlhhVmJsNTNYXzUwVDM2S3AtbXF3N005UUNpSGlLYUx4RG5rRHdhUENIR1F5Y3NicXNNc2xtbE1lTl83NXBuVTJCcmNUQldrVE1LMkVGTWw3RXZKNll4Q0tweVVKMjBUdHJSODczZ25laGFWQ2FSUFhWaWhHWjhMTGxXSHlN%26hl%3Den%26action_handle_signin%3Dtrue%26feature%3Div\u0026passive=true\u0026uilel=3\u0026hl=en\u0026service=youtube&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:157000,&quot;channel_id&quot;:&quot;UCQOm3j7QTQqAJVCyiCNOXBA&quot;,&quot;image_type&quot;:1,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/QOm3j7QTQqAJVCyiCNOXBA\/featured_channel.jpg?v=5748ca45&quot;,&quot;channel_name&quot;:&quot;The Synthetic Orchestra&quot;,&quot;image_height&quot;:27,&quot;num_subscribers&quot;:&quot;139144&quot;,&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/dummeh"/>
+  </action>
+</annotation></annotations></document>

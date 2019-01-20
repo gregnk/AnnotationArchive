@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIvcSig-7t3wIVxaSCCh2Yyw1nKPgdMgJpdkixp-f2_-GtgcMB">
+<annotation id="annotation_1025391219" type="highlight" log_data="a-v=wwK3D_7Z07E&amp;l-class=3&amp;a-id=annotation_1025391219&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCGy6uV7yqGWDeUWTZzT3ZEg&amp;a-type=3&amp;ei=L888XP3wJsXJigSYl7e4Bg" itct="CAEQs-UBGP___________wEiEwi9xKKD7u3fAhXFpIIKHZjLDWco-B0yAml2SLGn5_b_4a2BwwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="72.11300" w="48.93000" h="25.52400" t="3:01.608"/>
+      <rectRegion x="0.00000" y="72.11300" w="48.93000" h="25.52400" t="3:14.300"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/channel/UCGy6uV7yqGWDeUWTZzT3ZEg?annotation_id=annotation_1025391219&amp;ei=L888XP3wJsXJigSYl7e4Bg&amp;feature=iv&amp;src_vid=wwK3D_7Z07E" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1815446667" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1025391219">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="48.93000" h="26.00000" t="never"/>
+      <rectRegion x="0.00000" y="0.00000" w="48.93000" h="26.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1025391219" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2063140565" type="highlight" log_data="a-v=wwK3D_7Z07E&amp;l-class=6&amp;a-id=annotation_2063140565&amp;xble=1&amp;link=http%3A%2F%2Ftherebel.media%2Fjoin&amp;a-type=3&amp;ei=L888XP3wJsXJigSYl7e4Bg" itct="CAIQs-UBGP___________wEiEwi9xKKD7u3fAhXFpIIKHZjLDWco-B0yAml2SLGn5_b_4a2BwwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.93200" y="53.23900" w="44.65100" h="43.55300" t="3:01.608"/>
+      <rectRegion x="52.93200" y="53.23900" w="44.65100" h="43.55300" t="3:14.300"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://therebel.media/join" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_243569771" type="highlight" log_data="a-v=wwK3D_7Z07E&amp;l-class=6&amp;a-id=annotation_243569771&amp;xble=1&amp;link=http%3A%2F%2Ftherebel.media%2Fmember&amp;a-type=3&amp;ei=L888XP3wJsXJigSYl7e4Bg" itct="CAMQs-UBGP___________wEiEwi9xKKD7u3fAhXFpIIKHZjLDWco-B0yAml2SLGn5_b_4a2BwwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.77300" y="2.53500" w="44.65100" h="44.67600" t="3:01.608"/>
+      <rectRegion x="52.77300" y="2.53500" w="44.65100" h="44.67600" t="3:14.300"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://therebel.media/member" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3245001395" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_243569771">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="-0.42300" w="44.96800" h="44.59200" t="never"/>
+      <rectRegion x="0.00000" y="-0.42300" w="44.96800" h="44.59200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_243569771" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_464730681" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2063140565">
+    <movingRegion type="rect">
+      <rectRegion x="-0.15800" y="0.00000" w="45.12700" h="43.18300" t="never"/>
+      <rectRegion x="-0.15800" y="0.00000" w="45.12700" h="43.18300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2063140565" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:1ad667ce-7f6d-4bdf-b362-d90c17667d38" style="video" type="card" log_data="a-ch=UCGy6uV7yqGWDeUWTZzT3ZEg&amp;a-id=1ad667ce-7f6d-4bdf-b362-d90c17667d38&amp;a-type=62&amp;a-v=wwK3D_7Z07E&amp;ei=L888XP3wJsXJigSYl7e4Bg&amp;l-class=1&amp;link-id=ThwNX2mJwpE&amp;xble=0">
+  <data>{&quot;meta_info&quot;:[&quot;by Rebel Media&quot;,&quot;5,449 views&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/ThwNX2mJwpE\/mqdefault.jpg&quot;,&quot;is_live_now&quot;:false,&quot;start_ms&quot;:58161,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Suggested: Men&#39;s rights group battles for equality, male domestic abuse awareness&quot;,&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;Men&#39;s rights group battles for equality, male domestic abuse awareness&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:58161,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[]},&quot;video_duration&quot;:&quot;5:22&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;1ad667ce-7f6d-4bdf-b362-d90c17667d38&quot;,&quot;src_vid&quot;:&quot;wwK3D_7Z07E&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCL3EooPu7d8CFcWkggodmMsNZyj4HTIFY2FyZHNIsafn9v_hrYHDAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;L888XP3wJsXJigSYl7e4Bg&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=ThwNX2mJwpE&quot;,&quot;timestamp&quot;:1481919539750,&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCL3EooPu7d8CFcWkggodmMsNZyj4HTIFY2FyZHNIsafn9v_hrYHDAQ&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwi9xKKD7u3fAhXFpIIKHZjLDWco-B0yBWNhcmRzSLGn5_b_4a2BwwE&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCL3EooPu7d8CFcWkggodmMsNZyj4HTIFY2FyZHNIsafn9v_hrYHDAQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=ThwNX2mJwpE"/>
+  </action>
+</annotation>
+
+<annotation id="video:4db0db07-23d3-4ff2-8d1c-2c1210b8b189" style="video" type="card" log_data="a-ch=UCGy6uV7yqGWDeUWTZzT3ZEg&amp;a-id=4db0db07-23d3-4ff2-8d1c-2c1210b8b189&amp;a-type=62&amp;a-v=wwK3D_7Z07E&amp;ei=L888XP3wJsXJigSYl7e4Bg&amp;l-class=1&amp;link-id=AZP8b3VgbiI&amp;xble=0">
+  <data>{&quot;meta_info&quot;:[&quot;by Rebel Media&quot;,&quot;14,635 views&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/AZP8b3VgbiI\/mqdefault.jpg&quot;,&quot;is_live_now&quot;:false,&quot;start_ms&quot;:103189,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Suggested: New wave feminism: Hazardous to society\u2019s health&quot;,&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;New wave feminism: Hazardous to society\u2019s health&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:103189,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[]},&quot;video_duration&quot;:&quot;2:56&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;4db0db07-23d3-4ff2-8d1c-2c1210b8b189&quot;,&quot;src_vid&quot;:&quot;wwK3D_7Z07E&quot;,&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCL3EooPu7d8CFcWkggodmMsNZyj4HTIFY2FyZHNIsafn9v_hrYHDAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;L888XP3wJsXJigSYl7e4Bg&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=AZP8b3VgbiI&quot;,&quot;timestamp&quot;:1481919672113,&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCL3EooPu7d8CFcWkggodmMsNZyj4HTIFY2FyZHNIsafn9v_hrYHDAQ&quot;,&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwi9xKKD7u3fAhXFpIIKHZjLDWco-B0yBWNhcmRzSLGn5_b_4a2BwwE&quot;,&quot;card&quot;:&quot;CAwQ1TYY____________ASITCL3EooPu7d8CFcWkggodmMsNZyj4HTIFY2FyZHNIsafn9v_hrYHDAQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=AZP8b3VgbiI"/>
+  </action>
+</annotation>
+
+<annotation id="video:3ab724fe-e021-4ba0-b07f-e7357ba11445" style="video" type="card" log_data="a-ch=UCGy6uV7yqGWDeUWTZzT3ZEg&amp;a-id=3ab724fe-e021-4ba0-b07f-e7357ba11445&amp;a-type=62&amp;a-v=wwK3D_7Z07E&amp;ei=L888XP3wJsXJigSYl7e4Bg&amp;l-class=1&amp;link-id=RibIonQjYJ0&amp;xble=0">
+  <data>{&quot;meta_info&quot;:[&quot;by Rebel Media&quot;,&quot;121,583 views&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/RibIonQjYJ0\/mqdefault.jpg&quot;,&quot;is_live_now&quot;:false,&quot;start_ms&quot;:163508,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Suggested: Where did all the fathers go? Blame liberals&quot;,&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;Where did all the fathers go? Blame liberals&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:163508,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[]},&quot;video_duration&quot;:&quot;6:25&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;3ab724fe-e021-4ba0-b07f-e7357ba11445&quot;,&quot;src_vid&quot;:&quot;wwK3D_7Z07E&quot;,&quot;itct&quot;:&quot;CBAQ1TYY____________ASITCL3EooPu7d8CFcWkggodmMsNZyj4HTIFY2FyZHNIsafn9v_hrYHDAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;L888XP3wJsXJigSYl7e4Bg&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=RibIonQjYJ0&quot;,&quot;timestamp&quot;:1481919918622,&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBEQ0DYY____________ASITCL3EooPu7d8CFcWkggodmMsNZyj4HTIFY2FyZHNIsafn9v_hrYHDAQ&quot;,&quot;icon&quot;:&quot;CBIQsJcBGP___________wEiEwi9xKKD7u3fAhXFpIIKHZjLDWco-B0yBWNhcmRzSLGn5_b_4a2BwwE&quot;,&quot;card&quot;:&quot;CBAQ1TYY____________ASITCL3EooPu7d8CFcWkggodmMsNZyj4HTIFY2FyZHNIsafn9v_hrYHDAQ&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=RibIonQjYJ0"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwi9xKKD7u3fAhXFpIIKHZjLDWco+B0yBWNhcmRzSLGn5/b/4a2BwwE=&quot;, 
+  &quot;headerText&quot;: &quot;From Rebel Media&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwi9xKKD7u3fAhXFpIIKHZjLDWco+B0yBWNhcmRzSLGn5/b/4a2BwwE=&quot;, 
+  &quot;eventId&quot;: &quot;L888XP3wJsXJigSYl7e4Bg&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCL3EooPu7d8CFcWkggodmMsNZyj4HTIFY2FyZHNIsafn9v/hrYHDAQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

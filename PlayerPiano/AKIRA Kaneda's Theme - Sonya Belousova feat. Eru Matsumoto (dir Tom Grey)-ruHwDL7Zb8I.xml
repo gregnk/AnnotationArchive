@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIyOSBxubt3wIVxBIDCh3_Wg0XKPgdMgJpdkjC3-X2y4H88K4B">
+<annotation id="annotation_2194897785" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_678115015">
+    <movingRegion type="rect">
+      <rectRegion x="0.42600" y="12.37400" w="24.43200" h="11.30100" t="never"/>
+      <rectRegion x="0.42600" y="12.37400" w="24.43200" h="11.30100" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_678115015" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3015175329" type="highlight" log_data="a-type=3&amp;ei=WMc8XMjYB8SlDP-1tbgB&amp;a-id=annotation_3015175329&amp;link=https%3A%2F%2Fwww.patreon.com%2Fplayerpiano&amp;a-v=ruHwDL7Zb8I&amp;l-class=8&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjI5IHG5u3fAhXEEgMKHf9aDRco-B0yAml2SMLf5fbLgfzwrgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="71.94900" y="50.42300" w="27.37700" h="47.21100" t="3:06.800"/>
+      <rectRegion x="71.94900" y="50.42300" w="27.37700" h="47.21100" t="4:17.511"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.patreon.com/playerpiano" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3195493563" type="highlight" log_data="a-type=3&amp;ei=WMc8XMjYB8SlDP-1tbgB&amp;a-id=annotation_3195493563&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fplayerpianovideos%3Fsub_confirmation%3D1&amp;a-v=ruHwDL7Zb8I&amp;l-class=5&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjI5IHG5u3fAhXEEgMKHf9aDRco-B0yAml2SMLf5fbLgfzwrgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.23500" y="51.59200" w="19.29500" h="10.60600" t="3:06.800"/>
+      <rectRegion x="52.23500" y="51.59200" w="19.29500" h="10.60600" t="4:17.511"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/playerpianovideos?annotation_id=annotation_3195493563&amp;ei=WMc8XMjYB8SlDP-1tbgB&amp;feature=iv&amp;src_vid=ruHwDL7Zb8I&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4144362795" type="highlight" log_data="a-type=3&amp;ei=WMc8XMjYB8SlDP-1tbgB&amp;a-id=annotation_4144362795&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fanimeexpola%3Fsub_confirmation%3D1&amp;a-v=ruHwDL7Zb8I&amp;l-class=5&amp;xble=1" itct="CAMQs-UBGP___________wEiEwjI5IHG5u3fAhXEEgMKHf9aDRco-B0yAml2SMLf5fbLgfzwrgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="28.68500" y="67.04200" w="42.43300" h="13.98600" t="3:06.800"/>
+      <rectRegion x="28.68500" y="67.04200" w="42.43300" h="13.98600" t="4:17.511"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/animeexpola?annotation_id=annotation_4144362795&amp;ei=WMc8XMjYB8SlDP-1tbgB&amp;feature=iv&amp;src_vid=ruHwDL7Zb8I&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_678115015" type="highlight" log_data="a-type=3&amp;ei=WMc8XMjYB8SlDP-1tbgB&amp;a-id=annotation_678115015&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBBoR0IDXTw0&amp;a-v=ruHwDL7Zb8I&amp;l-class=1&amp;xble=1" itct="CAQQs-UBGP___________wEiEwjI5IHG5u3fAhXEEgMKHf9aDRco-B0yAml2SMLf5fbLgfzwrgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.70500" y="52.52500" w="26.13600" h="46.71700" t="3:06.384"/>
+      <rectRegion x="1.70500" y="52.52500" w="26.13600" h="46.71700" t="4:17.511"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_678115015&amp;ei=WMc8XMjYB8SlDP-1tbgB&amp;feature=iv&amp;src_vid=ruHwDL7Zb8I&amp;v=BBoR0IDXTw0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_687537825" type="highlight" log_data="a-type=3&amp;ei=WMc8XMjYB8SlDP-1tbgB&amp;a-id=annotation_687537825&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FEruCello&amp;a-v=ruHwDL7Zb8I&amp;l-class=3&amp;xble=1" itct="CAUQs-UBGP___________wEiEwjI5IHG5u3fAhXEEgMKHf9aDRco-B0yAml2SMLf5fbLgfzwrgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="29.16000" y="83.09900" w="24.04900" h="14.81700" t="3:06.800"/>
+      <rectRegion x="29.16000" y="83.09900" w="24.04900" h="14.81700" t="4:17.511"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/EruCello?annotation_id=annotation_687537825&amp;ei=WMc8XMjYB8SlDP-1tbgB&amp;feature=iv&amp;src_vid=ruHwDL7Zb8I" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="video:d97965a4-a833-4730-9ebe-612c795b3298" style="simple" type="card" log_data="a-ch=UCAIwH4ubfkRWep6ZkmRG8Gg&amp;a-id=d97965a4-a833-4730-9ebe-612c795b3298&amp;a-type=66&amp;a-v=ruHwDL7Zb8I&amp;ei=WMc8XMjYB8SlDP-1tbgB&amp;l-class=7&amp;link=http%3A%2F%2Fstore.dftba.com%2Fcollections%2Fplayer-piano&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;\/redirect?q=http%3A%2F%2Fstore.dftba.com%2Fcollections%2Fplayer-piano\u0026redir_token=2pHeLkcPlPsBq7PRnro0IhH_aKh8MTU0NzU3MzQ2NEAxNTQ3NDg3MDY0\u0026event=infocard&quot;,&quot;meta_info&quot;:[],&quot;title&quot;:&quot;DFTBA - Player Piano&quot;,&quot;pause_on_navigation&quot;:true,&quot;start_ms&quot;:42703,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAwQsJcBGP___________wEiEwjI5IHG5u3fAhXEEgMKHf9aDRco-B0yBWNhcmRzSMLf5fbLgfzwrgE&quot;,&quot;card&quot;:&quot;CAoQ1TYY____________ASITCMjkgcbm7d8CFcQSAwod_1oNFyj4HTIFY2FyZHNIwt_l9suB_PCuAQ&quot;,&quot;teaser&quot;:&quot;CAsQ0DYY____________ASITCMjkgcbm7d8CFcQSAwod_1oNFyj4HTIFY2FyZHNIwt_l9suB_PCuAQ&quot;},&quot;teaser_text&quot;:&quot;Get the T-Shirt \u0026 Akira Poster&quot;,&quot;timestamp&quot;:1438105577467,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/kmHKg_6Ix4VD8llMyczK77kGRWx7Zhf_BimVlYEkHlGir40EnGtkU5WJaUdGD9AoeGh_s5NSx2ZEaSIgmjJkF7t4Z0OAwXZe_-RCsOmkhqQR_sh2c-TxpVfSrK4dzwSp=s300-c&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;show_link_icon&quot;:true,&quot;tracking&quot;:{&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[]},&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;WMc8XMjYB8SlDP-1tbgB&quot;,&quot;annotation_id&quot;:&quot;d97965a4-a833-4730-9ebe-612c795b3298&quot;,&quot;itct&quot;:&quot;CAoQ1TYY____________ASITCMjkgcbm7d8CFcQSAwod_1oNFyj4HTIFY2FyZHNIwt_l9suB_PCuAQ&quot;,&quot;src_vid&quot;:&quot;ruHwDL7Zb8I&quot;},&quot;end_ms&quot;:42703,&quot;sponsored&quot;:false,&quot;display_domain&quot;:&quot;store.dftba.com&quot;,&quot;card_type&quot;:&quot;simple&quot;,&quot;target&quot;:&quot;new&quot;,&quot;custom_message&quot;:&quot;Buy now! In limited run!&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?q=http%3A%2F%2Fstore.dftba.com%2Fcollections%2Fplayer-piano&amp;redir_token=2pHeLkcPlPsBq7PRnro0IhH_aKh8MTU0NzU3MzQ2NEAxNTQ3NDg3MDY0&amp;event=infocard"/>
+  </action>
+</annotation>
+
+<annotation id="video:c1cdfdd5-91e2-4e43-a36a-605a2679349a" style="simple" type="card" log_data="a-ch=UCAIwH4ubfkRWep6ZkmRG8Gg&amp;a-id=c1cdfdd5-91e2-4e43-a36a-605a2679349a&amp;a-type=68&amp;a-v=ruHwDL7Zb8I&amp;ei=WMc8XMjYB8SlDP-1tbgB&amp;l-class=6&amp;link=http%3A%2F%2Fwww.playerpianomusic.com%2F&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;\/redirect?q=http%3A%2F%2Fwww.playerpianomusic.com%2F\u0026redir_token=2pHeLkcPlPsBq7PRnro0IhH_aKh8MTU0NzU3MzQ2NEAxNTQ3NDg3MDY0\u0026event=infocard&quot;,&quot;meta_info&quot;:[],&quot;title&quot;:&quot;Download Akira (Kaneda&#39;s Theme)&quot;,&quot;pause_on_navigation&quot;:true,&quot;start_ms&quot;:77568,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBAQsJcBGP___________wEiEwjI5IHG5u3fAhXEEgMKHf9aDRco-B0yBWNhcmRzSMLf5fbLgfzwrgE&quot;,&quot;card&quot;:&quot;CA4Q1TYY____________ASITCMjkgcbm7d8CFcQSAwod_1oNFyj4HTIFY2FyZHNIwt_l9suB_PCuAQ&quot;,&quot;teaser&quot;:&quot;CA8Q0DYY____________ASITCMjkgcbm7d8CFcQSAwod_1oNFyj4HTIFY2FyZHNIwt_l9suB_PCuAQ&quot;},&quot;teaser_text&quot;:&quot;Get all Player Piano tracks!&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/ruHwDL7Zb8I\/c1cdfdd5-91e2-4e43-a36a-605a2679349a_mq.jpg?v=551b87be&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;show_link_icon&quot;:true,&quot;tracking&quot;:{&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[]},&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;WMc8XMjYB8SlDP-1tbgB&quot;,&quot;annotation_id&quot;:&quot;c1cdfdd5-91e2-4e43-a36a-605a2679349a&quot;,&quot;itct&quot;:&quot;CA4Q1TYY____________ASITCMjkgcbm7d8CFcQSAwod_1oNFyj4HTIFY2FyZHNIwt_l9suB_PCuAQ&quot;,&quot;src_vid&quot;:&quot;ruHwDL7Zb8I&quot;},&quot;end_ms&quot;:77568,&quot;sponsored&quot;:false,&quot;display_domain&quot;:&quot;playerpianomusic.com&quot;,&quot;card_type&quot;:&quot;simple&quot;,&quot;target&quot;:&quot;new&quot;,&quot;custom_message&quot;:&quot;Download our Album Vol 1!&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?q=http%3A%2F%2Fwww.playerpianomusic.com%2F&amp;redir_token=2pHeLkcPlPsBq7PRnro0IhH_aKh8MTU0NzU3MzQ2NEAxNTQ3NDg3MDY0&amp;event=infocard"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAgQsJcBGP///////////wEiEwjI5IHG5u3fAhXEEgMKHf9aDRco+B0yBWNhcmRzSMLf5fbLgfzwrgE=&quot;, 
+  &quot;eventId&quot;: &quot;WMc8XMjYB8SlDP-1tbgB&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAcQsZcBGP///////////wEiEwjI5IHG5u3fAhXEEgMKHf9aDRco+B0yBWNhcmRzSMLf5fbLgfzwrgE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAYQwjcY////////////ASITCMjkgcbm7d8CFcQSAwod/1oNFyj4HTIFY2FyZHNIwt/l9suB/PCuAQ==&quot;, 
+  &quot;headerText&quot;: &quot;From PlayerPiano&quot;
+}</data>
+</annotation>
+</annotations></document>

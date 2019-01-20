@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIkfbswu3t3wIVzGowCh1_9wXrKPgdMgJpdkjKgNf-qKvLpZgB">
+<annotation id="annotation_2781511401" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4205115273">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4205115273" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4205115273" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmaketodayamazing%3Fsub_confirmation%3D1&amp;a-v=mEstWo_VwEo&amp;xble=1&amp;l-class=5&amp;a-id=annotation_4205115273&amp;ei=qM48XJGCIczVwQH_7pfYDg&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwiR9uzC7e3fAhXMajAKHX_3Beso-B0yAml2SMqA1_6oq8ulmAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="30.42800" y="86.01400" w="39.25500" h="13.98600" t="1:55.297"/>
+      <rectRegion x="30.42800" y="86.01400" w="39.25500" h="13.98600" t="2:17.856"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/maketodayamazing?annotation_id=annotation_4205115273&amp;ei=qM48XJGCIczVwQH_7pfYDg&amp;feature=iv&amp;src_vid=mEstWo_VwEo&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4240937705" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dnnc9LO-MMCQ&amp;a-v=mEstWo_VwEo&amp;xble=1&amp;l-class=1&amp;a-id=annotation_4240937705&amp;ei=qM48XJGCIczVwQH_7pfYDg&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwiR9uzC7e3fAhXMajAKHX_3Beso-B0yAml2SMqA1_6oq8ulmAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="57.36900" y="6.47900" w="40.53100" h="43.83100" t="2:01.470"/>
+      <rectRegion x="57.36900" y="6.47900" w="40.53100" h="43.83100" t="2:17.856"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_4240937705&amp;ei=qM48XJGCIczVwQH_7pfYDg&amp;feature=iv&amp;src_vid=mEstWo_VwEo&amp;v=nnc9LO-MMCQ" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4240968555" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4240937705">
+    <movingRegion type="rect">
+      <rectRegion x="7.76500" y="45.07000" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="7.76500" y="45.07000" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4240937705" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:5768be87-0000-24f1-bc4e-001a114e34a2" style="branding" type="branding"
+            log_data="a-v=mEstWo_VwEo&amp;a-ch=UCEmoWn7vjcgnqPRkPqtQOiA&amp;link-id=UCEmoWn7vjcgnqPRkPqtQOiA&amp;xble=0&amp;l-class=3&amp;a-id=5768be87-0000-24f1-bc4e-001a114e34a2&amp;ei=qM48XJGCIczVwQH_7pfYDg&amp;a-type=10">
+  <data>{&quot;channel_name&quot;:&quot;MakeTodayAmazing&quot;,&quot;start_ms&quot;:5000,&quot;is_mobile&quot;:false,&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/EmoWn7vjcgnqPRkPqtQOiA\/featured_channel.jpg?v=576b24e0&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_type&quot;:1,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FMakeTodayAmazing%26continue_action%3DQUFFLUhqbmh0aGFuLVdCV2VWTnQ0VE10LXpOY2dfaHphd3xBQ3Jtc0tsZzBXa3JEaEdRMEVvc3AzWklNSUNXbXJBbGRkU2JfY1E1VmlqdlkwaUxwbk13blBDTlozTzV6NVYzWW0wX25PS3RKVG1La1kwLUh4cDRZV0UteGxoTlJQSU5mZk5aTmdaUkpLa0RWcVpIajhvRkx5NDkyWm9jMHY2WUdfSS1uVlM4MGIwT080TExwS09OQk53N1pBRFZyaGs5QUx6YWFsX2tESF94TXU3UlFXSDVaaDlvM0tZcHFlSVBHNEdBVU1JQlZRRWxqTXhPMThTZGI4ODJ4UXJqQWp6MXUtSUdGT0l5SUtfeTZhVU9ObFphOW5n%26action_handle_signin%3Dtrue%26feature%3Div%26app%3Ddesktop%26hl%3Den\u0026uilel=3\u0026service=youtube&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;1.4K&quot;,&quot;unsubscribeCount&quot;:&quot;1.4K&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;num_subscribers&quot;:&quot;1481&quot;,&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UCEmoWn7vjcgnqPRkPqtQOiA&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;mEstWo_VwEo&quot;,&quot;ei&quot;:&quot;qM48XJGCIczVwQH_7pfYDg&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCJH27MLt7d8CFcxqMAodf_cF6yj4HTICaXZIyoDX_qiry6WYAQ&quot;,&quot;annotation_id&quot;:&quot;5768be87-0000-24f1-bc4e-001a114e34a2&quot;},&quot;end_ms&quot;:138000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/MakeTodayAmazing"/>
+  </action>
+</annotation></annotations></document>

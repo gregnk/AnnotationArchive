@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIxrSMyPLt3wIVk0QwCh3U2gmzKPgdMgJpdkipofWk8qbG000">
+<annotation id="annotation_1696757629" type="highlight" log_data="ei=8dM8XIb4K5OJwQHUtaeYCw&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDfrtKRUwFlk%26list%3DUUJ2ZDzMRgSrxmwphstrm8Ww&amp;a-id=annotation_1696757629&amp;a-type=3&amp;a-v=TacZNySdUKk" itct="CAEQs-UBGP___________wEiEwjGtIzI8u3fAhWTRDAKHdTaCbMo-B0yAml2SKmh9aTypsbTTQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="45.00800" y="34.08500" w="52.25800" h="53.12700" t="4:44.817"/>
+      <rectRegion x="45.00800" y="34.08500" w="52.25800" h="53.12700" t="5:04.070"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1696757629&amp;ei=8dM8XIb4K5OJwQHUtaeYCw&amp;feature=iv&amp;list=UUJ2ZDzMRgSrxmwphstrm8Ww&amp;src_vid=TacZNySdUKk&amp;v=DfrtKRUwFlk" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1752552061" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1696757629">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.14100" w="52.25000" h="53.04200" t="never"/>
+      <rectRegion x="0.00000" y="0.14100" w="52.25000" h="53.04200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1696757629" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1883099489" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3011187793">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.14100" w="37.52000" h="38.39400" t="never"/>
+      <rectRegion x="0.00000" y="0.14100" w="37.52000" h="38.39400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3011187793" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3011187793" type="highlight" log_data="ei=8dM8XIb4K5OJwQHUtaeYCw&amp;l-class=1&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJuqOrHVhqDo%26list%3DPLeImKFecYFCzZ4_p__FafoUp7Z6GnoLLa&amp;a-id=annotation_3011187793&amp;a-type=3&amp;a-v=TacZNySdUKk" itct="CAIQs-UBGP___________wEiEwjGtIzI8u3fAhWTRDAKHdTaCbMo-B0yAml2SKmh9aTypsbTTQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.48700" y="33.80300" w="37.36100" h="38.47900" t="4:44.817"/>
+      <rectRegion x="3.48700" y="33.80300" w="37.36100" h="38.47900" t="5:04.070"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3011187793&amp;ei=8dM8XIb4K5OJwQHUtaeYCw&amp;feature=iv&amp;list=PLeImKFecYFCzZ4_p__FafoUp7Z6GnoLLa&amp;src_vid=TacZNySdUKk&amp;v=JuqOrHVhqDo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3361685989" type="text" style="popup" log_data="ei=8dM8XIb4K5OJwQHUtaeYCw&amp;l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fthenerdsworth%3Fsub_confirmation%3D1&amp;a-id=annotation_3361685989&amp;a-type=1&amp;a-v=TacZNySdUKk" itct="CAMQs-UBGP___________wEiEwjGtIzI8u3fAhWTRDAKHdTaCbMo-B0yAml2SKmh9aTypsbTTQ">
+  <TEXT>Check Out Flitz&#39;s Channel</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="19.81000" y="57.18300" w="15.41200" h="15.93000" t="0:08.701"/>
+      <rectRegion x="19.81000" y="57.18300" w="15.41200" h="15.93000" t="0:24.600"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="16636470" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/thenerdsworth?annotation_id=annotation_3361685989&amp;ei=8dM8XIb4K5OJwQHUtaeYCw&amp;feature=iv&amp;src_vid=TacZNySdUKk&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="channel:27332028-dc0a-425f-82fd-d174c2fe88cf" style="branding" type="branding"
+            log_data="ei=8dM8XIb4K5OJwQHUtaeYCw&amp;xble=0&amp;a-type=10&amp;a-ch=UCJ2ZDzMRgSrxmwphstrm8Ww&amp;link-id=UCJ2ZDzMRgSrxmwphstrm8Ww&amp;a-id=27332028-dc0a-425f-82fd-d174c2fe88cf&amp;l-class=3&amp;a-v=TacZNySdUKk">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCMa0jMjy7d8CFZNEMAod1NoJsyj4HTICaXZIqaH1pPKmxtNN&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;8dM8XIb4K5OJwQHUtaeYCw&quot;,&quot;annotation_id&quot;:&quot;27332028-dc0a-425f-82fd-d174c2fe88cf&quot;,&quot;src_vid&quot;:&quot;TacZNySdUKk&quot;},&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UCJ2ZDzMRgSrxmwphstrm8Ww&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeCount&quot;:&quot;7.3M&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbHQ3WER3aVRQbE9vejZMRGtIYy1TM0Fpend1d3xBQ3Jtc0tuRHR1MVVweTJsMzd5WWlsNi1YYTZCUHVyV0k3ZDJRMXJhU0ZRbUZ5dHFULTY0YXhRWHpVMTZXLU5ZTWh6Rmo4bGV3QlFRS0FDMG9leUZFUUVhUnlnQ29mNG8xamJfVkx0RTFvYUxxYnJBeWUyTVloUWd0bGVjcDhFdnFXMENvNE9NRVJqOGR2N2JqWmJ6MnV3bTd0N2xvZE5TMHNJdGw4TjdKaUl0M0RvdVQ5RV9CV2h0NHBQWmFkbzRjTHRjMERqQzdBTC03ZUFBbDZUc2xSVU8yWk9YNi1aMlhoN090c213OHlXYllaU1NTNWZvYXBj%26action_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FSmoshGames\u0026hl=en\u0026passive=true&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;7.3M&quot;},&quot;image_type&quot;:1,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/J2ZDzMRgSrxmwphstrm8Ww\/featured_channel.jpg?v=5b7f0aa2&quot;,&quot;num_subscribers&quot;:&quot;7398425&quot;,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;channel_name&quot;:&quot;Smosh Games&quot;,&quot;start_ms&quot;:5000,&quot;use_standalone_subscribe_button&quot;:true,&quot;end_ms&quot;:305000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/SmoshGames"/>
+  </action>
+</annotation></annotations></document>

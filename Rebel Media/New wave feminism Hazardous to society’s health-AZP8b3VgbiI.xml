@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI0ojUhO7t3wIVN4DCAR1OVwO_KPgdMgJpdkii3IGr943_yQE">
+<annotation id="annotation_1757781271" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1838473943">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="29.90500" h="29.93000" t="never"/>
+      <rectRegion x="0.00000" y="0.00000" w="29.90500" h="29.93000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1838473943" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1838473943" type="highlight" log_data="l-class=6&amp;xble=1&amp;a-id=annotation_1838473943&amp;a-type=3&amp;link=http%3A%2F%2Ftherebel.media%2Fmember&amp;ei=Ms88XNKnIbeAir4Pzq6N-As&amp;a-v=AZP8b3VgbiI" itct="CAEQs-UBGP___________wEiEwjSiNSE7u3fAhU3gMIBHU5XA78o-B0yAml2SKLcgav3jf_JAQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="9.35000" y="59.71800" w="30.23000" h="30.03200" t="2:44.770"/>
+      <rectRegion x="9.35000" y="59.71800" w="30.23000" h="30.03200" t="2:55.600"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://therebel.media/member" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2349203895" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3875338567">
+    <movingRegion type="rect">
+      <rectRegion x="-0.00800" y="0.14100" w="29.76200" h="29.66200" t="never"/>
+      <rectRegion x="-0.00800" y="0.14100" w="29.76200" h="29.66200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3875338567" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3875338567" type="highlight" log_data="l-class=6&amp;xble=1&amp;a-id=annotation_3875338567&amp;a-type=3&amp;link=http%3A%2F%2Ftherebel.media%2Fjoin&amp;ei=Ms88XNKnIbeAir4Pzq6N-As&amp;a-v=AZP8b3VgbiI" itct="CAIQs-UBGP___________wEiEwjSiNSE7u3fAhU3gMIBHU5XA78o-B0yAml2SKLcgav3jf_JAQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="9.35000" y="17.46500" w="29.59600" h="30.02800" t="2:44.770"/>
+      <rectRegion x="9.35000" y="17.46500" w="29.59600" h="30.02800" t="2:55.600"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://therebel.media/join" link_class="6"/>
+  </action>
+
+</annotation>
+</annotations></document>

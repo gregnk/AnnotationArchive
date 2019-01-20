@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIyODd3dft3wIVmFMwCh1GiQ-xKPgdMgJpdkjs54rxnPzrl8MB">
+<annotation id="annotation_380050" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_641788">
+    <movingRegion type="rect">
+      <rectRegion x="3.28100" y="13.05600" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="3.28100" y="13.05600" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_641788" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_641788" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DCinemaSins&amp;l-class=5&amp;ei=z7c8XIi9FJinwQHGkr6ICw&amp;a-v=wy-v4c4is-w&amp;a-type=3&amp;a-id=annotation_641788" itct="CAEQs-UBGP___________wEiEwjI4N3d1-3fAhWYUzAKHUaJD7Eo-B0yAml2SOznivGc_OuXwwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="34.06300" y="39.72200" w="30.93800" h="18.05600" t="0:02:08.2"/>
+      <rectRegion x="34.06300" y="39.72200" w="30.93800" h="18.05600" t="0:02:15.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=CinemaSins&amp;annotation_id=annotation_641788&amp;ei=z7c8XIi9FJinwQHGkr6ICw&amp;feature=iv&amp;src_vid=wy-v4c4is-w" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_984000" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3DCinemaSins&amp;l-class=5&amp;ei=z7c8XIi9FJinwQHGkr6ICw&amp;a-v=wy-v4c4is-w&amp;a-type=1&amp;a-id=annotation_984000" itct="CAIQs-UBGP___________wEiEwjI4N3d1-3fAhWYUzAKHUaJD7Eo-B0yAml2SOznivGc_OuXwwE">
+  <TEXT>Subscribe to catch new videos!!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="87.22200" w="21.25000" h="12.50000" t="0:00:00.0"/>
+      <rectRegion x="0.00000" y="87.22200" w="21.25000" h="12.50000" t="0:00:07.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=CinemaSins&amp;annotation_id=annotation_984000&amp;ei=z7c8XIi9FJinwQHGkr6ICw&amp;feature=iv&amp;src_vid=wy-v4c4is-w" link_class="5"/>
+  </action>
+
+</annotation></annotations></document>

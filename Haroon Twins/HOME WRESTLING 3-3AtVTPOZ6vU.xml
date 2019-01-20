@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzPeCte3t3wIVUBoDCh3HjgS8KPgdMgJpdkj11eecz6nVhdwB">
+<annotation id="annotation_468280" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_990765">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.44400" w="21.25000" h="6.38900" t="never"/>
+      <rectRegion x="0.00000" y="29.44400" w="21.25000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_990765" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_489112" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_835519">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.38900" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_835519" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_835519" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dj_sx791HOFI&amp;a-type=3&amp;ei=i848XIyGIdC0DMedkuAL&amp;a-id=annotation_835519&amp;l-class=1&amp;xble=1&amp;a-v=3AtVTPOZ6vU" itct="CAEQs-UBGP___________wEiEwjM94K17e3fAhVQGgMKHceOBLwo-B0yAml2SPXV55zPqdWF3AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.40600" y="49.44400" w="37.50000" h="36.29200" t="0:02:10.5"/>
+      <rectRegion x="56.40600" y="49.44400" w="37.50000" h="36.29200" t="0:02:23.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_835519&amp;ei=i848XIyGIdC0DMedkuAL&amp;feature=iv&amp;src_vid=3AtVTPOZ6vU&amp;v=j_sx791HOFI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_990765" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dy6vfMME7M10&amp;a-type=3&amp;ei=i848XIyGIdC0DMedkuAL&amp;a-id=annotation_990765&amp;l-class=1&amp;xble=1&amp;a-v=3AtVTPOZ6vU" itct="CAIQs-UBGP___________wEiEwjM94K17e3fAhVQGgMKHceOBLwo-B0yAml2SPXV55zPqdWF3AE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.78100" y="48.61100" w="38.28100" h="37.50000" t="0:02:10.3"/>
+      <rectRegion x="5.78100" y="48.61100" w="38.28100" h="37.50000" t="0:02:23.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_990765&amp;ei=i848XIyGIdC0DMedkuAL&amp;feature=iv&amp;src_vid=3AtVTPOZ6vU&amp;v=y6vfMME7M10" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:561ba27c-0000-2905-967b-94eb2c08b712" style="branding" type="branding"
+            log_data="a-ch=UCBK6_NMaKqeXQIf8F9qVUCw&amp;link-id=UCBK6_NMaKqeXQIf8F9qVUCw&amp;a-type=10&amp;ei=i848XIyGIdC0DMedkuAL&amp;a-id=561ba27c-0000-2905-967b-94eb2c08b712&amp;l-class=3&amp;xble=0&amp;a-v=3AtVTPOZ6vU">
+  <data>{&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;1.3M&quot;,&quot;unsubscribeCount&quot;:&quot;1.3M&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026uilel=3\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FLegendarySkiLLeD%26continue_action%3DQUFFLUhqbmFSTHlBR2dZSngzdDJ4d3B1Ty1KMnZZcjBrd3xBQ3Jtc0ttQkhqRmx1d1FLUXJRYW1DQmFTTXpId0NrdzhuaU5OUllqbEUtRXFCdV8wVVJKeU9RX090a2l0R1Y3U3NEWl91ano1Ml9OT2JHbE1aQzlTSmZ3cUpNcW9CME01MWJORHZNa3k1NEtJdldqU2FNMzhnMHJKTEpCb3pqSGx4NTFCRnBGQnFRRTBmdWtmUlBRSzlnei10TnNTUFlaVmg1Wkx2SmpHLTI1NDNRaXNscFJfa3ZuTlNwbjFRejdHOW1DT1lYNWFQazdRVk41SXBUQi1LUkgycjExQzR0SUxKRHFQSF85M2Z5SzN3ME80UUVoWjlN%26hl%3Den%26feature%3Div%26action_handle_signin%3Dtrue%26app%3Ddesktop\u0026service=youtube&quot;,&quot;classic&quot;:true},&quot;image_height&quot;:30,&quot;channel_name&quot;:&quot;Haroon Twins&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:48,&quot;num_subscribers&quot;:&quot;1354717&quot;,&quot;image_type&quot;:1,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;start_ms&quot;:137000,&quot;channel_id&quot;:&quot;UCBK6_NMaKqeXQIf8F9qVUCw&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/BK6_NMaKqeXQIf8F9qVUCw\/featured_channel.jpg?v=562123fe&quot;,&quot;is_mobile&quot;:false,&quot;end_ms&quot;:152000,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;561ba27c-0000-2905-967b-94eb2c08b712&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;i848XIyGIdC0DMedkuAL&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCMz3grXt7d8CFVAaAwodx44EvCj4HTICaXZI9dXnnM-p1YXcAQ&quot;,&quot;src_vid&quot;:&quot;3AtVTPOZ6vU&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/LegendarySkiLLeD"/>
+  </action>
+</annotation></annotations></document>

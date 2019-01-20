@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI6pOuhvTt3wIVElEDCh1gggoDKPgdMgJpdkjysK2qhP6ar6sB">
+<annotation id="annotation_1163901603" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1200973303">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1200973303" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1200973303" type="highlight" log_data="a-id=annotation_1200973303&amp;ei=gNU8XOrTLJKiDeCEqhg&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5RXpCMl8lN8&amp;a-v=q15r8EVLWHI&amp;xble=1&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwjqk66G9O3fAhUSUQMKHWCCCgMo-B0yAml2SPKwraqE_pqvqwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="82.44300" w="47.20600" h="15.06400" t="1:29.970"/>
+      <rectRegion x="0.00000" y="82.44300" w="47.20600" h="15.06400" t="1:44.698"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1200973303&amp;ei=gNU8XOrTLJKiDeCEqhg&amp;feature=iv&amp;src_vid=q15r8EVLWHI&amp;v=5RXpCMl8lN8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2703759" type="highlight" log_data="a-id=annotation_2703759&amp;ei=gNU8XOrTLJKiDeCEqhg&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3ArzE_dtbo8&amp;a-v=q15r8EVLWHI&amp;xble=1&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwjqk66G9O3fAhUSUQMKHWCCCgMo-B0yAml2SPKwraqE_pqvqwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.72500" y="82.64600" w="45.48700" h="17.35400" t="1:29.970"/>
+      <rectRegion x="53.72500" y="82.64600" w="45.48700" h="17.35400" t="1:44.698"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2703759&amp;ei=gNU8XOrTLJKiDeCEqhg&amp;feature=iv&amp;src_vid=q15r8EVLWHI&amp;v=3ArzE_dtbo8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2810602153" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2703759">
+    <movingRegion type="rect">
+      <rectRegion x="0.28700" y="8.44800" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.28700" y="8.44800" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2703759" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:555adb2f-0000-2707-85aa-001a113f3238" style="branding" type="branding"
+            log_data="a-id=555adb2f-0000-2707-85aa-001a113f3238&amp;ei=gNU8XOrTLJKiDeCEqhg&amp;link-id=UCz2daX7pxjD88hth-raG3JQ&amp;a-type=10&amp;a-v=q15r8EVLWHI&amp;a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;xble=0&amp;l-class=3">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;44K&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;44K&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCz2daX7pxjD88hth-raG3JQ%26continue_action%3DQUFFLUhqa3Z1NnNGVUVLdlFobTRpV3FfRGhKSHZOSWllQXxBQ3Jtc0tsUk9PZndfMmlQNXktRUdYYjNJYW5hY3VRTWNqV0ljYk80MnMxenpaOTVrcVdpMHF1WmNwVjNMeldmX2dpaGptbGhBMW9XWkh2MzFHVnJib04xVTFwV1ZkRlo5RjFZWmQ2dHBvNFhXQmxIVXlyQW15bWV3bGFiV2Z6SFRvVzhKR1BrOHd2cTJGZTEySzlQS2dqTFFST3BpODJQTGQyRDZqc0hFZ205cExwZzdnWWhPN0NldlRDT1VNejlVMVVmX0RJV1BobGlnVWJOeFVFVW5yT3RmTTVTQU14d2thTU1fR1hUbVRocVFpZ2ZobXZqY3Nj%26action_handle_signin%3Dtrue\u0026hl=en\u0026uilel=3&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;enabled&quot;:false},&quot;num_subscribers&quot;:&quot;44964&quot;,&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UCz2daX7pxjD88hth-raG3JQ&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;q15r8EVLWHI&quot;,&quot;ei&quot;:&quot;gNU8XOrTLJKiDeCEqhg&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCOqTrob07d8CFRJRAwodYIIKAyj4HTICaXZI8rCtqoT-mq-rAQ&quot;,&quot;annotation_id&quot;:&quot;555adb2f-0000-2707-85aa-001a113f3238&quot;},&quot;channel_name&quot;:&quot;ESCalation&quot;,&quot;end_ms&quot;:105000,&quot;start_ms&quot;:82000,&quot;is_mobile&quot;:false,&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/z2daX7pxjD88hth-raG3JQ\/featured_channel.jpg?v=555ef8c7&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCz2daX7pxjD88hth-raG3JQ"/>
+  </action>
+</annotation>
+<annotation id="video:bdbe549b-bc23-441c-9660-c305bb82e618" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=bdbe549b-bc23-441c-9660-c305bb82e618&amp;a-type=62&amp;a-v=q15r8EVLWHI&amp;ei=gNU8XOrTLJKiDeCEqhg&amp;l-class=1&amp;link-id=IIoGQ6qGY4I&amp;xble=0">
+  <data>{&quot;timestamp&quot;:1445455286786,&quot;is_live_now&quot;:false,&quot;custom_message&quot;:&quot;&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;q15r8EVLWHI&quot;,&quot;ei&quot;:&quot;gNU8XOrTLJKiDeCEqhg&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCOqTrob07d8CFRJRAwodYIIKAyj4HTIFY2FyZHNI8rCtqoT-mq-rAQ&quot;,&quot;annotation_id&quot;:&quot;bdbe549b-bc23-441c-9660-c305bb82e618&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=IIoGQ6qGY4I&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwjqk66G9O3fAhUSUQMKHWCCCgMo-B0yBWNhcmRzSPKwraqE_pqvqwE&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCOqTrob07d8CFRJRAwodYIIKAyj4HTIFY2FyZHNI8rCtqoT-mq-rAQ&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCOqTrob07d8CFRJRAwodYIIKAyj4HTIFY2FyZHNI8rCtqoT-mq-rAQ&quot;},&quot;end_ms&quot;:89635,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:89635,&quot;title&quot;:&quot;Star Wars: Battlefront BETA  Review - comparison to Battlefront 1\u00262&quot;,&quot;target&quot;:&quot;new&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/IIoGQ6qGY4I\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: Star Wars: Battlefront BETA  Review - comparison to Battlefront 1\u00262&quot;,&quot;video_duration&quot;:&quot;10:01&quot;,&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;724 views&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=IIoGQ6qGY4I"/>
+  </action>
+</annotation>
+
+<annotation id="video:78eee66f-754f-4ac0-b65e-73c2ce4e5c58" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=78eee66f-754f-4ac0-b65e-73c2ce4e5c58&amp;a-type=62&amp;a-v=q15r8EVLWHI&amp;ei=gNU8XOrTLJKiDeCEqhg&amp;l-class=1&amp;link-id=3ArzE_dtbo8&amp;xble=0">
+  <data>{&quot;timestamp&quot;:1445455307423,&quot;is_live_now&quot;:false,&quot;custom_message&quot;:&quot;&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;q15r8EVLWHI&quot;,&quot;ei&quot;:&quot;gNU8XOrTLJKiDeCEqhg&quot;,&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCOqTrob07d8CFRJRAwodYIIKAyj4HTIFY2FyZHNI8rCtqoT-mq-rAQ&quot;,&quot;annotation_id&quot;:&quot;78eee66f-754f-4ac0-b65e-73c2ce4e5c58&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=3ArzE_dtbo8&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwjqk66G9O3fAhUSUQMKHWCCCgMo-B0yBWNhcmRzSPKwraqE_pqvqwE&quot;,&quot;card&quot;:&quot;CAwQ1TYY____________ASITCOqTrob07d8CFRJRAwodYIIKAyj4HTIFY2FyZHNI8rCtqoT-mq-rAQ&quot;,&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCOqTrob07d8CFRJRAwodYIIKAyj4HTIFY2FyZHNI8rCtqoT-mq-rAQ&quot;},&quot;end_ms&quot;:98166,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:98166,&quot;title&quot;:&quot;CS:GO sequel to Payday, prequel to L4D1+2 -  really?&quot;,&quot;target&quot;:&quot;new&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/3ArzE_dtbo8\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: CS:GO sequel to Payday, prequel to L4D1+2 -  really?&quot;,&quot;video_duration&quot;:&quot;5:57&quot;,&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;17,416 views&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=3ArzE_dtbo8"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCOqTrob07d8CFRJRAwodYIIKAyj4HTIFY2FyZHNI8rCtqoT+mq+rAQ==&quot;, 
+  &quot;eventId&quot;: &quot;gNU8XOrTLJKiDeCEqhg&quot;, 
+  &quot;headerText&quot;: &quot;From ESCalation&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwjqk66G9O3fAhUSUQMKHWCCCgMo+B0yBWNhcmRzSPKwraqE/pqvqwE=&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwjqk66G9O3fAhUSUQMKHWCCCgMo+B0yBWNhcmRzSPKwraqE/pqvqwE=&quot;
+}</data>
+</annotation>
+</annotations></document>

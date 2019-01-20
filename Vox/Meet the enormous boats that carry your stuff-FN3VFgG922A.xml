@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5cntuebt3wIVkqsNCh1fqwq4KPgdMgJpdkjgtveN4KL17hQ">
+<annotation id="annotation_2462982361" type="highlight" log_data="a-id=annotation_2462982361&amp;l-class=5&amp;ei=Psc8XOWyJpLXNt_WqsAL&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fvoxdotcom%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-v=FN3VFgG922A" itct="CAEQs-UBGP___________wEiEwjlye255u3fAhWSqw0KHV-rCrgo-B0yAml2SOC2943govXuFA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="33.75600" y="20.84500" w="32.13200" h="32.84500" t="2:31.299"/>
+      <rectRegion x="33.75600" y="20.84500" w="32.13200" h="32.84500" t="2:33.831"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16770675" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/voxdotcom?annotation_id=annotation_2462982361&amp;ei=Psc8XOWyJpLXNt_WqsAL&amp;feature=iv&amp;src_vid=FN3VFgG922A&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4000253427" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2462982361">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2462982361" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:762ba61a-5b5d-460a-bab5-54b106075fb0" style="branding" type="branding"
+            log_data="a-id=762ba61a-5b5d-460a-bab5-54b106075fb0&amp;l-class=3&amp;ei=Psc8XOWyJpLXNt_WqsAL&amp;xble=0&amp;link-id=UCLXo7UDZvByw2ixzpQCufnA&amp;a-ch=UCLXo7UDZvByw2ixzpQCufnA&amp;a-type=10&amp;a-v=FN3VFgG922A">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;5.4M&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fvoxdotcom%26hl%3Den%26action_handle_signin%3Dtrue%26feature%3Div%26continue_action%3DQUFFLUhqbVJmWTlkRlFQY3BVTEloeWNXLXRlUmJySnZaZ3xBQ3Jtc0tuczN3R3phRDVZZnBTU1l4RDVWYXQtaVl3Q291RnVFNGRXb09PM2Z2QS1pdm5RaWJSbzJzbmZ2RTdCbDliWGpLaWhldHdTdWpRc29VNTBLUW5IWnFKTkE2d0xMdHViRk8xLWFkdE5HSWV6UWxTLU1tdTFRMFVndGpodUIzaklRMzVDWExoTS1pTnNERmFVRERNeENHX0ZYZFk5Sk5TdXFFQjRYQU83ek1ST3BtRnN6S1hjTWFLMGxBQUppUkFiUVo3NkZHcmQ5d085V2otckJORmxpa3NVbjBTQ3pqdnFTVDYzdTA3emV3VWU1UzhnZ0JV\u0026service=youtube\u0026uilel=3\u0026hl=en&quot;,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;unsubscribeCount&quot;:&quot;5.4M&quot;},&quot;channel_name&quot;:&quot;Vox&quot;,&quot;start_ms&quot;:0,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;FN3VFgG922A&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCOXJ7bnm7d8CFZKrDQodX6sKuCj4HTICaXZI4Lb3jeCi9e4U&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;762ba61a-5b5d-460a-bab5-54b106075fb0&quot;,&quot;ei&quot;:&quot;Psc8XOWyJpLXNt_WqsAL&quot;},&quot;channel_id&quot;:&quot;UCLXo7UDZvByw2ixzpQCufnA&quot;,&quot;image_height&quot;:14,&quot;image_width&quot;:54,&quot;end_ms&quot;:154000,&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;5432722&quot;,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/LXo7UDZvByw2ixzpQCufnA\/featured_channel.jpg?v=59a98ac8&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/voxdotcom"/>
+  </action>
+</annotation>
+<annotation id="video:0287042d-bd83-4c29-ae3a-7c7e60674e6a" style="video" type="card" log_data="a-ch=UCLXo7UDZvByw2ixzpQCufnA&amp;a-id=0287042d-bd83-4c29-ae3a-7c7e60674e6a&amp;a-type=62&amp;a-v=FN3VFgG922A&amp;ei=Psc8XOWyJpLXNt_WqsAL&amp;l-class=1&amp;link-id=noZAqbn92gM&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=noZAqbn92gM&quot;,&quot;meta_info&quot;:[&quot;by The Verge&quot;,&quot;1,677,414 views&quot;],&quot;video_duration&quot;:&quot;10:14&quot;,&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;is_live_now&quot;:false,&quot;teaser_text&quot;:&quot;Suggested: Apple Watch review: it\u2019s finally here&quot;,&quot;start_ms&quot;:7364,&quot;teaser_duration_ms&quot;:7000,&quot;end_ms&quot;:7364,&quot;title&quot;:&quot;Apple Watch review: it\u2019s finally here&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;FN3VFgG922A&quot;,&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCOXJ7bnm7d8CFZKrDQodX6sKuCj4HTIFY2FyZHNI4Lb3jeCi9e4U&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;0287042d-bd83-4c29-ae3a-7c7e60674e6a&quot;,&quot;ei&quot;:&quot;Psc8XOWyJpLXNt_WqsAL&quot;},&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCOXJ7bnm7d8CFZKrDQodX6sKuCj4HTIFY2FyZHNI4Lb3jeCi9e4U&quot;,&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwjlye255u3fAhWSqw0KHV-rCrgo-B0yBWNhcmRzSOC2943govXuFA&quot;,&quot;card&quot;:&quot;CAcQ1TYY____________ASITCOXJ7bnm7d8CFZKrDQodX6sKuCj4HTIFY2FyZHNI4Lb3jeCi9e4U&quot;},&quot;pause_on_navigation&quot;:true,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;custom_message&quot;:&quot;&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/noZAqbn92gM\/mqdefault.jpg&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=noZAqbn92gM"/>
+  </action>
+</annotation>
+
+<annotation id="video:80231a6e-9167-4170-9ea2-e9e36819d6f8" style="simple" type="card" log_data="a-ch=UCLXo7UDZvByw2ixzpQCufnA&amp;a-id=80231a6e-9167-4170-9ea2-e9e36819d6f8&amp;a-type=68&amp;a-v=FN3VFgG922A&amp;ei=Psc8XOWyJpLXNt_WqsAL&amp;l-class=6&amp;link=http%3A%2F%2Fwww.vox.com%2F2015%2F1%2F22%2F7869319%2Flargest-container-ship&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;\/redirect?q=http%3A%2F%2Fwww.vox.com%2F2015%2F1%2F22%2F7869319%2Flargest-container-ship\u0026event=infocard\u0026redir_token=KHl_utf34FQUdHdY2F-_4rxla7B8MTU0NzU3MzQzOEAxNTQ3NDg3MDM4&quot;,&quot;display_domain&quot;:&quot;vox.com&quot;,&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;simple&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;teaser_text&quot;:&quot;Read more at Vox!&quot;,&quot;sponsored&quot;:false,&quot;start_ms&quot;:36819,&quot;show_link_icon&quot;:true,&quot;title&quot;:&quot;How cargo ships transformed the world economy&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;FN3VFgG922A&quot;,&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCOXJ7bnm7d8CFZKrDQodX6sKuCj4HTIFY2FyZHNI4Lb3jeCi9e4U&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;80231a6e-9167-4170-9ea2-e9e36819d6f8&quot;,&quot;ei&quot;:&quot;Psc8XOWyJpLXNt_WqsAL&quot;},&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCOXJ7bnm7d8CFZKrDQodX6sKuCj4HTIFY2FyZHNI4Lb3jeCi9e4U&quot;,&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwjlye255u3fAhWSqw0KHV-rCrgo-B0yBWNhcmRzSOC2943govXuFA&quot;,&quot;card&quot;:&quot;CAsQ1TYY____________ASITCOXJ7bnm7d8CFZKrDQodX6sKuCj4HTIFY2FyZHNI4Lb3jeCi9e4U&quot;},&quot;pause_on_navigation&quot;:true,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/_Wy0v3keeev8Tr3fhX9HPrbp1jIO8glJggWD-s2dADgvWrELH_t4AtUCx6_ZzVbBvCy4XYytpLdJQvuN6CIUa78PsRYyP3wjtDTXoE9ysGw6saoNqYKTguMf3lpy4rkRjiPMdIu_HLaT-p8ItoP_kDuC61kHn7XhGmgA2olAi77WMoJ1JHl6XAyQyNIpTDYmFFwHWuczKIlwiU5ctNLhgXr6jV3Vtr9T8vUjcewCElaBBnKIucFckLBZIlqW4yOAg6IOGddd&quot;,&quot;meta_info&quot;:[],&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;Read more at Vox!&quot;,&quot;end_ms&quot;:36819}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?q=http%3A%2F%2Fwww.vox.com%2F2015%2F1%2F22%2F7869319%2Flargest-container-ship&amp;event=infocard&amp;redir_token=KHl_utf34FQUdHdY2F-_4rxla7B8MTU0NzU3MzQzOEAxNTQ3NDg3MDM4"/>
+  </action>
+</annotation>
+
+<annotation id="video:fe158f21-80e3-4218-b60f-b5b6fd8cd0cf" style="playlist" type="card" log_data="a-ch=UCLXo7UDZvByw2ixzpQCufnA&amp;a-id=fe158f21-80e3-4218-b60f-b5b6fd8cd0cf&amp;a-type=63&amp;a-v=FN3VFgG922A&amp;ei=Psc8XOWyJpLXNt_WqsAL&amp;l-class=2&amp;link-id=PLJ8cMiYb3G5cX8x8hoIcd8NhMin3hqxzf&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=jOht6qmuG-k\u0026list=PLJ8cMiYb3G5cX8x8hoIcd8NhMin3hqxzf&quot;,&quot;meta_info&quot;:[&quot;by Vox&quot;,&quot;104 videos&quot;],&quot;playlist_video_count&quot;:&quot;104&quot;,&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;teaser_text&quot;:&quot;Suggested: This week&quot;,&quot;start_ms&quot;:118807,&quot;end_ms&quot;:118807,&quot;title&quot;:&quot;This week&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;FN3VFgG922A&quot;,&quot;itct&quot;:&quot;CA8Q1TYY____________ASITCOXJ7bnm7d8CFZKrDQodX6sKuCj4HTIFY2FyZHNI4Lb3jeCi9e4U&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;fe158f21-80e3-4218-b60f-b5b6fd8cd0cf&quot;,&quot;ei&quot;:&quot;Psc8XOWyJpLXNt_WqsAL&quot;},&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBAQ0DYY____________ASITCOXJ7bnm7d8CFZKrDQodX6sKuCj4HTIFY2FyZHNI4Lb3jeCi9e4U&quot;,&quot;icon&quot;:&quot;CBEQsJcBGP___________wEiEwjlye255u3fAhWSqw0KHV-rCrgo-B0yBWNhcmRzSOC2943govXuFA&quot;,&quot;card&quot;:&quot;CA8Q1TYY____________ASITCOXJ7bnm7d8CFZKrDQodX6sKuCj4HTIFY2FyZHNI4Lb3jeCi9e4U&quot;},&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/jOht6qmuG-k\/mqdefault.jpg&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=jOht6qmuG-k&amp;list=PLJ8cMiYb3G5cX8x8hoIcd8NhMin3hqxzf"/>
+  </action>
+</annotation>
+
+<annotation id="video:17faec08-9d0b-4e94-9336-a70fcc5d84cf" style="video" type="card" log_data="a-ch=UCLXo7UDZvByw2ixzpQCufnA&amp;a-id=17faec08-9d0b-4e94-9336-a70fcc5d84cf&amp;a-type=62&amp;a-v=FN3VFgG922A&amp;ei=Psc8XOWyJpLXNt_WqsAL&amp;l-class=1&amp;link-id=VnfKgffCZ7U&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=VnfKgffCZ7U&quot;,&quot;meta_info&quot;:[&quot;by Vox&quot;,&quot;1,273,651 views&quot;],&quot;video_duration&quot;:&quot;3:08&quot;,&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;is_live_now&quot;:false,&quot;teaser_text&quot;:&quot;Suggested: The myth of race, debunked in 3 minutes&quot;,&quot;start_ms&quot;:143439,&quot;teaser_duration_ms&quot;:7000,&quot;end_ms&quot;:143439,&quot;title&quot;:&quot;The myth of race, debunked in 3 minutes&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;FN3VFgG922A&quot;,&quot;itct&quot;:&quot;CBMQ1TYY____________ASITCOXJ7bnm7d8CFZKrDQodX6sKuCj4HTIFY2FyZHNI4Lb3jeCi9e4U&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;17faec08-9d0b-4e94-9336-a70fcc5d84cf&quot;,&quot;ei&quot;:&quot;Psc8XOWyJpLXNt_WqsAL&quot;},&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBQQ0DYY____________ASITCOXJ7bnm7d8CFZKrDQodX6sKuCj4HTIFY2FyZHNI4Lb3jeCi9e4U&quot;,&quot;icon&quot;:&quot;CBUQsJcBGP___________wEiEwjlye255u3fAhWSqw0KHV-rCrgo-B0yBWNhcmRzSOC2943govXuFA&quot;,&quot;card&quot;:&quot;CBMQ1TYY____________ASITCOXJ7bnm7d8CFZKrDQodX6sKuCj4HTIFY2FyZHNI4Lb3jeCi9e4U&quot;},&quot;pause_on_navigation&quot;:true,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;custom_message&quot;:&quot;&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/VnfKgffCZ7U\/mqdefault.jpg&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=VnfKgffCZ7U"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwjlye255u3fAhWSqw0KHV+rCrgo+B0yBWNhcmRzSOC2943govXuFA==&quot;, 
+  &quot;headerText&quot;: &quot;From Vox&quot;, 
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCOXJ7bnm7d8CFZKrDQodX6sKuCj4HTIFY2FyZHNI4Lb3jeCi9e4U&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwjlye255u3fAhWSqw0KHV+rCrgo+B0yBWNhcmRzSOC2943govXuFA==&quot;, 
+  &quot;eventId&quot;: &quot;Psc8XOWyJpLXNt_WqsAL&quot;
+}</data>
+</annotation>
+</annotations></document>

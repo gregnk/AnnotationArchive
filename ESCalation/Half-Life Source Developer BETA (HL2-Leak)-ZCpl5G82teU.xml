@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIx7O81fPt3wIVFL0NCh0XnQZlKPgdMgJpdkjl69r5xryZlWQ">
+<annotation id="annotation_107402379" type="highlight" log_data="a-type=3&amp;l-class=1&amp;ei=GtU8XMe-DJT6Npe6mqgG&amp;a-id=annotation_107402379&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da6Te3lUn6eE%26list%3DPLnlojiIzN1TPcII-xiWnVOgyFYQwN_8fx%26index%3D1&amp;xble=1&amp;a-v=ZCpl5G82teU" itct="CAEQs-UBGP___________wEiEwjHs7zV8-3fAhUUvQ0KHRedBmUo-B0yAml2SOXr2vnGvJmVZA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.52100" y="82.40700" w="45.96400" h="15.74100" t="2:01.195"/>
+      <rectRegion x="0.52100" y="82.40700" w="45.96400" h="15.74100" t="2:27.980"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_107402379&amp;ei=GtU8XMe-DJT6Npe6mqgG&amp;feature=iv&amp;index=1&amp;list=PLnlojiIzN1TPcII-xiWnVOgyFYQwN_8fx&amp;src_vid=ZCpl5G82teU&amp;v=a6Te3lUn6eE" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1098132975" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3790162599">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3790162599" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1416142433" type="highlight" log_data="a-type=3&amp;l-class=1&amp;ei=GtU8XMe-DJT6Npe6mqgG&amp;a-id=annotation_1416142433&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHdLxfWPyzvM&amp;xble=1&amp;a-v=ZCpl5G82teU" itct="CAIQs-UBGP___________wEiEwjHs7zV8-3fAhUUvQ0KHRedBmUo-B0yAml2SOXr2vnGvJmVZA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.25500" y="81.94400" w="46.09400" h="16.43500" t="2:01.195"/>
+      <rectRegion x="53.25500" y="81.94400" w="46.09400" h="16.43500" t="2:27.980"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1416142433&amp;ei=GtU8XMe-DJT6Npe6mqgG&amp;feature=iv&amp;src_vid=ZCpl5G82teU&amp;v=HdLxfWPyzvM" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2416119831" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1416142433">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1416142433" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3026549795" type="highlight" log_data="a-type=3&amp;l-class=3&amp;ei=GtU8XMe-DJT6Npe6mqgG&amp;a-id=annotation_3026549795&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCuHuKRBY5LilFG-Xg_hsJNA&amp;xble=1&amp;a-v=ZCpl5G82teU" itct="CAMQs-UBGP___________wEiEwjHs7zV8-3fAhUUvQ0KHRedBmUo-B0yAml2SOXr2vnGvJmVZA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.73400" y="3.93500" w="13.54200" h="23.14800" t="2:07.914"/>
+      <rectRegion x="2.73400" y="3.93500" w="13.54200" h="23.14800" t="2:12.829"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCuHuKRBY5LilFG-Xg_hsJNA?annotation_id=annotation_3026549795&amp;ei=GtU8XMe-DJT6Npe6mqgG&amp;feature=iv&amp;src_vid=ZCpl5G82teU" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3790162599" type="highlight" log_data="a-type=3&amp;l-class=1&amp;ei=GtU8XMe-DJT6Npe6mqgG&amp;a-id=annotation_3790162599&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGWa9g3sbwfU&amp;xble=1&amp;a-v=ZCpl5G82teU" itct="CAQQs-UBGP___________wEiEwjHs7zV8-3fAhUUvQ0KHRedBmUo-B0yAml2SOXr2vnGvJmVZA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.25500" y="2.54600" w="46.09400" h="15.97200" t="1:57.848"/>
+      <rectRegion x="53.25500" y="2.54600" w="46.09400" h="15.97200" t="2:27.980"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3790162599&amp;ei=GtU8XMe-DJT6Npe6mqgG&amp;feature=iv&amp;src_vid=ZCpl5G82teU&amp;v=GWa9g3sbwfU" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4144918331" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3026549795">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3026549795" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_571057333" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_107402379">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_107402379" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:555adb2f-0000-2707-85aa-001a113f3238" style="branding" type="branding"
+            log_data="a-type=10&amp;l-class=3&amp;a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;ei=GtU8XMe-DJT6Npe6mqgG&amp;a-id=555adb2f-0000-2707-85aa-001a113f3238&amp;xble=0&amp;link-id=UCz2daX7pxjD88hth-raG3JQ&amp;a-v=ZCpl5G82teU">
+  <data>{&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;ESCalation&quot;,&quot;end_ms&quot;:148000,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;555adb2f-0000-2707-85aa-001a113f3238&quot;,&quot;ei&quot;:&quot;GtU8XMe-DJT6Npe6mqgG&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCMezvNXz7d8CFRS9DQodF50GZSj4HTICaXZI5eva-ca8mZVk&quot;,&quot;src_vid&quot;:&quot;ZCpl5G82teU&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/z2daX7pxjD88hth-raG3JQ\/featured_channel.jpg?v=555ef8c7&quot;,&quot;num_subscribers&quot;:&quot;44964&quot;,&quot;start_ms&quot;:82000,&quot;channel_id&quot;:&quot;UCz2daX7pxjD88hth-raG3JQ&quot;,&quot;is_mobile&quot;:false,&quot;image_width&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;44K&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;enabled&quot;:false,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;44K&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbjFqTS1OMHZQMXhoSHFXYWhZWE14Nm52aWs4QXxBQ3Jtc0tsWkdET25BNDZyRHhvZjRiZUZVbGsxNlgyck9JT3c3a2FQRzhERmtjU0NIYXZlbkNmNzM3MUt1MTc4a0FKMEdGdVlmYlRtN2ttZFpwa1RhSkNrQjV6bEh4WE1ySmNpNUN1akprYVJiTDAyR3IzWUZQLWhBdWVKUzV5TnR3UnNCbGxzLVpKRE5EM0hkYWltZW85UVN3dVBSUGhtMUVJM3RIWEtzU0QxbzNmOUpBV1puTEJ0QUs0XzRHeEVwbjRDcXNSSlBib3ZuNVVaMFdXblVDeFM3TkMwMDhSOGNXcDA3b3NNVXpNWGJLek40V2cybU1B%26feature%3Div%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCz2daX7pxjD88hth-raG3JQ\u0026uilel=3\u0026service=youtube&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;classic&quot;:true},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_height&quot;:40,&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCz2daX7pxjD88hth-raG3JQ"/>
+  </action>
+</annotation>
+<annotation id="video:6e41e012-aae1-469d-b567-d7fa0ec5184c" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=6e41e012-aae1-469d-b567-d7fa0ec5184c&amp;a-type=62&amp;a-v=ZCpl5G82teU&amp;ei=GtU8XMe-DJT6Npe6mqgG&amp;l-class=1&amp;link-id=GWa9g3sbwfU&amp;xble=0">
+  <data>{&quot;title&quot;:&quot;Half-Life: Source BETA DEV Singleplayer walkthrough (HL2 Leak)&quot;,&quot;pause_on_navigation&quot;:true,&quot;teaser_text&quot;:&quot;Suggested: Half-Life: Source BETA DEV Singleplayer walkthrough (HL2 Leak)&quot;,&quot;is_live_now&quot;:false,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=GWa9g3sbwfU&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAwQsJcBGP___________wEiEwjHs7zV8-3fAhUUvQ0KHRedBmUo-B0yBWNhcmRzSOXr2vnGvJmVZA&quot;,&quot;card&quot;:&quot;CAoQ1TYY____________ASITCMezvNXz7d8CFRS9DQodF50GZSj4HTIFY2FyZHNI5eva-ca8mZVk&quot;,&quot;teaser&quot;:&quot;CAsQ0DYY____________ASITCMezvNXz7d8CFRS9DQodF50GZSj4HTIFY2FyZHNI5eva-ca8mZVk&quot;},&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;6e41e012-aae1-469d-b567-d7fa0ec5184c&quot;,&quot;ei&quot;:&quot;GtU8XMe-DJT6Npe6mqgG&quot;,&quot;itct&quot;:&quot;CAoQ1TYY____________ASITCMezvNXz7d8CFRS9DQodF50GZSj4HTIFY2FyZHNI5eva-ca8mZVk&quot;,&quot;src_vid&quot;:&quot;ZCpl5G82teU&quot;},&quot;video_duration&quot;:&quot;18:06&quot;,&quot;start_ms&quot;:118952,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/GWa9g3sbwfU\/mqdefault.jpg&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;end_ms&quot;:118952,&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;30,761 views&quot;],&quot;card_type&quot;:&quot;video&quot;,&quot;target&quot;:&quot;new&quot;,&quot;timestamp&quot;:1467676100295}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=GWa9g3sbwfU"/>
+  </action>
+</annotation>
+
+<annotation id="video:154cb354-9b82-4371-82b0-21dba83bbffd" style="playlist" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=154cb354-9b82-4371-82b0-21dba83bbffd&amp;a-type=63&amp;a-v=ZCpl5G82teU&amp;ei=GtU8XMe-DJT6Npe6mqgG&amp;l-class=2&amp;link-id=PLnlojiIzN1TPcII-xiWnVOgyFYQwN_8fx&amp;xble=0">
+  <data>{&quot;title&quot;:&quot;Cut Content of Counter-Strike&quot;,&quot;pause_on_navigation&quot;:true,&quot;timestamp&quot;:1467676113887,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=0aUMl5N5FAY\u0026list=PLnlojiIzN1TPcII-xiWnVOgyFYQwN_8fx&quot;,&quot;playlist_video_count&quot;:&quot;32&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;154cb354-9b82-4371-82b0-21dba83bbffd&quot;,&quot;ei&quot;:&quot;GtU8XMe-DJT6Npe6mqgG&quot;,&quot;itct&quot;:&quot;CA4Q1TYY____________ASITCMezvNXz7d8CFRS9DQodF50GZSj4HTIFY2FyZHNI5eva-ca8mZVk&quot;,&quot;src_vid&quot;:&quot;ZCpl5G82teU&quot;},&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBAQsJcBGP___________wEiEwjHs7zV8-3fAhUUvQ0KHRedBmUo-B0yBWNhcmRzSOXr2vnGvJmVZA&quot;,&quot;card&quot;:&quot;CA4Q1TYY____________ASITCMezvNXz7d8CFRS9DQodF50GZSj4HTIFY2FyZHNI5eva-ca8mZVk&quot;,&quot;teaser&quot;:&quot;CA8Q0DYY____________ASITCMezvNXz7d8CFRS9DQodF50GZSj4HTIFY2FyZHNI5eva-ca8mZVk&quot;},&quot;start_ms&quot;:130292,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/0aUMl5N5FAY\/mqdefault.jpg&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;end_ms&quot;:130292,&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;32 videos&quot;],&quot;card_type&quot;:&quot;playlist&quot;,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Suggested: Cut Content of Counter-Strike&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=0aUMl5N5FAY&amp;list=PLnlojiIzN1TPcII-xiWnVOgyFYQwN_8fx"/>
+  </action>
+</annotation>
+
+<annotation id="video:5a232c3f-54cd-4888-af70-3efa124bb4cf" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=5a232c3f-54cd-4888-af70-3efa124bb4cf&amp;a-type=62&amp;a-v=ZCpl5G82teU&amp;ei=GtU8XMe-DJT6Npe6mqgG&amp;l-class=1&amp;link-id=HdLxfWPyzvM&amp;xble=0">
+  <data>{&quot;title&quot;:&quot;Half-Life LEAKED ALPHA 0.52, Day One \u0026 Uplink - How to Install  and Play.&quot;,&quot;pause_on_navigation&quot;:true,&quot;teaser_text&quot;:&quot;Suggested: Half-Life LEAKED ALPHA 0.52, Day One \u0026 Uplink - How to Install  and Play.&quot;,&quot;is_live_now&quot;:false,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=HdLxfWPyzvM&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBQQsJcBGP___________wEiEwjHs7zV8-3fAhUUvQ0KHRedBmUo-B0yBWNhcmRzSOXr2vnGvJmVZA&quot;,&quot;card&quot;:&quot;CBIQ1TYY____________ASITCMezvNXz7d8CFRS9DQodF50GZSj4HTIFY2FyZHNI5eva-ca8mZVk&quot;,&quot;teaser&quot;:&quot;CBMQ0DYY____________ASITCMezvNXz7d8CFRS9DQodF50GZSj4HTIFY2FyZHNI5eva-ca8mZVk&quot;},&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;5a232c3f-54cd-4888-af70-3efa124bb4cf&quot;,&quot;ei&quot;:&quot;GtU8XMe-DJT6Npe6mqgG&quot;,&quot;itct&quot;:&quot;CBIQ1TYY____________ASITCMezvNXz7d8CFRS9DQodF50GZSj4HTIFY2FyZHNI5eva-ca8mZVk&quot;,&quot;src_vid&quot;:&quot;ZCpl5G82teU&quot;},&quot;video_duration&quot;:&quot;8:06&quot;,&quot;start_ms&quot;:140857,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/HdLxfWPyzvM\/mqdefault.jpg&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;end_ms&quot;:140857,&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;22,360 views&quot;],&quot;card_type&quot;:&quot;video&quot;,&quot;target&quot;:&quot;new&quot;,&quot;timestamp&quot;:1467676131373}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=HdLxfWPyzvM"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAgQsJcBGP///////////wEiEwjHs7zV8+3fAhUUvQ0KHRedBmUo+B0yBWNhcmRzSOXr2vnGvJmVZA==&quot;, 
+  &quot;eventId&quot;: &quot;GtU8XMe-DJT6Npe6mqgG&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAcQsZcBGP///////////wEiEwjHs7zV8+3fAhUUvQ0KHRedBmUo+B0yBWNhcmRzSOXr2vnGvJmVZA==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAYQwjcY////////////ASITCMezvNXz7d8CFRS9DQodF50GZSj4HTIFY2FyZHNI5eva+ca8mZVk&quot;, 
+  &quot;headerText&quot;: &quot;From ESCalation&quot;
+}</data>
+</annotation>
+</annotations></document>

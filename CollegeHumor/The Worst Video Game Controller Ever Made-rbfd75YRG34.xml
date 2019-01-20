@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwN2atert3wIVzGowCh3QbwubKPgdMgJpdkj-tsSw-b33260B">
+<annotation id="annotation_1406005427" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FCollegehumor%3Fsub_confirmation%3D1&amp;a-v=rbfd75YRG34&amp;xble=1&amp;l-class=5&amp;a-id=annotation_1406005427&amp;ei=Zss8XMCSJszVwQHQ363YCQ&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjA3Zq16u3fAhXMajAKHdBvC5so-B0yAml2SP62xLD5vffbrQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="46.76100" w="37.20300" h="26.09900" t="2:25.885"/>
+      <rectRegion x="0.00000" y="46.76100" w="37.20300" h="26.09900" t="2:37.710"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/Collegehumor?annotation_id=annotation_1406005427&amp;ei=Zss8XMCSJszVwQHQ363YCQ&amp;feature=iv&amp;src_vid=rbfd75YRG34&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2193539637" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJVfVqfIN8_c&amp;a-v=rbfd75YRG34&amp;xble=1&amp;l-class=1&amp;a-id=annotation_2193539637&amp;ei=Zss8XMCSJszVwQHQ363YCQ&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjA3Zq16u3fAhXMajAKHdBvC5so-B0yAml2SP62xLD5vffbrQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.57200" y="38.87300" w="27.69400" h="27.49300" t="2:27.929"/>
+      <rectRegion x="69.57200" y="38.87300" w="27.69400" h="27.49300" t="2:37.710"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2193539637&amp;ei=Zss8XMCSJszVwQHQ363YCQ&amp;feature=iv&amp;src_vid=rbfd75YRG34&amp;v=JVfVqfIN8_c" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2754891269" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2193539637">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2193539637" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_83603467" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1406005427">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1406005427" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:57d8cfd6-0000-27f2-871a-94eb2c08df70" style="branding" type="branding"
+            log_data="a-v=rbfd75YRG34&amp;a-ch=UCPDXXXJj9nax0fr0Wfc048g&amp;link-id=UCPDXXXJj9nax0fr0Wfc048g&amp;xble=0&amp;l-class=3&amp;a-id=57d8cfd6-0000-27f2-871a-94eb2c08df70&amp;ei=Zss8XMCSJszVwQHQ363YCQ&amp;a-type=10">
+  <data>{&quot;channel_name&quot;:&quot;CollegeHumor&quot;,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/PDXXXJj9nax0fr0Wfc048g\/featured_channel.jpg?v=57dc05d6&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_type&quot;:1,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fcollegehumor%26continue_action%3DQUFFLUhqa1RyUm5Nb1dDYTAtTmtWTGRCOTRXV280bTVlQXxBQ3Jtc0trMms0Rk0tUVU5U1NWQUFzRXMyeFlJUzh5bHBnZHVyckdkQW94Ry1KWE9pdlExMkxDUnJnMW5iTmNRcXJSRF9KSGNoVnJ5ZHlsNW05bjVpOExkQ3dUYkF3UVRNSVNLSjJ1S185LUJkVEJZNWVPWmRGLXBJTUozalZxT0l0cFBrMHRyX1lqSDRlT3ZDVm5SY092dERqRldDUnh0SVZXY3k2TGY4OFM2RE0wS3pmdDlYZkF3VzN5azJUa1h0dEdWSFZDRGdYc2s5cERielhEVGZiM1locld3Z2x5QTJrU2tNcXFpNVY1UFVFYlBYTHV4cXlj%26action_handle_signin%3Dtrue%26feature%3Div%26app%3Ddesktop%26hl%3Den\u0026uilel=3\u0026service=youtube&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;13M&quot;,&quot;unsubscribeCount&quot;:&quot;13M&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;num_subscribers&quot;:&quot;13273009&quot;,&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UCPDXXXJj9nax0fr0Wfc048g&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;rbfd75YRG34&quot;,&quot;ei&quot;:&quot;Zss8XMCSJszVwQHQ363YCQ&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCMDdmrXq7d8CFcxqMAod0G8Lmyj4HTICaXZI_rbEsPm999utAQ&quot;,&quot;annotation_id&quot;:&quot;57d8cfd6-0000-27f2-871a-94eb2c08df70&quot;},&quot;end_ms&quot;:158000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/collegehumor"/>
+  </action>
+</annotation>
+<annotation id="video:a711ddc8-9560-4138-8eef-bc5a12203fca" style="video" type="card" log_data="a-ch=UCPDXXXJj9nax0fr0Wfc048g&amp;a-id=a711ddc8-9560-4138-8eef-bc5a12203fca&amp;a-type=62&amp;a-v=rbfd75YRG34&amp;ei=Zss8XMCSJszVwQHQ363YCQ&amp;l-class=1&amp;link-id=JVfVqfIN8_c&amp;xble=0">
+  <data>{&quot;teaser_text&quot;:&quot;Suggested: N00b Boyfriend&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:141519,&quot;target&quot;:&quot;new&quot;,&quot;video_duration&quot;:&quot;1:39&quot;,&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;N00b Boyfriend&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;is_live_now&quot;:false,&quot;meta_info&quot;:[&quot;by CollegeHumor&quot;,&quot;9,581,612 views&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/JVfVqfIN8_c\/mqdefault.jpg&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;card_type&quot;:&quot;video&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;rbfd75YRG34&quot;,&quot;ei&quot;:&quot;Zss8XMCSJszVwQHQ363YCQ&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCMDdmrXq7d8CFcxqMAod0G8Lmyj4HTIFY2FyZHNI_rbEsPm999utAQ&quot;,&quot;annotation_id&quot;:&quot;a711ddc8-9560-4138-8eef-bc5a12203fca&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=JVfVqfIN8_c&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwjA3Zq16u3fAhXMajAKHdBvC5so-B0yBWNhcmRzSP62xLD5vffbrQE&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCMDdmrXq7d8CFcxqMAod0G8Lmyj4HTIFY2FyZHNI_rbEsPm999utAQ&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCMDdmrXq7d8CFcxqMAod0G8Lmyj4HTIFY2FyZHNI_rbEsPm999utAQ&quot;},&quot;end_ms&quot;:141519}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=JVfVqfIN8_c"/>
+  </action>
+</annotation>
+
+<annotation id="video:bed0fde9-66c1-49b6-8149-bcac646fa6b9" style="playlist" type="card" log_data="a-ch=UCPDXXXJj9nax0fr0Wfc048g&amp;a-id=bed0fde9-66c1-49b6-8149-bcac646fa6b9&amp;a-type=63&amp;a-v=rbfd75YRG34&amp;ei=Zss8XMCSJszVwQHQ363YCQ&amp;l-class=2&amp;link-id=PLuKg-WhduhklMSnK_EVV3GbsGtbsLMZT2&amp;xble=0">
+  <data>{&quot;teaser_text&quot;:&quot;Suggested: Hardly Working&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:141519,&quot;target&quot;:&quot;new&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/9aimQ6bH-Mw\/mqdefault.jpg&quot;,&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;Hardly Working&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;playlist_video_count&quot;:&quot;278&quot;,&quot;meta_info&quot;:[&quot;by CollegeHumor&quot;,&quot;278 videos&quot;],&quot;custom_message&quot;:&quot;&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;rbfd75YRG34&quot;,&quot;ei&quot;:&quot;Zss8XMCSJszVwQHQ363YCQ&quot;,&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCMDdmrXq7d8CFcxqMAod0G8Lmyj4HTIFY2FyZHNI_rbEsPm999utAQ&quot;,&quot;annotation_id&quot;:&quot;bed0fde9-66c1-49b6-8149-bcac646fa6b9&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=9aimQ6bH-Mw\u0026list=PLuKg-WhduhklMSnK_EVV3GbsGtbsLMZT2&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwjA3Zq16u3fAhXMajAKHdBvC5so-B0yBWNhcmRzSP62xLD5vffbrQE&quot;,&quot;card&quot;:&quot;CAwQ1TYY____________ASITCMDdmrXq7d8CFcxqMAod0G8Lmyj4HTIFY2FyZHNI_rbEsPm999utAQ&quot;,&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCMDdmrXq7d8CFcxqMAod0G8Lmyj4HTIFY2FyZHNI_rbEsPm999utAQ&quot;},&quot;end_ms&quot;:141519}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=9aimQ6bH-Mw&amp;list=PLuKg-WhduhklMSnK_EVV3GbsGtbsLMZT2"/>
+  </action>
+</annotation>
+
+<annotation id="video:f8bb9218-d7b9-4f24-9611-6b4917ffe4e2" style="playlist" type="card" log_data="a-ch=UCPDXXXJj9nax0fr0Wfc048g&amp;a-id=f8bb9218-d7b9-4f24-9611-6b4917ffe4e2&amp;a-type=63&amp;a-v=rbfd75YRG34&amp;ei=Zss8XMCSJszVwQHQ363YCQ&amp;l-class=2&amp;link-id=PLuKg-WhduhkmIcFMN7wxfVWYu8qnk0jMN&amp;xble=0">
+  <data>{&quot;teaser_text&quot;:&quot;Suggested: Latest&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:141519,&quot;target&quot;:&quot;new&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/M0cfxaQzSG0\/mqdefault.jpg&quot;,&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;Latest&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;playlist_video_count&quot;:&quot;972&quot;,&quot;meta_info&quot;:[&quot;by CollegeHumor&quot;,&quot;972 videos&quot;],&quot;custom_message&quot;:&quot;&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;rbfd75YRG34&quot;,&quot;ei&quot;:&quot;Zss8XMCSJszVwQHQ363YCQ&quot;,&quot;itct&quot;:&quot;CBAQ1TYY____________ASITCMDdmrXq7d8CFcxqMAod0G8Lmyj4HTIFY2FyZHNI_rbEsPm999utAQ&quot;,&quot;annotation_id&quot;:&quot;f8bb9218-d7b9-4f24-9611-6b4917ffe4e2&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=M0cfxaQzSG0\u0026list=PLuKg-WhduhkmIcFMN7wxfVWYu8qnk0jMN&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBIQsJcBGP___________wEiEwjA3Zq16u3fAhXMajAKHdBvC5so-B0yBWNhcmRzSP62xLD5vffbrQE&quot;,&quot;card&quot;:&quot;CBAQ1TYY____________ASITCMDdmrXq7d8CFcxqMAod0G8Lmyj4HTIFY2FyZHNI_rbEsPm999utAQ&quot;,&quot;teaser&quot;:&quot;CBEQ0DYY____________ASITCMDdmrXq7d8CFcxqMAod0G8Lmyj4HTIFY2FyZHNI_rbEsPm999utAQ&quot;},&quot;end_ms&quot;:141519}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=M0cfxaQzSG0&amp;list=PLuKg-WhduhkmIcFMN7wxfVWYu8qnk0jMN"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCMDdmrXq7d8CFcxqMAod0G8Lmyj4HTIFY2FyZHNI/rbEsPm999utAQ==&quot;, 
+  &quot;eventId&quot;: &quot;Zss8XMCSJszVwQHQ363YCQ&quot;, 
+  &quot;headerText&quot;: &quot;From CollegeHumor&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwjA3Zq16u3fAhXMajAKHdBvC5so+B0yBWNhcmRzSP62xLD5vffbrQE=&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwjA3Zq16u3fAhXMajAKHdBvC5so+B0yBWNhcmRzSP62xLD5vffbrQE=&quot;
+}</data>
+</annotation>
+</annotations></document>

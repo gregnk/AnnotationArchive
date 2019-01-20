@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwdWWxubt3wIVwvSCCh2c3g5NKPgdMgJpdkjIo7Oiwajx_04">
+<annotation id="annotation_1547296675" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fplayerpianovideos%3Fsub_confirmation%3D1&amp;ei=WMc8XMHJHMLpiwScvbvoBA&amp;a-v=Tv_FRBRM0cg&amp;a-type=3&amp;xble=1&amp;a-id=annotation_1547296675&amp;l-class=5" itct="CAEQs-UBGP___________wEiEwjB1ZbG5u3fAhXC9IIKHZzeDk0o-B0yAml2SMijs6LBqPH_Tg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.37700" y="76.88700" w="38.31200" h="21.03200" t="2:24.085"/>
+      <rectRegion x="2.37700" y="76.88700" w="38.31200" h="21.03200" t="2:53.731"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="9902361" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/playerpianovideos?annotation_id=annotation_1547296675&amp;ei=WMc8XMHJHMLpiwScvbvoBA&amp;feature=iv&amp;src_vid=Tv_FRBRM0cg&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_20505085" type="highlight" log_data="link=http%3A%2F%2Fwww.playerpianomusic.com&amp;ei=WMc8XMHJHMLpiwScvbvoBA&amp;a-v=Tv_FRBRM0cg&amp;a-type=3&amp;xble=1&amp;a-id=annotation_20505085&amp;l-class=6" itct="CAIQs-UBGP___________wEiEwjB1ZbG5u3fAhXC9IIKHZzeDk0o-B0yAml2SMijs6LBqPH_Tg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="82.29000" y="76.90100" w="14.54000" h="22.70800" t="2:24.085"/>
+      <rectRegion x="82.29000" y="76.90100" w="14.54000" h="22.70800" t="2:53.731"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="4210330" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.playerpianomusic.com" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_239603913" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ7ucIberDoU%26list%3DPLGD3PeGbxajpzE81H3YLr7KOzLG8N2Q78&amp;ei=WMc8XMHJHMLpiwScvbvoBA&amp;a-v=Tv_FRBRM0cg&amp;a-type=3&amp;xble=1&amp;a-id=annotation_239603913&amp;l-class=1" itct="CAMQs-UBGP___________wEiEwjB1ZbG5u3fAhXC9IIKHZzeDk0o-B0yAml2SMijs6LBqPH_Tg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="66.71900" y="0.00000" w="33.28100" h="32.56300" t="2:24.085"/>
+      <rectRegion x="66.71900" y="0.00000" w="33.28100" h="32.56300" t="2:53.731"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="4210330" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_239603913&amp;ei=WMc8XMHJHMLpiwScvbvoBA&amp;feature=iv&amp;list=PLGD3PeGbxajpzE81H3YLr7KOzLG8N2Q78&amp;src_vid=Tv_FRBRM0cg&amp;v=Q7ucIberDoU" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2454383241" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_20505085">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_20505085" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2539137745" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>WATCH 
+BOHEMIAN RHAPSODY</TEXT>
+  <segment spaceRelative="annotation_239603913">
+    <movingRegion type="rect">
+      <rectRegion x="4.12000" y="9.29600" w="26.75100" h="14.73200" t="never"/>
+      <rectRegion x="4.12000" y="9.29600" w="26.75100" h="14.73200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_239603913" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2783535795" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4110590585">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4110590585" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_310925679" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>WATCH THE TETRIS THEME</TEXT>
+  <segment spaceRelative="annotation_397999861">
+    <movingRegion type="rect">
+      <rectRegion x="4.27900" y="11.54900" w="25.79200" h="10.22500" t="never"/>
+      <rectRegion x="4.27900" y="11.54900" w="25.79200" h="10.22500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_397999861" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_397999861" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq8rcTvAoRzk%26list%3DPLGD3PeGbxajpzE81H3YLr7KOzLG8N2Q78&amp;ei=WMc8XMHJHMLpiwScvbvoBA&amp;a-v=Tv_FRBRM0cg&amp;a-type=3&amp;xble=1&amp;a-id=annotation_397999861&amp;l-class=1" itct="CAQQs-UBGP___________wEiEwjB1ZbG5u3fAhXC9IIKHZzeDk0o-B0yAml2SMijs6LBqPH_Tg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="67.19500" y="38.02800" w="32.80500" h="30.59200" t="2:24.085"/>
+      <rectRegion x="67.19500" y="38.02800" w="32.80500" h="30.59200" t="2:53.731"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="9902361" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_397999861&amp;ei=WMc8XMHJHMLpiwScvbvoBA&amp;feature=iv&amp;list=PLGD3PeGbxajpzE81H3YLr7KOzLG8N2Q78&amp;src_vid=Tv_FRBRM0cg&amp;v=q8rcTvAoRzk" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4110590585" type="highlight" log_data="link=http%3A%2F%2Fwww.playerpianomusic.com&amp;ei=WMc8XMHJHMLpiwScvbvoBA&amp;a-v=Tv_FRBRM0cg&amp;a-type=3&amp;xble=1&amp;a-id=annotation_4110590585&amp;l-class=6" itct="CAUQs-UBGP___________wEiEwjB1ZbG5u3fAhXC9IIKHZzeDk0o-B0yAml2SMijs6LBqPH_Tg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="44.88600" y="78.28300" w="36.08000" h="19.44500" t="2:23.915"/>
+      <rectRegion x="44.88600" y="78.28300" w="36.08000" h="19.44500" t="2:53.731"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="4210330" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.playerpianomusic.com" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_528233383" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1547296675">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="25.63400" w="35.61800" h="4.22500" t="never"/>
+      <rectRegion x="0.00000" y="25.63400" w="35.61800" h="4.22500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1547296675" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:a6e00e61-5d9a-4009-a2a4-01c4df511ee7" style="simple" type="card" log_data="a-ch=UCAIwH4ubfkRWep6ZkmRG8Gg&amp;a-id=a6e00e61-5d9a-4009-a2a4-01c4df511ee7&amp;a-type=68&amp;a-v=Tv_FRBRM0cg&amp;ei=WMc8XMHJHMLpiwScvbvoBA&amp;l-class=6&amp;link=http%3A%2F%2Fwww.playerstudios.com%2F&amp;xble=0">
+  <data>{&quot;custom_message&quot;:&quot;Get the Doctor Who Sheet Music&quot;,&quot;title&quot;:&quot;Get Doctor Who Sheet Music&quot;,&quot;teaser_text&quot;:&quot;Get the Doctor Who Sheet Music&quot;,&quot;show_link_icon&quot;:true,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;timestamp&quot;:1444090730858,&quot;card_type&quot;:&quot;simple&quot;,&quot;display_domain&quot;:&quot;playerstudios.com&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/Tv_FRBRM0cg\/a6e00e61-5d9a-4009-a2a4-01c4df511ee7_mq.jpg?v=5613136a&quot;,&quot;meta_info&quot;:[],&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;WMc8XMHJHMLpiwScvbvoBA&quot;,&quot;annotation_id&quot;:&quot;a6e00e61-5d9a-4009-a2a4-01c4df511ee7&quot;,&quot;src_vid&quot;:&quot;Tv_FRBRM0cg&quot;,&quot;itct&quot;:&quot;CAoQ1TYY____________ASITCMHVlsbm7d8CFcL0ggodnN4OTSj4HTIFY2FyZHNIyKOzosGo8f9O&quot;},&quot;sponsored&quot;:false,&quot;teaser_duration_ms&quot;:7000,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAwQsJcBGP___________wEiEwjB1ZbG5u3fAhXC9IIKHZzeDk0o-B0yBWNhcmRzSMijs6LBqPH_Tg&quot;,&quot;card&quot;:&quot;CAoQ1TYY____________ASITCMHVlsbm7d8CFcL0ggodnN4OTSj4HTIFY2FyZHNIyKOzosGo8f9O&quot;,&quot;teaser&quot;:&quot;CAsQ0DYY____________ASITCMHVlsbm7d8CFcL0ggodnN4OTSj4HTIFY2FyZHNIyKOzosGo8f9O&quot;},&quot;target&quot;:&quot;new&quot;,&quot;end_ms&quot;:40696,&quot;start_ms&quot;:40696,&quot;url&quot;:&quot;\/redirect?redir_token=3pZ6d0Wb0Q2Hv97e6awMz0Fjfbd8MTU0NzU3MzQ2NEAxNTQ3NDg3MDY0\u0026event=infocard\u0026q=http%3A%2F%2Fwww.playerstudios.com%2F&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?redir_token=3pZ6d0Wb0Q2Hv97e6awMz0Fjfbd8MTU0NzU3MzQ2NEAxNTQ3NDg3MDY0&amp;event=infocard&amp;q=http%3A%2F%2Fwww.playerstudios.com%2F"/>
+  </action>
+</annotation>
+
+<annotation id="video:90598ecf-519c-496f-bf10-786643f2e44f" style="simple" type="card" log_data="a-ch=UCAIwH4ubfkRWep6ZkmRG8Gg&amp;a-id=90598ecf-519c-496f-bf10-786643f2e44f&amp;a-type=68&amp;a-v=Tv_FRBRM0cg&amp;ei=WMc8XMHJHMLpiwScvbvoBA&amp;l-class=6&amp;link=http%3A%2F%2Fwww.playerpianomusic.com&amp;xble=0">
+  <data>{&quot;custom_message&quot;:&quot;Sheet Music and MP3 available!&quot;,&quot;title&quot;:&quot;Player Piano Volume I - Album&quot;,&quot;teaser_text&quot;:&quot;Sheet Music and MP3 available!&quot;,&quot;show_link_icon&quot;:true,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;card_type&quot;:&quot;simple&quot;,&quot;display_domain&quot;:&quot;playerpianomusic.com&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/Tv_FRBRM0cg\/90598ecf-519c-496f-bf10-786643f2e44f_mq.jpg?v=5535ba20&quot;,&quot;meta_info&quot;:[],&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;WMc8XMHJHMLpiwScvbvoBA&quot;,&quot;annotation_id&quot;:&quot;90598ecf-519c-496f-bf10-786643f2e44f&quot;,&quot;src_vid&quot;:&quot;Tv_FRBRM0cg&quot;,&quot;itct&quot;:&quot;CA4Q1TYY____________ASITCMHVlsbm7d8CFcL0ggodnN4OTSj4HTIFY2FyZHNIyKOzosGo8f9O&quot;},&quot;sponsored&quot;:false,&quot;teaser_duration_ms&quot;:7000,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBAQsJcBGP___________wEiEwjB1ZbG5u3fAhXC9IIKHZzeDk0o-B0yBWNhcmRzSMijs6LBqPH_Tg&quot;,&quot;card&quot;:&quot;CA4Q1TYY____________ASITCMHVlsbm7d8CFcL0ggodnN4OTSj4HTIFY2FyZHNIyKOzosGo8f9O&quot;,&quot;teaser&quot;:&quot;CA8Q0DYY____________ASITCMHVlsbm7d8CFcL0ggodnN4OTSj4HTIFY2FyZHNIyKOzosGo8f9O&quot;},&quot;target&quot;:&quot;new&quot;,&quot;end_ms&quot;:64210,&quot;start_ms&quot;:64210,&quot;url&quot;:&quot;\/redirect?redir_token=3pZ6d0Wb0Q2Hv97e6awMz0Fjfbd8MTU0NzU3MzQ2NEAxNTQ3NDg3MDY0\u0026event=infocard\u0026q=http%3A%2F%2Fwww.playerpianomusic.com&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?redir_token=3pZ6d0Wb0Q2Hv97e6awMz0Fjfbd8MTU0NzU3MzQ2NEAxNTQ3NDg3MDY0&amp;event=infocard&amp;q=http%3A%2F%2Fwww.playerpianomusic.com"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;WMc8XMHJHMLpiwScvbvoBA&quot;, 
+  &quot;trackingParams&quot;: &quot;CAYQwjcY////////////ASITCMHVlsbm7d8CFcL0ggodnN4OTSj4HTIFY2FyZHNIyKOzosGo8f9O&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAcQsZcBGP///////////wEiEwjB1ZbG5u3fAhXC9IIKHZzeDk0o+B0yBWNhcmRzSMijs6LBqPH/Tg==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAgQsJcBGP///////////wEiEwjB1ZbG5u3fAhXC9IIKHZzeDk0o+B0yBWNhcmRzSMijs6LBqPH/Tg==&quot;, 
+  &quot;headerText&quot;: &quot;From PlayerPiano&quot;
+}</data>
+</annotation>
+</annotations></document>

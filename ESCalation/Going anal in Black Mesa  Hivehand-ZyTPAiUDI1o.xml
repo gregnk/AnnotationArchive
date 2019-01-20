@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIuvep5u3t3wIV6QKDCh29yguKKPgdMgJpdkjaxoyoouCzkmc">
+<annotation id="annotation_3455694011" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_678891373">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_678891373" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_56935619" type="highlight" log_data="a-type=3&amp;a-id=annotation_56935619&amp;l-class=1&amp;xble=1&amp;a-v=ZyTPAiUDI1o&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHdLxfWPyzvM&amp;ei=8s48XLq2OemFjAS9la_QCA" itct="CAEQs-UBGP___________wEiEwi696nm7e3fAhXpAoMKHb3KC4oo-B0yAml2SNrGjKii4LOSZw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.29500" y="81.67900" w="45.77400" h="16.58200" t="0:20.288"/>
+      <rectRegion x="53.29500" y="81.67900" w="45.77400" h="16.58200" t="0:34.876"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_56935619&amp;ei=8s48XLq2OemFjAS9la_QCA&amp;feature=iv&amp;src_vid=ZyTPAiUDI1o&amp;v=HdLxfWPyzvM" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_678891373" type="highlight" log_data="a-type=3&amp;a-id=annotation_678891373&amp;l-class=1&amp;xble=1&amp;a-v=ZyTPAiUDI1o&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsUGZJ6nEbr8%26list%3DPLnlojiIzN1TPcII-xiWnVOgyFYQwN_8fx%26index%3D1&amp;ei=8s48XLq2OemFjAS9la_QCA" itct="CAIQs-UBGP___________wEiEwi696nm7e3fAhXpAoMKHb3KC4oo-B0yAml2SNrGjKii4LOSZw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.43000" y="81.67900" w="46.49000" h="16.58200" t="0:20.288"/>
+      <rectRegion x="0.43000" y="81.67900" w="46.49000" h="16.58200" t="0:34.876"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_678891373&amp;ei=8s48XLq2OemFjAS9la_QCA&amp;feature=iv&amp;index=1&amp;list=PLnlojiIzN1TPcII-xiWnVOgyFYQwN_8fx&amp;src_vid=ZyTPAiUDI1o&amp;v=sUGZJ6nEbr8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_955651753" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_56935619">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_56935619" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:de39c5bc-beb0-4934-898f-8f3651af31e7" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=de39c5bc-beb0-4934-898f-8f3651af31e7&amp;a-type=62&amp;a-v=ZyTPAiUDI1o&amp;ei=8s48XLq2OemFjAS9la_QCA&amp;l-class=1&amp;link-id=sUGZJ6nEbr8&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/sUGZJ6nEbr8\/mqdefault.jpg&quot;,&quot;end_ms&quot;:20285,&quot;target&quot;:&quot;new&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=sUGZJ6nEbr8&quot;,&quot;teaser_text&quot;:&quot;Suggested: Cut Content of CS:GO - SCAR-H Mk.17 The lost Gun - CCCS#6&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;title&quot;:&quot;Cut Content of CS:GO - SCAR-H Mk.17 The lost Gun - CCCS#6&quot;,&quot;video_duration&quot;:&quot;2:38&quot;,&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;43,391 views&quot;],&quot;timestamp&quot;:1453930242058,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAcQ1TYY____________ASITCLr3qebt7d8CFekCgwodvcoLiij4HTIFY2FyZHNI2saMqKLgs5Jn&quot;,&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCLr3qebt7d8CFekCgwodvcoLiij4HTIFY2FyZHNI2saMqKLgs5Jn&quot;,&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwi696nm7e3fAhXpAoMKHb3KC4oo-B0yBWNhcmRzSNrGjKii4LOSZw&quot;},&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;de39c5bc-beb0-4934-898f-8f3651af31e7&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;8s48XLq2OemFjAS9la_QCA&quot;,&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCLr3qebt7d8CFekCgwodvcoLiij4HTIFY2FyZHNI2saMqKLgs5Jn&quot;,&quot;src_vid&quot;:&quot;ZyTPAiUDI1o&quot;},&quot;start_ms&quot;:20285}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=sUGZJ6nEbr8"/>
+  </action>
+</annotation>
+
+<annotation id="video:bfbda37e-64c5-4b7e-9ac0-7e9fe2fe9400" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=bfbda37e-64c5-4b7e-9ac0-7e9fe2fe9400&amp;a-type=62&amp;a-v=ZyTPAiUDI1o&amp;ei=8s48XLq2OemFjAS9la_QCA&amp;l-class=1&amp;link-id=HdLxfWPyzvM&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/HdLxfWPyzvM\/mqdefault.jpg&quot;,&quot;end_ms&quot;:24829,&quot;target&quot;:&quot;new&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=HdLxfWPyzvM&quot;,&quot;teaser_text&quot;:&quot;Suggested: Half-Life LEAKED ALPHA 0.52, Day One \u0026 Uplink - How to Install  and Play.&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;title&quot;:&quot;Half-Life LEAKED ALPHA 0.52, Day One \u0026 Uplink - How to Install  and Play.&quot;,&quot;video_duration&quot;:&quot;8:06&quot;,&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;22,360 views&quot;],&quot;timestamp&quot;:1453930255354,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAsQ1TYY____________ASITCLr3qebt7d8CFekCgwodvcoLiij4HTIFY2FyZHNI2saMqKLgs5Jn&quot;,&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCLr3qebt7d8CFekCgwodvcoLiij4HTIFY2FyZHNI2saMqKLgs5Jn&quot;,&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwi696nm7e3fAhXpAoMKHb3KC4oo-B0yBWNhcmRzSNrGjKii4LOSZw&quot;},&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;bfbda37e-64c5-4b7e-9ac0-7e9fe2fe9400&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;8s48XLq2OemFjAS9la_QCA&quot;,&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCLr3qebt7d8CFekCgwodvcoLiij4HTIFY2FyZHNI2saMqKLgs5Jn&quot;,&quot;src_vid&quot;:&quot;ZyTPAiUDI1o&quot;},&quot;start_ms&quot;:24829}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=HdLxfWPyzvM"/>
+  </action>
+</annotation>
+
+<annotation id="video:464501b7-ff6d-4a9e-bc07-8ac61d313162" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=464501b7-ff6d-4a9e-bc07-8ac61d313162&amp;a-type=62&amp;a-v=ZyTPAiUDI1o&amp;ei=8s48XLq2OemFjAS9la_QCA&amp;l-class=1&amp;link-id=XuVZyTpIa6Y&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/XuVZyTpIa6Y\/mqdefault.jpg&quot;,&quot;end_ms&quot;:30115,&quot;target&quot;:&quot;new&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=XuVZyTpIa6Y&quot;,&quot;teaser_text&quot;:&quot;Suggested: HALF-LIFE: Decay | Official CO-OP Campaign PC port | How to Install and Play&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;title&quot;:&quot;HALF-LIFE: Decay | Official CO-OP Campaign PC port | How to Install and Play&quot;,&quot;video_duration&quot;:&quot;6:27&quot;,&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;28,243 views&quot;],&quot;timestamp&quot;:1453930276776,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA8Q1TYY____________ASITCLr3qebt7d8CFekCgwodvcoLiij4HTIFY2FyZHNI2saMqKLgs5Jn&quot;,&quot;teaser&quot;:&quot;CBAQ0DYY____________ASITCLr3qebt7d8CFekCgwodvcoLiij4HTIFY2FyZHNI2saMqKLgs5Jn&quot;,&quot;icon&quot;:&quot;CBEQsJcBGP___________wEiEwi696nm7e3fAhXpAoMKHb3KC4oo-B0yBWNhcmRzSNrGjKii4LOSZw&quot;},&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;464501b7-ff6d-4a9e-bc07-8ac61d313162&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;8s48XLq2OemFjAS9la_QCA&quot;,&quot;itct&quot;:&quot;CA8Q1TYY____________ASITCLr3qebt7d8CFekCgwodvcoLiij4HTIFY2FyZHNI2saMqKLgs5Jn&quot;,&quot;src_vid&quot;:&quot;ZyTPAiUDI1o&quot;},&quot;start_ms&quot;:30115}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=XuVZyTpIa6Y"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;8s48XLq2OemFjAS9la_QCA&quot;, 
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCLr3qebt7d8CFekCgwodvcoLiij4HTIFY2FyZHNI2saMqKLgs5Jn&quot;, 
+  &quot;headerText&quot;: &quot;From ESCalation&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwi696nm7e3fAhXpAoMKHb3KC4oo+B0yBWNhcmRzSNrGjKii4LOSZw==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwi696nm7e3fAhXpAoMKHb3KC4oo+B0yBWNhcmRzSNrGjKii4LOSZw==&quot;
+}</data>
+</annotation>
+</annotations></document>

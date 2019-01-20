@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3MbVrPPt3wIVznEwCh1mXwaaKPgdMgJpdkiPtobDpOPi6IUB">
+<annotation id="annotation_106104061" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3000252501">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3000252501" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2508202639" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3134686531">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3134686531" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2681451747" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3608380379">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3608380379" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2989957627" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DS0Ea2bAbP88%26list%3DPLIuI51kF0nGulo_oDZ2KOhltyvn0eywZw%26index%3D4&amp;a-id=annotation_2989957627&amp;ei=xNQ8XNzUJs7jwQHmvpnQCQ&amp;xble=1&amp;a-v=hdGLGkhhmw8&amp;l-class=1&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjcxtWs8-3fAhXOcTAKHWZfBpoo-B0yAml2SI-2hsOk4-LohQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.07800" y="5.67800" w="54.07800" h="22.73100" t="1:40.309"/>
+      <rectRegion x="4.07800" y="5.67800" w="54.07800" h="22.73100" t="1:47.161"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2989957627&amp;ei=xNQ8XNzUJs7jwQHmvpnQCQ&amp;feature=iv&amp;index=4&amp;list=PLIuI51kF0nGulo_oDZ2KOhltyvn0eywZw&amp;src_vid=hdGLGkhhmw8&amp;v=S0Ea2bAbP88" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3000252501" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FAlltimeConspiracies%3Fsub_confirmation%3D1&amp;a-id=annotation_3000252501&amp;ei=xNQ8XNzUJs7jwQHmvpnQCQ&amp;xble=1&amp;a-v=hdGLGkhhmw8&amp;l-class=5&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjcxtWs8-3fAhXOcTAKHWZfBpoo-B0yAml2SI-2hsOk4-LohQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="59.94700" y="4.41600" w="35.79800" h="83.80300" t="1:39.991"/>
+      <rectRegion x="59.94700" y="4.41600" w="35.79800" h="83.80300" t="1:47.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/AlltimeConspiracies?annotation_id=annotation_3000252501&amp;ei=xNQ8XNzUJs7jwQHmvpnQCQ&amp;feature=iv&amp;src_vid=hdGLGkhhmw8&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3134686531" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFQCD34mavpw%26list%3DPLIuI51kF0nGulo_oDZ2KOhltyvn0eywZw%26index%3D29&amp;a-id=annotation_3134686531&amp;ei=xNQ8XNzUJs7jwQHmvpnQCQ&amp;xble=1&amp;a-v=hdGLGkhhmw8&amp;l-class=1&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwjcxtWs8-3fAhXOcTAKHWZfBpoo-B0yAml2SI-2hsOk4-LohQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.32800" y="33.52100" w="54.61000" h="24.01500" t="1:40.309"/>
+      <rectRegion x="3.32800" y="33.52100" w="54.61000" h="24.01500" t="1:47.161"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3134686531&amp;ei=xNQ8XNzUJs7jwQHmvpnQCQ&amp;feature=iv&amp;index=29&amp;list=PLIuI51kF0nGulo_oDZ2KOhltyvn0eywZw&amp;src_vid=hdGLGkhhmw8&amp;v=FQCD34mavpw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3608380379" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnemcPBLPFF0%26list%3DPLIuI51kF0nGulo_oDZ2KOhltyvn0eywZw%26index%3D48&amp;a-id=annotation_3608380379&amp;ei=xNQ8XNzUJs7jwQHmvpnQCQ&amp;xble=1&amp;a-v=hdGLGkhhmw8&amp;l-class=1&amp;a-type=3" itct="CAQQs-UBGP___________wEiEwjcxtWs8-3fAhXOcTAKHWZfBpoo-B0yAml2SI-2hsOk4-LohQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.17000" y="62.53500" w="55.14200" h="23.04400" t="1:40.309"/>
+      <rectRegion x="3.17000" y="62.53500" w="55.14200" h="23.04400" t="1:47.161"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3608380379&amp;ei=xNQ8XNzUJs7jwQHmvpnQCQ&amp;feature=iv&amp;index=48&amp;list=PLIuI51kF0nGulo_oDZ2KOhltyvn0eywZw&amp;src_vid=hdGLGkhhmw8&amp;v=nemcPBLPFF0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4219186799" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2989957627">
+    <movingRegion type="rect">
+      <rectRegion x="-0.17700" y="29.33800" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-0.17700" y="29.33800" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2989957627" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:55d03e4f-0000-2906-8ae9-001a114e4d44" style="branding" type="branding"
+            log_data="a-id=55d03e4f-0000-2906-8ae9-001a114e4d44&amp;link-id=UCPZiqlNI3RLyF47QTdq93GQ&amp;ei=xNQ8XNzUJs7jwQHmvpnQCQ&amp;xble=0&amp;a-v=hdGLGkhhmw8&amp;l-class=3&amp;a-type=10&amp;a-ch=UCPZiqlNI3RLyF47QTdq93GQ">
+  <data>{&quot;channel_id&quot;:&quot;UCPZiqlNI3RLyF47QTdq93GQ&quot;,&quot;image_type&quot;:1,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;num_subscribers&quot;:&quot;1768252&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;hdGLGkhhmw8&quot;,&quot;annotation_id&quot;:&quot;55d03e4f-0000-2906-8ae9-001a114e4d44&quot;,&quot;ei&quot;:&quot;xNQ8XNzUJs7jwQHmvpnQCQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCNzG1azz7d8CFc5xMAodZl8Gmij4HTICaXZIj7aGw6Tj4uiFAQ&quot;},&quot;is_mobile&quot;:false,&quot;channel_name&quot;:&quot;Alltime Conspiracies&quot;,&quot;end_ms&quot;:108000,&quot;image_width&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/PZiqlNI3RLyF47QTdq93GQ\/featured_channel.jpg?v=55dae327&quot;,&quot;image_height&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;1.7M&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;1.7M&quot;,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26continue_action%3DQUFFLUhqbDliREhQNXAwRXJEX2c3MGtYMFpPbm1rcXJDUXxBQ3Jtc0ttbC1lS0E0c1pFNzh5UWsxWnc5NEJ6MHJLWW5yb0ZYTkVWMi1JNkFEOUVNbm5MbkZ6NkdkZXVOSmFDX0M5WTlVakRfeS1nMnU4MjRzOV8wRmdwUE5nLTdkVVphRml6UURhd0hFVTFEMGRhRENWLVZyU2REaDV2LU9tSjgzNDExUTJVb1FKRFdzM1Z3LUlfZEZrR3RDQWtVaW4wR1p1cFJ4UmdDZm1WVkl5ZGVJNHV3NHA2dUNXLVlaOG1PN0dBUUNaeHN0LUd5aUhuZ01aUXNfckJfMVlFZWY5NkRzUGh6Y3RtVVFIUjZTUjJUams1SDZ3%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FAlltimeConspiracies%26feature%3Div%26hl%3Den\u0026passive=true\u0026service=youtube\u0026hl=en\u0026uilel=3&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;start_ms&quot;:0,&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/AlltimeConspiracies"/>
+  </action>
+</annotation>
+<annotation id="video:c1f6e126-fa72-475b-931c-8d68b534789a" style="simple" type="card" log_data="a-ch=UCPZiqlNI3RLyF47QTdq93GQ&amp;a-id=c1f6e126-fa72-475b-931c-8d68b534789a&amp;a-type=61&amp;a-v=hdGLGkhhmw8&amp;ei=xNQ8XNzUJs7jwQHmvpnQCQ&amp;l-class=8&amp;link=https%3A%2F%2Fwww.patreon.com%2Falltimeconspiracies%3Fty%3Dh&amp;xble=0">
+  <data>{&quot;pause_on_navigation&quot;:true,&quot;card_type&quot;:&quot;simple&quot;,&quot;target&quot;:&quot;new&quot;,&quot;show_link_icon&quot;:true,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;hdGLGkhhmw8&quot;,&quot;annotation_id&quot;:&quot;c1f6e126-fa72-475b-931c-8d68b534789a&quot;,&quot;ei&quot;:&quot;xNQ8XNzUJs7jwQHmvpnQCQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAoQ1TYY____________ASITCNzG1azz7d8CFc5xMAodZl8Gmij4HTIFY2FyZHNIj7aGw6Tj4uiFAQ&quot;},&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CAwQsJcBGP___________wEiEwjcxtWs8-3fAhXOcTAKHWZfBpoo-B0yBWNhcmRzSI-2hsOk4-LohQE&quot;,&quot;teaser&quot;:&quot;CAsQ0DYY____________ASITCNzG1azz7d8CFc5xMAodZl8Gmij4HTIFY2FyZHNIj7aGw6Tj4uiFAQ&quot;,&quot;card&quot;:&quot;CAoQ1TYY____________ASITCNzG1azz7d8CFc5xMAodZl8Gmij4HTIFY2FyZHNIj7aGw6Tj4uiFAQ&quot;},&quot;timestamp&quot;:1442924836408,&quot;sponsored&quot;:false,&quot;title&quot;:&quot;Support Alltime Conspiracies on Patreon&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;display_domain&quot;:&quot;patreon.com&quot;,&quot;custom_message&quot;:&quot;Click to support us on Patreon&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/qiP-d9qV_ezCJK2ZPOpzUSw5YTsyL5xsbS0piACOKkZrHXyutAEo3d_eSQJDpxPoCtc1dXR9fa3AhdCF3ypA9OrbqUsar9kxJnbOm60V7w_mI8qPMG0fx3uAaI9josK0HD-WAEvFFRh33ue_FGa94kl7NyrhlIpkNyvinPk5X3QyNBPcsNeSQ3hW7g=s300-c&quot;,&quot;meta_info&quot;:[],&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;url&quot;:&quot;\/redirect?redir_token=Tp1A7CodLBmn4RSL3-44Llf37_h8MTU0NzU3NjkwMEAxNTQ3NDkwNTAw\u0026q=https%3A%2F%2Fwww.patreon.com%2Falltimeconspiracies%3Fty%3Dh\u0026event=infocard&quot;,&quot;start_ms&quot;:14931,&quot;teaser_text&quot;:&quot;Get Rewards For Supporting Us!&quot;,&quot;end_ms&quot;:14931}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?redir_token=Tp1A7CodLBmn4RSL3-44Llf37_h8MTU0NzU3NjkwMEAxNTQ3NDkwNTAw&amp;q=https%3A%2F%2Fwww.patreon.com%2Falltimeconspiracies%3Fty%3Dh&amp;event=infocard"/>
+  </action>
+</annotation>
+
+<annotation id="video:5775acce-dfcf-4b6d-bbca-9b39f49fc942" style="video" type="card" log_data="a-ch=UCPZiqlNI3RLyF47QTdq93GQ&amp;a-id=5775acce-dfcf-4b6d-bbca-9b39f49fc942&amp;a-type=62&amp;a-v=hdGLGkhhmw8&amp;ei=xNQ8XNzUJs7jwQHmvpnQCQ&amp;l-class=1&amp;link-id=AuHJVX2Nj6s&amp;xble=0">
+  <data>{&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;card_type&quot;:&quot;video&quot;,&quot;target&quot;:&quot;new&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;hdGLGkhhmw8&quot;,&quot;annotation_id&quot;:&quot;5775acce-dfcf-4b6d-bbca-9b39f49fc942&quot;,&quot;ei&quot;:&quot;xNQ8XNzUJs7jwQHmvpnQCQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CA4Q1TYY____________ASITCNzG1azz7d8CFc5xMAodZl8Gmij4HTIFY2FyZHNIj7aGw6Tj4uiFAQ&quot;},&quot;video_duration&quot;:&quot;5:40&quot;,&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBAQsJcBGP___________wEiEwjcxtWs8-3fAhXOcTAKHWZfBpoo-B0yBWNhcmRzSI-2hsOk4-LohQE&quot;,&quot;teaser&quot;:&quot;CA8Q0DYY____________ASITCNzG1azz7d8CFc5xMAodZl8Gmij4HTIFY2FyZHNIj7aGw6Tj4uiFAQ&quot;,&quot;card&quot;:&quot;CA4Q1TYY____________ASITCNzG1azz7d8CFc5xMAodZl8Gmij4HTIFY2FyZHNIj7aGw6Tj4uiFAQ&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;title&quot;:&quot;Is Putin Starting WW3?&quot;,&quot;end_ms&quot;:55909,&quot;custom_message&quot;:&quot;&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/AuHJVX2Nj6s\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;by Alltime Conspiracies&quot;,&quot;628,338 views&quot;],&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;start_ms&quot;:55909,&quot;teaser_text&quot;:&quot;Suggested: Is Putin Starting WW3?&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=AuHJVX2Nj6s&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=AuHJVX2Nj6s"/>
+  </action>
+</annotation>
+
+<annotation id="video:30bba0a8-cde8-4cf6-9e42-aaccb1b06c8f" style="simple" type="card" log_data="a-ch=UCPZiqlNI3RLyF47QTdq93GQ&amp;a-id=30bba0a8-cde8-4cf6-9e42-aaccb1b06c8f&amp;a-type=61&amp;a-v=hdGLGkhhmw8&amp;ei=xNQ8XNzUJs7jwQHmvpnQCQ&amp;l-class=8&amp;link=https%3A%2F%2Fwww.patreon.com%2Falltimeconspiracies%3Fty%3Dh&amp;xble=0">
+  <data>{&quot;pause_on_navigation&quot;:true,&quot;card_type&quot;:&quot;simple&quot;,&quot;target&quot;:&quot;new&quot;,&quot;show_link_icon&quot;:true,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;hdGLGkhhmw8&quot;,&quot;annotation_id&quot;:&quot;30bba0a8-cde8-4cf6-9e42-aaccb1b06c8f&quot;,&quot;ei&quot;:&quot;xNQ8XNzUJs7jwQHmvpnQCQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CBIQ1TYY____________ASITCNzG1azz7d8CFc5xMAodZl8Gmij4HTIFY2FyZHNIj7aGw6Tj4uiFAQ&quot;},&quot;tracking_params&quot;:{&quot;icon&quot;:&quot;CBQQsJcBGP___________wEiEwjcxtWs8-3fAhXOcTAKHWZfBpoo-B0yBWNhcmRzSI-2hsOk4-LohQE&quot;,&quot;teaser&quot;:&quot;CBMQ0DYY____________ASITCNzG1azz7d8CFc5xMAodZl8Gmij4HTIFY2FyZHNIj7aGw6Tj4uiFAQ&quot;,&quot;card&quot;:&quot;CBIQ1TYY____________ASITCNzG1azz7d8CFc5xMAodZl8Gmij4HTIFY2FyZHNIj7aGw6Tj4uiFAQ&quot;},&quot;timestamp&quot;:1448540485288,&quot;sponsored&quot;:false,&quot;title&quot;:&quot;Support Alltime Conspiracies on Patreon&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;display_domain&quot;:&quot;patreon.com&quot;,&quot;custom_message&quot;:&quot;Click to support us on Patreon&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/qiP-d9qV_ezCJK2ZPOpzUSw5YTsyL5xsbS0piACOKkZrHXyutAEo3d_eSQJDpxPoCtc1dXR9fa3AhdCF3ypA9OrbqUsar9kxJnbOm60V7w_mI8qPMG0fx3uAaI9josK0HD-WAEvFFRh33ue_FGa94kl7NyrhlIpkNyvinPk5X3QyNBPcsNeSQ3hW7g=s300-c&quot;,&quot;meta_info&quot;:[],&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;url&quot;:&quot;\/redirect?redir_token=Tp1A7CodLBmn4RSL3-44Llf37_h8MTU0NzU3NjkwMEAxNTQ3NDkwNTAw\u0026q=https%3A%2F%2Fwww.patreon.com%2Falltimeconspiracies%3Fty%3Dh\u0026event=infocard&quot;,&quot;start_ms&quot;:99468,&quot;teaser_text&quot;:&quot;Get Rewards For Supporting Us!&quot;,&quot;end_ms&quot;:99468}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?redir_token=Tp1A7CodLBmn4RSL3-44Llf37_h8MTU0NzU3NjkwMEAxNTQ3NDkwNTAw&amp;q=https%3A%2F%2Fwww.patreon.com%2Falltimeconspiracies%3Fty%3Dh&amp;event=infocard"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;closeTrackingParams&quot;: &quot;CAcQsZcBGP///////////wEiEwjcxtWs8+3fAhXOcTAKHWZfBpoo+B0yBWNhcmRzSI+2hsOk4+LohQE=&quot;, 
+  &quot;headerText&quot;: &quot;From Alltime Conspiracies&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAgQsJcBGP///////////wEiEwjcxtWs8+3fAhXOcTAKHWZfBpoo+B0yBWNhcmRzSI+2hsOk4+LohQE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAYQwjcY////////////ASITCNzG1azz7d8CFc5xMAodZl8Gmij4HTIFY2FyZHNIj7aGw6Tj4uiFAQ==&quot;, 
+  &quot;eventId&quot;: &quot;xNQ8XNzUJs7jwQHmvpnQCQ&quot;
+}</data>
+</annotation>
+</annotations></document>

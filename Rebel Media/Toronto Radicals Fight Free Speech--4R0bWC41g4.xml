@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI8dnTu_Lt3wIVhcQDCh17zQEOKPgdMgJpdkiOrOOF1o2dwvsB">
+<annotation id="annotation_1665683883" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3938857745">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3938857745" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3354731505" type="highlight" log_data="link=http%3A%2F%2Ftherebel.media%2Fstand_off_with_lauren_southern&amp;xble=1&amp;ei=19M8XLGSJoWJD_uah3A&amp;a-id=annotation_3354731505&amp;a-v=-4R0bWC41g4&amp;a-type=3&amp;l-class=6" itct="CAEQs-UBGP___________wEiEwjx2dO78u3fAhWFxAMKHXvNAQ4o-B0yAml2SI6s44XWjZ3C-wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.96400" y="2.42300" w="44.65100" h="44.00300" t="7:50.900"/>
+      <rectRegion x="52.96400" y="2.42300" w="44.65100" h="44.00300" t="8:01.975"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://therebel.media/stand_off_with_lauren_southern" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3520871741" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3690356975">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3690356975" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3690356975" type="highlight" log_data="link=http%3A%2F%2Ftherebel.media%2Fjoin&amp;xble=1&amp;ei=19M8XLGSJoWJD_uah3A&amp;a-id=annotation_3690356975&amp;a-v=-4R0bWC41g4&amp;a-type=3&amp;l-class=6" itct="CAIQs-UBGP___________wEiEwjx2dO78u3fAhWFxAMKHXvNAQ4o-B0yAml2SI6s44XWjZ3C-wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.24900" y="53.63400" w="44.27100" h="43.54900" t="7:50.900"/>
+      <rectRegion x="53.24900" y="53.63400" w="44.27100" h="43.54900" t="8:01.975"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://therebel.media/join" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3729125873" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3354731505">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="31.49300" w="44.14400" h="4.22900" t="never"/>
+      <rectRegion x="0.00000" y="31.49300" w="44.14400" h="4.22900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3354731505" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3938857745" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fc%2FRebelMediaTV&amp;xble=1&amp;ei=19M8XLGSJoWJD_uah3A&amp;a-id=annotation_3938857745&amp;a-v=-4R0bWC41g4&amp;a-type=3&amp;l-class=11" itct="CAMQs-UBGP___________wEiEwjx2dO78u3fAhWFxAMKHXvNAQ4o-B0yAml2SI6s44XWjZ3C-wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.63400" y="73.97200" w="47.57100" h="20.57900" t="7:50.900"/>
+      <rectRegion x="0.63400" y="73.97200" w="47.57100" h="20.57900" t="8:01.975"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/c/RebelMediaTV?annotation_id=annotation_3938857745&amp;ei=19M8XLGSJoWJD_uah3A&amp;feature=iv&amp;src_vid=-4R0bWC41g4" link_class="11"/>
+  </action>
+
+</annotation>
+</annotations></document>

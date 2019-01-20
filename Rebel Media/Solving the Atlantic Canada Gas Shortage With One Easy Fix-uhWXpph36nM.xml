@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI2_Gahe7t3wIVj2swCh2L_whlKPgdMgJpdkjz1N_D6fTliroB">
+<annotation id="annotation_158142191" type="text" style="anchored" log_data="a-v=uhWXpph36nM&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFaK5tmT6oTw&amp;l-class=1&amp;a-id=annotation_158142191&amp;a-type=8&amp;xble=1&amp;ei=M888XJuMK4_XwQGL_6OoBg" itct="CAEQs-UBGP___________wEiEwjb8ZqF7u3fAhWPazAKHYv_CGUo-B0yAml2SPPU38Pp9OWKugE">
+  <TEXT>NEXT: Obama&#39;s lies about Keystone veto</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="49.28700" y="8.73200" w="48.01900" h="10.01400" sx="63.8699989319" sy="20.7460002899" t="2:12.100"/>
+      <anchoredRegion x="49.28700" y="8.73200" w="48.01900" h="10.01400" sx="63.8699989319" sy="20.7460002899" t="2:20.138"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_158142191&amp;ei=M888XJuMK4_XwQGL_6OoBg&amp;feature=iv&amp;src_vid=uhWXpph36nM&amp;v=FaK5tmT6oTw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1738315461" type="highlight" log_data="a-v=uhWXpph36nM&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCGy6uV7yqGWDeUWTZzT3ZEg&amp;l-class=3&amp;a-id=annotation_1738315461&amp;a-type=3&amp;xble=1&amp;ei=M888XJuMK4_XwQGL_6OoBg" itct="CAIQs-UBGP___________wEiEwjb8ZqF7u3fAhWPazAKHYv_CGUo-B0yAml2SPPU38Pp9OWKugE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="8.81100" y="55.81700" w="79.33200" h="37.81600" t="2:13.853"/>
+      <rectRegion x="8.81100" y="55.81700" w="79.33200" h="37.81600" t="2:20.897"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCGy6uV7yqGWDeUWTZzT3ZEg?annotation_id=annotation_1738315461&amp;ei=M888XJuMK4_XwQGL_6OoBg&amp;feature=iv&amp;src_vid=uhWXpph36nM" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4051571423" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Never miss a NEW video!</TEXT>
+  <segment spaceRelative="annotation_1738315461">
+    <movingRegion type="rect">
+      <rectRegion x="25.26100" y="14.60600" w="43.06700" h="5.98600" t="never"/>
+      <rectRegion x="25.26100" y="14.60600" w="43.06700" h="5.98600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="8.424966666666666" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1738315461" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

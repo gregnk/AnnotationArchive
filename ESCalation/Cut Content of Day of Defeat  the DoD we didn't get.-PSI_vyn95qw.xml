@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIl8uo6fPt3wIVA0YDCh0FvQntKPgdMgJpdkiszffP8vePkT0">
+<annotation id="annotation_1910784831" type="highlight" log_data="a-type=3&amp;a-id=annotation_1910784831&amp;ei=Q9U8XNedMoOMDYX6pugO&amp;a-v=PSI_vyn95qw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsaURJakcUNA&amp;l-class=1&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiXy6jp8-3fAhUDRgMKHQW9Ce0o-B0yAml2SKzN98_y94-RPQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.26000" y="82.40700" w="46.74500" h="15.74100" t="4:37.981"/>
+      <rectRegion x="0.26000" y="82.40700" w="46.74500" h="15.74100" t="5:26.936"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1910784831&amp;ei=Q9U8XNedMoOMDYX6pugO&amp;feature=iv&amp;src_vid=PSI_vyn95qw&amp;v=saURJakcUNA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4129667737" type="highlight" log_data="a-type=3&amp;a-id=annotation_4129667737&amp;ei=Q9U8XNedMoOMDYX6pugO&amp;a-v=PSI_vyn95qw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De2TjPTTjf88&amp;l-class=1&amp;xble=1" itct="CAIQs-UBGP___________wEiEwiXy6jp8-3fAhUDRgMKHQW9Ce0o-B0yAml2SKzN98_y94-RPQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.99500" y="81.94400" w="46.61500" h="16.43500" t="4:37.981"/>
+      <rectRegion x="52.99500" y="81.94400" w="46.61500" h="16.43500" t="5:26.936"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_4129667737&amp;ei=Q9U8XNedMoOMDYX6pugO&amp;feature=iv&amp;src_vid=PSI_vyn95qw&amp;v=e2TjPTTjf88" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_72339325" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1910784831">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1910784831" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_951716937" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4129667737">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4129667737" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:555adb2f-0000-2707-85aa-001a113f3238" style="branding" type="branding"
+            log_data="a-type=10&amp;a-id=555adb2f-0000-2707-85aa-001a113f3238&amp;ei=Q9U8XNedMoOMDYX6pugO&amp;link-id=UCz2daX7pxjD88hth-raG3JQ&amp;a-v=PSI_vyn95qw&amp;xble=0&amp;l-class=3&amp;a-ch=UCz2daX7pxjD88hth-raG3JQ">
+  <data>{&quot;image_type&quot;:1,&quot;use_standalone_subscribe_button&quot;:true,&quot;end_ms&quot;:327000,&quot;image_width&quot;:40,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/z2daX7pxjD88hth-raG3JQ\/featured_channel.jpg?v=555ef8c7&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;PSI_vyn95qw&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCJfLqOnz7d8CFQNGAwodBb0J7Sj4HTICaXZIrM33z_L3j5E9&quot;,&quot;annotation_id&quot;:&quot;555adb2f-0000-2707-85aa-001a113f3238&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;Q9U8XNedMoOMDYX6pugO&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCz2daX7pxjD88hth-raG3JQ%26action_handle_signin%3Dtrue%26hl%3Den%26continue_action%3DQUFFLUhqbnRjUHBUbXliQXhiZlBSUmhPWjg5T1BhMENCQXxBQ3Jtc0tsbDBBczBFS0tUaFItaTN3MXNuQVpjTzhIWC11LVpFXzUwZGdVMlE0UHRMVGFqMDlZTTFGdS1QMzZZMmxVa1llNGd1Z3BFalM1WG5HZTMzbDVYR2RRY0RTbmY3cHR5cnB3d3F1NnBqMlVvekN6UUFhRV9QZmVKbEsxMGlrODZzWmJDM3hPd2lHamhtQmdKb1JrdXFIbjRCMUdlMlZrODBxY0h4SGVmSTlkMkpqSGlOTWhoS1laVVdoXzYzVG9jZkF4cWZfa0d1blV1WEFMajZ6SUU3aC1HbzQ4cFpFUEFDRlVUZmNGeTU0ZmpNWDBIU1c4\u0026uilel=3\u0026hl=en\u0026service=youtube&quot;,&quot;subscribeCount&quot;:&quot;44K&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;unsubscribeCount&quot;:&quot;44K&quot;},&quot;num_subscribers&quot;:&quot;44964&quot;,&quot;channel_id&quot;:&quot;UCz2daX7pxjD88hth-raG3JQ&quot;,&quot;channel_name&quot;:&quot;ESCalation&quot;,&quot;image_height&quot;:40,&quot;is_mobile&quot;:false,&quot;start_ms&quot;:82000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCz2daX7pxjD88hth-raG3JQ"/>
+  </action>
+</annotation>
+<annotation id="video:5390ad8a-4856-4511-a826-eb396848dc91" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=5390ad8a-4856-4511-a826-eb396848dc91&amp;a-type=62&amp;a-v=PSI_vyn95qw&amp;ei=Q9U8XNedMoOMDYX6pugO&amp;l-class=1&amp;link-id=e2TjPTTjf88&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=e2TjPTTjf88&quot;,&quot;timestamp&quot;:1463350709243,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;end_ms&quot;:278567,&quot;start_ms&quot;:278567,&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;12,377 views&quot;],&quot;target&quot;:&quot;new&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCJfLqOnz7d8CFQNGAwodBb0J7Sj4HTIFY2FyZHNIrM33z_L3j5E9&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCJfLqOnz7d8CFQNGAwodBb0J7Sj4HTIFY2FyZHNIrM33z_L3j5E9&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwiXy6jp8-3fAhUDRgMKHQW9Ce0o-B0yBWNhcmRzSKzN98_y94-RPQ&quot;},&quot;card_type&quot;:&quot;video&quot;,&quot;video_duration&quot;:&quot;6:07&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;PSI_vyn95qw&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCJfLqOnz7d8CFQNGAwodBb0J7Sj4HTIFY2FyZHNIrM33z_L3j5E9&quot;,&quot;annotation_id&quot;:&quot;5390ad8a-4856-4511-a826-eb396848dc91&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;Q9U8XNedMoOMDYX6pugO&quot;},&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;title&quot;:&quot;World War ONE Shooters - How would one differ from a modern shooter?&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/e2TjPTTjf88\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: World War ONE Shooters - How would one differ from a modern shooter?&quot;,&quot;custom_message&quot;:&quot;&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=e2TjPTTjf88"/>
+  </action>
+</annotation>
+
+<annotation id="video:5c72d05c-8de6-4efb-9cb5-1e56a512dd1a" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=5c72d05c-8de6-4efb-9cb5-1e56a512dd1a&amp;a-type=62&amp;a-v=PSI_vyn95qw&amp;ei=Q9U8XNedMoOMDYX6pugO&amp;l-class=1&amp;link-id=saURJakcUNA&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=saURJakcUNA&quot;,&quot;timestamp&quot;:1463350721095,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;end_ms&quot;:295676,&quot;start_ms&quot;:295676,&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;7,295 views&quot;],&quot;target&quot;:&quot;new&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCJfLqOnz7d8CFQNGAwodBb0J7Sj4HTIFY2FyZHNIrM33z_L3j5E9&quot;,&quot;card&quot;:&quot;CAwQ1TYY____________ASITCJfLqOnz7d8CFQNGAwodBb0J7Sj4HTIFY2FyZHNIrM33z_L3j5E9&quot;,&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwiXy6jp8-3fAhUDRgMKHQW9Ce0o-B0yBWNhcmRzSKzN98_y94-RPQ&quot;},&quot;card_type&quot;:&quot;video&quot;,&quot;video_duration&quot;:&quot;4:48&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;PSI_vyn95qw&quot;,&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCJfLqOnz7d8CFQNGAwodBb0J7Sj4HTIFY2FyZHNIrM33z_L3j5E9&quot;,&quot;annotation_id&quot;:&quot;5c72d05c-8de6-4efb-9cb5-1e56a512dd1a&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;Q9U8XNedMoOMDYX6pugO&quot;},&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;title&quot;:&quot;Day of Infamy - Insurgency Mod - a new WWII shooter!&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/saURJakcUNA\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: Day of Infamy - Insurgency Mod - a new WWII shooter!&quot;,&quot;custom_message&quot;:&quot;&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=saURJakcUNA"/>
+  </action>
+</annotation>
+
+<annotation id="video:5e99ceec-46ee-4f2d-9549-2caf7e085ed0" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=5e99ceec-46ee-4f2d-9549-2caf7e085ed0&amp;a-type=62&amp;a-v=PSI_vyn95qw&amp;ei=Q9U8XNedMoOMDYX6pugO&amp;l-class=1&amp;link-id=qTlszijH6bo&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=qTlszijH6bo&quot;,&quot;timestamp&quot;:1463350731814,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;end_ms&quot;:309442,&quot;start_ms&quot;:309442,&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;409 views&quot;],&quot;target&quot;:&quot;new&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBEQ0DYY____________ASITCJfLqOnz7d8CFQNGAwodBb0J7Sj4HTIFY2FyZHNIrM33z_L3j5E9&quot;,&quot;card&quot;:&quot;CBAQ1TYY____________ASITCJfLqOnz7d8CFQNGAwodBb0J7Sj4HTIFY2FyZHNIrM33z_L3j5E9&quot;,&quot;icon&quot;:&quot;CBIQsJcBGP___________wEiEwiXy6jp8-3fAhUDRgMKHQW9Ce0o-B0yBWNhcmRzSKzN98_y94-RPQ&quot;},&quot;card_type&quot;:&quot;video&quot;,&quot;video_duration&quot;:&quot;7:07&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;PSI_vyn95qw&quot;,&quot;itct&quot;:&quot;CBAQ1TYY____________ASITCJfLqOnz7d8CFQNGAwodBb0J7Sj4HTIFY2FyZHNIrM33z_L3j5E9&quot;,&quot;annotation_id&quot;:&quot;5e99ceec-46ee-4f2d-9549-2caf7e085ed0&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;Q9U8XNedMoOMDYX6pugO&quot;},&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;title&quot;:&quot;Battlefield 1 Trailer Analysis, BF:1 - CoD:0, a closer look&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/qTlszijH6bo\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: Battlefield 1 Trailer Analysis, BF:1 - CoD:0, a closer look&quot;,&quot;custom_message&quot;:&quot;&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=qTlszijH6bo"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;From ESCalation&quot;, 
+  &quot;eventId&quot;: &quot;Q9U8XNedMoOMDYX6pugO&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwiXy6jp8+3fAhUDRgMKHQW9Ce0o+B0yBWNhcmRzSKzN98/y94+RPQ==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCJfLqOnz7d8CFQNGAwodBb0J7Sj4HTIFY2FyZHNIrM33z/L3j5E9&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwiXy6jp8+3fAhUDRgMKHQW9Ce0o+B0yBWNhcmRzSKzN98/y94+RPQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

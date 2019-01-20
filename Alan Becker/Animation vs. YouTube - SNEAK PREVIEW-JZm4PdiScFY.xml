@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIhMu0k-7t3wIVyVCDCh1poAeTKPgdMgJpdkjW4MnE3YfuzCU">
+<annotation id="annotation_1037359093" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>see description!</TEXT>
+  <segment spaceRelative="annotation_763337219">
+    <movingRegion type="rect">
+      <rectRegion x="-8.24100" y="21.12700" w="27.37700" h="13.32400" t="never"/>
+      <rectRegion x="-8.24100" y="21.12700" w="27.37700" h="13.32400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_763337219" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1966293381" type="highlight" log_data="xble=1&amp;ei=Uc88XMTeHcmhjQTpwJ6YCQ&amp;a-v=JZm4PdiScFY&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FAlanBeckerMinecraft&amp;l-class=3&amp;a-id=annotation_1966293381&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwiEy7ST7u3fAhXJUIMKHWmgB5Mo-B0yAml2SNbgycTdh-7MJQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="79.08100" y="16.33800" w="10.09500" h="17.63400" t="4:04.060"/>
+      <rectRegion x="79.08100" y="16.33800" w="10.09500" h="17.63400" t="4:24.591"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/AlanBeckerMinecraft?annotation_id=annotation_1966293381&amp;ei=Uc88XMTeHcmhjQTpwJ6YCQ&amp;feature=iv&amp;src_vid=JZm4PdiScFY" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3114668381" type="text" style="anchored" log_data="xble=1&amp;ei=Uc88XMTeHcmhjQTpwJ6YCQ&amp;a-v=JZm4PdiScFY&amp;link=http%3A%2F%2Fwww.patreon.com%2Falanbecker&amp;l-class=8&amp;a-id=annotation_3114668381&amp;a-type=8" itct="CAIQs-UBGP___________wEiEwiEy7ST7u3fAhXJUIMKHWmgB5Mo-B0yAml2SNbgycTdh-7MJQ">
+  <TEXT>Click here for my Patreon Page</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="3.17000" y="66.76100" w="17.75000" h="27.47900" sx="1.16999995708" sy="71.533996582" t="3:33.189"/>
+      <anchoredRegion x="3.17000" y="66.76100" w="17.75000" h="27.47900" sx="1.16999995708" sy="71.533996582" t="3:45.728"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="14845777" fgColor="16777215" textSize="4.814266666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.patreon.com/alanbecker" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3381973233" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>My Tutorial Channel</TEXT>
+  <segment spaceRelative="annotation_3385797203">
+    <movingRegion type="rect">
+      <rectRegion x="-9.19200" y="25.63400" w="32.60700" h="9.09900" t="never"/>
+      <rectRegion x="-9.19200" y="25.63400" w="32.60700" h="9.09900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3385797203" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3385797203" type="highlight" log_data="xble=1&amp;ei=Uc88XMTeHcmhjQTpwJ6YCQ&amp;a-v=JZm4PdiScFY&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FAlanBeckerTutorials&amp;l-class=3&amp;a-id=annotation_3385797203&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwiEy7ST7u3fAhXJUIMKHWmgB5Mo-B0yAml2SNbgycTdh-7MJQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="44.84900" y="16.05600" w="10.26100" h="18.76100" t="4:04.060"/>
+      <rectRegion x="44.84900" y="16.05600" w="10.26100" h="18.76100" t="4:24.591"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/AlanBeckerTutorials?annotation_id=annotation_3385797203&amp;ei=Uc88XMTeHcmhjQTpwJ6YCQ&amp;feature=iv&amp;src_vid=JZm4PdiScFY" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3900259965" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>My Minecraft Channel</TEXT>
+  <segment spaceRelative="annotation_1966293381">
+    <movingRegion type="rect">
+      <rectRegion x="-6.66400" y="25.35200" w="25.80000" h="7.12700" t="never"/>
+      <rectRegion x="-6.66400" y="25.35200" w="25.80000" h="7.12700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.814266666666667" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1966293381" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_763337219" type="highlight" log_data="a-v=JZm4PdiScFY&amp;a-id=annotation_763337219&amp;ei=Uc88XMTeHcmhjQTpwJ6YCQ&amp;xble=1&amp;a-type=3" itct="CAQQs-UBGP___________wEiEwiEy7ST7u3fAhXJUIMKHWmgB5Mo-B0yAml2SNbgycTdh-7MJQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="12.99500" y="16.05600" w="10.57800" h="18.76100" t="4:04.060"/>
+      <rectRegion x="12.99500" y="16.05600" w="10.57800" h="18.76100" t="4:24.591"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="channel:54f60c01-0000-201c-8e13-001a113f8ad8" style="branding" type="branding"
+            log_data="xble=0&amp;ei=Uc88XMTeHcmhjQTpwJ6YCQ&amp;a-v=JZm4PdiScFY&amp;link-id=UCbKWv2x9t6u8yZoB3KcPtnw&amp;a-ch=UCbKWv2x9t6u8yZoB3KcPtnw&amp;l-class=3&amp;a-id=54f60c01-0000-201c-8e13-001a113f8ad8&amp;a-type=10">
+  <data>{&quot;is_mobile&quot;:false,&quot;end_ms&quot;:265000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_height&quot;:40,&quot;channel_id&quot;:&quot;UCbKWv2x9t6u8yZoB3KcPtnw&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/bKWv2x9t6u8yZoB3KcPtnw\/featured_channel.jpg?v=54f74df8&quot;,&quot;num_subscribers&quot;:&quot;7386773&quot;,&quot;start_ms&quot;:5000,&quot;image_width&quot;:40,&quot;channel_name&quot;:&quot;Alan Becker&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCITLtJPu7d8CFclQgwodaaAHkyj4HTICaXZI1uDJxN2H7swl&quot;,&quot;ei&quot;:&quot;Uc88XMTeHcmhjQTpwJ6YCQ&quot;,&quot;src_vid&quot;:&quot;JZm4PdiScFY&quot;,&quot;annotation_id&quot;:&quot;54f60c01-0000-201c-8e13-001a113f8ad8&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;7.3M&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;7.3M&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbnZTUVF0VDFBWHY1LUEwXy1DU3ZSSmxDdDJQZ3xBQ3Jtc0trWkFoOVNCd3NQZUJVZ05wazMyV18taDhzT3ZOaTl5eG9LTl9ZNmJpb1JEMlhLNWdtd2tpckxUN1djNWVtOVB4cDNIN1YyakhPZmpIcjJya2l0Qy1yaG5QTjdLeGRpVXZja180REZOVTBTZ3JNOGpxcEtnN2NEMjg0eE9YcEp1UVllb3BMN2dnSzBROG1ORWloSHNLM1BRcmtld2IyV01RV0Y2djZWU196TG13b1dLQU9zbVluOF9ma1ZkZG9xZlFPX0dTSmU4RU14NU9wNzZvLXZUQ1ROb0hmVEJHbER4c0pOMlZNQ1NWOW1zWVdFVjFZ%26action_handle_signin%3Dtrue%26hl%3Den%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fnoogai89%26feature%3Div\u0026hl=en\u0026passive=true&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;image_type&quot;:1,&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/noogai89"/>
+  </action>
+</annotation>
+<annotation id="video:fab632e9-5baf-484e-9477-f373b77d2964" style="simple" type="card" log_data="a-ch=UCbKWv2x9t6u8yZoB3KcPtnw&amp;a-id=fab632e9-5baf-484e-9477-f373b77d2964&amp;a-type=61&amp;a-v=JZm4PdiScFY&amp;ei=Uc88XMTeHcmhjQTpwJ6YCQ&amp;l-class=8&amp;link=http%3A%2F%2Fwww.patreon.com%2Falanbecker&amp;xble=0">
+  <data>{&quot;display_domain&quot;:&quot;patreon.com&quot;,&quot;teaser_text&quot;:&quot;Visit my Patreon Page!&quot;,&quot;show_link_icon&quot;:true,&quot;meta_info&quot;:[],&quot;end_ms&quot;:213731,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;teaser_duration_ms&quot;:7000,&quot;sponsored&quot;:false,&quot;title&quot;:&quot;Alan Becker&#39;s Patreon Page&quot;,&quot;target&quot;:&quot;new&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAoQ1TYY____________ASITCITLtJPu7d8CFclQgwodaaAHkyj4HTIFY2FyZHNI1uDJxN2H7swl&quot;,&quot;icon&quot;:&quot;CAwQsJcBGP___________wEiEwiEy7ST7u3fAhXJUIMKHWmgB5Mo-B0yBWNhcmRzSNbgycTdh-7MJQ&quot;,&quot;teaser&quot;:&quot;CAsQ0DYY____________ASITCITLtJPu7d8CFclQgwodaaAHkyj4HTIFY2FyZHNI1uDJxN2H7swl&quot;},&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/SkTQCsjG52ROabRLnnzdR1xv_gksUP-HyUjlHm3ReGIo6GwGpKv4Gl3y_UZZygyVUdxeBHbl0qquMJecD3mQ7pkqEJLXNfpxkWTeBg5axs6mJyDwAgls3dyOg0LceeUlPW8l0NCWtfx5epo2iU3a-EtcCZXWqb-9tj9k0kvADqz2x4xgCfWPatgMDg=s300-c&quot;,&quot;start_ms&quot;:213731,&quot;timestamp&quot;:1481092838200,&quot;card_type&quot;:&quot;simple&quot;,&quot;custom_message&quot;:&quot;Click Here!&quot;,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAoQ1TYY____________ASITCITLtJPu7d8CFclQgwodaaAHkyj4HTIFY2FyZHNI1uDJxN2H7swl&quot;,&quot;ei&quot;:&quot;Uc88XMTeHcmhjQTpwJ6YCQ&quot;,&quot;src_vid&quot;:&quot;JZm4PdiScFY&quot;,&quot;annotation_id&quot;:&quot;fab632e9-5baf-484e-9477-f373b77d2964&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;url&quot;:&quot;\/redirect?event=infocard\u0026redir_token=e4quqmufQHJJskpSsfp9xIxh0MR8MTU0NzU3NTUwNUAxNTQ3NDg5MTA1\u0026q=http%3A%2F%2Fwww.patreon.com%2Falanbecker&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?event=infocard&amp;redir_token=e4quqmufQHJJskpSsfp9xIxh0MR8MTU0NzU3NTUwNUAxNTQ3NDg5MTA1&amp;q=http%3A%2F%2Fwww.patreon.com%2Falanbecker"/>
+  </action>
+</annotation>
+
+<annotation id="video:e172f788-71c0-4e52-a8b7-98921bf56fc3" style="collaborator" type="card" log_data="a-ch=UCbKWv2x9t6u8yZoB3KcPtnw&amp;a-id=e172f788-71c0-4e52-a8b7-98921bf56fc3&amp;a-type=69&amp;a-v=JZm4PdiScFY&amp;ei=Uc88XMTeHcmhjQTpwJ6YCQ&amp;l-class=3&amp;link-id=UCAxYH9DWyVmMpS9NgyxoTFQ&amp;xble=0">
+  <data>{&quot;teaser_text&quot;:&quot;Learn How to Animate!&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;meta_info&quot;:[&quot;509K subscribers&quot;],&quot;end_ms&quot;:243156,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;title&quot;:&quot;AlanBeckerTutorials&quot;,&quot;target&quot;:&quot;new&quot;,&quot;channel_id&quot;:&quot;UCAxYH9DWyVmMpS9NgyxoTFQ&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mAU7M5GF-TjMKBWR4MZ_a7PN3AjdlTi9RfVtw=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;start_ms&quot;:243156,&quot;timestamp&quot;:1481092862853,&quot;card_type&quot;:&quot;collaborator&quot;,&quot;custom_message&quot;:&quot;My Tutorial Channel&quot;,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA4Q1TYY____________ASITCITLtJPu7d8CFclQgwodaaAHkyj4HTIFY2FyZHNI1uDJxN2H7swl&quot;,&quot;icon&quot;:&quot;CBAQsJcBGP___________wEiEwiEy7ST7u3fAhXJUIMKHWmgB5Mo-B0yBWNhcmRzSNbgycTdh-7MJQ&quot;,&quot;teaser&quot;:&quot;CA8Q0DYY____________ASITCITLtJPu7d8CFclQgwodaaAHkyj4HTIFY2FyZHNI1uDJxN2H7swl&quot;},&quot;session_data&quot;:{&quot;itct&quot;:&quot;CA4Q1TYY____________ASITCITLtJPu7d8CFclQgwodaaAHkyj4HTIFY2FyZHNI1uDJxN2H7swl&quot;,&quot;ei&quot;:&quot;Uc88XMTeHcmhjQTpwJ6YCQ&quot;,&quot;src_vid&quot;:&quot;JZm4PdiScFY&quot;,&quot;annotation_id&quot;:&quot;e172f788-71c0-4e52-a8b7-98921bf56fc3&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/user\/AlanBeckerTutorials&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/AlanBeckerTutorials"/>
+  </action>
+</annotation>
+
+<annotation id="video:4d7600cf-c178-41c7-8715-03d6a7fe7624" style="collaborator" type="card" log_data="a-ch=UCbKWv2x9t6u8yZoB3KcPtnw&amp;a-id=4d7600cf-c178-41c7-8715-03d6a7fe7624&amp;a-type=69&amp;a-v=JZm4PdiScFY&amp;ei=Uc88XMTeHcmhjQTpwJ6YCQ&amp;l-class=3&amp;link-id=UCrHRoOzrMRl68uTyBid9vlw&amp;xble=0">
+  <data>{&quot;teaser_text&quot;:&quot;Check it out!&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;meta_info&quot;:[&quot;263K subscribers&quot;],&quot;end_ms&quot;:247370,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;title&quot;:&quot;AlanBeckerMinecraft&quot;,&quot;target&quot;:&quot;new&quot;,&quot;channel_id&quot;:&quot;UCrHRoOzrMRl68uTyBid9vlw&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mDN3KCgEheVlSK1t2NKFHJMohe5UQo_zSJbtg=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;start_ms&quot;:247370,&quot;timestamp&quot;:1481092936359,&quot;card_type&quot;:&quot;collaborator&quot;,&quot;custom_message&quot;:&quot;My Minecraft Channel&quot;,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CBIQ1TYY____________ASITCITLtJPu7d8CFclQgwodaaAHkyj4HTIFY2FyZHNI1uDJxN2H7swl&quot;,&quot;icon&quot;:&quot;CBQQsJcBGP___________wEiEwiEy7ST7u3fAhXJUIMKHWmgB5Mo-B0yBWNhcmRzSNbgycTdh-7MJQ&quot;,&quot;teaser&quot;:&quot;CBMQ0DYY____________ASITCITLtJPu7d8CFclQgwodaaAHkyj4HTIFY2FyZHNI1uDJxN2H7swl&quot;},&quot;session_data&quot;:{&quot;itct&quot;:&quot;CBIQ1TYY____________ASITCITLtJPu7d8CFclQgwodaaAHkyj4HTIFY2FyZHNI1uDJxN2H7swl&quot;,&quot;ei&quot;:&quot;Uc88XMTeHcmhjQTpwJ6YCQ&quot;,&quot;src_vid&quot;:&quot;JZm4PdiScFY&quot;,&quot;annotation_id&quot;:&quot;4d7600cf-c178-41c7-8715-03d6a7fe7624&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/user\/AlanBeckerMinecraft&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/AlanBeckerMinecraft"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;From Alan Becker&quot;, 
+  &quot;trackingParams&quot;: &quot;CAYQwjcY////////////ASITCITLtJPu7d8CFclQgwodaaAHkyj4HTIFY2FyZHNI1uDJxN2H7swl&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAcQsZcBGP///////////wEiEwiEy7ST7u3fAhXJUIMKHWmgB5Mo+B0yBWNhcmRzSNbgycTdh+7MJQ==&quot;, 
+  &quot;eventId&quot;: &quot;Uc88XMTeHcmhjQTpwJ6YCQ&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAgQsJcBGP///////////wEiEwiEy7ST7u3fAhXJUIMKHWmgB5Mo+B0yBWNhcmRzSNbgycTdh+7MJQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIi4Dirent3wIVgyiDCh1QmQdGKPgdMgJpdki555ecj7z_9wI">
+<annotation id="annotation_1482353063" type="highlight" log_data="l-class=2&amp;a-v=Au_94POF87k&amp;a-id=annotation_1482353063&amp;ei=Sso8XIuzI4PRjATQsp6wBA&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPL7679C7ACE93A5638" itct="CAEQs-UBGP___________wEiEwiLgOKt6e3fAhWDKIMKHVCZB0Yo-B0yAml2SLnnl5yPvP_3Ag">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.56900" y="53.23900" w="78.46400" h="38.23400" t="3:08.843"/>
+      <rectRegion x="11.56900" y="53.23900" w="78.46400" h="38.23400" t="3:15.628"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/playlist?annotation_id=annotation_1482353063&amp;ei=Sso8XIuzI4PRjATQsp6wBA&amp;feature=iv&amp;list=PL7679C7ACE93A5638&amp;src_vid=Au_94POF87k" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1513788205" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2372564533">
+    <movingRegion type="rect">
+      <rectRegion x="-0.00800" y="26.90100" w="30.55500" h="4.59200" t="never"/>
+      <rectRegion x="-0.00800" y="26.90100" w="30.55500" h="4.59200" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2372564533" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2372564533" type="highlight" log_data="l-class=5&amp;a-v=Au_94POF87k&amp;a-id=annotation_2372564533&amp;ei=Sso8XIuzI4PRjATQsp6wBA&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FSoliloquy084%3Fsub_confirmation%3D1" itct="CAIQs-UBGP___________wEiEwiLgOKt6e3fAhWDKIMKHVCZB0Yo-B0yAml2SLnnl5yPvP_3Ag">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="57.21100" y="13.80300" w="30.38800" h="24.67600" t="3:05.846"/>
+      <rectRegion x="57.21100" y="13.80300" w="30.38800" h="24.67600" t="3:15.628"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/Soliloquy084?annotation_id=annotation_2372564533&amp;ei=Sso8XIuzI4PRjATQsp6wBA&amp;feature=iv&amp;src_vid=Au_94POF87k&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3010038785" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1482353063">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1482353063" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:544046e5-0000-22cf-9fc0-001a113f8e50" style="branding" type="branding"
+            log_data="link-id=UCOU-cHVIJhJ9JAeg2ZIIrRg&amp;xble=0&amp;a-type=10&amp;a-v=Au_94POF87k&amp;a-id=544046e5-0000-22cf-9fc0-001a113f8e50&amp;ei=Sso8XIuzI4PRjATQsp6wBA&amp;l-class=3&amp;a-ch=UCOU-cHVIJhJ9JAeg2ZIIrRg">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbTVkdWk2eEZteG5LVTBYRFNGRktOTWVwNjZxd3xBQ3Jtc0tra1FTWkRwZC1EMU92bUpqX2tadk1EUjI1R0tVVmdRTGNXcEZoajFtcHFuMjBTdXEyeWNfVk5EcVZSWnB0Q29pNk9rSy10WlY2ZkNtMTZvUktBdkZZbjhyNmlsNTNiN01jRmE4MFRiNzdrdERwbE9MdXR4ZDdURlNLTllDd3VjM0xKMGZpQ2VWSWQyWVYtQmpiclRvUk12cTNYaU1oME8xMmpISVNYVERvVnl6bzF1aklINmMwRGZ1TEkwX0dSc2t2ZlR5WXpyTThHY0NuYjRVXzVLUkI2UjZpYXBuX0Yza1MwR2hoWkpJSkhOX2FnSmIw%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FSoliloquy084%26app%3Ddesktop%26feature%3Div%26hl%3Den%26action_handle_signin%3Dtrue\u0026hl=en\u0026passive=true&quot;,&quot;subscribeCount&quot;:&quot;65K&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;65K&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;image_width&quot;:38,&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UCOU-cHVIJhJ9JAeg2ZIIrRg&quot;,&quot;num_subscribers&quot;:&quot;65850&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;544046e5-0000-22cf-9fc0-001a113f8e50&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCIuA4q3p7d8CFYMogwodUJkHRij4HTICaXZIueeXnI-8__cC&quot;,&quot;ei&quot;:&quot;Sso8XIuzI4PRjATQsp6wBA&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;Au_94POF87k&quot;},&quot;image_height&quot;:41,&quot;channel_name&quot;:&quot;Soliloquy&quot;,&quot;image_type&quot;:1,&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/OU-cHVIJhJ9JAeg2ZIIrRg\/featured_channel.jpg?v=54441f51&quot;,&quot;end_ms&quot;:196000,&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Soliloquy084"/>
+  </action>
+</annotation></annotations></document>

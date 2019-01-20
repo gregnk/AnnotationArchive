@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIrc-PjNnt3wIVj7wNCh3XHgpCKPgdMgJpdkiY4rPqx-O7s6AB">
+<annotation id="annotation_100168" type="highlight" log_data="ei=Pbk8XO28A4_5Nte9qJAE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FApproachingNirvana&amp;a-v=oGbvHH1M8Rg&amp;xble=1&amp;a-id=annotation_100168&amp;a-type=3&amp;l-class=3" itct="CAEQs-UBGP___________wEiEwitz4-M2e3fAhWPvA0KHdceCkIo-B0yAml2SJjis-rH47uzoAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="90.55600" w="40.93800" h="9.44400" t="0:03:16.4"/>
+      <rectRegion x="0.00000" y="90.55600" w="40.93800" h="9.44400" t="0:03:39.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/ApproachingNirvana?annotation_id=annotation_100168&amp;ei=Pbk8XO28A4_5Nte9qJAE&amp;feature=iv&amp;src_vid=oGbvHH1M8Rg" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_20000" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_863380">
+    <movingRegion type="rect">
+      <rectRegion x="-0.93700" y="-24.44400" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="-0.93700" y="-24.44400" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_863380" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_451628" type="highlight" log_data="ei=Pbk8XO28A4_5Nte9qJAE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dmcspotlights&amp;a-v=oGbvHH1M8Rg&amp;xble=1&amp;a-id=annotation_451628&amp;a-type=3&amp;l-class=5" itct="CAIQs-UBGP___________wEiEwitz4-M2e3fAhWPvA0KHdceCkIo-B0yAml2SJjis-rH47uzoAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="47.34400" y="72.77800" w="50.31300" h="16.94400" t="0:03:16.4"/>
+      <rectRegion x="47.34400" y="72.77800" w="50.31300" h="16.94400" t="0:03:39.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=mcspotlights&amp;annotation_id=annotation_451628&amp;ei=Pbk8XO28A4_5Nte9qJAE&amp;feature=iv&amp;src_vid=oGbvHH1M8Rg" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_733530" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_451628">
+    <movingRegion type="rect">
+      <rectRegion x="-34.53100" y="-72.77800" w="62.81300" h="4.44400" t="never"/>
+      <rectRegion x="-34.53100" y="-72.77800" w="62.81300" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_451628" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_796105" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_951542">
+    <movingRegion type="rect">
+      <rectRegion x="15.00000" y="-24.44400" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="15.00000" y="-24.44400" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_951542" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_863380" type="highlight" log_data="ei=Pbk8XO28A4_5Nte9qJAE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DklfUos-x0Eo&amp;a-v=oGbvHH1M8Rg&amp;xble=1&amp;a-id=annotation_863380&amp;a-type=3&amp;l-class=1" itct="CAMQs-UBGP___________wEiEwitz4-M2e3fAhWPvA0KHdceCkIo-B0yAml2SJjis-rH47uzoAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.43800" y="24.44400" w="41.40600" h="44.44400" t="0:03:16.4"/>
+      <rectRegion x="53.43800" y="24.44400" w="41.40600" h="44.44400" t="0:03:39.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_863380&amp;ei=Pbk8XO28A4_5Nte9qJAE&amp;feature=iv&amp;src_vid=oGbvHH1M8Rg&amp;v=klfUos-x0Eo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_908808" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_100168">
+    <movingRegion type="rect">
+      <rectRegion x="11.25000" y="-90.55600" w="86.87500" h="4.44400" t="never"/>
+      <rectRegion x="11.25000" y="-90.55600" w="86.87500" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_100168" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_951542" type="highlight" log_data="ei=Pbk8XO28A4_5Nte9qJAE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3LyvShHXsoQ&amp;a-v=oGbvHH1M8Rg&amp;xble=1&amp;a-id=annotation_951542&amp;a-type=3&amp;l-class=1" itct="CAQQs-UBGP___________wEiEwitz4-M2e3fAhWPvA0KHdceCkIo-B0yAml2SJjis-rH47uzoAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.15600" y="24.44400" w="41.40600" h="44.44400" t="0:03:16.4"/>
+      <rectRegion x="5.15600" y="24.44400" w="41.40600" h="44.44400" t="0:03:39.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_951542&amp;ei=Pbk8XO28A4_5Nte9qJAE&amp;feature=iv&amp;src_vid=oGbvHH1M8Rg&amp;v=3LyvShHXsoQ" link_class="1"/>
+  </action>
+
+</annotation>
+</annotations></document>

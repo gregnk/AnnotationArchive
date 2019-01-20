@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI2Yb04Nrt3wIVF6GCCh3Asgc-KPgdMgJpdkjWlpWP--iU2MsB">
+<annotation id="annotation_20618" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_249420">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="3.88900" w="25.00000" h="6.38900" t="never"/>
+      <rectRegion x="0.00000" y="3.88900" w="25.00000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_249420" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_213568" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_213568&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="CAEQs-UBGP___________wEiEwjZhvTg2u3fAhUXoYIKHcCyBz4o-B0yAml2SNaWlY_76JTYywE">
+  <TEXT>Strings take over here and step up slowly. Brass growls low down</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="51.25000" y="29.72200" w="28.90600" h="16.38900" sx="65.625" sy="48.3330001831" t="00:00:18.3"/>
+      <anchoredRegion x="51.25000" y="29.72200" w="28.90600" h="16.38900" sx="65.625" sy="48.3330001831" t="00:00:23.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_231612" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_231612&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="CAIQs-UBGP___________wEiEwjZhvTg2u3fAhUXoYIKHcCyBz4o-B0yAml2SNaWlY_76JTYywE">
+  <TEXT>Choir being brought into the main melody now to add a little variation this time round and build up to the end</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="44.68800" y="28.61100" w="40.31300" h="16.38900" sx="69.375" sy="47.2220001221" t="00:01:33.2"/>
+      <anchoredRegion x="44.68800" y="28.61100" w="40.31300" h="16.38900" sx="69.375" sy="47.2220001221" t="00:01:41.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_238867" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_238867&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="CAMQs-UBGP___________wEiEwjZhvTg2u3fAhUXoYIKHcCyBz4o-B0yAml2SNaWlY_76JTYywE">
+  <TEXT>Bringing in the choir to make this repeat a little more interesting</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="44.84400" y="24.16700" w="41.40600" h="19.44400" sx="59.21900177" sy="45.8330001831" t="00:00:57.4"/>
+      <anchoredRegion x="44.84400" y="24.16700" w="41.40600" h="19.44400" sx="59.21900177" sy="45.8330001831" t="00:01:02.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_249420" type="highlight" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_249420&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Ddummeh&amp;a-v=y7BTR7HlS1Y&amp;l-class=5&amp;xble=1" itct="CAQQs-UBGP___________wEiEwjZhvTg2u3fAhUXoYIKHcCyBz4o-B0yAml2SNaWlY_76JTYywE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.50000" y="2.77800" w="25.31300" h="14.16700" t="00:00:00.0"/>
+      <rectRegion x="37.50000" y="2.77800" w="25.31300" h="14.16700" t="00:01:59.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=dummeh&amp;annotation_id=annotation_249420&amp;ei=-7o8XJmdEpfCigTA5Z7wAw&amp;feature=iv&amp;src_vid=y7BTR7HlS1Y" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_255851" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_255851&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="CAUQs-UBGP___________wEiEwjZhvTg2u3fAhUXoYIKHcCyBz4o-B0yAml2SNaWlY_76JTYywE">
+  <TEXT>Strong brass plays the intro with ripping woodwinds. Melodic percussion dings in for reinforcement</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="51.87500" y="28.33300" w="28.43800" h="20.55600" sx="66.25" sy="51.111000061" t="00:00:02.4"/>
+      <anchoredRegion x="51.87500" y="28.33300" w="28.43800" h="20.55600" sx="66.25" sy="51.111000061" t="00:00:06.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_266041" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_266041&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="CAYQs-UBGP___________wEiEwjZhvTg2u3fAhUXoYIKHcCyBz4o-B0yAml2SNaWlY_76JTYywE">
+  <TEXT>Strings come in and double the horns to reinforce the main motif.
+
+On the repeat our horns play an awesome counter melody to add a little variation</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="46.56300" y="20.55600" w="36.25000" h="28.88900" sx="67.03099823" sy="51.6669998169" t="00:00:48.5"/>
+      <anchoredRegion x="46.56300" y="20.55600" w="36.25000" h="28.88900" sx="67.03099823" sy="51.6669998169" t="00:00:56.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_298256" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_298256&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="CAcQs-UBGP___________wEiEwjZhvTg2u3fAhUXoYIKHcCyBz4o-B0yAml2SNaWlY_76JTYywE">
+  <TEXT>This is now a simple repeat. The brass is thickened a little with woods in the background but it&#39;s mostly the same as before</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="45.00000" y="26.11100" w="43.12500" h="16.38900" sx="67.96900177" sy="44.7220001221" t="00:01:17.5"/>
+      <anchoredRegion x="45.00000" y="26.11100" w="43.12500" h="16.38900" sx="67.96900177" sy="44.7220001221" t="00:01:25.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_330652" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_330652&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="CAgQs-UBGP___________wEiEwjZhvTg2u3fAhUXoYIKHcCyBz4o-B0yAml2SNaWlY_76JTYywE">
+  <TEXT>High winds in a marching rhythm counter the brass.
+
+Trumpets provide bursts of staccatos at the end of bars to thicken the sound</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="51.87500" y="20.83300" w="28.75000" h="28.88900" sx="66.25" sy="51.9440002441" t="00:00:42.8"/>
+      <anchoredRegion x="51.87500" y="20.83300" w="28.75000" h="28.88900" sx="66.25" sy="51.9440002441" t="00:00:47.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_36126" type="text" style="popup" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_36126&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAJYSkOV0ufE&amp;a-v=y7BTR7HlS1Y&amp;l-class=1&amp;xble=1" itct="CAkQs-UBGP___________wEiEwjZhvTg2u3fAhUXoYIKHcCyBz4o-B0yAml2SNaWlY_76JTYywE">
+  <TEXT>More Zelda OoT!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="78.43800" y="7.77800" w="20.31300" h="8.05600" t="00:00:00.0"/>
+      <rectRegion x="78.43800" y="7.77800" w="20.31300" h="8.05600" t="00:01:59.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_36126&amp;ei=-7o8XJmdEpfCigTA5Z7wAw&amp;feature=iv&amp;src_vid=y7BTR7HlS1Y&amp;v=AJYSkOV0ufE" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_390591" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_390591&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="">
+  <TEXT>And we&#39;re near the end now.
+
+Thanks for listening! If you enjoyed feel free to like/fav/subscribe.
+
+Check out my channel and page for many more Sonic orchestrations as well as other games and original music</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="34.84400" y="19.44400" w="61.09400" h="28.88900" sx="65.93800354" sy="50.5559997559" t="00:01:43.1"/>
+      <anchoredRegion x="34.84400" y="19.44400" w="61.09400" h="28.88900" sx="65.93800354" sy="50.5559997559" t="00:01:59.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_467765" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_467765&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="">
+  <TEXT>Back into the main melody with the brass tooting the interlude</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="52.03100" y="29.72200" w="28.28100" h="16.38900" sx="66.40599823" sy="48.3330001831" t="00:01:12.9"/>
+      <anchoredRegion x="52.03100" y="29.72200" w="28.28100" h="16.38900" sx="66.40599823" sy="48.3330001831" t="00:01:16.6"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_63084" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_63084&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="">
+  <TEXT>Onto the repeat. This time lower horns and trombones provide a sustained brass accompaniment. Strings double the horns for the lead melody for variation</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="45.62500" y="26.66700" w="39.37500" h="20.55600" sx="66.56300354" sy="49.4440002441" t="00:00:23.8"/>
+      <anchoredRegion x="45.62500" y="26.66700" w="39.37500" h="20.55600" sx="66.56300354" sy="49.4440002441" t="00:00:31.3"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_639102" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_639102&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="">
+  <TEXT>They&#39;re chanting that robotnik sucks in Latin. 8dio&#39;s Requiem Pro used for the chants (awesome library for epic choir!)</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="49.21900" y="30.55600" w="38.43800" h="16.38900" sx="63.59400177" sy="49.1669998169" t="00:01:03.3"/>
+      <anchoredRegion x="49.21900" y="30.55600" w="38.43800" h="16.38900" sx="63.59400177" sy="49.1669998169" t="00:01:12.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_724438" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_724438&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="">
+  <TEXT>The main part kicks in. Horns play our lead melody while the trombones back us up with staccatos.
+
+Woodwinds rip up and down to add mayhem and crazy</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="51.09400" y="9.16700" w="28.75000" h="33.05600" sx="65.46900177" sy="44.4440002441" t="00:00:07.2"/>
+      <anchoredRegion x="51.09400" y="9.16700" w="28.75000" h="33.05600" sx="65.46900177" sy="44.4440002441" t="00:00:12.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_823678" type="text" style="popup" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_823678&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP2qWT3XfJFs&amp;a-v=y7BTR7HlS1Y&amp;l-class=1&amp;xble=1" itct="">
+  <TEXT>Zelda OoT</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.25000" y="7.22200" w="15.31300" h="8.05600" t="00:00:00.0"/>
+      <rectRegion x="1.25000" y="7.22200" w="15.31300" h="8.05600" t="00:01:59.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_823678&amp;ei=-7o8XJmdEpfCigTA5Z7wAw&amp;feature=iv&amp;src_vid=y7BTR7HlS1Y&amp;v=P2qWT3XfJFs" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_919203" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_919203&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="">
+  <TEXT>The timpani is swamped a little in this mix. If I tackled the piece again I&#39;d definitely change that</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="47.34400" y="28.88900" w="34.06300" h="16.66700" sx="65.0" sy="47.7779998779" t="00:00:32.0"/>
+      <anchoredRegion x="47.34400" y="28.88900" w="34.06300" h="16.66700" sx="65.0" sy="47.7779998779" t="00:00:37.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_939933" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_939933&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="">
+  <TEXT>String staccatos give us our accompaniment. Violins and violas play together to add a sharp ostinato</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="51.09400" y="24.16700" w="28.43800" h="20.55600" sx="65.46900177" sy="46.9440002441" t="00:00:12.8"/>
+      <anchoredRegion x="51.09400" y="24.16700" w="28.43800" h="20.55600" sx="65.46900177" sy="46.9440002441" t="00:00:17.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_956290" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_956290&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="">
+  <TEXT>And now into the alternative. This part also feels a little muddy but that is the nature of working with an orchestra. Trumpets blast the repeat as we move into the bridge</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="44.53100" y="28.33300" w="39.06300" h="20.55600" sx="67.65599823" sy="51.111000061" t="00:00:37.4"/>
+      <anchoredRegion x="44.53100" y="28.33300" w="39.06300" h="20.55600" sx="67.65599823" sy="51.111000061" t="00:00:42.4"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_961914" type="text" style="anchored" log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=annotation_961914&amp;xble=1&amp;a-type=8&amp;a-v=y7BTR7HlS1Y" itct="">
+  <TEXT>Woodwind rips throughout have been adding a hectic/mayhem feel to the accompaniment</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="46.56300" y="28.33300" w="35.78100" h="16.38900" sx="68.125" sy="46.9440002441" t="00:01:26.5"/>
+      <anchoredRegion x="46.56300" y="28.33300" w="35.78100" h="16.38900" sx="68.125" sy="46.9440002441" t="00:01:32.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="channel:57434c17-0000-24ba-b463-94eb2c057d58" style="branding" type="branding"
+            log_data="ei=-7o8XJmdEpfCigTA5Z7wAw&amp;a-id=57434c17-0000-24ba-b463-94eb2c057d58&amp;a-type=10&amp;link-id=UCQOm3j7QTQqAJVCyiCNOXBA&amp;a-v=y7BTR7HlS1Y&amp;a-ch=UCQOm3j7QTQqAJVCyiCNOXBA&amp;l-class=3&amp;xble=0">
+  <data>{&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;139K&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;139K&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026uilel=3\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26app%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fdummeh%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbGIwcEY0MVljMmp3Qk5tZkVBMGN5eVdZMTNZUXxBQ3Jtc0tuTVVhX01CTnZrTURjNmVxQVJ2d2xzU004MW85VnB4b1NyRjlvbnBERnkyYm10X002WEdPZEw0cVB3UzI0RDA1OS1qdkxsVjhkaGtDalpsX3RBMVVYTm5YRlpOTUVGcDZEVUQtUkRGOXVqaHRUS0lFRC1iM0ZaVG1zb0FCMGdiSG1pY285clNXcm5LSXIwMVlkZ3puakdQLTFWZURfQk93eWprY3hJb2dPZFNNamx4VU5zVmV5VGRVUHJUaWxRbFo1SHdDNUtwRVN5VDN6RUhnQkloeTJLRzNWQ3hhTXd3VXJKS3V1OG1tZllnTFZvUWZ3\u0026service=youtube&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;enabled&quot;:false},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;The Synthetic Orchestra&quot;,&quot;image_width&quot;:49,&quot;channel_id&quot;:&quot;UCQOm3j7QTQqAJVCyiCNOXBA&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;57434c17-0000-24ba-b463-94eb2c057d58&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;-7o8XJmdEpfCigTA5Z7wAw&quot;,&quot;itct&quot;:&quot;CAoQ8zcY____________ASITCNmG9ODa7d8CFRehggodwLIHPij4HTICaXZI1paVj_volNjLAQ&quot;,&quot;src_vid&quot;:&quot;y7BTR7HlS1Y&quot;},&quot;end_ms&quot;:120000,&quot;num_subscribers&quot;:&quot;139144&quot;,&quot;is_mobile&quot;:false,&quot;start_ms&quot;:105000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/QOm3j7QTQqAJVCyiCNOXBA\/featured_channel.jpg?v=5748ca45&quot;,&quot;image_height&quot;:27,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/dummeh"/>
+  </action>
+</annotation></annotations></document>

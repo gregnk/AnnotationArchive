@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIzsKfltrt3wIVGakDCh1JNQOoKPgdMgJpdkigvdS-4s7UyAk">
+<annotation id="annotation_155730" type="highlight" log_data="a-id=annotation_155730&amp;a-v=CZFSdifVHqA&amp;a-type=3&amp;xble=1&amp;ei=Xro8XM6bLJnSDsnqjMAK" itct="CAEQs-UBGP___________wEiEwjOwp-W2u3fAhUZqQMKHUk1A6go-B0yAml2SKC91L7iztTICQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="22.96900" y="3.61100" w="27.34400" h="31.94400" t="0:01:07.1"/>
+      <rectRegion x="22.96900" y="3.61100" w="27.34400" h="31.94400" t="0:01:13.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+</annotation>
+
+<annotation id="annotation_356152" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_432549">
+    <movingRegion type="rect">
+      <rectRegion x="1.40600" y="12.22200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="1.40600" y="12.22200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_432549" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_432549" type="highlight" log_data="a-id=annotation_432549&amp;a-type=3&amp;a-v=CZFSdifVHqA&amp;ei=Xro8XM6bLJnSDsnqjMAK&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXO0IKUsGiG8&amp;xble=1&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwjOwp-W2u3fAhUZqQMKHUk1A6go-B0yAml2SKC91L7iztTICQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="51.56300" y="3.61100" w="27.81300" h="31.94400" t="0:01:07.1"/>
+      <rectRegion x="51.56300" y="3.61100" w="27.81300" h="31.94400" t="0:01:13.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_432549&amp;ei=Xro8XM6bLJnSDsnqjMAK&amp;feature=iv&amp;src_vid=CZFSdifVHqA&amp;v=XO0IKUsGiG8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_644400" type="highlight" log_data="a-id=annotation_644400&amp;a-type=3&amp;a-v=CZFSdifVHqA&amp;ei=Xro8XM6bLJnSDsnqjMAK&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dmcspotlights&amp;xble=1&amp;l-class=5" itct="CAMQs-UBGP___________wEiEwjOwp-W2u3fAhUZqQMKHUk1A6go-B0yAml2SKC91L7iztTICQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="29.06300" y="47.77800" w="41.87500" h="23.61100" t="0:01:07.1"/>
+      <rectRegion x="29.06300" y="47.77800" w="41.87500" h="23.61100" t="0:01:13.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=mcspotlights&amp;annotation_id=annotation_644400&amp;ei=Xro8XM6bLJnSDsnqjMAK&amp;feature=iv&amp;src_vid=CZFSdifVHqA" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_691887" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Available Soon!</TEXT>
+  <segment spaceRelative="annotation_155730">
+    <movingRegion type="rect">
+      <rectRegion x="0.93800" y="12.22200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.93800" y="12.22200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_155730" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_705473" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_644400">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_644400" state="rollOver"/>
+  </trigger>
+</annotation>
+</annotations></document>

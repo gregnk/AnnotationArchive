@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3ZTksvPt3wIVUR0DCh2miw9zKPgdMgJpdki86Ju2ioPSz2Q">
+<annotation id="annotation_1072038339" type="highlight" log_data="xble=1&amp;ei=0dQ8XJ3oG9G6DKaXvpgH&amp;a-v=ZJ9IGKbG9Dw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYTGcPfZdOfo%26list%3DPLIuI51kF0nGulo_oDZ2KOhltyvn0eywZw%26index%3D41&amp;l-class=1&amp;a-id=annotation_1072038339&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjdlOSy8-3fAhVRHQMKHaaLD3Mo-B0yAml2SLzom7aKg9LPZA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.40700" y="21.69000" w="36.72700" h="46.08500" t="2:32.000"/>
+      <rectRegion x="53.40700" y="21.69000" w="36.72700" h="46.08500" t="2:38.440"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="13762179" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1072038339&amp;ei=0dQ8XJ3oG9G6DKaXvpgH&amp;feature=iv&amp;index=41&amp;list=PLIuI51kF0nGulo_oDZ2KOhltyvn0eywZw&amp;src_vid=ZJ9IGKbG9Dw&amp;v=YTGcPfZdOfo" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1586312829" type="highlight" log_data="xble=1&amp;ei=0dQ8XJ3oG9G6DKaXvpgH&amp;a-v=ZJ9IGKbG9Dw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De59Nwbb0AF8%26list%3DPLIuI51kF0nGulo_oDZ2KOhltyvn0eywZw%26index%3D18&amp;l-class=1&amp;a-id=annotation_1586312829&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjdlOSy8-3fAhVRHQMKHaaLD3Mo-B0yAml2SLzom7aKg9LPZA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.34800" y="21.76700" w="36.72700" h="45.52100" t="2:32.000"/>
+      <rectRegion x="11.34800" y="21.76700" w="36.72700" h="45.52100" t="2:38.440"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="13762179" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1586312829&amp;ei=0dQ8XJ3oG9G6DKaXvpgH&amp;feature=iv&amp;index=18&amp;list=PLIuI51kF0nGulo_oDZ2KOhltyvn0eywZw&amp;src_vid=ZJ9IGKbG9Dw&amp;v=e59Nwbb0AF8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1686042097" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Thanks!</TEXT>
+  <segment spaceRelative="annotation_642179317">
+    <movingRegion type="rect">
+      <rectRegion x="27.10800" y="-4.60600" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="27.10800" y="-4.60600" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_642179317" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1700161881" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Assassination of Pope John Paul I</TEXT>
+  <segment spaceRelative="annotation_1586312829">
+    <movingRegion type="rect">
+      <rectRegion x="4.12000" y="46.47900" w="30.07100" h="5.55700" t="never"/>
+      <rectRegion x="4.12000" y="46.47900" w="30.07100" h="5.55700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_1586312829" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_521973067" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>????????????????????</TEXT>
+  <segment spaceRelative="annotation_1072038339">
+    <movingRegion type="rect">
+      <rectRegion x="5.70500" y="46.47900" w="22.94000" h="3.94400" t="never"/>
+      <rectRegion x="5.70500" y="46.47900" w="22.94000" h="3.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_1072038339" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_642179317" type="highlight" log_data="xble=1&amp;ei=0dQ8XJ3oG9G6DKaXvpgH&amp;a-v=ZJ9IGKbG9Dw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Falltimeconspiracies%3Fsub_confirmation%3D1&amp;l-class=5&amp;a-id=annotation_642179317&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwjdlOSy8-3fAhVRHQMKHaaLD3Mo-B0yAml2SLzom7aKg9LPZA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="11.08600" y="73.62000" w="79.68300" h="26.38000" t="2:32.000"/>
+      <rectRegion x="11.08600" y="73.62000" w="79.68300" h="26.38000" t="2:38.440"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="13762179" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/alltimeconspiracies?annotation_id=annotation_642179317&amp;ei=0dQ8XJ3oG9G6DKaXvpgH&amp;feature=iv&amp;src_vid=ZJ9IGKbG9Dw&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:55d03e4f-0000-2906-8ae9-001a114e4d44" style="branding" type="branding"
+            log_data="a-v=ZJ9IGKbG9Dw&amp;ei=0dQ8XJ3oG9G6DKaXvpgH&amp;xble=0&amp;link-id=UCPZiqlNI3RLyF47QTdq93GQ&amp;a-ch=UCPZiqlNI3RLyF47QTdq93GQ&amp;l-class=3&amp;a-id=55d03e4f-0000-2906-8ae9-001a114e4d44&amp;a-type=10">
+  <data>{&quot;is_mobile&quot;:false,&quot;start_ms&quot;:0,&quot;end_ms&quot;:159000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_id&quot;:&quot;UCPZiqlNI3RLyF47QTdq93GQ&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/PZiqlNI3RLyF47QTdq93GQ\/featured_channel.jpg?v=55dae327&quot;,&quot;num_subscribers&quot;:&quot;1768252&quot;,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;channel_name&quot;:&quot;Alltime Conspiracies&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;55d03e4f-0000-2906-8ae9-001a114e4d44&quot;,&quot;ei&quot;:&quot;0dQ8XJ3oG9G6DKaXvpgH&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;ZJ9IGKbG9Dw&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCN2U5LLz7d8CFVEdAwodposPcyj4HTICaXZIvOibtoqD0s9k&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;1.7M&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;1.7M&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbHM2MDBfWkdQZDN5UWtnTzN2MFptbE03ZGc2d3xBQ3Jtc0tsVElXN2xUSDA4aWtzbTd5LWYtWl9VdEFfWk1SVXRReml2REo0RnZ1eEJGU09ZOFlnNVZQd2w1YjZvRzhwWUpZc0ZuOTFZbUxiOUxucjZDb0FUTWRMcEVvWjBTNkViZDNoM2MzbzBfVVNHTEFKdGo4dk5kYTVwMWVLdzFaaVM5R3lSWFd6NGdUcnN2WmRFV0RKTl9DRnhLM0Item1zSFVJT0F6emVEVWtUalNlUGwtTEJjaFhYVFNDdWdaTnhDNEhKb3lpcmR5Yjl4SVY1aEF4S2FDRWNQTk1OdDNTV3hHeW9MWGcyWktLaUFPWUdnTTlj%26action_handle_signin%3Dtrue%26hl%3Den%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FAlltimeConspiracies%26feature%3Div\u0026hl=en\u0026passive=true&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;image_type&quot;:1,&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/AlltimeConspiracies"/>
+  </action>
+</annotation>
+<annotation id="video:74c113df-bcbc-4c3d-a2db-bd23dfe037da" style="playlist" type="card" log_data="a-ch=UCPZiqlNI3RLyF47QTdq93GQ&amp;a-id=74c113df-bcbc-4c3d-a2db-bd23dfe037da&amp;a-type=63&amp;a-v=ZJ9IGKbG9Dw&amp;ei=0dQ8XJ3oG9G6DKaXvpgH&amp;l-class=2&amp;link-id=PLIuI51kF0nGvTGsHjShf6NPr3euSmmehf&amp;xble=0">
+  <data>{&quot;teaser_text&quot;:&quot;Suggested: Assassination Conspiracies&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;playlist_video_count&quot;:&quot;15&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:149000,&quot;start_ms&quot;:149000,&quot;title&quot;:&quot;Assassination Conspiracies&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/40Xhz7gU_yA\/mqdefault.jpg&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAkQ1TYY____________ASITCN2U5LLz7d8CFVEdAwodposPcyj4HTIFY2FyZHNIvOibtoqD0s9k&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwjdlOSy8-3fAhVRHQMKHaaLD3Mo-B0yBWNhcmRzSLzom7aKg9LPZA&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCN2U5LLz7d8CFVEdAwodposPcyj4HTIFY2FyZHNIvOibtoqD0s9k&quot;},&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;74c113df-bcbc-4c3d-a2db-bd23dfe037da&quot;,&quot;ei&quot;:&quot;0dQ8XJ3oG9G6DKaXvpgH&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;ZJ9IGKbG9Dw&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCN2U5LLz7d8CFVEdAwodposPcyj4HTIFY2FyZHNIvOibtoqD0s9k&quot;},&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;by Alltime Conspiracies&quot;,&quot;15 videos&quot;],&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=40Xhz7gU_yA\u0026list=PLIuI51kF0nGvTGsHjShf6NPr3euSmmehf&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=40Xhz7gU_yA&amp;list=PLIuI51kF0nGvTGsHjShf6NPr3euSmmehf"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCN2U5LLz7d8CFVEdAwodposPcyj4HTIFY2FyZHNIvOibtoqD0s9k&quot;, 
+  &quot;headerText&quot;: &quot;From Alltime Conspiracies&quot;, 
+  &quot;eventId&quot;: &quot;0dQ8XJ3oG9G6DKaXvpgH&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwjdlOSy8+3fAhVRHQMKHaaLD3Mo+B0yBWNhcmRzSLzom7aKg9LPZA==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwjdlOSy8+3fAhVRHQMKHaaLD3Mo+B0yBWNhcmRzSLzom7aKg9LPZA==&quot;
+}</data>
+</annotation>
+</annotations></document>

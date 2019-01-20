@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI6vX2sert3wIVB0swCh2P2QdPKPgdMgJpdkif-O_89sCzwSk">
+<annotation id="annotation_330222" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_39123">
+    <movingRegion type="rect">
+      <rectRegion x="2.81300" y="13.33300" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="2.81300" y="13.33300" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_39123" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_39123" type="highlight" log_data="a-v=KYLOB2-b_B8&amp;xble=1&amp;a-id=annotation_39123&amp;a-type=3&amp;ei=X8s8XKrKLYeWwQGPs5_4BA" itct="CAEQs-UBGP___________wEiEwjq9fax6u3fAhUHSzAKHY_ZB08o-B0yAml2SJ_47_z2wLPBKQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="56.71900" y="32.22200" w="30.46900" h="15.00000" t="0:03:59.3"/>
+      <rectRegion x="56.71900" y="32.22200" w="30.46900" h="15.00000" t="0:04:04.7"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+</annotation>
+
+<annotation id="channel:58b64c55-0000-2d6d-a5ce-94eb2c0853b6" style="branding" type="branding"
+            log_data="a-v=KYLOB2-b_B8&amp;link-id=UCwd_sSDZ8EQt6SEeOO2tBRA&amp;xble=0&amp;a-id=58b64c55-0000-2d6d-a5ce-94eb2c0853b6&amp;a-type=10&amp;ei=X8s8XKrKLYeWwQGPs5_4BA&amp;a-ch=UCwd_sSDZ8EQt6SEeOO2tBRA&amp;l-class=3">
+  <data>{&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;58b64c55-0000-2d6d-a5ce-94eb2c0853b6&quot;,&quot;src_vid&quot;:&quot;KYLOB2-b_B8&quot;,&quot;ei&quot;:&quot;X8s8XKrKLYeWwQGPs5_4BA&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCOr19rHq7d8CFQdLMAodj9kHTyj4HTICaXZIn_jv_PbAs8Ep&quot;},&quot;is_mobile&quot;:false,&quot;start_ms&quot;:5000,&quot;channel_id&quot;:&quot;UCwd_sSDZ8EQt6SEeOO2tBRA&quot;,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;end_ms&quot;:267000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;Terrence Popp&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/wd_sSDZ8EQt6SEeOO2tBRA\/featured_channel.jpg?v=58caad4a&quot;,&quot;num_subscribers&quot;:&quot;83243&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;83K&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026hl=en\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqa2JpZ3lRMklZZmdsVV9GdUxfZkdfUWxCc2NPZ3xBQ3Jtc0tuVmRqTkZ1c0hSQktGN1U1RGtWc2s1VmdwUFpVU0p0TWVfSTZNSU5NOHdrbnh2ZnlhVThQbmZUSk9NVlVqcE9DdlVDWS1pNW56VWswU3cwcDdDYUo4eFhvM01ESzNMbmdyenJZMTBJQXFWSmpYUU5PV185RTRxWmtEUVNQalhjbFZxR1RBNmp5RjR5Snl0eTEzQ1lNd1JhUi1YY3R4eF83N0JIXzNCdkVHRzBnQkVLejJjY3hJZzdRQWVjamRxeE82dE5RSTJtdjhCYnAwYmxCSzlCRk5MZnFyWXduVWlkX3k0RGxLaEhJNFNXSzN2RTgw%26hl%3Den%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fredonkulaspopp%26app%3Ddesktop%26action_handle_signin%3Dtrue&quot;,&quot;subscribeCount&quot;:&quot;83K&quot;},&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/redonkulaspopp"/>
+  </action>
+</annotation></annotations></document>

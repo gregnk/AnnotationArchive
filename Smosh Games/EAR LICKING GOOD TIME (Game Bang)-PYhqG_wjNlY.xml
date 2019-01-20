@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIybybpfLt3wIVx1ADCh1hrgLbKPgdMgJpdkjW7Izhv8OaxD0">
+<annotation id="annotation_126508465" type="text" style="popup" log_data="a-type=1&amp;a-v=PYhqG_wjNlY&amp;l-class=1&amp;a-id=annotation_126508465&amp;xble=1&amp;ei=qNM8XMnIIsehDeHcitgN&amp;link=http%3A%2F%2Fyoutu.be%2F0STrJ1MfubY" itct="CAEQs-UBGP___________wEiEwjJvJul8u3fAhXHUAMKHWGuAtso-B0yAml2SNbsjOG_w5rEPQ">
+  <TEXT>&lt;&lt; Cloudberry Kingdom</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.84500" w="27.77300" h="7.76100" t="0:05.075"/>
+      <rectRegion x="0.00000" y="0.84500" w="27.77300" h="7.76100" t="0:45.800"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="9902361" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/0STrJ1MfubY?annotation_id=annotation_126508465&amp;ei=qNM8XMnIIsehDeHcitgN&amp;feature=iv&amp;src_vid=PYhqG_wjNlY" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2049573431" type="highlight" log_data="a-type=3&amp;a-v=PYhqG_wjNlY&amp;l-class=6&amp;a-id=annotation_2049573431&amp;xble=1&amp;ei=qNM8XMnIIsehDeHcitgN&amp;link=http%3A%2F%2Fsmosh.com%2Fsmoshgames%2Fimpossible-game-they-say-its-impossible-game-bang" itct="CAIQs-UBGP___________wEiEwjJvJul8u3fAhXHUAMKHWGuAtso-B0yAml2SNbsjOG_w5rEPQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="23.55000" y="24.83100" w="53.05100" h="53.42300" t="14:23.888"/>
+      <rectRegion x="23.55000" y="24.83100" w="53.05100" h="53.42300" t="14:47.200"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://smosh.com/smoshgames/impossible-game-they-say-its-impossible-game-bang" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2841812043" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2049573431">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="4.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_2049573431" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:27332028-dc0a-425f-82fd-d174c2fe88cf" style="branding" type="branding"
+            log_data="a-type=10&amp;link-id=UCJ2ZDzMRgSrxmwphstrm8Ww&amp;a-v=PYhqG_wjNlY&amp;l-class=3&amp;a-id=27332028-dc0a-425f-82fd-d174c2fe88cf&amp;xble=0&amp;a-ch=UCJ2ZDzMRgSrxmwphstrm8Ww&amp;ei=qNM8XMnIIsehDeHcitgN">
+  <data>{&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;image_height&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_id&quot;:&quot;UCJ2ZDzMRgSrxmwphstrm8Ww&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;7.3M&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;7.3M&quot;,&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=en\u0026passive=true\u0026service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FSmoshGames%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbl9xUm8zMGhQcHVRWXRKd1JSUU9jMm93NXRGUXxBQ3Jtc0tteU1lQ0psSmo2bk9Odjd3THBnWXh5NnpRWnNtbXJvSDFpWGoxX1dBcW5EbDRSOFZUQmRNd1ZoeDZtNWx5eWl6ajBsbEpkUWhWTy1KS09QNFBENk9EdjNkV3p4Q3J5VmQ2cHBHWFk1VkF2cXJudVhDYXpyOXp5U3I2VHRfcHR3aVhjZ2JqZ3JwYV9PNHN4U0hWc0Q4aXBSYy1jRXNNbkZpYnVCRjJPazFRcW5jSHBRU2dLcUp0TTVzY21KVGNCZWFjMnNqcVNOZmxlVDh6SE5VWmxTdGlybEtJcUFQTTgyem1waHNZTWcwcl9nVmhKVFNB%26app%3Ddesktop&quot;},&quot;end_ms&quot;:887000,&quot;start_ms&quot;:5000,&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;Smosh Games&quot;,&quot;num_subscribers&quot;:&quot;7398425&quot;,&quot;image_width&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/J2ZDzMRgSrxmwphstrm8Ww\/featured_channel.jpg?v=5b7f0aa2&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCMm8m6Xy7d8CFcdQAwodYa4C2yj4HTICaXZI1uyM4b_DmsQ9&quot;,&quot;src_vid&quot;:&quot;PYhqG_wjNlY&quot;,&quot;annotation_id&quot;:&quot;27332028-dc0a-425f-82fd-d174c2fe88cf&quot;,&quot;ei&quot;:&quot;qNM8XMnIIsehDeHcitgN&quot;,&quot;feature&quot;:&quot;iv&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/SmoshGames"/>
+  </action>
+</annotation></annotations></document>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI9NzN8Ont3wIVSauCCh39swk0KPgdMgJpdkjY1aPC3pCNgPUB">
+<annotation id="annotation_1372299991" type="highlight" log_data="ei=1so8XPSZLsnWigT956agAw&amp;xble=1&amp;a-type=3&amp;a-id=annotation_1372299991&amp;l-class=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq_dlMOtGKb8%26list%3DPLMEO4RH9mX-i_bVSB77vy7A4CYvI-mP0n%26index%3D4&amp;a-v=9QA0hehI6tg" itct="CAEQs-UBGP___________wEiEwj03M3w6e3fAhVJq4IKHf2zCTQo-B0yAml2SNjVo8LekI2A9QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.82100" y="24.76200" w="50.17900" h="51.58700" t="11:25.150"/>
+      <rectRegion x="4.82100" y="24.76200" w="50.17900" h="51.58700" t="12:04.509"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1372299991&amp;ei=1so8XPSZLsnWigT956agAw&amp;feature=iv&amp;index=4&amp;list=PLMEO4RH9mX-i_bVSB77vy7A4CYvI-mP0n&amp;src_vid=9QA0hehI6tg&amp;v=q_dlMOtGKb8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1603165903" type="highlight" log_data="ei=1so8XPSZLsnWigT956agAw&amp;xble=1&amp;a-type=3&amp;a-id=annotation_1603165903&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCg53HWQKuqaAV2u-Acwn7-g%3Fsub_confirmation%3D1&amp;a-v=9QA0hehI6tg" itct="CAIQs-UBGP___________wEiEwj03M3w6e3fAhVJq4IKHf2zCTQo-B0yAml2SNjVo8LekI2A9QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.53600" y="24.12700" w="40.00000" h="52.22200" t="11:25.150"/>
+      <rectRegion x="55.53600" y="24.12700" w="40.00000" h="52.22200" t="12:01.375"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCg53HWQKuqaAV2u-Acwn7-g?annotation_id=annotation_1603165903&amp;ei=1so8XPSZLsnWigT956agAw&amp;feature=iv&amp;src_vid=9QA0hehI6tg&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2483274253" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1372299991">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1372299991" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3619463347" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1603165903">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1603165903" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_382327369" type="highlight" log_data="ei=1so8XPSZLsnWigT956agAw&amp;xble=1&amp;a-type=3&amp;a-id=annotation_382327369&amp;l-class=5&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCg53HWQKuqaAV2u-Acwn7-g%3Fsub_confirmation%3D1&amp;a-v=9QA0hehI6tg" itct="CAMQs-UBGP___________wEiEwj03M3w6e3fAhVJq4IKHf2zCTQo-B0yAml2SNjVo8LekI2A9QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.00000" y="84.76200" w="85.00000" h="9.69900" t="2:33.303"/>
+      <rectRegion x="5.00000" y="84.76200" w="85.00000" h="9.69900" t="2:37.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCg53HWQKuqaAV2u-Acwn7-g?annotation_id=annotation_382327369&amp;ei=1so8XPSZLsnWigT956agAw&amp;feature=iv&amp;src_vid=9QA0hehI6tg&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_680132557" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_382327369">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_382327369" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:8058b1b3-aaee-4b74-9c20-0048db8c96a6" style="branding" type="branding"
+            log_data="ei=1so8XPSZLsnWigT956agAw&amp;xble=0&amp;a-type=10&amp;a-id=8058b1b3-aaee-4b74-9c20-0048db8c96a6&amp;a-ch=UCg53HWQKuqaAV2u-Acwn7-g&amp;l-class=3&amp;link-id=UCg53HWQKuqaAV2u-Acwn7-g&amp;a-v=9QA0hehI6tg">
+  <data>{&quot;channel_name&quot;:&quot;AlltimeGaming&quot;,&quot;is_mobile&quot;:false,&quot;use_standalone_subscribe_button&quot;:true,&quot;num_subscribers&quot;:&quot;401785&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_id&quot;:&quot;UCg53HWQKuqaAV2u-Acwn7-g&quot;,&quot;image_height&quot;:27,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26continue_action%3DQUFFLUhqa2ZWM3BvRmVfQmttc01qYW1PSnBnbzJmbGFyZ3xBQ3Jtc0trVU5ld0liSEMyOGJRQXBPdTVUMU15T3ZjUFVvN3d5TUd6cmE0cGlOWDFJQzFHVXVDQUllanRxZ2NJQkVEaEZHUjlDYllsVVc3Q1NwbnVyNWl5MXVndDFYX2Jtc1E5OFNVQmFka3NuUmw0MlN6N2VZYlpzYjEweXFBenpEazFJUTh6QUpBWFJSUTRKQzNmWXZlRzlHTEtYd2VXU29xdEQtdlp0VmZpRU5ESnMtc1pnN0xFM2VRaGRTZ0VvRUNDT25abVBZVnpJTEE3alQ3ckxkZ1R6MVh6bkx0NTloZ1FGT1lqVnA5bjMxX00yaElKZjVR%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCg53HWQKuqaAV2u-Acwn7-g%26action_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div\u0026uilel=3\u0026service=youtube\u0026hl=en&quot;,&quot;unsubscribeCount&quot;:&quot;401K&quot;,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeCount&quot;:&quot;401K&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;},&quot;start_ms&quot;:5000,&quot;image_type&quot;:1,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/g53HWQKuqaAV2u-Acwn7-g\/featured_channel.jpg?v=5ab50179&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;9QA0hehI6tg&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCPTczfDp7d8CFUmrggod_bMJNCj4HTICaXZI2NWjwt6QjYD1AQ&quot;,&quot;annotation_id&quot;:&quot;8058b1b3-aaee-4b74-9c20-0048db8c96a6&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;1so8XPSZLsnWigT956agAw&quot;},&quot;end_ms&quot;:725000,&quot;image_width&quot;:49}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCg53HWQKuqaAV2u-Acwn7-g"/>
+  </action>
+</annotation>
+<annotation id="video:a9e61836-6fd3-4b96-97c3-66b1776e1c66" style="video" type="card" log_data="a-ch=UCg53HWQKuqaAV2u-Acwn7-g&amp;a-id=a9e61836-6fd3-4b96-97c3-66b1776e1c66&amp;a-type=62&amp;a-v=9QA0hehI6tg&amp;ei=1so8XPSZLsnWigT956agAw&amp;l-class=1&amp;link-id=QW5LktoBMqc&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;by AlltimeGaming&quot;,&quot;10,252 views&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/QW5LktoBMqc\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: Star Wars: Battlefront | Is It Worth The Hype?! | Gameplay&quot;,&quot;title&quot;:&quot;Star Wars: Battlefront | Is It Worth The Hype?! | Gameplay&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=QW5LktoBMqc&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;video_duration&quot;:&quot;16:26&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCPTczfDp7d8CFUmrggod_bMJNCj4HTIFY2FyZHNI2NWjwt6QjYD1AQ&quot;,&quot;card&quot;:&quot;CAkQ1TYY____________ASITCPTczfDp7d8CFUmrggod_bMJNCj4HTIFY2FyZHNI2NWjwt6QjYD1AQ&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwj03M3w6e3fAhVJq4IKHf2zCTQo-B0yBWNhcmRzSNjVo8LekI2A9QE&quot;},&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;9QA0hehI6tg&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCPTczfDp7d8CFUmrggod_bMJNCj4HTIFY2FyZHNI2NWjwt6QjYD1AQ&quot;,&quot;annotation_id&quot;:&quot;a9e61836-6fd3-4b96-97c3-66b1776e1c66&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;1so8XPSZLsnWigT956agAw&quot;},&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;start_ms&quot;:104002,&quot;timestamp&quot;:1448991296196,&quot;teaser_duration_ms&quot;:7000,&quot;end_ms&quot;:104002,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=QW5LktoBMqc"/>
+  </action>
+</annotation>
+
+<annotation id="video:0e693540-9c83-4591-a632-8e4d55b14694" style="video" type="card" log_data="a-ch=UCg53HWQKuqaAV2u-Acwn7-g&amp;a-id=0e693540-9c83-4591-a632-8e4d55b14694&amp;a-type=62&amp;a-v=9QA0hehI6tg&amp;ei=1so8XPSZLsnWigT956agAw&amp;l-class=1&amp;link-id=HDC57o4WjD8&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;by AlltimeGaming&quot;,&quot;25,539 views&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/HDC57o4WjD8\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: Rise Of The Tomb Raider | Lara Is Brutal!&quot;,&quot;title&quot;:&quot;Rise Of The Tomb Raider | Lara Is Brutal!&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=HDC57o4WjD8&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;video_duration&quot;:&quot;16:04&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCPTczfDp7d8CFUmrggod_bMJNCj4HTIFY2FyZHNI2NWjwt6QjYD1AQ&quot;,&quot;card&quot;:&quot;CA0Q1TYY____________ASITCPTczfDp7d8CFUmrggod_bMJNCj4HTIFY2FyZHNI2NWjwt6QjYD1AQ&quot;,&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwj03M3w6e3fAhVJq4IKHf2zCTQo-B0yBWNhcmRzSNjVo8LekI2A9QE&quot;},&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;9QA0hehI6tg&quot;,&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCPTczfDp7d8CFUmrggod_bMJNCj4HTIFY2FyZHNI2NWjwt6QjYD1AQ&quot;,&quot;annotation_id&quot;:&quot;0e693540-9c83-4591-a632-8e4d55b14694&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;1so8XPSZLsnWigT956agAw&quot;},&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;start_ms&quot;:276585,&quot;timestamp&quot;:1448991302994,&quot;teaser_duration_ms&quot;:7000,&quot;end_ms&quot;:276585,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=HDC57o4WjD8"/>
+  </action>
+</annotation>
+
+<annotation id="video:2cd0a952-7a14-4948-9828-42652e65703f" style="video" type="card" log_data="a-ch=UCg53HWQKuqaAV2u-Acwn7-g&amp;a-id=2cd0a952-7a14-4948-9828-42652e65703f&amp;a-type=62&amp;a-v=9QA0hehI6tg&amp;ei=1so8XPSZLsnWigT956agAw&amp;l-class=1&amp;link-id=0XqoDAVZE48&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;by AlltimeGaming&quot;,&quot;15,850 views&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/0XqoDAVZE48\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: Fallout 4 | The Ultimate Game?!&quot;,&quot;title&quot;:&quot;Fallout 4 | The Ultimate Game?!&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=0XqoDAVZE48&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;video_duration&quot;:&quot;15:05&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBIQ0DYY____________ASITCPTczfDp7d8CFUmrggod_bMJNCj4HTIFY2FyZHNI2NWjwt6QjYD1AQ&quot;,&quot;card&quot;:&quot;CBEQ1TYY____________ASITCPTczfDp7d8CFUmrggod_bMJNCj4HTIFY2FyZHNI2NWjwt6QjYD1AQ&quot;,&quot;icon&quot;:&quot;CBMQsJcBGP___________wEiEwj03M3w6e3fAhVJq4IKHf2zCTQo-B0yBWNhcmRzSNjVo8LekI2A9QE&quot;},&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;9QA0hehI6tg&quot;,&quot;itct&quot;:&quot;CBEQ1TYY____________ASITCPTczfDp7d8CFUmrggod_bMJNCj4HTIFY2FyZHNI2NWjwt6QjYD1AQ&quot;,&quot;annotation_id&quot;:&quot;2cd0a952-7a14-4948-9828-42652e65703f&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;1so8XPSZLsnWigT956agAw&quot;},&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;start_ms&quot;:472531,&quot;timestamp&quot;:1448991313444,&quot;teaser_duration_ms&quot;:7000,&quot;end_ms&quot;:472531,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=0XqoDAVZE48"/>
+  </action>
+</annotation>
+
+<annotation id="video:22d73ccf-8260-4f9a-8b3f-2fc2a32ce15c" style="video" type="card" log_data="a-ch=UCg53HWQKuqaAV2u-Acwn7-g&amp;a-id=22d73ccf-8260-4f9a-8b3f-2fc2a32ce15c&amp;a-type=62&amp;a-v=9QA0hehI6tg&amp;ei=1so8XPSZLsnWigT956agAw&amp;l-class=1&amp;link-id=LdzUL7Tt19w&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;pause_on_navigation&quot;:true,&quot;meta_info&quot;:[&quot;by AlltimeGaming&quot;,&quot;6,882 views&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/LdzUL7Tt19w\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: STAR WARS Battlefront | Gameplay | All Game Modes&quot;,&quot;title&quot;:&quot;STAR WARS Battlefront | Gameplay | All Game Modes&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=LdzUL7Tt19w&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;video_duration&quot;:&quot;16:35&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBYQ0DYY____________ASITCPTczfDp7d8CFUmrggod_bMJNCj4HTIFY2FyZHNI2NWjwt6QjYD1AQ&quot;,&quot;card&quot;:&quot;CBUQ1TYY____________ASITCPTczfDp7d8CFUmrggod_bMJNCj4HTIFY2FyZHNI2NWjwt6QjYD1AQ&quot;,&quot;icon&quot;:&quot;CBcQsJcBGP___________wEiEwj03M3w6e3fAhVJq4IKHf2zCTQo-B0yBWNhcmRzSNjVo8LekI2A9QE&quot;},&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;9QA0hehI6tg&quot;,&quot;itct&quot;:&quot;CBUQ1TYY____________ASITCPTczfDp7d8CFUmrggod_bMJNCj4HTIFY2FyZHNI2NWjwt6QjYD1AQ&quot;,&quot;annotation_id&quot;:&quot;22d73ccf-8260-4f9a-8b3f-2fc2a32ce15c&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;1so8XPSZLsnWigT956agAw&quot;},&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;start_ms&quot;:669231,&quot;timestamp&quot;:1448991329096,&quot;teaser_duration_ms&quot;:7000,&quot;end_ms&quot;:669231,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=LdzUL7Tt19w"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;From AlltimeGaming&quot;, 
+  &quot;eventId&quot;: &quot;1so8XPSZLsnWigT956agAw&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwj03M3w6e3fAhVJq4IKHf2zCTQo+B0yBWNhcmRzSNjVo8LekI2A9QE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCPTczfDp7d8CFUmrggod/bMJNCj4HTIFY2FyZHNI2NWjwt6QjYD1AQ==&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwj03M3w6e3fAhVJq4IKHf2zCTQo+B0yBWNhcmRzSNjVo8LekI2A9QE=&quot;
+}</data>
+</annotation>
+</annotations></document>

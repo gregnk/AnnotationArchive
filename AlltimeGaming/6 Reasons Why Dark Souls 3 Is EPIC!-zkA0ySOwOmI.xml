@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIw96l9Ont3wIVhb0NCh3cHgCWKPgdMgJpdkji9MCdkpmNoM4B">
+<annotation id="annotation_1658140055" type="highlight" log_data="a-type=3&amp;a-v=zkA0ySOwOmI&amp;l-class=5&amp;ei=3so8XMP3HYX7Nty9gLAJ&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCg53HWQKuqaAV2u-Acwn7-g%3Fsub_confirmation%3D1&amp;a-id=annotation_1658140055" itct="CAEQs-UBGP___________wEiEwjD3qX06e3fAhWFvQ0KHdweAJYo-B0yAml2SOL0wJ2SmY2gzgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="54.81800" y="26.15700" w="39.06300" h="48.14800" t="6:59.811"/>
+      <rectRegion x="54.81800" y="26.15700" w="39.06300" h="48.14800" t="7:18.160"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCg53HWQKuqaAV2u-Acwn7-g?annotation_id=annotation_1658140055&amp;ei=3so8XMP3HYX7Nty9gLAJ&amp;feature=iv&amp;src_vid=zkA0ySOwOmI&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2606751661" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1658140055">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1658140055" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_337073533" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_579615991">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_579615991" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3981612441" type="highlight" log_data="a-type=3&amp;a-v=zkA0ySOwOmI&amp;l-class=5&amp;ei=3so8XMP3HYX7Nty9gLAJ&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCg53HWQKuqaAV2u-Acwn7-g%3Fsub_confirmation%3D1&amp;a-id=annotation_3981612441" itct="CAIQs-UBGP___________wEiEwjD3qX06e3fAhWFvQ0KHdweAJYo-B0yAml2SOL0wJ2SmY2gzgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="9.89600" y="85.64800" w="78.25500" h="9.95400" t="1:41.260"/>
+      <rectRegion x="9.89600" y="85.64800" w="78.25500" h="9.95400" t="1:45.539"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCg53HWQKuqaAV2u-Acwn7-g?annotation_id=annotation_3981612441&amp;ei=3so8XMP3HYX7Nty9gLAJ&amp;feature=iv&amp;src_vid=zkA0ySOwOmI&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_579615991" type="highlight" log_data="a-type=3&amp;a-v=zkA0ySOwOmI&amp;l-class=1&amp;ei=3so8XMP3HYX7Nty9gLAJ&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWOm4IXYvhYY&amp;a-id=annotation_579615991" itct="CAMQs-UBGP___________wEiEwjD3qX06e3fAhWFvQ0KHdweAJYo-B0yAml2SOL0wJ2SmY2gzgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.46900" y="25.46300" w="48.30700" h="48.38000" t="6:59.882"/>
+      <rectRegion x="5.46900" y="25.46300" w="48.30700" h="48.38000" t="7:18.160"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_579615991&amp;ei=3so8XMP3HYX7Nty9gLAJ&amp;feature=iv&amp;src_vid=zkA0ySOwOmI&amp;v=WOm4IXYvhYY" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_631077851" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3981612441">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="12.26900" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="12.26900" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3981612441" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:8058b1b3-aaee-4b74-9c20-0048db8c96a6" style="branding" type="branding"
+            log_data="a-type=10&amp;a-v=zkA0ySOwOmI&amp;l-class=3&amp;link-id=UCg53HWQKuqaAV2u-Acwn7-g&amp;ei=3so8XMP3HYX7Nty9gLAJ&amp;xble=0&amp;a-ch=UCg53HWQKuqaAV2u-Acwn7-g&amp;a-id=8058b1b3-aaee-4b74-9c20-0048db8c96a6">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:49,&quot;start_ms&quot;:5000,&quot;channel_name&quot;:&quot;AlltimeGaming&quot;,&quot;is_mobile&quot;:false,&quot;image_height&quot;:27,&quot;channel_id&quot;:&quot;UCg53HWQKuqaAV2u-Acwn7-g&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;3so8XMP3HYX7Nty9gLAJ&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCMPepfTp7d8CFYW9DQod3B4Alij4HTICaXZI4vTAnZKZjaDOAQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;8058b1b3-aaee-4b74-9c20-0048db8c96a6&quot;,&quot;src_vid&quot;:&quot;zkA0ySOwOmI&quot;},&quot;end_ms&quot;:439000,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;401K&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;401K&quot;,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026hl=en\u0026uilel=3\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26feature%3Div%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCg53HWQKuqaAV2u-Acwn7-g%26app%3Ddesktop%26continue_action%3DQUFFLUhqbld4ci1lWEE2Z3cyNGFUMDhDLTBhWEwwY3lYZ3xBQ3Jtc0tuT0RZRVdHUVJkN2VXclhNRnVmOUpqUkVxQnNqem00N2liRVdjU3hHWGMzQm15RWxZcEMxMWxHQUswWEpuQnpKcTM5OU1lNXQxUjZIZTNObHFZMGk0ZDdqNGJFLWlaalR1TkpWbVpSSkR1Nl9jM292eWhRUTYzQ1BVbGFhY2dWMWdSMlZHakhFcmlGQ1BFZm1hY2lhYmZHaURqV0pkRV9LUTd4Z3NuSnloekFyZm12aEFicENNQ3RTMWVrR0c2ZWlZZy12V1hpS19TVFhDVGJHZnBuRFBFb0lIU09XUDR6RlV0Z0VZdklKN3lZMFBMX09B&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;num_subscribers&quot;:&quot;401785&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/g53HWQKuqaAV2u-Acwn7-g\/featured_channel.jpg?v=5ab50179&quot;,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCg53HWQKuqaAV2u-Acwn7-g"/>
+  </action>
+</annotation>
+<annotation id="video:d3d552cc-0adf-4343-b237-a0386cb806ac" style="video" type="card" log_data="a-ch=UCg53HWQKuqaAV2u-Acwn7-g&amp;a-id=d3d552cc-0adf-4343-b237-a0386cb806ac&amp;a-type=62&amp;a-v=zkA0ySOwOmI&amp;ei=3so8XMP3HYX7Nty9gLAJ&amp;l-class=1&amp;link-id=WOm4IXYvhYY&amp;xble=0">
+  <data>{&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAkQ1TYY____________ASITCMPepfTp7d8CFYW9DQod3B4Alij4HTIFY2FyZHNI4vTAnZKZjaDOAQ&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCMPepfTp7d8CFYW9DQod3B4Alij4HTIFY2FyZHNI4vTAnZKZjaDOAQ&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwjD3qX06e3fAhWFvQ0KHdweAJYo-B0yBWNhcmRzSOL0wJ2SmY2gzgE&quot;},&quot;meta_info&quot;:[&quot;by AlltimeGaming&quot;,&quot;59,683 views&quot;],&quot;start_ms&quot;:77122,&quot;is_live_now&quot;:false,&quot;timestamp&quot;:1460026770812,&quot;target&quot;:&quot;new&quot;,&quot;video_duration&quot;:&quot;10:42&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;3so8XMP3HYX7Nty9gLAJ&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCMPepfTp7d8CFYW9DQod3B4Alij4HTIFY2FyZHNI4vTAnZKZjaDOAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;d3d552cc-0adf-4343-b237-a0386cb806ac&quot;,&quot;src_vid&quot;:&quot;zkA0ySOwOmI&quot;},&quot;end_ms&quot;:77122,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=WOm4IXYvhYY&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;pause_on_navigation&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/WOm4IXYvhYY\/mqdefault.jpg&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;teaser_text&quot;:&quot;Suggested: 6 Games We Want Remade for VR&quot;,&quot;title&quot;:&quot;6 Games We Want Remade for VR&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=WOm4IXYvhYY"/>
+  </action>
+</annotation>
+
+<annotation id="video:d016cbfd-e409-4c9f-9ccd-95d787c23a9c" style="video" type="card" log_data="a-ch=UCg53HWQKuqaAV2u-Acwn7-g&amp;a-id=d016cbfd-e409-4c9f-9ccd-95d787c23a9c&amp;a-type=62&amp;a-v=zkA0ySOwOmI&amp;ei=3so8XMP3HYX7Nty9gLAJ&amp;l-class=1&amp;link-id=ExPi3R3yDEo&amp;xble=0">
+  <data>{&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA0Q1TYY____________ASITCMPepfTp7d8CFYW9DQod3B4Alij4HTIFY2FyZHNI4vTAnZKZjaDOAQ&quot;,&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCMPepfTp7d8CFYW9DQod3B4Alij4HTIFY2FyZHNI4vTAnZKZjaDOAQ&quot;,&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwjD3qX06e3fAhWFvQ0KHdweAJYo-B0yBWNhcmRzSOL0wJ2SmY2gzgE&quot;},&quot;meta_info&quot;:[&quot;by AlltimeGaming&quot;,&quot;21,637 views&quot;],&quot;start_ms&quot;:237297,&quot;is_live_now&quot;:false,&quot;timestamp&quot;:1460026783004,&quot;target&quot;:&quot;new&quot;,&quot;video_duration&quot;:&quot;11:34&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;3so8XMP3HYX7Nty9gLAJ&quot;,&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCMPepfTp7d8CFYW9DQod3B4Alij4HTIFY2FyZHNI4vTAnZKZjaDOAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;d016cbfd-e409-4c9f-9ccd-95d787c23a9c&quot;,&quot;src_vid&quot;:&quot;zkA0ySOwOmI&quot;},&quot;end_ms&quot;:237297,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=ExPi3R3yDEo&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;pause_on_navigation&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/ExPi3R3yDEo\/mqdefault.jpg&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;teaser_text&quot;:&quot;Suggested: Hitman | Fashion Showdown!&quot;,&quot;title&quot;:&quot;Hitman | Fashion Showdown!&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=ExPi3R3yDEo"/>
+  </action>
+</annotation>
+
+<annotation id="video:7c997134-c443-499d-b0fd-0f359ec94fd6" style="video" type="card" log_data="a-ch=UCg53HWQKuqaAV2u-Acwn7-g&amp;a-id=7c997134-c443-499d-b0fd-0f359ec94fd6&amp;a-type=62&amp;a-v=zkA0ySOwOmI&amp;ei=3so8XMP3HYX7Nty9gLAJ&amp;l-class=1&amp;link-id=Caq3dCI3wBM&amp;xble=0">
+  <data>{&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CBEQ1TYY____________ASITCMPepfTp7d8CFYW9DQod3B4Alij4HTIFY2FyZHNI4vTAnZKZjaDOAQ&quot;,&quot;teaser&quot;:&quot;CBIQ0DYY____________ASITCMPepfTp7d8CFYW9DQod3B4Alij4HTIFY2FyZHNI4vTAnZKZjaDOAQ&quot;,&quot;icon&quot;:&quot;CBMQsJcBGP___________wEiEwjD3qX06e3fAhWFvQ0KHdweAJYo-B0yBWNhcmRzSOL0wJ2SmY2gzgE&quot;},&quot;meta_info&quot;:[&quot;by AlltimeGaming&quot;,&quot;1,854,515 views&quot;],&quot;start_ms&quot;:353664,&quot;is_live_now&quot;:false,&quot;timestamp&quot;:1460026792174,&quot;target&quot;:&quot;new&quot;,&quot;video_duration&quot;:&quot;10:36&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;3so8XMP3HYX7Nty9gLAJ&quot;,&quot;itct&quot;:&quot;CBEQ1TYY____________ASITCMPepfTp7d8CFYW9DQod3B4Alij4HTIFY2FyZHNI4vTAnZKZjaDOAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;7c997134-c443-499d-b0fd-0f359ec94fd6&quot;,&quot;src_vid&quot;:&quot;zkA0ySOwOmI&quot;},&quot;end_ms&quot;:353664,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Caq3dCI3wBM&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;pause_on_navigation&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/Caq3dCI3wBM\/mqdefault.jpg&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;teaser_text&quot;:&quot;Suggested: 6 Games That Make You Feel Like A Superhero&quot;,&quot;title&quot;:&quot;6 Games That Make You Feel Like A Superhero&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=Caq3dCI3wBM"/>
+  </action>
+</annotation>
+
+<annotation id="video:9af9179b-09c3-48cc-a8c3-0095ff995763" style="video" type="card" log_data="a-ch=UCg53HWQKuqaAV2u-Acwn7-g&amp;a-id=9af9179b-09c3-48cc-a8c3-0095ff995763&amp;a-type=62&amp;a-v=zkA0ySOwOmI&amp;ei=3so8XMP3HYX7Nty9gLAJ&amp;l-class=1&amp;link-id=wNSj-bS7KfQ&amp;xble=0">
+  <data>{&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CBUQ1TYY____________ASITCMPepfTp7d8CFYW9DQod3B4Alij4HTIFY2FyZHNI4vTAnZKZjaDOAQ&quot;,&quot;teaser&quot;:&quot;CBYQ0DYY____________ASITCMPepfTp7d8CFYW9DQod3B4Alij4HTIFY2FyZHNI4vTAnZKZjaDOAQ&quot;,&quot;icon&quot;:&quot;CBcQsJcBGP___________wEiEwjD3qX06e3fAhWFvQ0KHdweAJYo-B0yBWNhcmRzSOL0wJ2SmY2gzgE&quot;},&quot;meta_info&quot;:[&quot;by AlltimeGaming&quot;,&quot;269,699 views&quot;],&quot;start_ms&quot;:353664,&quot;is_live_now&quot;:false,&quot;timestamp&quot;:1460026806646,&quot;target&quot;:&quot;new&quot;,&quot;video_duration&quot;:&quot;10:05&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;3so8XMP3HYX7Nty9gLAJ&quot;,&quot;itct&quot;:&quot;CBUQ1TYY____________ASITCMPepfTp7d8CFYW9DQod3B4Alij4HTIFY2FyZHNI4vTAnZKZjaDOAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;9af9179b-09c3-48cc-a8c3-0095ff995763&quot;,&quot;src_vid&quot;:&quot;zkA0ySOwOmI&quot;},&quot;end_ms&quot;:353664,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=wNSj-bS7KfQ&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;pause_on_navigation&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/wNSj-bS7KfQ\/mqdefault.jpg&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;teaser_text&quot;:&quot;Suggested: 6 Games That Ruined Our Social Lives&quot;,&quot;title&quot;:&quot;6 Games That Ruined Our Social Lives&quot;,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=wNSj-bS7KfQ"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwjD3qX06e3fAhWFvQ0KHdweAJYo+B0yBWNhcmRzSOL0wJ2SmY2gzgE=&quot;, 
+  &quot;eventId&quot;: &quot;3so8XMP3HYX7Nty9gLAJ&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCMPepfTp7d8CFYW9DQod3B4Alij4HTIFY2FyZHNI4vTAnZKZjaDOAQ==&quot;, 
+  &quot;headerText&quot;: &quot;From AlltimeGaming&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwjD3qX06e3fAhWFvQ0KHdweAJYo+B0yBWNhcmRzSOL0wJ2SmY2gzgE=&quot;
+}</data>
+</annotation>
+</annotations></document>

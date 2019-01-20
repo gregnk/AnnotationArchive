@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI9NP839rt3wIVV7uCCh0EpQmAKPgdMgJpdkjF_t7fytrJgww">
+<annotation id="annotation_151794" type="text" style="popup" log_data="a-id=annotation_151794&amp;ei=-bo8XLTzFNf2igSEyqaACA&amp;a-v=DAcm1Kv3v0U&amp;a-type=1&amp;xble=1" itct="CAEQs-UBGP___________wEiEwj00_zf2u3fAhVXu4IKHQSlCYAo-B0yAml2SMX-3t_K2smDDA">
+  <TEXT>Coming Soon!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="82.96900" y="8.05600" w="15.62500" h="8.05600" t="00:00:00.1"/>
+      <rectRegion x="82.96900" y="8.05600" w="15.62500" h="8.05600" t="00:01:29.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_27400" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Ddummeh&amp;xble=1&amp;a-id=annotation_27400&amp;ei=-bo8XLTzFNf2igSEyqaACA&amp;a-type=3&amp;l-class=5&amp;a-v=DAcm1Kv3v0U" itct="CAIQs-UBGP___________wEiEwj00_zf2u3fAhVXu4IKHQSlCYAo-B0yAml2SMX-3t_K2smDDA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.65600" y="0.00000" w="24.84400" h="16.66700" t="00:00:00.1"/>
+      <rectRegion x="37.65600" y="0.00000" w="24.84400" h="16.66700" t="00:01:29.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=dummeh&amp;annotation_id=annotation_27400&amp;ei=-bo8XLTzFNf2igSEyqaACA&amp;feature=iv&amp;src_vid=DAcm1Kv3v0U" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_37" type="text" style="anchored" log_data="a-id=annotation_37&amp;ei=-bo8XLTzFNf2igSEyqaACA&amp;a-v=DAcm1Kv3v0U&amp;a-type=8&amp;xble=1" itct="CAMQs-UBGP___________wEiEwj00_zf2u3fAhVXu4IKHQSlCYAo-B0yAml2SMX-3t_K2smDDA">
+  <TEXT>Check out the description for more info on the MV soundtrack and check the Synthetic Orchestra site to hear the full thing!</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="24.68800" y="41.66700" w="28.12500" h="24.72200" sx="54.0629997253" sy="47.7779998779" t="00:00:05.7"/>
+      <anchoredRegion x="24.68800" y="41.66700" w="28.12500" h="24.72200" sx="54.0629997253" sy="47.7779998779" t="00:00:16.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_395568" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_27400">
+    <movingRegion type="rect">
+      <rectRegion x="0.62500" y="4.72200" w="25.00000" h="5.55600" t="never"/>
+      <rectRegion x="0.62500" y="4.72200" w="25.00000" h="5.55600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_27400" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="dummeh" id="annotation_562443" itct="CAQQs-UBGP___________wEiEwj00_zf2u3fAhVXu4IKHQSlCYAo-B0yAml2SMX-3t_K2smDDA" log_data="a-id=annotation_562443&amp;ei=-bo8XLTzFNf2igSEyqaACA&amp;a-v=DAcm1Kv3v0U&amp;a-type=4&amp;xble=1" style="title" type="text"><segment><movingRegion type="rect"><rectRegion d="0" h="25.2779998779" t="00:00:00.1" w="75.0" x="12.5" y="37.361000061" /><rectRegion d="0" h="25.2779998779" t="00:00:05.1" w="75.0" x="12.5" y="37.361000061" /></movingRegion></segment><appearance bgAlpha="0.25" bgColor="0" borderAlpha="0.10000000149" fgColor="16777215" fontWeight="bold" highlightFontColor="16777215" textSize="21.6642" /></annotation>
+<annotation id="annotation_839880" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRbZl8rQ6BH8&amp;xble=1&amp;a-id=annotation_839880&amp;ei=-bo8XLTzFNf2igSEyqaACA&amp;a-type=1&amp;l-class=1&amp;a-v=DAcm1Kv3v0U" itct="CAUQs-UBGP___________wEiEwj00_zf2u3fAhVXu4IKHQSlCYAo-B0yAml2SMX-3t_K2smDDA">
+  <TEXT>Fullmetal Alchemist</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.25000" y="7.50000" w="22.50000" h="8.05600" t="00:00:00.1"/>
+      <rectRegion x="1.25000" y="7.50000" w="22.50000" h="8.05600" t="00:01:29.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_839880&amp;ei=-bo8XLTzFNf2igSEyqaACA&amp;feature=iv&amp;src_vid=DAcm1Kv3v0U&amp;v=RbZl8rQ6BH8" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="channel:57434c17-0000-24ba-b463-94eb2c057d58" style="branding" type="branding"
+            log_data="xble=0&amp;a-ch=UCQOm3j7QTQqAJVCyiCNOXBA&amp;a-id=57434c17-0000-24ba-b463-94eb2c057d58&amp;ei=-bo8XLTzFNf2igSEyqaACA&amp;a-type=10&amp;l-class=3&amp;a-v=DAcm1Kv3v0U&amp;link-id=UCQOm3j7QTQqAJVCyiCNOXBA">
+  <data>{&quot;start_ms&quot;:75000,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;ei&quot;:&quot;-bo8XLTzFNf2igSEyqaACA&quot;,&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCPTT_N_a7d8CFVe7ggodBKUJgCj4HTICaXZIxf7e38rayYMM&quot;,&quot;src_vid&quot;:&quot;DAcm1Kv3v0U&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;57434c17-0000-24ba-b463-94eb2c057d58&quot;},&quot;channel_name&quot;:&quot;The Synthetic Orchestra&quot;,&quot;image_height&quot;:27,&quot;image_type&quot;:1,&quot;end_ms&quot;:90000,&quot;image_width&quot;:49,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;unsubscribeCount&quot;:&quot;139K&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26hl%3Den%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fdummeh%26app%3Ddesktop%26continue_action%3DQUFFLUhqbkRQY3Ria0NWSmp5aWE1VmZodHFZcFIzaTdQZ3xBQ3Jtc0ttQWxJVUxNenNudHhlNV8wVXNFREFMUEdHRFB1b1VCQmVQUGtxR0xYd0k2NUF2aTZCY2dUZ240T3VPRTNDRkJpaGN2cUtWVlJna2ZmQnlPZzcyeUhHb1FQS0lFWTdMcGhFWGxtdnhkOWlweFRtRFlTTXpLWUlLNkR0NnlHTHBxaE1SSlJNZ3Rpc2oySjRaZFI5Q0pPUmtzbGVHckJYRGV5WmJBMXhBTmtNTmpoM3o1RDhxZ0gxZ1kwM2l6VmlfTEN1QVJkZUdZMWx3bTFVM29OOEg3WU9BYURyQWxfZWxrWVdpMGhPRE1TVzZpVDR3Y0Jr\u0026hl=en&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;139K&quot;,&quot;subscribed&quot;:false},&quot;channel_id&quot;:&quot;UCQOm3j7QTQqAJVCyiCNOXBA&quot;,&quot;num_subscribers&quot;:&quot;139144&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/QOm3j7QTQqAJVCyiCNOXBA\/featured_channel.jpg?v=5748ca45&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/dummeh"/>
+  </action>
+</annotation></annotations></document>

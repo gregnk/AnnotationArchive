@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMInpGdrurt3wIVk7yCCh3kzwl6KPgdMgJpdkjv9trr4O2n3N0B">
+<annotation id="annotation_2076895253" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3853344945">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3853344945" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2286584811" type="highlight" log_data="a-id=annotation_2286584811&amp;l-class=5&amp;ei=V8s8XN6JPJP5igTkn6fQBw&amp;xble=1&amp;link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCP5tjEmvPItGyLhmjdwP7Ww%3Fsub_confirmation%3D1&amp;a-v=3bifbg12u28&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwiekZ2u6u3fAhWTvIIKHeTPCXoo-B0yAml2SO_22uvg7afc3QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="57.21100" y="0.00000" w="23.89100" h="23.54900" t="8:20.792"/>
+      <rectRegion x="57.21100" y="0.00000" w="23.89100" h="23.54900" t="8:54.267"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww?annotation_id=annotation_2286584811&amp;ei=V8s8XN6JPJP5igTkn6fQBw&amp;feature=iv&amp;src_vid=3bifbg12u28&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2311913399" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2286584811">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2286584811" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3051147581" type="highlight" log_data="a-id=annotation_3051147581&amp;l-class=8&amp;ei=V8s8XN6JPJP5igTkn6fQBw&amp;xble=1&amp;link=https%3A%2F%2Fwww.patreon.com%2FRealLifeLore&amp;a-v=3bifbg12u28&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwiekZ2u6u3fAhWTvIIKHeTPCXoo-B0yAml2SO_22uvg7afc3QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="73.85100" y="55.77500" w="26.14900" h="42.42300" t="8:20.792"/>
+      <rectRegion x="73.85100" y="55.77500" w="26.14900" h="42.42300" t="8:54.267"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.patreon.com/RealLifeLore" link_class="8"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3853344945" type="highlight" log_data="a-id=annotation_3853344945&amp;l-class=1&amp;ei=V8s8XN6JPJP5igTkn6fQBw&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHZXn5Ct0PJg&amp;a-v=3bifbg12u28&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwiekZ2u6u3fAhWTvIIKHeTPCXoo-B0yAml2SO_22uvg7afc3QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="37.08400" y="46.19700" w="34.98400" h="35.94400" t="8:20.792"/>
+      <rectRegion x="37.08400" y="46.19700" w="34.98400" h="35.94400" t="8:54.267"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3853344945&amp;ei=V8s8XN6JPJP5igTkn6fQBw&amp;feature=iv&amp;src_vid=3bifbg12u28&amp;v=HZXn5Ct0PJg" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_690119797" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3051147581">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3051147581" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:4924a146-8671-4bcd-ad17-057c98467bef" style="branding" type="branding"
+            log_data="a-id=4924a146-8671-4bcd-ad17-057c98467bef&amp;a-ch=UCP5tjEmvPItGyLhmjdwP7Ww&amp;l-class=3&amp;xble=0&amp;ei=V8s8XN6JPJP5igTkn6fQBw&amp;a-v=3bifbg12u28&amp;link-id=UCP5tjEmvPItGyLhmjdwP7Ww&amp;a-type=10">
+  <data>{&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;2.7M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026hl=en\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCP5tjEmvPItGyLhmjdwP7Ww%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbERaM1h1a21WdGVkckNWU1dYUklpSjRLalIxUXxBQ3Jtc0tsdENZRlk0QUFkYnVlazNqVzVNbXR2UjJFQWROZ01kOXJyazlJS19lVE4yNVp0SFBPMklYRmhuYzFRNml0TW5qZk03NXNmWDJoZVBmZWFjQmUzQ2ZDQ3F1REtXWTN3RV9kNjQzeDZlQkJaU01tZ0ZnSW5wS1BOMVotUGd1LXY2WTFOaFUyLWhxd1pNRl9jOThoeV82NHVob1JCVmhfZ2FnaVZoY3JOeUl4eDlqWnBudmptQ2VkcHFab3ZpWDBNcE5VUE1IRlNYc0J5Rm41SFFmWE1tVkgySmpyRzd6UVozelNtYTRDOWhHX2lOUVBBd2Jn%26feature%3Div%26hl%3Den%26app%3Ddesktop\u0026service=youtube&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;2.7M&quot;,&quot;classic&quot;:true,&quot;enabled&quot;:false},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;RealLifeLore&quot;,&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/P5tjEmvPItGyLhmjdwP7Ww\/featured_channel.jpg?v=59971b0e&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;4924a146-8671-4bcd-ad17-057c98467bef&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;V8s8XN6JPJP5igTkn6fQBw&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCJ6Rna7q7d8CFZO8ggod5M8Jeij4HTICaXZI7_ba6-Dtp9zdAQ&quot;,&quot;src_vid&quot;:&quot;3bifbg12u28&quot;},&quot;end_ms&quot;:535000,&quot;num_subscribers&quot;:&quot;2723249&quot;,&quot;is_mobile&quot;:false,&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UCP5tjEmvPItGyLhmjdwP7Ww&quot;,&quot;image_height&quot;:40,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww"/>
+  </action>
+</annotation>
+<annotation id="video:f77bf599-0032-47a3-9e99-80d24d6ef0a9" style="video" type="card" log_data="a-ch=UCP5tjEmvPItGyLhmjdwP7Ww&amp;a-id=f77bf599-0032-47a3-9e99-80d24d6ef0a9&amp;a-type=62&amp;a-v=3bifbg12u28&amp;ei=V8s8XN6JPJP5igTkn6fQBw&amp;l-class=1&amp;link-id=HZXn5Ct0PJg&amp;xble=0">
+  <data>{&quot;start_ms&quot;:2212,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/HZXn5Ct0PJg\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;video_duration&quot;:&quot;7:18&quot;,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;f77bf599-0032-47a3-9e99-80d24d6ef0a9&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;V8s8XN6JPJP5igTkn6fQBw&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCJ6Rna7q7d8CFZO8ggod5M8Jeij4HTIFY2FyZHNI7_ba6-Dtp9zdAQ&quot;,&quot;src_vid&quot;:&quot;3bifbg12u28&quot;},&quot;end_ms&quot;:2212,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAkQ1TYY____________ASITCJ6Rna7q7d8CFZO8ggod5M8Jeij4HTIFY2FyZHNI7_ba6-Dtp9zdAQ&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCJ6Rna7q7d8CFZO8ggod5M8Jeij4HTIFY2FyZHNI7_ba6-Dtp9zdAQ&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwiekZ2u6u3fAhWTvIIKHeTPCXoo-B0yBWNhcmRzSO_22uvg7afc3QE&quot;},&quot;timestamp&quot;:1481316392284,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;teaser_text&quot;:&quot;Suggested: How Close Do You Live to a Nuclear Bomb?&quot;,&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;title&quot;:&quot;How Close Do You Live to a Nuclear Bomb?&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=HZXn5Ct0PJg&quot;,&quot;meta_info&quot;:[&quot;by RealLifeLore&quot;,&quot;4,799,180 views&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=HZXn5Ct0PJg"/>
+  </action>
+</annotation>
+
+<annotation id="video:08373c17-df6f-4d5a-bbd3-ddc6f2186c8a" style="video" type="card" log_data="a-ch=UCP5tjEmvPItGyLhmjdwP7Ww&amp;a-id=08373c17-df6f-4d5a-bbd3-ddc6f2186c8a&amp;a-type=62&amp;a-v=3bifbg12u28&amp;ei=V8s8XN6JPJP5igTkn6fQBw&amp;l-class=1&amp;link-id=HfLVYr38D0Q&amp;xble=0">
+  <data>{&quot;start_ms&quot;:2212,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/HfLVYr38D0Q\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;video_duration&quot;:&quot;8:51&quot;,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;08373c17-df6f-4d5a-bbd3-ddc6f2186c8a&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;V8s8XN6JPJP5igTkn6fQBw&quot;,&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCJ6Rna7q7d8CFZO8ggod5M8Jeij4HTIFY2FyZHNI7_ba6-Dtp9zdAQ&quot;,&quot;src_vid&quot;:&quot;3bifbg12u28&quot;},&quot;end_ms&quot;:2212,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA0Q1TYY____________ASITCJ6Rna7q7d8CFZO8ggod5M8Jeij4HTIFY2FyZHNI7_ba6-Dtp9zdAQ&quot;,&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCJ6Rna7q7d8CFZO8ggod5M8Jeij4HTIFY2FyZHNI7_ba6-Dtp9zdAQ&quot;,&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwiekZ2u6u3fAhWTvIIKHeTPCXoo-B0yBWNhcmRzSO_22uvg7afc3QE&quot;},&quot;timestamp&quot;:1481316405247,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;teaser_text&quot;:&quot;Suggested: Where Was the Last Place Discovered on Earth?&quot;,&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;title&quot;:&quot;Where Was the Last Place Discovered on Earth?&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=HfLVYr38D0Q&quot;,&quot;meta_info&quot;:[&quot;by RealLifeLore&quot;,&quot;5,090,658 views&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=HfLVYr38D0Q"/>
+  </action>
+</annotation>
+
+<annotation id="video:4af6773e-78a6-451f-bf3c-cca2af93c0dc" style="video" type="card" log_data="a-ch=UCP5tjEmvPItGyLhmjdwP7Ww&amp;a-id=4af6773e-78a6-451f-bf3c-cca2af93c0dc&amp;a-type=62&amp;a-v=3bifbg12u28&amp;ei=V8s8XN6JPJP5igTkn6fQBw&amp;l-class=1&amp;link-id=r_iNRGac_uM&amp;xble=0">
+  <data>{&quot;start_ms&quot;:2212,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/r_iNRGac_uM\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;video_duration&quot;:&quot;7:27&quot;,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;4af6773e-78a6-451f-bf3c-cca2af93c0dc&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;V8s8XN6JPJP5igTkn6fQBw&quot;,&quot;itct&quot;:&quot;CBEQ1TYY____________ASITCJ6Rna7q7d8CFZO8ggod5M8Jeij4HTIFY2FyZHNI7_ba6-Dtp9zdAQ&quot;,&quot;src_vid&quot;:&quot;3bifbg12u28&quot;},&quot;end_ms&quot;:2212,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CBEQ1TYY____________ASITCJ6Rna7q7d8CFZO8ggod5M8Jeij4HTIFY2FyZHNI7_ba6-Dtp9zdAQ&quot;,&quot;teaser&quot;:&quot;CBIQ0DYY____________ASITCJ6Rna7q7d8CFZO8ggod5M8Jeij4HTIFY2FyZHNI7_ba6-Dtp9zdAQ&quot;,&quot;icon&quot;:&quot;CBMQsJcBGP___________wEiEwiekZ2u6u3fAhWTvIIKHeTPCXoo-B0yBWNhcmRzSO_22uvg7afc3QE&quot;},&quot;timestamp&quot;:1481316421299,&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;teaser_text&quot;:&quot;Suggested: What if Everyone Lived in Just One City?&quot;,&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;teaser_impression&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[]},&quot;title&quot;:&quot;What if Everyone Lived in Just One City?&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=r_iNRGac_uM&quot;,&quot;meta_info&quot;:[&quot;by RealLifeLore&quot;,&quot;5,773,314 views&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=r_iNRGac_uM"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;V8s8XN6JPJP5igTkn6fQBw&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCJ6Rna7q7d8CFZO8ggod5M8Jeij4HTIFY2FyZHNI7/ba6+Dtp9zdAQ==&quot;, 
+  &quot;headerText&quot;: &quot;From RealLifeLore&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwiekZ2u6u3fAhWTvIIKHeTPCXoo+B0yBWNhcmRzSO/22uvg7afc3QE=&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwiekZ2u6u3fAhWTvIIKHeTPCXoo+B0yBWNhcmRzSO/22uvg7afc3QE=&quot;
+}</data>
+</annotation>
+</annotations></document>

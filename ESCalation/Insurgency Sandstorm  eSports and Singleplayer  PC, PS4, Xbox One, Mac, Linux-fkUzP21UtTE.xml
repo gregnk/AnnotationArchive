@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI0LOX6O3t3wIVxZYDCh35QQ8BKPgdMgJpdkix6tLq9ufMon4">
+<annotation id="annotation_1438346493" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsaURJakcUNA&amp;a-type=3&amp;ei=9s48XNDgMsWtDvmDvQg&amp;a-v=fkUzP21UtTE&amp;l-class=1&amp;a-id=annotation_1438346493&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjQs5fo7e3fAhXFlgMKHflBDwEo-B0yAml2SLHq0ur258yifg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.52100" y="81.94400" w="46.22400" h="15.74100" t="3:22.683"/>
+      <rectRegion x="0.52100" y="81.94400" w="46.22400" h="15.74100" t="4:11.657"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1438346493&amp;ei=9s48XNDgMsWtDvmDvQg&amp;feature=iv&amp;src_vid=fkUzP21UtTE&amp;v=saURJakcUNA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2484168241" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dntw68-kUs0I%26list%3DPLnlojiIzN1TPcII-xiWnVOgyFYQwN_8fx%26index%3D1&amp;a-type=3&amp;ei=9s48XNDgMsWtDvmDvQg&amp;a-v=fkUzP21UtTE&amp;l-class=1&amp;a-id=annotation_2484168241&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjQs5fo7e3fAhXFlgMKHflBDwEo-B0yAml2SLHq0ur258yifg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.12500" y="82.17600" w="46.22400" h="16.20400" t="3:22.683"/>
+      <rectRegion x="53.12500" y="82.17600" w="46.22400" h="16.20400" t="4:11.657"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2484168241&amp;ei=9s48XNDgMsWtDvmDvQg&amp;feature=iv&amp;index=1&amp;list=PLnlojiIzN1TPcII-xiWnVOgyFYQwN_8fx&amp;src_vid=fkUzP21UtTE&amp;v=ntw68-kUs0I" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3445346567" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2484168241">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2484168241" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3644928791" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1438346493">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1438346493" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:555adb2f-0000-2707-85aa-001a113f3238" style="branding" type="branding"
+            log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-type=10&amp;ei=9s48XNDgMsWtDvmDvQg&amp;a-v=fkUzP21UtTE&amp;l-class=3&amp;link-id=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=555adb2f-0000-2707-85aa-001a113f3238&amp;xble=0">
+  <data>{&quot;image_width&quot;:40,&quot;end_ms&quot;:252000,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;555adb2f-0000-2707-85aa-001a113f3238&quot;,&quot;src_vid&quot;:&quot;fkUzP21UtTE&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCNCzl-jt7d8CFcWWAwod-UEPASj4HTICaXZIserS6vbnzKJ-&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;9s48XNDgMsWtDvmDvQg&quot;},&quot;channel_name&quot;:&quot;ESCalation&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;44K&quot;,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeCount&quot;:&quot;44K&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCz2daX7pxjD88hth-raG3JQ%26continue_action%3DQUFFLUhqa3BsRTVONmxpdExIT2tBZ2RtVEpvbHRsWndCZ3xBQ3Jtc0trZXhoUWk3WEFZd3piMTd4elNfeURRSTNteTNMVmNCYWlYTUIwb1pZbllSbGRQWERuaHN6eFU2eVd3U2djS29VRk8tMEozN2JMdEFjWnB1NTI0Y1pWVXdmZkFyZnU5blU3eml2N1VwdXhsUnVmSkpoU1ZoMWI2UUpwQlRVMS1JWklpRGpvM2FxRWdySEZuX0UxUm5udl9nclRUa01TU1VUOVFnSVRtU2U1bWRrakhFZ0NZWjB3QWtaU2RVWHE4RlFfRXVUMlZOaG5PcDBheDZuSkdpVkVwYl9FSUpJelhFN25zel9ZcXIzdFJfZ1ZPMVNB%26hl%3Den%26action_handle_signin%3Dtrue%26feature%3Div\u0026hl=en\u0026uilel=3\u0026service=youtube&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;},&quot;image_height&quot;:40,&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCz2daX7pxjD88hth-raG3JQ&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/z2daX7pxjD88hth-raG3JQ\/featured_channel.jpg?v=555ef8c7&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;start_ms&quot;:82000,&quot;use_standalone_subscribe_button&quot;:true,&quot;num_subscribers&quot;:&quot;44964&quot;,&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCz2daX7pxjD88hth-raG3JQ"/>
+  </action>
+</annotation>
+<annotation id="video:f2b97ae5-f522-470b-81dd-080b3e8a6e4d" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=f2b97ae5-f522-470b-81dd-080b3e8a6e4d&amp;a-type=62&amp;a-v=fkUzP21UtTE&amp;ei=9s48XNDgMsWtDvmDvQg&amp;l-class=1&amp;link-id=saURJakcUNA&amp;xble=0">
+  <data>{&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;Day of Infamy - Insurgency Mod - a new WWII shooter!&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:205415,&quot;video_duration&quot;:&quot;4:48&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[]},&quot;is_live_now&quot;:false,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=saURJakcUNA&quot;,&quot;teaser_text&quot;:&quot;Suggested: Day of Infamy - Insurgency Mod - a new WWII shooter!&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;timestamp&quot;:1459513422755,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/saURJakcUNA\/mqdefault.jpg&quot;,&quot;start_ms&quot;:205415,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCNCzl-jt7d8CFcWWAwod-UEPASj4HTIFY2FyZHNIserS6vbnzKJ-&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwjQs5fo7e3fAhXFlgMKHflBDwEo-B0yBWNhcmRzSLHq0ur258yifg&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCNCzl-jt7d8CFcWWAwod-UEPASj4HTIFY2FyZHNIserS6vbnzKJ-&quot;},&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;f2b97ae5-f522-470b-81dd-080b3e8a6e4d&quot;,&quot;src_vid&quot;:&quot;fkUzP21UtTE&quot;,&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCNCzl-jt7d8CFcWWAwod-UEPASj4HTIFY2FyZHNIserS6vbnzKJ-&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;9s48XNDgMsWtDvmDvQg&quot;},&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;7,295 views&quot;],&quot;target&quot;:&quot;new&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=saURJakcUNA"/>
+  </action>
+</annotation>
+
+<annotation id="video:2e0ab6f0-f2f6-4bae-ad80-ec93486aad9a" style="playlist" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=2e0ab6f0-f2f6-4bae-ad80-ec93486aad9a&amp;a-type=63&amp;a-v=fkUzP21UtTE&amp;ei=9s48XNDgMsWtDvmDvQg&amp;l-class=2&amp;link-id=PLnlojiIzN1TPcII-xiWnVOgyFYQwN_8fx&amp;xble=0">
+  <data>{&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;Cut Content of Counter-Strike&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:219081,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[]},&quot;playlist_video_count&quot;:&quot;32&quot;,&quot;teaser_text&quot;:&quot;Suggested: Cut Content of Counter-Strike&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;timestamp&quot;:1459513441727,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/0aUMl5N5FAY\/mqdefault.jpg&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=0aUMl5N5FAY\u0026list=PLnlojiIzN1TPcII-xiWnVOgyFYQwN_8fx&quot;,&quot;start_ms&quot;:219081,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCNCzl-jt7d8CFcWWAwod-UEPASj4HTIFY2FyZHNIserS6vbnzKJ-&quot;,&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwjQs5fo7e3fAhXFlgMKHflBDwEo-B0yBWNhcmRzSLHq0ur258yifg&quot;,&quot;card&quot;:&quot;CAwQ1TYY____________ASITCNCzl-jt7d8CFcWWAwod-UEPASj4HTIFY2FyZHNIserS6vbnzKJ-&quot;},&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;2e0ab6f0-f2f6-4bae-ad80-ec93486aad9a&quot;,&quot;src_vid&quot;:&quot;fkUzP21UtTE&quot;,&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCNCzl-jt7d8CFcWWAwod-UEPASj4HTIFY2FyZHNIserS6vbnzKJ-&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;9s48XNDgMsWtDvmDvQg&quot;},&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;32 videos&quot;],&quot;target&quot;:&quot;new&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=0aUMl5N5FAY&amp;list=PLnlojiIzN1TPcII-xiWnVOgyFYQwN_8fx"/>
+  </action>
+</annotation>
+
+<annotation id="video:88c686ca-5a29-4df9-ab07-2606e54dd45a" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=88c686ca-5a29-4df9-ab07-2606e54dd45a&amp;a-type=62&amp;a-v=fkUzP21UtTE&amp;ei=9s48XNDgMsWtDvmDvQg&amp;l-class=1&amp;link-id=xWoKsDRCYZw&amp;xble=0">
+  <data>{&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;Insurgency Review - a realistic Counter-Strike alternative.&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:227834,&quot;video_duration&quot;:&quot;5:00&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[]},&quot;is_live_now&quot;:false,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=xWoKsDRCYZw&quot;,&quot;teaser_text&quot;:&quot;Suggested: Insurgency Review - a realistic Counter-Strike alternative.&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;timestamp&quot;:1459513465222,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/xWoKsDRCYZw\/mqdefault.jpg&quot;,&quot;start_ms&quot;:227834,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBEQ0DYY____________ASITCNCzl-jt7d8CFcWWAwod-UEPASj4HTIFY2FyZHNIserS6vbnzKJ-&quot;,&quot;icon&quot;:&quot;CBIQsJcBGP___________wEiEwjQs5fo7e3fAhXFlgMKHflBDwEo-B0yBWNhcmRzSLHq0ur258yifg&quot;,&quot;card&quot;:&quot;CBAQ1TYY____________ASITCNCzl-jt7d8CFcWWAwod-UEPASj4HTIFY2FyZHNIserS6vbnzKJ-&quot;},&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;88c686ca-5a29-4df9-ab07-2606e54dd45a&quot;,&quot;src_vid&quot;:&quot;fkUzP21UtTE&quot;,&quot;itct&quot;:&quot;CBAQ1TYY____________ASITCNCzl-jt7d8CFcWWAwod-UEPASj4HTIFY2FyZHNIserS6vbnzKJ-&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;9s48XNDgMsWtDvmDvQg&quot;},&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;4,489 views&quot;],&quot;target&quot;:&quot;new&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=xWoKsDRCYZw"/>
+  </action>
+</annotation>
+
+<annotation id="video:b94e15f0-35ed-4201-92d6-2d894c6e790d" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=b94e15f0-35ed-4201-92d6-2d894c6e790d&amp;a-type=62&amp;a-v=fkUzP21UtTE&amp;ei=9s48XNDgMsWtDvmDvQg&amp;l-class=1&amp;link-id=B0Q1qbqcHxA&amp;xble=0">
+  <data>{&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;Insurgency Fragmovie - Bolt Action Bastard&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:237968,&quot;video_duration&quot;:&quot;4:00&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[]},&quot;is_live_now&quot;:false,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=B0Q1qbqcHxA&quot;,&quot;teaser_text&quot;:&quot;Suggested: Insurgency Fragmovie - Bolt Action Bastard&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;timestamp&quot;:1459513476232,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/B0Q1qbqcHxA\/mqdefault.jpg&quot;,&quot;start_ms&quot;:237968,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBUQ0DYY____________ASITCNCzl-jt7d8CFcWWAwod-UEPASj4HTIFY2FyZHNIserS6vbnzKJ-&quot;,&quot;icon&quot;:&quot;CBYQsJcBGP___________wEiEwjQs5fo7e3fAhXFlgMKHflBDwEo-B0yBWNhcmRzSLHq0ur258yifg&quot;,&quot;card&quot;:&quot;CBQQ1TYY____________ASITCNCzl-jt7d8CFcWWAwod-UEPASj4HTIFY2FyZHNIserS6vbnzKJ-&quot;},&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;b94e15f0-35ed-4201-92d6-2d894c6e790d&quot;,&quot;src_vid&quot;:&quot;fkUzP21UtTE&quot;,&quot;itct&quot;:&quot;CBQQ1TYY____________ASITCNCzl-jt7d8CFcWWAwod-UEPASj4HTIFY2FyZHNIserS6vbnzKJ-&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;9s48XNDgMsWtDvmDvQg&quot;},&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;1,173 views&quot;],&quot;target&quot;:&quot;new&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=B0Q1qbqcHxA"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwjQs5fo7e3fAhXFlgMKHflBDwEo+B0yBWNhcmRzSLHq0ur258yifg==&quot;, 
+  &quot;headerText&quot;: &quot;From ESCalation&quot;, 
+  &quot;eventId&quot;: &quot;9s48XNDgMsWtDvmDvQg&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCNCzl+jt7d8CFcWWAwod+UEPASj4HTIFY2FyZHNIserS6vbnzKJ+&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwjQs5fo7e3fAhXFlgMKHflBDwEo+B0yBWNhcmRzSLHq0ur258yifg==&quot;
+}</data>
+</annotation>
+</annotations></document>

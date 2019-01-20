@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIr9-57OXt3wIVwa8DCh2kxAHhKPgdMgJpdkjPso7Tjdi1yio">
+<annotation id="annotation_1363132363" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2580761819">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2580761819" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2383892575" type="highlight" log_data="l-class=3&amp;a-id=annotation_2383892575&amp;a-type=3&amp;ei=nMY8XK-hEsHfDqSJh4gO&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FLalvePro&amp;a-v=KpTWwNpjmU8" itct="CAEQs-UBGP___________wEiEwiv37ns5e3fAhXBrwMKHaTEAeEo-B0yAml2SM-yjtON2LXKKg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="54.94800" y="77.31500" w="39.58300" h="13.88900" t="5:26.500"/>
+      <rectRegion x="54.94800" y="77.31500" w="39.58300" h="13.88900" t="5:32.114"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/LalvePro?annotation_id=annotation_2383892575&amp;ei=nMY8XK-hEsHfDqSJh4gO&amp;feature=iv&amp;src_vid=KpTWwNpjmU8" link_class="3"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2580761819" type="highlight" log_data="l-class=1&amp;a-id=annotation_2580761819&amp;a-type=3&amp;ei=nMY8XK-hEsHfDqSJh4gO&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlKmruN5hmFA&amp;a-v=KpTWwNpjmU8" itct="CAIQs-UBGP___________wEiEwiv37ns5e3fAhXBrwMKHaTEAeEo-B0yAml2SM-yjtON2LXKKg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.38000" y="52.77800" w="37.37000" h="37.26900" t="5:26.500"/>
+      <rectRegion x="6.38000" y="52.77800" w="37.37000" h="37.26900" t="5:32.114"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2580761819&amp;ei=nMY8XK-hEsHfDqSJh4gO&amp;feature=iv&amp;src_vid=KpTWwNpjmU8&amp;v=lKmruN5hmFA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3058140377" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_529985147">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_529985147" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3093901471" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2383892575">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2383892575" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_529985147" type="highlight" log_data="l-class=1&amp;a-id=annotation_529985147&amp;a-type=3&amp;ei=nMY8XK-hEsHfDqSJh4gO&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHZZ4VfJLHMI&amp;a-v=KpTWwNpjmU8" itct="CAMQs-UBGP___________wEiEwiv37ns5e3fAhXBrwMKHaTEAeEo-B0yAml2SM-yjtON2LXKKg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.64100" y="6.48100" w="37.50000" h="37.50000" t="5:26.500"/>
+      <rectRegion x="6.64100" y="6.48100" w="37.50000" h="37.50000" t="5:32.114"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_529985147&amp;ei=nMY8XK-hEsHfDqSJh4gO&amp;feature=iv&amp;src_vid=KpTWwNpjmU8&amp;v=HZZ4VfJLHMI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:56e83a0f-0000-257a-be4c-94eb2c088140" style="branding" type="branding"
+            log_data="link-id=UCIB9yxqIxexGonoYMl2mrfQ&amp;l-class=3&amp;a-ch=UCIB9yxqIxexGonoYMl2mrfQ&amp;a-id=56e83a0f-0000-257a-be4c-94eb2c088140&amp;a-type=10&amp;ei=nMY8XK-hEsHfDqSJh4gO&amp;a-v=KpTWwNpjmU8&amp;xble=0">
+  <data>{&quot;image_width&quot;:40,&quot;num_subscribers&quot;:&quot;144617&quot;,&quot;channel_name&quot;:&quot;Doctor Lalve&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/IB9yxqIxexGonoYMl2mrfQ\/featured_channel.jpg?v=56f96441&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026passive=true\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FLalvePro%26feature%3Div%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbjhTeTczc3ozMGRoYmFtT21Ua3ZmOS01dW5id3xBQ3Jtc0tuanJ4akJCM0ZHSkZXdUl0U1lMNFJxZmpOWnJlamNnTFJyb0lXd3c0cDlqOXQ2UE9XNmNnOUE0UDVWR2w1cVhfdUw3ZlFfUEppbXFlZmE0am9oOGstZmpVMlZyN3lrWk5ZeDJ1M3FwY3BvbWxHNnJnVXU3UTVSYU10QWl2MHJVNHhGanNEN3FLdlROS0sxTDdZOTQzSERJdXJJMmlvdHY3NWlnYjNuUl9xLVdVc1pZM001YnctamNRN3ZwSzljTjJQbjFmYmdGcE9fWDBmenhzU2JUQUVYU0VkaFlZZ1IwbzltbV9naEJtTDhWaUJCbHVj%26hl%3Den%26app%3Ddesktop&quot;,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;144K&quot;,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;144K&quot;},&quot;image_height&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;56e83a0f-0000-257a-be4c-94eb2c088140&quot;,&quot;ei&quot;:&quot;nMY8XK-hEsHfDqSJh4gO&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCK_fuezl7d8CFcGvAwodpMQB4Sj4HTICaXZIz7KO043Ytcoq&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;KpTWwNpjmU8&quot;},&quot;end_ms&quot;:333000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;start_ms&quot;:5000,&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCIB9yxqIxexGonoYMl2mrfQ&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/LalvePro"/>
+  </action>
+</annotation></annotations></document>

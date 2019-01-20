@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjvmUreXt3wIVCGEwCh1TzAGJKPgdMgJpdkjqx8z64ZXl7Wg">
+<annotation id="annotation_1088733519" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fjerryrigeverything.com%2Finstagram%2F&amp;a-v=aNuUrh9TI-o&amp;ei=F8Y8XM6RI4jCwQHTmIfICA&amp;a-type=3&amp;a-id=annotation_1088733519&amp;l-class=6" itct="CAEQs-UBGP___________wEiEwiO-ZSt5e3fAhUIYTAKHVPMAYko-B0yAml2SOrHzPrhleXtaA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="15.68900" y="5.07000" w="68.89900" h="33.40800" t="4:03.506"/>
+      <rectRegion x="15.68900" y="5.07000" w="68.89900" h="33.40800" t="4:29.537"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://jerryrigeverything.com/instagram/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1174564663" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DB4KOg7g1zfE&amp;a-v=aNuUrh9TI-o&amp;ei=F8Y8XM6RI4jCwQHTmIfICA&amp;a-type=3&amp;a-id=annotation_1174564663&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwiO-ZSt5e3fAhUIYTAKHVPMAYko-B0yAml2SOrHzPrhleXtaA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.88300" y="53.80300" w="41.16500" h="41.57700" t="4:03.506"/>
+      <rectRegion x="53.88300" y="53.80300" w="41.16500" h="41.57700" t="4:29.537"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1174564663&amp;ei=F8Y8XM6RI4jCwQHTmIfICA&amp;feature=iv&amp;src_vid=aNuUrh9TI-o&amp;v=B4KOg7g1zfE" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1843086639" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_261692185">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_261692185" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_261692185" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DD_bB5fnN7Jk&amp;a-v=aNuUrh9TI-o&amp;ei=F8Y8XM6RI4jCwQHTmIfICA&amp;a-type=3&amp;a-id=annotation_261692185&amp;l-class=1" itct="CAMQs-UBGP___________wEiEwiO-ZSt5e3fAhUIYTAKHVPMAYko-B0yAml2SOrHzPrhleXtaA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.59600" y="54.08500" w="41.16500" h="41.57700" t="4:03.506"/>
+      <rectRegion x="4.59600" y="54.08500" w="41.16500" h="41.57700" t="4:29.537"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_261692185&amp;ei=F8Y8XM6RI4jCwQHTmIfICA&amp;feature=iv&amp;src_vid=aNuUrh9TI-o&amp;v=D_bB5fnN7Jk" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_490501423" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1174564663">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1174564663" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_75290203" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1088733519">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1088733519" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:55fbff7e-d91d-45a2-b9b4-4f6759d1ef57" style="branding" type="branding"
+            log_data="xble=0&amp;link-id=UCWFKCr40YwOZQx8FHU_ZqqQ&amp;a-v=aNuUrh9TI-o&amp;ei=F8Y8XM6RI4jCwQHTmIfICA&amp;a-type=10&amp;a-id=55fbff7e-d91d-45a2-b9b4-4f6759d1ef57&amp;l-class=3&amp;a-ch=UCWFKCr40YwOZQx8FHU_ZqqQ">
+  <data>{&quot;image_height&quot;:33,&quot;channel_id&quot;:&quot;UCWFKCr40YwOZQx8FHU_ZqqQ&quot;,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/WFKCr40YwOZQx8FHU_ZqqQ\/featured_channel.jpg?v=5b88a863&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCI75lK3l7d8CFQhhMAodU8wBiSj4HTICaXZI6sfM-uGV5e1o&quot;,&quot;src_vid&quot;:&quot;aNuUrh9TI-o&quot;,&quot;annotation_id&quot;:&quot;55fbff7e-d91d-45a2-b9b4-4f6759d1ef57&quot;,&quot;ei&quot;:&quot;F8Y8XM6RI4jCwQHTmIfICA&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;JerryRigEverything&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;3.1M&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeCount&quot;:&quot;3.1M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26continue_action%3DQUFFLUhqbld5SmdCUTkyUm5QR1Z5a3NQaGd3bmwyYWZKd3xBQ3Jtc0tuYTNCWUJYV29aa0w3V00xTGxRUzBScFpLNmp0Mk9RY0ROa00yaWJZWnljRHlraVpUSzdWYld6ZTdtSXpjdURLMXp1dVZmaHpjeVdrOHpHSlJmN0RlMG1FSmtKeDlHSTJsYmRmc0N1cUJleGxQWTlaZ0U3c3lrSnM0NEp3NWhHaGk1b3RJSTF6TmVLSktNbnREdVIxamlpSTFsVEFyNnZla0toc21aUlZLcXR6TnRja0VHSnY5Y1l5NkVVZ1hIQnI5U2hKWHFXaDVmMzhuUW1rMDhWd2xjTVNkb2s5WThMT21uckMtRkdBWnZpeEdmZlFN%26action_handle_signin%3Dtrue%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FJerryRigEverything%26feature%3Div\u0026passive=true\u0026service=youtube\u0026hl=en\u0026uilel=3&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;},&quot;num_subscribers&quot;:&quot;3117473&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_type&quot;:1,&quot;end_ms&quot;:270000,&quot;image_width&quot;:46}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/JerryRigEverything"/>
+  </action>
+</annotation>
+<annotation id="video:76bcf46e-d43e-4c42-8d49-568a7ce189a1" style="video" type="card" log_data="a-ch=UCWFKCr40YwOZQx8FHU_ZqqQ&amp;a-id=76bcf46e-d43e-4c42-8d49-568a7ce189a1&amp;a-type=62&amp;a-v=aNuUrh9TI-o&amp;ei=F8Y8XM6RI4jCwQHTmIfICA&amp;l-class=1&amp;link-id=aORciBazy28&amp;xble=0">
+  <data>{&quot;is_live_now&quot;:false,&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/aORciBazy28\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: Motorola Droid Turbo 2 - Scratch Test, Bend Test, Burn Test&quot;,&quot;video_duration&quot;:&quot;3:39&quot;,&quot;start_ms&quot;:48325,&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCI75lK3l7d8CFQhhMAodU8wBiSj4HTIFY2FyZHNI6sfM-uGV5e1o&quot;,&quot;src_vid&quot;:&quot;aNuUrh9TI-o&quot;,&quot;annotation_id&quot;:&quot;76bcf46e-d43e-4c42-8d49-568a7ce189a1&quot;,&quot;ei&quot;:&quot;F8Y8XM6RI4jCwQHTmIfICA&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCI75lK3l7d8CFQhhMAodU8wBiSj4HTIFY2FyZHNI6sfM-uGV5e1o&quot;,&quot;card&quot;:&quot;CAkQ1TYY____________ASITCI75lK3l7d8CFQhhMAodU8wBiSj4HTIFY2FyZHNI6sfM-uGV5e1o&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwiO-ZSt5e3fAhUIYTAKHVPMAYko-B0yBWNhcmRzSOrHzPrhleXtaA&quot;},&quot;meta_info&quot;:[&quot;by JerryRigEverything&quot;,&quot;235,332 views&quot;],&quot;target&quot;:&quot;new&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=aORciBazy28&quot;,&quot;timestamp&quot;:1465881456611,&quot;end_ms&quot;:48325,&quot;title&quot;:&quot;Motorola Droid Turbo 2 - Scratch Test, Bend Test, Burn Test&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=aORciBazy28"/>
+  </action>
+</annotation>
+
+<annotation id="video:703c383d-2f75-4a70-a930-8af47f469405" style="video" type="card" log_data="a-ch=UCWFKCr40YwOZQx8FHU_ZqqQ&amp;a-id=703c383d-2f75-4a70-a930-8af47f469405&amp;a-type=62&amp;a-v=aNuUrh9TI-o&amp;ei=F8Y8XM6RI4jCwQHTmIfICA&amp;l-class=1&amp;link-id=3UZub0ba3X0&amp;xble=0">
+  <data>{&quot;is_live_now&quot;:false,&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/3UZub0ba3X0\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: The Rugged Galaxy S7 Active - The World&#39;s Most Indestructible Phone?&quot;,&quot;video_duration&quot;:&quot;1:30&quot;,&quot;start_ms&quot;:58512,&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCI75lK3l7d8CFQhhMAodU8wBiSj4HTIFY2FyZHNI6sfM-uGV5e1o&quot;,&quot;src_vid&quot;:&quot;aNuUrh9TI-o&quot;,&quot;annotation_id&quot;:&quot;703c383d-2f75-4a70-a930-8af47f469405&quot;,&quot;ei&quot;:&quot;F8Y8XM6RI4jCwQHTmIfICA&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCI75lK3l7d8CFQhhMAodU8wBiSj4HTIFY2FyZHNI6sfM-uGV5e1o&quot;,&quot;card&quot;:&quot;CA0Q1TYY____________ASITCI75lK3l7d8CFQhhMAodU8wBiSj4HTIFY2FyZHNI6sfM-uGV5e1o&quot;,&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwiO-ZSt5e3fAhUIYTAKHVPMAYko-B0yBWNhcmRzSOrHzPrhleXtaA&quot;},&quot;meta_info&quot;:[&quot;by JerryRigEverything&quot;,&quot;315,887 views&quot;],&quot;target&quot;:&quot;new&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=3UZub0ba3X0&quot;,&quot;timestamp&quot;:1465922595100,&quot;end_ms&quot;:58512,&quot;title&quot;:&quot;The Rugged Galaxy S7 Active - The World&#39;s Most Indestructible Phone?&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=3UZub0ba3X0"/>
+  </action>
+</annotation>
+
+<annotation id="video:59cc8f81-b3ae-40a3-8d3b-bfe0e78ef1a3" style="playlist" type="card" log_data="a-ch=UCWFKCr40YwOZQx8FHU_ZqqQ&amp;a-id=59cc8f81-b3ae-40a3-8d3b-bfe0e78ef1a3&amp;a-type=63&amp;a-v=aNuUrh9TI-o&amp;ei=F8Y8XM6RI4jCwQHTmIfICA&amp;l-class=2&amp;link-id=PL0vZL9uwyfOHdcsT4QDrvFuMOmFPQjIPA&amp;xble=0">
+  <data>{&quot;playlist_video_count&quot;:&quot;50&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/0oChYfB96lo\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: 2016 Smart Phone Durability Tests - JerryRigEverything&quot;,&quot;start_ms&quot;:191760,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CBEQ1TYY____________ASITCI75lK3l7d8CFQhhMAodU8wBiSj4HTIFY2FyZHNI6sfM-uGV5e1o&quot;,&quot;src_vid&quot;:&quot;aNuUrh9TI-o&quot;,&quot;annotation_id&quot;:&quot;59cc8f81-b3ae-40a3-8d3b-bfe0e78ef1a3&quot;,&quot;ei&quot;:&quot;F8Y8XM6RI4jCwQHTmIfICA&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBIQ0DYY____________ASITCI75lK3l7d8CFQhhMAodU8wBiSj4HTIFY2FyZHNI6sfM-uGV5e1o&quot;,&quot;card&quot;:&quot;CBEQ1TYY____________ASITCI75lK3l7d8CFQhhMAodU8wBiSj4HTIFY2FyZHNI6sfM-uGV5e1o&quot;,&quot;icon&quot;:&quot;CBMQsJcBGP___________wEiEwiO-ZSt5e3fAhUIYTAKHVPMAYko-B0yBWNhcmRzSOrHzPrhleXtaA&quot;},&quot;meta_info&quot;:[&quot;by JerryRigEverything&quot;,&quot;50 videos&quot;],&quot;target&quot;:&quot;new&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=0oChYfB96lo\u0026list=PL0vZL9uwyfOHdcsT4QDrvFuMOmFPQjIPA&quot;,&quot;timestamp&quot;:1465881532881,&quot;end_ms&quot;:191760,&quot;title&quot;:&quot;2016 Smart Phone Durability Tests - JerryRigEverything&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=0oChYfB96lo&amp;list=PL0vZL9uwyfOHdcsT4QDrvFuMOmFPQjIPA"/>
+  </action>
+</annotation>
+
+<annotation id="video:b95670b2-315b-46cb-aa64-3134224e841e" style="video" type="card" log_data="a-ch=UCWFKCr40YwOZQx8FHU_ZqqQ&amp;a-id=b95670b2-315b-46cb-aa64-3134224e841e&amp;a-type=62&amp;a-v=aNuUrh9TI-o&amp;ei=F8Y8XM6RI4jCwQHTmIfICA&amp;l-class=1&amp;link-id=B4KOg7g1zfE&amp;xble=0">
+  <data>{&quot;is_live_now&quot;:false,&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/B4KOg7g1zfE\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: What makes the Galaxy S7 Waterproof? - Ultimate Test&quot;,&quot;video_duration&quot;:&quot;3:27&quot;,&quot;start_ms&quot;:256763,&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CBUQ1TYY____________ASITCI75lK3l7d8CFQhhMAodU8wBiSj4HTIFY2FyZHNI6sfM-uGV5e1o&quot;,&quot;src_vid&quot;:&quot;aNuUrh9TI-o&quot;,&quot;annotation_id&quot;:&quot;b95670b2-315b-46cb-aa64-3134224e841e&quot;,&quot;ei&quot;:&quot;F8Y8XM6RI4jCwQHTmIfICA&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBYQ0DYY____________ASITCI75lK3l7d8CFQhhMAodU8wBiSj4HTIFY2FyZHNI6sfM-uGV5e1o&quot;,&quot;card&quot;:&quot;CBUQ1TYY____________ASITCI75lK3l7d8CFQhhMAodU8wBiSj4HTIFY2FyZHNI6sfM-uGV5e1o&quot;,&quot;icon&quot;:&quot;CBcQsJcBGP___________wEiEwiO-ZSt5e3fAhUIYTAKHVPMAYko-B0yBWNhcmRzSOrHzPrhleXtaA&quot;},&quot;meta_info&quot;:[&quot;by JerryRigEverything&quot;,&quot;901,019 views&quot;],&quot;target&quot;:&quot;new&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=B4KOg7g1zfE&quot;,&quot;timestamp&quot;:1465881655982,&quot;end_ms&quot;:256763,&quot;title&quot;:&quot;What makes the Galaxy S7 Waterproof? - Ultimate Test&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=B4KOg7g1zfE"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwiO+ZSt5e3fAhUIYTAKHVPMAYko+B0yBWNhcmRzSOrHzPrhleXtaA==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCI75lK3l7d8CFQhhMAodU8wBiSj4HTIFY2FyZHNI6sfM+uGV5e1o&quot;, 
+  &quot;headerText&quot;: &quot;From JerryRigEverything&quot;, 
+  &quot;eventId&quot;: &quot;F8Y8XM6RI4jCwQHTmIfICA&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwiO+ZSt5e3fAhUIYTAKHVPMAYko+B0yBWNhcmRzSOrHzPrhleXtaA==&quot;
+}</data>
+</annotation>
+</annotations></document>

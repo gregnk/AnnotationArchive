@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjbbT6-nt3wIVwriCCh0t0Qw8KPgdMgJpdkiHqMjp14Xpv34">
+<annotation id="annotation_1050647429" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCg53HWQKuqaAV2u-Acwn7-g%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-v=fn-kLX0yFAc&amp;a-id=annotation_1050647429&amp;l-class=5&amp;xble=1&amp;ei=zMo8XI2gFsLxigStorPgAw" itct="CAEQs-UBGP___________wEiEwiNttPr6e3fAhXCuIIKHS3RDDwo-B0yAml2SIeoyOnXhem_fg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="55.30900" y="23.94400" w="40.21400" h="52.28200" t="10:24.819"/>
+      <rectRegion x="55.30900" y="23.94400" w="40.21400" h="52.28200" t="10:57.704"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCg53HWQKuqaAV2u-Acwn7-g?annotation_id=annotation_1050647429&amp;ei=zMo8XI2gFsLxigStorPgAw&amp;feature=iv&amp;src_vid=fn-kLX0yFAc&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1754832121" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1050647429">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1050647429" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_224428699" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2847219325">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2847219325" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2847219325" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_APucTcM44E%26list%3DPLMEO4RH9mX-g7SQIDzZ_G4Yy1i8dWBXja%26index%3D32&amp;a-type=3&amp;a-v=fn-kLX0yFAc&amp;a-id=annotation_2847219325&amp;l-class=1&amp;xble=1&amp;ei=zMo8XI2gFsLxigStorPgAw" itct="CAIQs-UBGP___________wEiEwiNttPr6e3fAhXCuIIKHS3RDDwo-B0yAml2SIeoyOnXhem_fg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.91300" y="24.50700" w="50.19800" h="51.71800" t="10:24.819"/>
+      <rectRegion x="4.91300" y="24.50700" w="50.19800" h="51.71800" t="10:57.704"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2847219325&amp;ei=zMo8XI2gFsLxigStorPgAw&amp;feature=iv&amp;index=32&amp;list=PLMEO4RH9mX-g7SQIDzZ_G4Yy1i8dWBXja&amp;src_vid=fn-kLX0yFAc&amp;v=_APucTcM44E" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:8058b1b3-aaee-4b74-9c20-0048db8c96a6" style="branding" type="branding"
+            log_data="a-type=10&amp;a-v=fn-kLX0yFAc&amp;a-id=8058b1b3-aaee-4b74-9c20-0048db8c96a6&amp;l-class=3&amp;xble=0&amp;ei=zMo8XI2gFsLxigStorPgAw&amp;link-id=UCg53HWQKuqaAV2u-Acwn7-g&amp;a-ch=UCg53HWQKuqaAV2u-Acwn7-g">
+  <data>{&quot;image_height&quot;:27,&quot;channel_id&quot;:&quot;UCg53HWQKuqaAV2u-Acwn7-g&quot;,&quot;image_width&quot;:49,&quot;end_ms&quot;:658000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/g53HWQKuqaAV2u-Acwn7-g\/featured_channel.jpg?v=5ab50179&quot;,&quot;num_subscribers&quot;:&quot;401785&quot;,&quot;image_type&quot;:1,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCg53HWQKuqaAV2u-Acwn7-g%26hl%3Den%26action_handle_signin%3Dtrue%26continue_action%3DQUFFLUhqbVFUR1VpenpqckxuZE9rbVBZYlVNUWNIQVdIQXxBQ3Jtc0tsWUxDZ0VHaHdiOW1jNU9BTkUxUlQ3VW15S3hVS1liaWpjZ1Uwd2NWZUFKSGd6RF9KUHNGMm1DbVQ1dkVLajBaTS1tYWZPQVlXeHN3VzZNYklBWkREOGhOVkpQSms5eFo3TnFxZEp4dnFXeGFhUkFGUHc4aVlqMGZNRkhwdlluVS1hbndIcmxHQ3Y3RmlmZ3dLV2JGOHUzdng1VzBnRm5kWHgzZjVQS0ROOTVxN3IzbEtEcFdjbE5TdDRXcFY2YXQzN2FwXzVHYURTMHBDWkV0LWl5a19zX204dFVHcmF6VV9oYUxXRlJnbkxJUFJUUzRJ%26feature%3Div\u0026passive=true\u0026hl=en\u0026service=youtube\u0026uilel=3&quot;,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;enabled&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;401K&quot;,&quot;unsubscribeCount&quot;:&quot;401K&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;channel_name&quot;:&quot;AlltimeGaming&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCI220-vp7d8CFcK4ggodLdEMPCj4HTICaXZIh6jI6deF6b9-&quot;,&quot;src_vid&quot;:&quot;fn-kLX0yFAc&quot;,&quot;annotation_id&quot;:&quot;8058b1b3-aaee-4b74-9c20-0048db8c96a6&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;zMo8XI2gFsLxigStorPgAw&quot;},&quot;start_ms&quot;:5000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCg53HWQKuqaAV2u-Acwn7-g"/>
+  </action>
+</annotation>
+<annotation id="video:fcfb51b2-72c8-46c1-a0f9-6c1e4bf3e826" style="video" type="card" log_data="a-ch=UCg53HWQKuqaAV2u-Acwn7-g&amp;a-id=fcfb51b2-72c8-46c1-a0f9-6c1e4bf3e826&amp;a-type=62&amp;a-v=fn-kLX0yFAc&amp;ei=zMo8XI2gFsLxigStorPgAw&amp;l-class=1&amp;link-id=Gj6-oz-6Bwc&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/Gj6-oz-6Bwc\/mqdefault.jpg&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCI220-vp7d8CFcK4ggodLdEMPCj4HTIFY2FyZHNIh6jI6deF6b9-&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwiNttPr6e3fAhXCuIIKHS3RDDwo-B0yBWNhcmRzSIeoyOnXhem_fg&quot;,&quot;card&quot;:&quot;CAgQ1TYY____________ASITCI220-vp7d8CFcK4ggodLdEMPCj4HTIFY2FyZHNIh6jI6deF6b9-&quot;},&quot;end_ms&quot;:503418,&quot;is_live_now&quot;:false,&quot;title&quot;:&quot;6 Hardest Video Game Decisions&quot;,&quot;timestamp&quot;:1468947549300,&quot;pause_on_navigation&quot;:true,&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;meta_info&quot;:[&quot;by AlltimeGaming&quot;,&quot;2,174,708 views&quot;],&quot;video_duration&quot;:&quot;7:45&quot;,&quot;start_ms&quot;:503418,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Gj6-oz-6Bwc&quot;,&quot;target&quot;:&quot;new&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[],&quot;teaser_click&quot;:[]},&quot;card_type&quot;:&quot;video&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCI220-vp7d8CFcK4ggodLdEMPCj4HTIFY2FyZHNIh6jI6deF6b9-&quot;,&quot;src_vid&quot;:&quot;fn-kLX0yFAc&quot;,&quot;annotation_id&quot;:&quot;fcfb51b2-72c8-46c1-a0f9-6c1e4bf3e826&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;zMo8XI2gFsLxigStorPgAw&quot;},&quot;teaser_text&quot;:&quot;Suggested: 6 Hardest Video Game Decisions&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=Gj6-oz-6Bwc"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;zMo8XI2gFsLxigStorPgAw&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCI220+vp7d8CFcK4ggodLdEMPCj4HTIFY2FyZHNIh6jI6deF6b9+&quot;, 
+  &quot;headerText&quot;: &quot;From AlltimeGaming&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwiNttPr6e3fAhXCuIIKHS3RDDwo+B0yBWNhcmRzSIeoyOnXhem/fg==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwiNttPr6e3fAhXCuIIKHS3RDDwo+B0yBWNhcmRzSIeoyOnXhem/fg==&quot;
+}</data>
+</annotation>
+</annotations></document>

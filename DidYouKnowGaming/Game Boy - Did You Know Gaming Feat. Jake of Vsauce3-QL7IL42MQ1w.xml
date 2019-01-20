@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIsrnziuXt3wIVxhQDCh2iEQpJKPgdMgJpdkjchrHs-IWy30A">
+<annotation id="annotation_1250432461" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2934031737">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2934031737" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2934031737" type="highlight" log_data="xble=1&amp;ei=z8U8XPKVLMapDKKjqMgE&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0vjcGwZGBYI&amp;a-id=annotation_2934031737&amp;a-type=3&amp;a-v=QL7IL42MQ1w&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwiyufOK5e3fAhXGFAMKHaIRCkko-B0yAml2SNyGsez4hbLfQA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="22.82100" y="22.81700" w="54.73000" h="54.81400" t="7:54.370"/>
+      <rectRegion x="22.82100" y="22.81700" w="54.73000" h="54.81400" t="8:12.557"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2934031737&amp;ei=z8U8XPKVLMapDKKjqMgE&amp;feature=iv&amp;src_vid=QL7IL42MQ1w&amp;v=0vjcGwZGBYI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3433770861" type="text" style="popup" log_data="xble=1&amp;ei=z8U8XPKVLMapDKKjqMgE&amp;a-v=QL7IL42MQ1w&amp;a-type=1&amp;a-id=annotation_3433770861" itct="CAIQs-UBGP___________wEiEwiyufOK5e3fAhXGFAMKHaIRCkko-B0yAml2SNyGsez4hbLfQA">
+  <TEXT>Correction: Hyundai distributed Nintendo&#39;s hardware. Samsung only distributed Sega&#39;s</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="29.79400" y="81.12700" w="42.67000" h="12.26800" t="4:13.107"/>
+      <rectRegion x="29.79400" y="81.12700" w="42.67000" h="12.26800" t="4:33.874"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="channel:5448b1c4-0000-2922-aea8-001a113cec0e" style="branding" type="branding"
+            log_data="xble=0&amp;ei=z8U8XPKVLMapDKKjqMgE&amp;a-ch=UCyS4xQE6DK4_p3qXQwJQAyA&amp;a-id=5448b1c4-0000-2922-aea8-001a113cec0e&amp;a-type=10&amp;a-v=QL7IL42MQ1w&amp;l-class=3&amp;link-id=UCyS4xQE6DK4_p3qXQwJQAyA">
+  <data>{&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;2.2M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=en\u0026uilel=3\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26continue_action%3DQUFFLUhqbnBJUG1sS25NN29mT3E1WjRucC05b0FsQi1RUXxBQ3Jtc0ttOWhJNkU4cFhfaTBnMDdtQkhtRXlsTWY5RV93dFZoeFFuUGJjeEVrNEd0a1c0YXNKdThpVG1FSFRWSEVoYkhiTk1yU05JUGctOXgzN25qaWl2UlBibHVTZ2hTbHIySnBwSFJuc3A5cTNPTWo1RTRlSHZfcl8xZHpUQnBBUmxSaDFMNDFtVlFOay0ycnZLSWNPemFKN0FHS3JRekQ5M0hGdS1aRlRIR1A1ZWxLeVJkU0lCRzdCR2pHV2IxRl9nNHBzem1xejdNc3dKSXhQaTVzVWRBNEwzaHhDam1YZG1nSzJpRGxCaUhGSnlvSW0wR0xV%26hl%3Den%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FDYKGaming%26action_handle_signin%3Dtrue&quot;,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;enabled&quot;:false,&quot;unsubscribeCount&quot;:&quot;2.2M&quot;},&quot;end_ms&quot;:493000,&quot;num_subscribers&quot;:&quot;2247948&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/yS4xQE6DK4_p3qXQwJQAyA\/featured_channel.jpg?v=544c1652&quot;,&quot;start_ms&quot;:0,&quot;image_type&quot;:1,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:40,&quot;image_height&quot;:40,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;DidYouKnowGaming?&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCLK584rl7d8CFcYUAwodohEKSSj4HTICaXZI3Iax7PiFst9A&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;z8U8XPKVLMapDKKjqMgE&quot;,&quot;annotation_id&quot;:&quot;5448b1c4-0000-2922-aea8-001a113cec0e&quot;,&quot;src_vid&quot;:&quot;QL7IL42MQ1w&quot;},&quot;channel_id&quot;:&quot;UCyS4xQE6DK4_p3qXQwJQAyA&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/DYKGaming"/>
+  </action>
+</annotation>
+<annotation id="video:998ac7c8-2472-407c-ac74-c28cff771674" style="video" type="card" log_data="a-ch=UCyS4xQE6DK4_p3qXQwJQAyA&amp;a-id=998ac7c8-2472-407c-ac74-c28cff771674&amp;a-type=62&amp;a-v=QL7IL42MQ1w&amp;ei=z8U8XPKVLMapDKKjqMgE&amp;l-class=1&amp;link-id=4VUu5NTKFIU&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=4VUu5NTKFIU&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:469888,&quot;pause_on_navigation&quot;:true,&quot;card_type&quot;:&quot;video&quot;,&quot;teaser_text&quot;:&quot;Suggested: Nintendo Wii - Did You Know Gaming? Feat. Rated S Games&quot;,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[]},&quot;title&quot;:&quot;Nintendo Wii - Did You Know Gaming? Feat. Rated S Games&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/4VUu5NTKFIU\/mqdefault.jpg&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAgQ1TYY____________ASITCLK584rl7d8CFcYUAwodohEKSSj4HTIFY2FyZHNI3Iax7PiFst9A&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCLK584rl7d8CFcYUAwodohEKSSj4HTIFY2FyZHNI3Iax7PiFst9A&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwiyufOK5e3fAhXGFAMKHaIRCkko-B0yBWNhcmRzSNyGsez4hbLfQA&quot;},&quot;start_ms&quot;:469888,&quot;meta_info&quot;:[&quot;by DidYouKnowGaming?&quot;,&quot;1,939,134 views&quot;],&quot;is_live_now&quot;:false,&quot;video_duration&quot;:&quot;9:15&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCLK584rl7d8CFcYUAwodohEKSSj4HTIFY2FyZHNI3Iax7PiFst9A&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;z8U8XPKVLMapDKKjqMgE&quot;,&quot;annotation_id&quot;:&quot;998ac7c8-2472-407c-ac74-c28cff771674&quot;,&quot;src_vid&quot;:&quot;QL7IL42MQ1w&quot;},&quot;target&quot;:&quot;new&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=4VUu5NTKFIU"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;z8U8XPKVLMapDKKjqMgE&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCLK584rl7d8CFcYUAwodohEKSSj4HTIFY2FyZHNI3Iax7PiFst9A&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwiyufOK5e3fAhXGFAMKHaIRCkko+B0yBWNhcmRzSNyGsez4hbLfQA==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwiyufOK5e3fAhXGFAMKHaIRCkko+B0yBWNhcmRzSNyGsez4hbLfQA==&quot;, 
+  &quot;headerText&quot;: &quot;From DidYouKnowGaming?&quot;
+}</data>
+</annotation>
+</annotations></document>

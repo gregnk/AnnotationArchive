@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI_a7z4eft3wIVlNyCCh0NoAPEKPgdMgJpdkiHjL2Vg_b0wn4">
+<annotation id="annotation_2199505915" type="highlight" log_data="l-class=1&amp;a-v=foXTsDKvRgc&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoiHvu4RfNNw&amp;ei=n8g8XL3jApS5iwSNwI6gDA&amp;xble=1&amp;a-id=annotation_2199505915" itct="CAEQs-UBGP___________wEiEwj9rvPh5-3fAhWU3IIKHQ2gA8Qo-B0yAml2SIeMvZWD9vTCfg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="26.56100" y="13.84500" w="45.91900" h="48.35200" t="12:00.692"/>
+      <rectRegion x="26.56100" y="13.84500" w="45.91900" h="48.35200" t="12:06.041"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="14562356" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2199505915&amp;ei=n8g8XL3jApS5iwSNwI6gDA&amp;feature=iv&amp;src_vid=foXTsDKvRgc&amp;v=oiHvu4RfNNw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_462402985" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2199505915">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2199505915" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:999fb4bc-3a5a-4ad7-95bd-0c3937643312" style="simple" type="card" log_data="a-ch=UCdJdEguB1F1CiYe7OEi3SBg&amp;a-id=999fb4bc-3a5a-4ad7-95bd-0c3937643312&amp;a-type=66&amp;a-v=foXTsDKvRgc&amp;ei=n8g8XL3jApS5iwSNwI6gDA&amp;l-class=7&amp;link=https%3A%2F%2Frepresent.com%2Fstore%2Fjontron&amp;xble=0">
+  <data>{&quot;end_ms&quot;:686196,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/foXTsDKvRgc\/999fb4bc-3a5a-4ad7-95bd-0c3937643312_mq.jpg?v=59e91c42&quot;,&quot;custom_message&quot;:&quot;BUY NOW TO BE COOL&quot;,&quot;title&quot;:&quot;JonTron Official Store&quot;,&quot;display_domain&quot;:&quot;represent.com&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;url&quot;:&quot;\/redirect?event=infocard\u0026q=https%3A%2F%2Frepresent.com%2Fstore%2Fjontron\u0026redir_token=gEqd1wzNArrLHZcDz31ONcGGx_V8MTU0NzU3Mzc5MUAxNTQ3NDg3Mzkx&quot;,&quot;teaser_text&quot;:&quot;OFFICIAL JONTRON MERCH&quot;,&quot;meta_info&quot;:[],&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;simple&quot;,&quot;start_ms&quot;:686196,&quot;pause_on_navigation&quot;:true,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAYQ1TYY____________ASITCP2u8-Hn7d8CFZTcggodDaADxCj4HTIFY2FyZHNIh4y9lYP29MJ-&quot;,&quot;teaser&quot;:&quot;CAcQ0DYY____________ASITCP2u8-Hn7d8CFZTcggodDaADxCj4HTIFY2FyZHNIh4y9lYP29MJ-&quot;,&quot;icon&quot;:&quot;CAgQsJcBGP___________wEiEwj9rvPh5-3fAhWU3IIKHQ2gA8Qo-B0yBWNhcmRzSIeMvZWD9vTCfg&quot;},&quot;sponsored&quot;:false,&quot;timestamp&quot;:1508449349458,&quot;show_link_icon&quot;:true,&quot;target&quot;:&quot;new&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;n8g8XL3jApS5iwSNwI6gDA&quot;,&quot;itct&quot;:&quot;CAYQ1TYY____________ASITCP2u8-Hn7d8CFZTcggodDaADxCj4HTIFY2FyZHNIh4y9lYP29MJ-&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;999fb4bc-3a5a-4ad7-95bd-0c3937643312&quot;,&quot;src_vid&quot;:&quot;foXTsDKvRgc&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?event=infocard&amp;q=https%3A%2F%2Frepresent.com%2Fstore%2Fjontron&amp;redir_token=gEqd1wzNArrLHZcDz31ONcGGx_V8MTU0NzU3Mzc5MUAxNTQ3NDg3Mzkx"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAQQsJcBGP///////////wEiEwj9rvPh5+3fAhWU3IIKHQ2gA8Qo+B0yBWNhcmRzSIeMvZWD9vTCfg==&quot;, 
+  &quot;eventId&quot;: &quot;n8g8XL3jApS5iwSNwI6gDA&quot;, 
+  &quot;trackingParams&quot;: &quot;CAIQwjcY////////////ASITCP2u8+Hn7d8CFZTcggodDaADxCj4HTIFY2FyZHNIh4y9lYP29MJ+&quot;, 
+  &quot;headerText&quot;: &quot;From JonTronShow&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAMQsZcBGP///////////wEiEwj9rvPh5+3fAhWU3IIKHQ2gA8Qo+B0yBWNhcmRzSIeMvZWD9vTCfg==&quot;
+}</data>
+</annotation>
+</annotations></document>

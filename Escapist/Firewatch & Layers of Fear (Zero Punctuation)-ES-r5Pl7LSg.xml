@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIq7f-oOTt3wIVAUyDCh1rYQpEKPgdMgJpdkio2uzLz_zqlxE">
+<annotation id="annotation_1068800401" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1847162969">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1847162969" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1378963865" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2976586197">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2976586197" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1500008639" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1703059749">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1703059749" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1703059749" type="highlight" log_data="a-id=annotation_1703059749&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FTheEscapistMagazine%3Fsub_confirmation%3D1&amp;l-class=5&amp;a-v=ES-r5Pl7LSg&amp;ei=8cQ8XOv6JIGYjQTrwqmgBA" itct="CAEQs-UBGP___________wEiEwirt_6g5O3fAhUBTIMKHWthCkQo-B0yAml2SKja7MvP_OqXEQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="9.66700" y="25.35200" w="46.07800" h="17.07000" t="5:27.171"/>
+      <rectRegion x="9.66700" y="25.35200" w="46.07800" h="17.07000" t="5:40.854"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/TheEscapistMagazine?annotation_id=annotation_1703059749&amp;ei=8cQ8XOv6JIGYjQTrwqmgBA&amp;feature=iv&amp;src_vid=ES-r5Pl7LSg&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1847162969" type="highlight" log_data="a-id=annotation_1847162969&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.escapistmagazine.com%2Fmerch&amp;l-class=6&amp;a-v=ES-r5Pl7LSg&amp;ei=8cQ8XOv6JIGYjQTrwqmgBA" itct="CAIQs-UBGP___________wEiEwirt_6g5O3fAhUBTIMKHWthCkQo-B0yAml2SKja7MvP_OqXEQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="68.14600" y="9.85900" w="28.32800" h="65.52100" t="5:40.854"/>
+      <rectRegion x="68.14600" y="9.85900" w="28.32800" h="65.52100" t="5:56.169"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.escapistmagazine.com/merch" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2300981351" type="highlight" log_data="a-id=annotation_2300981351&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDSwAhRZV4XY%26list%3DPLAbMhAYRuCUhawCEV2oXZGrienoKTN16X%26index%3D2&amp;l-class=1&amp;a-v=ES-r5Pl7LSg&amp;ei=8cQ8XOv6JIGYjQTrwqmgBA" itct="CAMQs-UBGP___________wEiEwirt_6g5O3fAhUBTIMKHWthCkQo-B0yAml2SKja7MvP_OqXEQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="34.70700" y="44.78900" w="31.49800" h="35.94400" t="5:27.171"/>
+      <rectRegion x="34.70700" y="44.78900" w="31.49800" h="35.94400" t="5:40.854"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2300981351&amp;ei=8cQ8XOv6JIGYjQTrwqmgBA&amp;feature=iv&amp;index=2&amp;list=PLAbMhAYRuCUhawCEV2oXZGrienoKTN16X&amp;src_vid=ES-r5Pl7LSg&amp;v=DSwAhRZV4XY" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2332796363" type="highlight" log_data="a-id=annotation_2332796363&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.escapistmagazine.com%2Fmerch&amp;l-class=6&amp;a-v=ES-r5Pl7LSg&amp;ei=8cQ8XOv6JIGYjQTrwqmgBA" itct="CAQQs-UBGP___________wEiEwirt_6g5O3fAhUBTIMKHWthCkQo-B0yAml2SKja7MvP_OqXEQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="35.65800" y="9.29600" w="28.64500" h="66.36600" t="5:40.854"/>
+      <rectRegion x="35.65800" y="9.29600" w="28.64500" h="66.36600" t="5:56.169"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.escapistmagazine.com/merch" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2976586197" type="highlight" log_data="a-id=annotation_2976586197&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.escapistmagazine.com%2Fmerch&amp;l-class=6&amp;a-v=ES-r5Pl7LSg&amp;ei=8cQ8XOv6JIGYjQTrwqmgBA" itct="CAUQs-UBGP___________wEiEwirt_6g5O3fAhUBTIMKHWthCkQo-B0yAml2SKja7MvP_OqXEQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.48700" y="9.85900" w="27.85300" h="65.23900" t="5:40.854"/>
+      <rectRegion x="3.48700" y="9.85900" w="27.85300" h="65.23900" t="5:56.169"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.escapistmagazine.com/merch" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3533781123" type="highlight" log_data="a-id=annotation_3533781123&amp;a-type=3&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRFDLjmvNNnU%26list%3DPLAbMhAYRuCUhawCEV2oXZGrienoKTN16X%26index%3D1&amp;l-class=1&amp;a-v=ES-r5Pl7LSg&amp;ei=8cQ8XOv6JIGYjQTrwqmgBA" itct="CAYQs-UBGP___________wEiEwirt_6g5O3fAhUBTIMKHWthCkQo-B0yAml2SKja7MvP_OqXEQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.06000" y="45.07000" w="31.49800" h="35.38000" t="5:27.171"/>
+      <rectRegion x="2.06000" y="45.07000" w="31.49800" h="35.38000" t="5:40.854"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3533781123&amp;ei=8cQ8XOv6JIGYjQTrwqmgBA&amp;feature=iv&amp;index=1&amp;list=PLAbMhAYRuCUhawCEV2oXZGrienoKTN16X&amp;src_vid=ES-r5Pl7LSg&amp;v=RFDLjmvNNnU" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_716613657" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2332796363">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2332796363" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_751064027" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2300981351">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2300981351" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_806957667" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3533781123">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3533781123" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51681596-0-2df8-9529-47d7bd769b0" style="branding" type="branding"
+            log_data="a-id=51681596-0-2df8-9529-47d7bd769b0&amp;a-type=10&amp;a-ch=UCqg5FCR7NrpvlBWMXdt-5Vg&amp;xble=0&amp;link-id=UCqg5FCR7NrpvlBWMXdt-5Vg&amp;ei=8cQ8XOv6JIGYjQTrwqmgBA&amp;l-class=3&amp;a-v=ES-r5Pl7LSg">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCKu3_qDk7d8CFQFMgwoda2EKRCj4HTICaXZIqNrsy8_86pcR&quot;,&quot;src_vid&quot;:&quot;ES-r5Pl7LSg&quot;,&quot;annotation_id&quot;:&quot;51681596-0-2df8-9529-47d7bd769b0&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;8cQ8XOv6JIGYjQTrwqmgBA&quot;},&quot;start_ms&quot;:0,&quot;channel_name&quot;:&quot;Escapist&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mDQZQZJLRGHeJ6lqi9H5MFm6dG2uLkWR91ElA=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_type&quot;:0,&quot;image_width&quot;:40,&quot;end_ms&quot;:357000,&quot;image_height&quot;:40,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_id&quot;:&quot;UCqg5FCR7NrpvlBWMXdt-5Vg&quot;,&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;1126878&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTheEscapistMagazine%26continue_action%3DQUFFLUhqa0Y5Uk1mU085dDloLV8wOS1yZ1YtVHlDOWxXZ3xBQ3Jtc0tsVVpacEF5eEE2TENkc1R1cWdjZWFpU1VfYU1BSkVpRld2elhZNmV6R1J4MjhReUV1MjR6S0g0SGtmS3B1bG5yRXljdHhNbC1wenZKa3BNR05KU01weTRQVEdMMldwd29ITldRbUJsaW1wdVpxVXd6U3N6N2Z1N0JRQUV3V2FnVHpjLW5od1kteXE1akNadHJvdDgyR0ROMWJuS1VXQVFLV3l2RThIbUE0Ty1MbjZhTWh3RFhQelVSSms2cXNobTBVczNMNkE4ZmNNMEVnUFBqQjlZdC1Da2JtV185b201VkZhbl9UeGdxeURObzU1eld3%26hl%3Den%26app%3Ddesktop%26feature%3Div%26action_handle_signin%3Dtrue\u0026passive=true\u0026uilel=3\u0026hl=en\u0026service=youtube&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;1.1M&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;1.1M&quot;,&quot;subscribed&quot;:false}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TheEscapistMagazine"/>
+  </action>
+</annotation>
+<annotation id="video:71289635-a43d-4d22-810e-ebb334a9a2f1" style="playlist" type="card" log_data="a-ch=UCqg5FCR7NrpvlBWMXdt-5Vg&amp;a-id=71289635-a43d-4d22-810e-ebb334a9a2f1&amp;a-type=63&amp;a-v=ES-r5Pl7LSg&amp;ei=8cQ8XOv6JIGYjQTrwqmgBA&amp;l-class=2&amp;link-id=PLAbMhAYRuCUhawCEV2oXZGrienoKTN16X&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Sid8xgIkcdo\u0026list=PLAbMhAYRuCUhawCEV2oXZGrienoKTN16X&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCKu3_qDk7d8CFQFMgwoda2EKRCj4HTIFY2FyZHNIqNrsy8_86pcR&quot;,&quot;src_vid&quot;:&quot;ES-r5Pl7LSg&quot;,&quot;annotation_id&quot;:&quot;71289635-a43d-4d22-810e-ebb334a9a2f1&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;8cQ8XOv6JIGYjQTrwqmgBA&quot;},&quot;meta_info&quot;:[&quot;by Escapist&quot;,&quot;748 videos&quot;],&quot;playlist_video_count&quot;:&quot;748&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;title&quot;:&quot;Zero Punctuation Complete Series&quot;,&quot;teaser_text&quot;:&quot;Suggested: Zero Punctuation Complete Series&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/Sid8xgIkcdo\/mqdefault.jpg&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCKu3_qDk7d8CFQFMgwoda2EKRCj4HTIFY2FyZHNIqNrsy8_86pcR&quot;,&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwirt_6g5O3fAhUBTIMKHWthCkQo-B0yBWNhcmRzSKja7MvP_OqXEQ&quot;,&quot;card&quot;:&quot;CAwQ1TYY____________ASITCKu3_qDk7d8CFQFMgwoda2EKRCj4HTIFY2FyZHNIqNrsy8_86pcR&quot;},&quot;timestamp&quot;:1457536298634,&quot;end_ms&quot;:45654,&quot;tracking&quot;:{&quot;teaser_impression&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[]},&quot;pause_on_navigation&quot;:true,&quot;start_ms&quot;:45654,&quot;custom_message&quot;:&quot;&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;target&quot;:&quot;new&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=Sid8xgIkcdo&amp;list=PLAbMhAYRuCUhawCEV2oXZGrienoKTN16X"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;trackingParams&quot;: &quot;CAgQwjcY////////////ASITCKu3/qDk7d8CFQFMgwoda2EKRCj4HTIFY2FyZHNIqNrsy8/86pcR&quot;, 
+  &quot;eventId&quot;: &quot;8cQ8XOv6JIGYjQTrwqmgBA&quot;, 
+  &quot;headerText&quot;: &quot;From Escapist&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAkQsZcBGP///////////wEiEwirt/6g5O3fAhUBTIMKHWthCkQo+B0yBWNhcmRzSKja7MvP/OqXEQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAoQsJcBGP///////////wEiEwirt/6g5O3fAhUBTIMKHWthCkQo+B0yBWNhcmRzSKja7MvP/OqXEQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

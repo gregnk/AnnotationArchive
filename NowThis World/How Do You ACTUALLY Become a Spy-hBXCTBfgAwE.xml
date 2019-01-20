@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMInPHyk-jt3wIVx08DCh3LbQgaKPgdMgJpdkiBhoC_wcnwioQB">
+<annotation id="annotation_1693111679" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Ftesttubenetwork%3Fsub_confirmation%3D1&amp;ei=B8k8XNzRNsefDcvbodAB&amp;a-v=hBXCTBfgAwE&amp;a-type=3&amp;xble=1&amp;a-id=annotation_1693111679&amp;l-class=5" itct="CAEQs-UBGP___________wEiEwic8fKT6O3fAhXHTwMKHcttCBoo-B0yAml2SIGGgL_ByfCKhAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="22.97900" y="73.80300" w="54.31900" h="18.76400" t="1:35.034"/>
+      <rectRegion x="22.97900" y="73.80300" w="54.31900" h="18.76400" t="1:56.750"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/testtubenetwork?annotation_id=annotation_1693111679&amp;ei=B8k8XNzRNsefDcvbodAB&amp;feature=iv&amp;src_vid=hBXCTBfgAwE&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3470001775" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1693111679">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1693111679" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:a987cffe-b30f-4517-a30d-024cefc96c25" style="branding" type="branding"
+            log_data="a-ch=UCgRvm1yLFoaQKhmaTqXk9SA&amp;ei=B8k8XNzRNsefDcvbodAB&amp;a-v=hBXCTBfgAwE&amp;link-id=UCgRvm1yLFoaQKhmaTqXk9SA&amp;a-type=10&amp;xble=0&amp;a-id=a987cffe-b30f-4517-a30d-024cefc96c25&amp;l-class=3">
+  <data>{&quot;num_subscribers&quot;:&quot;1949571&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;a987cffe-b30f-4517-a30d-024cefc96c25&quot;,&quot;ei&quot;:&quot;B8k8XNzRNsefDcvbodAB&quot;,&quot;src_vid&quot;:&quot;hBXCTBfgAwE&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCJzx8pPo7d8CFcdPAwody20IGij4HTICaXZIgYaAv8HJ8IqEAQ&quot;},&quot;channel_name&quot;:&quot;NowThis World&quot;,&quot;image_type&quot;:1,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/gRvm1yLFoaQKhmaTqXk9SA\/featured_channel.jpg?v=59b2a5b7&quot;,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;enabled&quot;:false,&quot;subscribeCount&quot;:&quot;1.9M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=en\u0026service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqazI1U1RiZFZnTmZHYVFZMHR3LS1QaXQyM0RyZ3xBQ3Jtc0tsTXRoQjd4VndDYlNEelVGOU1mZEtEMzBlTTNqV05QdHNIYmp2Q2twUHVhMDIxcnNVN3ZfSGh0WTAyNXpuVi13Zlh4QVhNaDgyR2VheXM0emZ2T1Foa2dwNU9uY2F4TGdScGNZS2ltLW5DMkVaaXRxWW84bk1hakRrdV80dzVJcmpEVE9EYVZCSGdrNnNwN05VUnJWU1VYMlV5eTZuUUZKTl9tZkdZVlJRSWFKYW5PdE11SjBncmJpOHB2TjduWGNxUjEyeXQwQWN1a2FGMWRnSktka1owQjMyQkV2SDFGczdQclYxVlJtd2wtU1hmZ2hn%26action_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTestTubeNetwork%26hl%3Den\u0026passive=true&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;1.9M&quot;,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;image_width&quot;:38,&quot;end_ms&quot;:117000,&quot;image_height&quot;:41,&quot;channel_id&quot;:&quot;UCgRvm1yLFoaQKhmaTqXk9SA&quot;,&quot;use_standalone_subscribe_button&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TestTubeNetwork"/>
+  </action>
+</annotation></annotations></document>

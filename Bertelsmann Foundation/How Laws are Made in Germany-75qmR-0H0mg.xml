@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI67rw4e3t3wIVEVTtCh3WpgC_KPgdMgJpdkjopJ_o_sipze8B">
+<annotation id="annotation_4074832021" type="highlight" log_data="a-type=3&amp;l-class=1&amp;xble=1&amp;a-id=annotation_4074832021&amp;a-v=75qmR-0H0mg&amp;ei=6c48XKuiJZGotQfWzYL4Cw&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLqVqzE1utKw" itct="CAEQs-UBGP___________wEiEwjruvDh7e3fAhURVO0KHdamAL8o-B0yAml2SOikn-j-yKnN7wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="25.94500" y="21.25700" w="49.16200" h="61.02200" t="2:55.400"/>
+      <rectRegion x="25.94500" y="21.25700" w="49.16200" h="61.02200" t="2:59.400"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_4074832021&amp;ei=6c48XKuiJZGotQfWzYL4Cw&amp;feature=iv&amp;src_vid=75qmR-0H0mg&amp;v=LqVqzE1utKw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_983167585" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_4074832021">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_4074832021" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="video:374b8e84-d90a-4569-9a95-57e05b9cdefe" style="video" type="card" log_data="a-ch=UCZZdgI5F7KjUCW0fCKUOAAg&amp;a-id=374b8e84-d90a-4569-9a95-57e05b9cdefe&amp;a-type=62&amp;a-v=75qmR-0H0mg&amp;ei=6c48XKuiJZGotQfWzYL4Cw&amp;l-class=1&amp;link-id=LqVqzE1utKw&amp;xble=0">
+  <data>{&quot;end_ms&quot;:72308,&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;How the German Government Works&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=LqVqzE1utKw&quot;,&quot;teaser_text&quot;:&quot;Suggested: How the German Government Works&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAYQ1TYY____________ASITCOu68OHt7d8CFRFU7Qod1qYAvyj4HTIFY2FyZHNI6KSf6P7Iqc3vAQ&quot;,&quot;teaser&quot;:&quot;CAcQ0DYY____________ASITCOu68OHt7d8CFRFU7Qod1qYAvyj4HTIFY2FyZHNI6KSf6P7Iqc3vAQ&quot;,&quot;icon&quot;:&quot;CAgQsJcBGP___________wEiEwjruvDh7e3fAhURVO0KHdamAL8o-B0yBWNhcmRzSOikn-j-yKnN7wE&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;is_live_now&quot;:false,&quot;card_type&quot;:&quot;video&quot;,&quot;meta_info&quot;:[&quot;by Bertelsmann Foundation&quot;,&quot;74,340 views&quot;],&quot;video_duration&quot;:&quot;3:55&quot;,&quot;timestamp&quot;:1475684297742,&quot;start_ms&quot;:72308,&quot;pause_on_navigation&quot;:true,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAYQ1TYY____________ASITCOu68OHt7d8CFRFU7Qod1qYAvyj4HTIFY2FyZHNI6KSf6P7Iqc3vAQ&quot;,&quot;annotation_id&quot;:&quot;374b8e84-d90a-4569-9a95-57e05b9cdefe&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;6c48XKuiJZGotQfWzYL4Cw&quot;,&quot;src_vid&quot;:&quot;75qmR-0H0mg&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/LqVqzE1utKw\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=LqVqzE1utKw"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAQQsJcBGP///////////wEiEwjruvDh7e3fAhURVO0KHdamAL8o+B0yBWNhcmRzSOikn+j+yKnN7wE=&quot;, 
+  &quot;eventId&quot;: &quot;6c48XKuiJZGotQfWzYL4Cw&quot;, 
+  &quot;trackingParams&quot;: &quot;CAIQwjcY////////////ASITCOu68OHt7d8CFRFU7Qod1qYAvyj4HTIFY2FyZHNI6KSf6P7Iqc3vAQ==&quot;, 
+  &quot;headerText&quot;: &quot;From Bertelsmann Foundation&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAMQsZcBGP///////////wEiEwjruvDh7e3fAhURVO0KHdamAL8o+B0yBWNhcmRzSOikn+j+yKnN7wE=&quot;
+}</data>
+</annotation>
+</annotations></document>

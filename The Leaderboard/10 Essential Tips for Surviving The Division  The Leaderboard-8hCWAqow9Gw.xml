@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjpL4rOvt3wIVCBgDCh3ZswIEKPgdMgJpdkjs6MPRqsCliPIB">
+<annotation id="annotation_104161233" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3321401117">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3321401117" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1299254101" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_176490307">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_176490307" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1362220695" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DG-N3Qafy9nc%26list%3DPLgIgkl6EXWsuQ5Qfbo3FPlFYbC3BUN3lw%26index%3D2&amp;a-type=3&amp;a-v=8hCWAqow9Gw&amp;l-class=1&amp;a-id=annotation_1362220695&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiOkvis6-3fAhUIGAMKHdmzAgQo-B0yAml2SOzow9GqwKWI8gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.06000" y="3.66200" w="68.26500" h="13.12700" t="9:45.494"/>
+      <rectRegion x="2.06000" y="3.66200" w="68.26500" h="13.12700" t="10:07.665"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1362220695&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;feature=iv&amp;index=2&amp;list=PLgIgkl6EXWsuQ5Qfbo3FPlFYbC3BUN3lw&amp;src_vid=8hCWAqow9Gw&amp;v=G-N3Qafy9nc" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1481940189" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaMqM3dowugI%26list%3DPLgIgkl6EXWsuQ5Qfbo3FPlFYbC3BUN3lw%26index%3D46&amp;a-type=3&amp;a-v=8hCWAqow9Gw&amp;l-class=1&amp;a-id=annotation_1481940189&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;xble=1" itct="CAIQs-UBGP___________wEiEwiOkvis6-3fAhUIGAMKHdmzAgQo-B0yAml2SOzow9GqwKWI8gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="50.39600" y="20.00000" w="47.50400" h="50.02800" t="9:45.494"/>
+      <rectRegion x="50.39600" y="20.00000" w="47.50400" h="50.02800" t="10:07.665"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1481940189&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;feature=iv&amp;index=46&amp;list=PLgIgkl6EXWsuQ5Qfbo3FPlFYbC3BUN3lw&amp;src_vid=8hCWAqow9Gw&amp;v=aMqM3dowugI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_176490307" type="highlight" log_data="link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCkYEKuyQJXIXunUD7Vy3eTw%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-v=8hCWAqow9Gw&amp;l-class=5&amp;a-id=annotation_176490307&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;xble=1" itct="CAMQs-UBGP___________wEiEwiOkvis6-3fAhUIGAMKHdmzAgQo-B0yAml2SOzow9GqwKWI8gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="72.26600" y="5.63400" w="25.47500" h="8.90100" t="9:45.494"/>
+      <rectRegion x="72.26600" y="5.63400" w="25.47500" h="8.90100" t="10:07.665"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCkYEKuyQJXIXunUD7Vy3eTw?annotation_id=annotation_176490307&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;feature=iv&amp;src_vid=8hCWAqow9Gw&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2588071855" type="highlight" log_data="link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCTyHgU6ddX9eXLeSr6KUoSQ%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-v=8hCWAqow9Gw&amp;l-class=5&amp;a-id=annotation_2588071855&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;xble=1" itct="CAQQs-UBGP___________wEiEwiOkvis6-3fAhUIGAMKHdmzAgQo-B0yAml2SOzow9GqwKWI8gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="49.92100" y="69.57700" w="49.12800" h="24.67900" t="9:45.494"/>
+      <rectRegion x="49.92100" y="69.57700" w="49.12800" h="24.67900" t="10:07.665"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/channel/UCTyHgU6ddX9eXLeSr6KUoSQ?annotation_id=annotation_2588071855&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;feature=iv&amp;src_vid=8hCWAqow9Gw&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3000962885" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2588071855">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2588071855" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3169284583" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FChannelFrederator%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-v=8hCWAqow9Gw&amp;l-class=5&amp;a-id=annotation_3169284583&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;xble=1" itct="CAUQs-UBGP___________wEiEwiOkvis6-3fAhUIGAMKHdmzAgQo-B0yAml2SOzow9GqwKWI8gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.06000" y="69.57700" w="48.45500" h="25.52400" t="9:45.494"/>
+      <rectRegion x="2.06000" y="69.57700" w="48.45500" h="25.52400" t="10:07.665"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/ChannelFrederator?annotation_id=annotation_3169284583&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;feature=iv&amp;src_vid=8hCWAqow9Gw&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3321401117" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_qXBHlNLpXc%26list%3DPLgIgkl6EXWsuQ5Qfbo3FPlFYbC3BUN3lw%26index%3D1&amp;a-type=3&amp;a-v=8hCWAqow9Gw&amp;l-class=1&amp;a-id=annotation_3321401117&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;xble=1" itct="CAYQs-UBGP___________wEiEwiOkvis6-3fAhUIGAMKHdmzAgQo-B0yAml2SOzow9GqwKWI8gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.37700" y="19.43700" w="47.02900" h="50.31000" t="9:45.494"/>
+      <rectRegion x="2.37700" y="19.43700" w="47.02900" h="50.31000" t="10:07.665"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3321401117&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;feature=iv&amp;index=1&amp;list=PLgIgkl6EXWsuQ5Qfbo3FPlFYbC3BUN3lw&amp;src_vid=8hCWAqow9Gw&amp;v=_qXBHlNLpXc" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_333467699" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1481940189">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1481940189" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3648908353" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3169284583">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3169284583" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4173268655" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1362220695">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1362220695" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:4ad8a5e8-816e-47e7-9794-c77f9bfd7311" style="branding" type="branding"
+            log_data="a-type=10&amp;a-v=8hCWAqow9Gw&amp;l-class=3&amp;a-id=4ad8a5e8-816e-47e7-9794-c77f9bfd7311&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;xble=0&amp;link-id=UCkYEKuyQJXIXunUD7Vy3eTw&amp;a-ch=UCkYEKuyQJXIXunUD7Vy3eTw">
+  <data>{&quot;channel_id&quot;:&quot;UCkYEKuyQJXIXunUD7Vy3eTw&quot;,&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/kYEKuyQJXIXunUD7Vy3eTw\/featured_channel.jpg?v=59c551bc&quot;,&quot;image_width&quot;:40,&quot;image_type&quot;:1,&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;use_standalone_subscribe_button&quot;:true,&quot;end_ms&quot;:608000,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCkYEKuyQJXIXunUD7Vy3eTw%26action_handle_signin%3Dtrue%26feature%3Div%26continue_action%3DQUFFLUhqa1V6M2EwVFZTOUxJV0tTb0kxLWpOOTNDemx3Z3xBQ3Jtc0tsckEwbWtlTVFYSElLcWFYbUdkWlQ2UFlyZldERThLU2l3WTlxUFVaT0doNGdNU3JsZF91bnhaVTBEMzlPcmdtSGFGOWUxcVItMXlLUlMyS2hsTTliQ21mVU00R0VnYjRIU3hVYktZOU9zSUM0RUdRS19EcGszT2pFdkpucGNBdTBhWi1HVmdxOV9QSzlyM0RSWWVlN0gyVjZFeVFJYWpvYUNzVXh6U1JuZk1pb1pHNUV3cUtKV054bGJJZUxHYndXMzRlX29QMVdFV3pLMVRyY0g3aTNub1oxT2hPTjJQYTd0RUxtdTNtZVI4bTR2a2Vv\u0026uilel=3\u0026hl=en\u0026service=youtube&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;856K&quot;,&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;856K&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;num_subscribers&quot;:&quot;856257&quot;,&quot;channel_name&quot;:&quot;The Leaderboard&quot;,&quot;start_ms&quot;:0,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;8hCWAqow9Gw&quot;,&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCI6S-Kzr7d8CFQgYAwod2bMCBCj4HTICaXZI7OjD0arApYjyAQ&quot;,&quot;annotation_id&quot;:&quot;4ad8a5e8-816e-47e7-9794-c77f9bfd7311&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;Ycw8XM7dK4iwDNnniiA&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCkYEKuyQJXIXunUD7Vy3eTw"/>
+  </action>
+</annotation>
+<annotation id="video:57f0b965-73a2-4827-b5b3-00052dc9a249" style="video" type="card" log_data="a-ch=UCkYEKuyQJXIXunUD7Vy3eTw&amp;a-id=57f0b965-73a2-4827-b5b3-00052dc9a249&amp;a-type=62&amp;a-v=8hCWAqow9Gw&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;l-class=1&amp;link-id=_qXBHlNLpXc&amp;xble=0">
+  <data>{&quot;start_ms&quot;:573109,&quot;is_live_now&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/_qXBHlNLpXc\/mqdefault.jpg&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCI6S-Kzr7d8CFQgYAwod2bMCBCj4HTIFY2FyZHNI7OjD0arApYjyAQ&quot;,&quot;card&quot;:&quot;CAwQ1TYY____________ASITCI6S-Kzr7d8CFQgYAwod2bMCBCj4HTIFY2FyZHNI7OjD0arApYjyAQ&quot;,&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwiOkvis6-3fAhUIGAMKHdmzAgQo-B0yBWNhcmRzSOzow9GqwKWI8gE&quot;},&quot;pause_on_navigation&quot;:true,&quot;timestamp&quot;:1460575239007,&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=_qXBHlNLpXc&quot;,&quot;video_duration&quot;:&quot;18:14&quot;,&quot;meta_info&quot;:[&quot;by The Leaderboard&quot;,&quot;53,071 views&quot;],&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;end_ms&quot;:573109,&quot;title&quot;:&quot;107 Quantum Break Facts YOU Should Know | The Leaderboard&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]},&quot;teaser_text&quot;:&quot;Suggested: 107 Quantum Break Facts YOU Should Know | The Leaderboard&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;8hCWAqow9Gw&quot;,&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCI6S-Kzr7d8CFQgYAwod2bMCBCj4HTIFY2FyZHNI7OjD0arApYjyAQ&quot;,&quot;annotation_id&quot;:&quot;57f0b965-73a2-4827-b5b3-00052dc9a249&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;Ycw8XM7dK4iwDNnniiA&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=_qXBHlNLpXc"/>
+  </action>
+</annotation>
+
+<annotation id="video:009b7b0c-feed-4fe7-a53e-86f6835dd56f" style="video" type="card" log_data="a-ch=UCkYEKuyQJXIXunUD7Vy3eTw&amp;a-id=009b7b0c-feed-4fe7-a53e-86f6835dd56f&amp;a-type=62&amp;a-v=8hCWAqow9Gw&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;l-class=1&amp;link-id=G-N3Qafy9nc&amp;xble=0">
+  <data>{&quot;start_ms&quot;:573109,&quot;is_live_now&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/G-N3Qafy9nc\/mqdefault.jpg&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBEQ0DYY____________ASITCI6S-Kzr7d8CFQgYAwod2bMCBCj4HTIFY2FyZHNI7OjD0arApYjyAQ&quot;,&quot;card&quot;:&quot;CBAQ1TYY____________ASITCI6S-Kzr7d8CFQgYAwod2bMCBCj4HTIFY2FyZHNI7OjD0arApYjyAQ&quot;,&quot;icon&quot;:&quot;CBIQsJcBGP___________wEiEwiOkvis6-3fAhUIGAMKHdmzAgQo-B0yBWNhcmRzSOzow9GqwKWI8gE&quot;},&quot;pause_on_navigation&quot;:true,&quot;timestamp&quot;:1460575247143,&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=G-N3Qafy9nc&quot;,&quot;video_duration&quot;:&quot;24:39&quot;,&quot;meta_info&quot;:[&quot;by The Leaderboard&quot;,&quot;509,328 views&quot;],&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;end_ms&quot;:573109,&quot;title&quot;:&quot;107 Dark Souls Facts YOU Should Know | The Leaderboard&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]},&quot;teaser_text&quot;:&quot;Suggested: 107 Dark Souls Facts YOU Should Know | The Leaderboard&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;8hCWAqow9Gw&quot;,&quot;itct&quot;:&quot;CBAQ1TYY____________ASITCI6S-Kzr7d8CFQgYAwod2bMCBCj4HTIFY2FyZHNI7OjD0arApYjyAQ&quot;,&quot;annotation_id&quot;:&quot;009b7b0c-feed-4fe7-a53e-86f6835dd56f&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;Ycw8XM7dK4iwDNnniiA&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=G-N3Qafy9nc"/>
+  </action>
+</annotation>
+
+<annotation id="video:714a156d-1133-486c-a528-5dcb2e74bd3b" style="video" type="card" log_data="a-ch=UCkYEKuyQJXIXunUD7Vy3eTw&amp;a-id=714a156d-1133-486c-a528-5dcb2e74bd3b&amp;a-type=62&amp;a-v=8hCWAqow9Gw&amp;ei=Ycw8XM7dK4iwDNnniiA&amp;l-class=1&amp;link-id=PY1KcdPMaBA&amp;xble=0">
+  <data>{&quot;start_ms&quot;:573109,&quot;is_live_now&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/PY1KcdPMaBA\/mqdefault.jpg&quot;,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBUQ0DYY____________ASITCI6S-Kzr7d8CFQgYAwod2bMCBCj4HTIFY2FyZHNI7OjD0arApYjyAQ&quot;,&quot;card&quot;:&quot;CBQQ1TYY____________ASITCI6S-Kzr7d8CFQgYAwod2bMCBCj4HTIFY2FyZHNI7OjD0arApYjyAQ&quot;,&quot;icon&quot;:&quot;CBYQsJcBGP___________wEiEwiOkvis6-3fAhUIGAMKHdmzAgQo-B0yBWNhcmRzSOzow9GqwKWI8gE&quot;},&quot;pause_on_navigation&quot;:true,&quot;timestamp&quot;:1460575255319,&quot;teaser_duration_ms&quot;:7000,&quot;custom_message&quot;:&quot;&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=PY1KcdPMaBA&quot;,&quot;video_duration&quot;:&quot;20:43&quot;,&quot;meta_info&quot;:[&quot;by The Leaderboard&quot;,&quot;306,343 views&quot;],&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;end_ms&quot;:573109,&quot;title&quot;:&quot;107 God of War Facts YOU Should Know | The Leaderboard&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]},&quot;teaser_text&quot;:&quot;Suggested: 107 God of War Facts YOU Should Know | The Leaderboard&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;8hCWAqow9Gw&quot;,&quot;itct&quot;:&quot;CBQQ1TYY____________ASITCI6S-Kzr7d8CFQgYAwod2bMCBCj4HTIFY2FyZHNI7OjD0arApYjyAQ&quot;,&quot;annotation_id&quot;:&quot;714a156d-1133-486c-a528-5dcb2e74bd3b&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;Ycw8XM7dK4iwDNnniiA&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=PY1KcdPMaBA"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;From The Leaderboard&quot;, 
+  &quot;eventId&quot;: &quot;Ycw8XM7dK4iwDNnniiA&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAkQsZcBGP///////////wEiEwiOkvis6+3fAhUIGAMKHdmzAgQo+B0yBWNhcmRzSOzow9GqwKWI8gE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAgQwjcY////////////ASITCI6S+Kzr7d8CFQgYAwod2bMCBCj4HTIFY2FyZHNI7OjD0arApYjyAQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAoQsJcBGP///////////wEiEwiOkvis6+3fAhUIGAMKHdmzAgQo+B0yBWNhcmRzSOzow9GqwKWI8gE=&quot;
+}</data>
+</annotation>
+</annotations></document>

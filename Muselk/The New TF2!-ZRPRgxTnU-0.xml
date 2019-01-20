@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI1pLlvvTt3wIVRM8DCh2uaw97KPgdMgJpdkjtp52nsbD0iWU">
+<annotation id="annotation_3373310293" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH5SC8nparT8&amp;a-v=ZRPRgxTnU-0&amp;a-type=3&amp;xble=1&amp;ei=99U8XJa7BMSeD67XvdgH&amp;l-class=1&amp;a-id=annotation_3373310293" itct="CAEQs-UBGP___________wEiEwjWkuW-9O3fAhVEzwMKHa5rD3so-B0yAml2SO2nnaexsPSJZQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="49.82600" y="34.47900" w="36.15700" h="38.81700" t="4:55.678"/>
+      <rectRegion x="49.82600" y="34.47900" w="36.15700" h="38.81700" t="5:11.240"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3373310293&amp;ei=99U8XJa7BMSeD67XvdgH&amp;feature=iv&amp;src_vid=ZRPRgxTnU-0&amp;v=H5SC8nparT8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3504808073" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmrmuselk%3Fsub_confirmation%3D1&amp;a-v=ZRPRgxTnU-0&amp;a-type=3&amp;xble=1&amp;ei=99U8XJa7BMSeD67XvdgH&amp;l-class=5&amp;a-id=annotation_3504808073" itct="CAIQs-UBGP___________wEiEwjWkuW-9O3fAhVEzwMKHa5rD3so-B0yAml2SO2nnaexsPSJZQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="43.23300" y="5.85900" w="51.62400" h="23.72200" t="4:55.678"/>
+      <rectRegion x="43.23300" y="5.85900" w="51.62400" h="23.72200" t="5:11.240"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/mrmuselk?annotation_id=annotation_3504808073&amp;ei=99U8XJa7BMSeD67XvdgH&amp;feature=iv&amp;src_vid=ZRPRgxTnU-0&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_4191291153" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3504808073">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3504808073" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_613554205" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3373310293">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3373310293" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:555ec55c-0000-2b08-8a0b-001a1149b786" style="branding" type="branding"
+            log_data="a-ch=UCd534c_ehOvrLVL2v7Nl61w&amp;ei=99U8XJa7BMSeD67XvdgH&amp;a-v=ZRPRgxTnU-0&amp;a-type=10&amp;link-id=UCd534c_ehOvrLVL2v7Nl61w&amp;xble=0&amp;l-class=3&amp;a-id=555ec55c-0000-2b08-8a0b-001a1149b786">
+  <data>{&quot;num_subscribers&quot;:&quot;7460654&quot;,&quot;image_type&quot;:1,&quot;channel_name&quot;:&quot;Muselk&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/d534c_ehOvrLVL2v7Nl61w\/featured_channel.jpg?v=55700f27&quot;,&quot;start_ms&quot;:5000,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;555ec55c-0000-2b08-8a0b-001a1149b786&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCNaS5b707d8CFUTPAwodrmsPeyj4HTICaXZI7aedp7Gw9Ill&quot;,&quot;ei&quot;:&quot;99U8XJa7BMSeD67XvdgH&quot;,&quot;src_vid&quot;:&quot;ZRPRgxTnU-0&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeCount&quot;:&quot;7.4M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=en\u0026service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqbXZVVXhDbFN4MGlsR2hldF83MEZBbEhSVzNkQXxBQ3Jtc0tueTROdmprZHFUbjVkX0EyaUZlWFpFNEg1aVVqazdVQkgyQUNHUFc4bHRSUW9RUmc3UWpLODM0dU45MXVNVDZUVV92WDJYZHNwQko5RHFwb3JWNW9rWTcyanN1eTVoZ3JqNEY2cFhYQ3p5djdhbWxSSWxrWHlWbkl3c0NCZVF1c3M4N21ySTRPR0FwS1loQXg0RkV5emU0dXRzYURmcWw2NEgxVm9QLUlGLTFaQnBvS2gxS0p5dlVFUloxd09kRWhBTjN1TWpKV19vU3NFWm91Z2VIeTllaHhYbUNVUWtTdzYxRU80R2xzR0o2WHI0bGc4%26action_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FMrMuselk\u0026passive=true&quot;,&quot;unsubscribeCount&quot;:&quot;7.4M&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;end_ms&quot;:312000,&quot;image_width&quot;:41,&quot;image_height&quot;:38,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_id&quot;:&quot;UCd534c_ehOvrLVL2v7Nl61w&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/MrMuselk"/>
+  </action>
+</annotation></annotations></document>

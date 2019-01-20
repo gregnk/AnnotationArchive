@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI1_ywlOzt3wIVQgYDCh3hJQpHKPgdMgJpdkiXk_rEvprcvPcB">
+<annotation id="annotation_2712465095" type="highlight" log_data="a-type=3&amp;a-id=annotation_2712465095&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwFYZTe0DsBA&amp;ei=Os08XNf3J8KMDOHLqLgE&amp;xble=1&amp;a-v=93lw0-ieiZc&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwjX_LCU7O3fAhVCBgMKHeElCkco-B0yAml2SJeT-sS-mty89wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.12000" y="3.94400" w="26.26800" h="27.49300" t="3:51.554"/>
+      <rectRegion x="4.12000" y="3.94400" w="26.26800" h="27.49300" t="4:04.320"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2712465095&amp;ei=Os08XNf3J8KMDOHLqLgE&amp;feature=iv&amp;src_vid=93lw0-ieiZc&amp;v=wFYZTe0DsBA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2889774467" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Mein Kampf banned?</TEXT>
+  <segment spaceRelative="annotation_2712465095">
+    <movingRegion type="rect">
+      <rectRegion x="0.47500" y="17.18300" w="26.10900" h="10.77500" t="never"/>
+      <rectRegion x="0.47500" y="17.18300" w="26.10900" h="10.77500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2712465095" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_581581227" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_92244565">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_92244565" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_92244565" type="highlight" log_data="a-type=3&amp;a-id=annotation_92244565&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Frewboss%3Fsub_confirmation%3D1&amp;ei=Os08XNf3J8KMDOHLqLgE&amp;xble=1&amp;a-v=93lw0-ieiZc&amp;l-class=5" itct="CAIQs-UBGP___________wEiEwjX_LCU7O3fAhVCBgMKHeElCkco-B0yAml2SJeT-sS-mty89wE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="5.07100" y="33.52100" w="24.84200" h="16.22500" t="3:38.546"/>
+      <rectRegion x="5.07100" y="33.52100" w="24.84200" h="16.22500" t="4:04.320"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/rewboss?annotation_id=annotation_92244565&amp;ei=Os08XNf3J8KMDOHLqLgE&amp;feature=iv&amp;src_vid=93lw0-ieiZc&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="video:2a5b336f-97dd-40ee-9218-e3b886dd1bed" style="video" type="card" log_data="a-ch=UCYcfR8isBfe45h-KBewVKug&amp;a-id=2a5b336f-97dd-40ee-9218-e3b886dd1bed&amp;a-type=62&amp;a-v=93lw0-ieiZc&amp;ei=Os08XNf3J8KMDOHLqLgE&amp;l-class=1&amp;link-id=wFYZTe0DsBA&amp;xble=0">
+  <data>{&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=wFYZTe0DsBA&quot;,&quot;start_ms&quot;:234200,&quot;video_duration&quot;:&quot;3:37&quot;,&quot;is_live_now&quot;:false,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;93lw0-ieiZc&quot;,&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCNf8sJTs7d8CFUIGAwod4SUKRyj4HTIFY2FyZHNIl5P6xL6a3Lz3AQ&quot;,&quot;annotation_id&quot;:&quot;2a5b336f-97dd-40ee-9218-e3b886dd1bed&quot;,&quot;ei&quot;:&quot;Os08XNf3J8KMDOHLqLgE&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;card_type&quot;:&quot;video&quot;,&quot;meta_info&quot;:[&quot;by rewboss&quot;,&quot;25,346 views&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/wFYZTe0DsBA\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: Is Mein Kampf banned in Germany?&quot;,&quot;title&quot;:&quot;Is Mein Kampf banned in Germany?&quot;,&quot;timestamp&quot;:1441304806392,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCNf8sJTs7d8CFUIGAwod4SUKRyj4HTIFY2FyZHNIl5P6xL6a3Lz3AQ&quot;,&quot;card&quot;:&quot;CAcQ1TYY____________ASITCNf8sJTs7d8CFUIGAwod4SUKRyj4HTIFY2FyZHNIl5P6xL6a3Lz3AQ&quot;,&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwjX_LCU7O3fAhVCBgMKHeElCkco-B0yBWNhcmRzSJeT-sS-mty89wE&quot;},&quot;end_ms&quot;:234200,&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;target&quot;:&quot;new&quot;,&quot;custom_message&quot;:&quot;&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=wFYZTe0DsBA"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;From rewboss&quot;, 
+  &quot;eventId&quot;: &quot;Os08XNf3J8KMDOHLqLgE&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwjX/LCU7O3fAhVCBgMKHeElCkco+B0yBWNhcmRzSJeT+sS+mty89wE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCNf8sJTs7d8CFUIGAwod4SUKRyj4HTIFY2FyZHNIl5P6xL6a3Lz3AQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwjX/LCU7O3fAhVCBgMKHeElCkco+B0yBWNhcmRzSJeT+sS+mty89wE=&quot;
+}</data>
+</annotation>
+</annotations></document>

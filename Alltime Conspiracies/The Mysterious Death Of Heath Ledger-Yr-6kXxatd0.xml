@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI08eHn_Tt3wIVQrIDCh0x_QAxKPgdMgJpdkjd6-ril9Lu32I">
+<annotation id="annotation_1356125179" type="highlight" log_data="a-type=3&amp;l-class=1&amp;a-v=Yr-6kXxatd0&amp;ei=tNU8XNOdIMLkDrH6g4gD&amp;xble=1&amp;a-id=annotation_1356125179&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da3UBqWdh0Js" itct="CAEQs-UBGP___________wEiEwjTx4ef9O3fAhVCsgMKHTH9ADEo-B0yAml2SN3r6uKX0u7fYg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="22.02900" y="22.81700" w="56.15000" h="53.42800" t="3:52.382"/>
+      <rectRegion x="22.02900" y="22.81700" w="56.15000" h="53.42800" t="4:21.178"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1356125179&amp;ei=tNU8XNOdIMLkDrH6g4gD&amp;feature=iv&amp;src_vid=Yr-6kXxatd0&amp;v=a3UBqWdh0Js" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3148106653" type="highlight" log_data="a-type=3&amp;l-class=5&amp;a-v=Yr-6kXxatd0&amp;ei=tNU8XNOdIMLkDrH6g4gD&amp;xble=1&amp;a-id=annotation_3148106653&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2F10thingsyoudidntknow%3Fsub_confirmation%3D1" itct="CAIQs-UBGP___________wEiEwjTx4ef9O3fAhVCsgMKHTH9ADEo-B0yAml2SN3r6uKX0u7fYg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="1.40800" w="100.00000" h="13.12700" t="3:52.382"/>
+      <rectRegion x="0.00000" y="1.40800" w="100.00000" h="13.12700" t="4:21.178"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/10thingsyoudidntknow?annotation_id=annotation_3148106653&amp;ei=tNU8XNOdIMLkDrH6g4gD&amp;feature=iv&amp;src_vid=Yr-6kXxatd0&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3911793971" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3148106653">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="31.54900" w="33.08200" h="4.17300" t="never"/>
+      <rectRegion x="0.00000" y="31.54900" w="33.08200" h="4.17300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3148106653" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_4089427749" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1356125179">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1356125179" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_696949371" type="highlight" log_data="a-type=3&amp;l-class=1&amp;a-v=Yr-6kXxatd0&amp;ei=tNU8XNOdIMLkDrH6g4gD&amp;xble=1&amp;a-id=annotation_696949371&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da3UBqWdh0Js" itct="CAMQs-UBGP___________wEiEwjTx4ef9O3fAhVCsgMKHTH9ADEo-B0yAml2SN3r6uKX0u7fYg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="16.32300" y="83.38000" w="67.78900" h="10.87700" t="3:52.382"/>
+      <rectRegion x="16.32300" y="83.38000" w="67.78900" h="10.87700" t="4:21.178"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_696949371&amp;ei=tNU8XNOdIMLkDrH6g4gD&amp;feature=iv&amp;src_vid=Yr-6kXxatd0&amp;v=a3UBqWdh0Js" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_830651935" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_696949371">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_696949371" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:55d03e4f-0000-2906-8ae9-001a114e4d44" style="branding" type="branding"
+            log_data="a-type=10&amp;a-ch=UCPZiqlNI3RLyF47QTdq93GQ&amp;l-class=3&amp;a-v=Yr-6kXxatd0&amp;ei=tNU8XNOdIMLkDrH6g4gD&amp;xble=0&amp;a-id=55d03e4f-0000-2906-8ae9-001a114e4d44&amp;link-id=UCPZiqlNI3RLyF47QTdq93GQ">
+  <data>{&quot;session_data&quot;:{&quot;ei&quot;:&quot;tNU8XNOdIMLkDrH6g4gD&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCNPHh5_07d8CFUKyAwodMf0AMSj4HTICaXZI3evq4pfS7t9i&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;55d03e4f-0000-2906-8ae9-001a114e4d44&quot;,&quot;src_vid&quot;:&quot;Yr-6kXxatd0&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026hl=en\u0026uilel=3\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26feature%3Div%26continue_action%3DQUFFLUhqbEVaZjRheDk5ZXFuMTUwOTVLZmExWS0tYUxnUXxBQ3Jtc0tsTjZIYS16MVE3cjZDV3BqRlg4dzlLaVNKa0VlM1AydU9XRG1mcUxEcE5FRWVadDZ0UXZXeVdlWWVDRTZ5OERkWUhfREZadFZqQU8xYUFPd1JSTnpxMTJHR3BFeDVGSWRabHdubTlFd3pCRFptQWo4NFYzSWNOem9Bbk5KdnQ5dnR1QWxBejF0emxxYWVuY05TZ3R0dFBibkRrUzBJSEdxZk9LU2dtQkVseHZXNWp0RU9VWWdzYjhjMzZOdXotTng4eWQ4YkNfaUFnZW8wMGh2aWZjNXN2ZlJjNDlhRDd4WVU5WWF4TGdMa2s5bWJxM0ZN%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FAlltimeConspiracies%26action_handle_signin%3Dtrue%26app%3Ddesktop&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;1.7M&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;1.7M&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_height&quot;:40,&quot;end_ms&quot;:262000,&quot;channel_name&quot;:&quot;Alltime Conspiracies&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/PZiqlNI3RLyF47QTdq93GQ\/featured_channel.jpg?v=55dae327&quot;,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;1768252&quot;,&quot;start_ms&quot;:0,&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCPZiqlNI3RLyF47QTdq93GQ&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/AlltimeConspiracies"/>
+  </action>
+</annotation>
+<annotation id="video:369b1acd-25d0-49bf-9fae-9a5ddb396561" style="simple" type="card" log_data="a-ch=UCPZiqlNI3RLyF47QTdq93GQ&amp;a-id=369b1acd-25d0-49bf-9fae-9a5ddb396561&amp;a-type=61&amp;a-v=Yr-6kXxatd0&amp;ei=tNU8XNOdIMLkDrH6g4gD&amp;l-class=8&amp;link=https%3A%2F%2Fwww.patreon.com%2Falltimeconspiracies%3Fty%3Dh&amp;xble=0">
+  <data>{&quot;teaser_duration_ms&quot;:7000,&quot;url&quot;:&quot;\/redirect?event=infocard\u0026q=https%3A%2F%2Fwww.patreon.com%2Falltimeconspiracies%3Fty%3Dh\u0026redir_token=lWrJ5xzv-JiAdlSyml0La8ZFOHl8MTU0NzU3NzE0MEAxNTQ3NDkwNzQw&quot;,&quot;teaser_text&quot;:&quot;Get Rewards For Supporting Us!&quot;,&quot;meta_info&quot;:[],&quot;pause_on_navigation&quot;:true,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[]},&quot;end_ms&quot;:53653,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/Wi-lOh0Qck7K79QspGTgSImIuBWCTqupAiHrGbMDQPNkNXIcmA-gmiEVrMuK5L9NDiBMj-Ha9vCWEpjGb6hoySBDqeBAA9LPVm6ORsG4J8urxP3Yl1I2DR8agydQDEf7yUcSClSLsXKTfewsjWk_9sNjpWwos4BNNvm8xKj7vlilnp22Vej30Zqq=s300-c&quot;,&quot;custom_message&quot;:&quot;Click to support us on Patreon&quot;,&quot;title&quot;:&quot;Support Alltime Conspiracies on Patreon&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAkQ1TYY____________ASITCNPHh5_07d8CFUKyAwodMf0AMSj4HTIFY2FyZHNI3evq4pfS7t9i&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCNPHh5_07d8CFUKyAwodMf0AMSj4HTIFY2FyZHNI3evq4pfS7t9i&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwjTx4ef9O3fAhVCsgMKHTH9ADEo-B0yBWNhcmRzSN3r6uKX0u7fYg&quot;},&quot;sponsored&quot;:false,&quot;timestamp&quot;:1442335881225,&quot;show_link_icon&quot;:true,&quot;target&quot;:&quot;new&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;tNU8XNOdIMLkDrH6g4gD&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCNPHh5_07d8CFUKyAwodMf0AMSj4HTIFY2FyZHNI3evq4pfS7t9i&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;369b1acd-25d0-49bf-9fae-9a5ddb396561&quot;,&quot;src_vid&quot;:&quot;Yr-6kXxatd0&quot;},&quot;display_domain&quot;:&quot;patreon.com&quot;,&quot;card_type&quot;:&quot;simple&quot;,&quot;start_ms&quot;:53653}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?event=infocard&amp;q=https%3A%2F%2Fwww.patreon.com%2Falltimeconspiracies%3Fty%3Dh&amp;redir_token=lWrJ5xzv-JiAdlSyml0La8ZFOHl8MTU0NzU3NzE0MEAxNTQ3NDkwNzQw"/>
+  </action>
+</annotation>
+
+<annotation id="video:1676bc7e-afd4-4cef-893b-50548854544a" style="video" type="card" log_data="a-ch=UCPZiqlNI3RLyF47QTdq93GQ&amp;a-id=1676bc7e-afd4-4cef-893b-50548854544a&amp;a-type=62&amp;a-v=Yr-6kXxatd0&amp;ei=tNU8XNOdIMLkDrH6g4gD&amp;l-class=1&amp;link-id=Ydy1rT4Jt4E&amp;xble=0">
+  <data>{&quot;teaser_duration_ms&quot;:7000,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=Ydy1rT4Jt4E&quot;,&quot;teaser_text&quot;:&quot;Suggested: 10 Actors Who Died Too Soon&quot;,&quot;meta_info&quot;:[&quot;by AlltimeMovies&quot;,&quot;79,062 views&quot;],&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[]},&quot;end_ms&quot;:132089,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/Ydy1rT4Jt4E\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;title&quot;:&quot;10 Actors Who Died Too Soon&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA0Q1TYY____________ASITCNPHh5_07d8CFUKyAwodMf0AMSj4HTIFY2FyZHNI3evq4pfS7t9i&quot;,&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCNPHh5_07d8CFUKyAwodMf0AMSj4HTIFY2FyZHNI3evq4pfS7t9i&quot;,&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwjTx4ef9O3fAhVCsgMKHTH9ADEo-B0yBWNhcmRzSN3r6uKX0u7fYg&quot;},&quot;pause_on_navigation&quot;:true,&quot;target&quot;:&quot;new&quot;,&quot;video_duration&quot;:&quot;5:08&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;tNU8XNOdIMLkDrH6g4gD&quot;,&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCNPHh5_07d8CFUKyAwodMf0AMSj4HTIFY2FyZHNI3evq4pfS7t9i&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;1676bc7e-afd4-4cef-893b-50548854544a&quot;,&quot;src_vid&quot;:&quot;Yr-6kXxatd0&quot;},&quot;is_live_now&quot;:false,&quot;card_type&quot;:&quot;video&quot;,&quot;start_ms&quot;:132089}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=Ydy1rT4Jt4E"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwjTx4ef9O3fAhVCsgMKHTH9ADEo+B0yBWNhcmRzSN3r6uKX0u7fYg==&quot;, 
+  &quot;eventId&quot;: &quot;tNU8XNOdIMLkDrH6g4gD&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCNPHh5/07d8CFUKyAwodMf0AMSj4HTIFY2FyZHNI3evq4pfS7t9i&quot;, 
+  &quot;headerText&quot;: &quot;From Alltime Conspiracies&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwjTx4ef9O3fAhVCsgMKHTH9ADEo+B0yBWNhcmRzSN3r6uKX0u7fYg==&quot;
+}</data>
+</annotation>
+</annotations></document>

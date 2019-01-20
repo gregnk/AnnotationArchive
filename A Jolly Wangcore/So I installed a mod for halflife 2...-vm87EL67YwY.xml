@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI0dL4ru3t3wIVlK0NCh2A6wIqKPgdMgJpdkiGxu31i-LOt74B">
+<annotation id="annotation_1116769241" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_979341963">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="59.66400" w="3.86300" h="4.22500" t="never"/>
+      <rectRegion x="0.00000" y="59.66400" w="3.86300" h="4.22500" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_979341963" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_224310365" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3387821505">
+    <movingRegion type="rect">
+      <rectRegion x="42.21100" y="64.12700" w="4.12000" h="4.26800" t="never"/>
+      <rectRegion x="42.21100" y="64.12700" w="4.12000" h="4.26800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3387821505" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3083153677" type="text" style="popup" log_data="a-id=annotation_3083153677&amp;a-type=1&amp;a-v=vm87EL67YwY&amp;xble=1&amp;ei=fs48XNGbMJTbNoDXi9AC" itct="CAEQs-UBGP___________wEiEwjR0viu7e3fAhWUrQ0KHYDrAioo-B0yAml2SIbG7fWL4s63vgE">
+  <TEXT>I Know this guy looks like shit I up uploaded using the wrong endcard. Leave me alone I was tired.</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="36.29200" y="54.36600" w="29.58000" h="22.22500" t="4:44.241"/>
+      <rectRegion x="36.29200" y="54.36600" w="29.58000" h="22.22500" t="5:19.246"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_3387821505" type="highlight" log_data="a-id=annotation_3387821505&amp;a-type=3&amp;a-v=vm87EL67YwY&amp;xble=1&amp;ei=fs48XNGbMJTbNoDXi9AC" itct="CAIQs-UBGP___________wEiEwjR0viu7e3fAhWUrQ0KHYDrAioo-B0yAml2SIbG7fWL4s63vgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.44700" y="2.18300" w="44.42900" h="44.26800" t="4:42.998"/>
+      <rectRegion x="53.44700" y="2.18300" w="44.42900" h="44.26800" t="5:18.945"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_979341963" type="highlight" log_data="a-id=annotation_979341963&amp;a-type=3&amp;a-v=vm87EL67YwY&amp;xble=1&amp;ei=fs48XNGbMJTbNoDXi9AC" itct="CAMQs-UBGP___________wEiEwjR0viu7e3fAhWUrQ0KHYDrAioo-B0yAml2SIbG7fWL4s63vgE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.43300" y="1.76100" w="44.85700" h="45.05600" t="4:42.998"/>
+      <rectRegion x="2.43300" y="1.76100" w="44.85700" h="45.05600" t="5:19.095"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+</annotations></document>

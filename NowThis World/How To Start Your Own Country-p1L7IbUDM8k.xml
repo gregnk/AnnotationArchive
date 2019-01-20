@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3Z-EkOjt3wIVjbqCCh1O7QLNKPgdMgJpdkjJ54yom-S-qacB">
+<annotation id="annotation_2041255889" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3V2JO24e9P8%26list%3DUUgRvm1yLFoaQKhmaTqXk9SA&amp;a-id=annotation_2041255889&amp;ei=_8g8XJ2kMI31igTO2ovoDA&amp;a-type=3&amp;a-v=p1L7IbUDM8k&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwjdn4SQ6O3fAhWNuoIKHU7tAs0o-B0yAml2SMnnjKib5L6ppwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="21.30700" y="71.46500" w="57.10200" h="24.24300" t="3:03.095"/>
+      <rectRegion x="21.30700" y="71.46500" w="57.10200" h="24.24300" t="3:24.500"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2041255889&amp;ei=_8g8XJ2kMI31igTO2ovoDA&amp;feature=iv&amp;list=UUgRvm1yLFoaQKhmaTqXk9SA&amp;src_vid=p1L7IbUDM8k&amp;v=3V2JO24e9P8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3111092023" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2041255889">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2041255889" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3308762617" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3625040437">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3625040437" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3459625543" type="text" style="popup" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Ftesttubenetwork%3Fsub_confirmation%3D1&amp;a-id=annotation_3459625543&amp;ei=_8g8XJ2kMI31igTO2ovoDA&amp;a-type=1&amp;a-v=p1L7IbUDM8k&amp;l-class=5" itct="CAIQs-UBGP___________wEiEwjdn4SQ6O3fAhWNuoIKHU7tAs0o-B0yAml2SMnnjKib5L6ppwE">
+  <TEXT>Subscribe</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.71000" y="86.36400" w="14.94300" h="7.87800" t="0:00.000"/>
+      <rectRegion x="0.71000" y="86.36400" w="14.94300" h="7.87800" t="3:02.500"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/testtubenetwork?annotation_id=annotation_3459625543&amp;ei=_8g8XJ2kMI31igTO2ovoDA&amp;feature=iv&amp;src_vid=p1L7IbUDM8k&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3625040437" type="highlight" log_data="xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Ftesttubenetwork%3Fsub_confirmation%3D1&amp;a-id=annotation_3625040437&amp;ei=_8g8XJ2kMI31igTO2ovoDA&amp;a-type=3&amp;a-v=p1L7IbUDM8k&amp;l-class=5" itct="CAMQs-UBGP___________wEiEwjdn4SQ6O3fAhWNuoIKHU7tAs0o-B0yAml2SMnnjKib5L6ppwE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="23.29500" y="33.58600" w="53.69300" h="19.44400" t="3:24.485"/>
+      <rectRegion x="23.29500" y="33.58600" w="53.69300" h="19.44400" t="3:31.000"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/testtubenetwork?annotation_id=annotation_3625040437&amp;ei=_8g8XJ2kMI31igTO2ovoDA&amp;feature=iv&amp;src_vid=p1L7IbUDM8k&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:a987cffe-b30f-4517-a30d-024cefc96c25" style="branding" type="branding"
+            log_data="a-ch=UCgRvm1yLFoaQKhmaTqXk9SA&amp;a-id=a987cffe-b30f-4517-a30d-024cefc96c25&amp;ei=_8g8XJ2kMI31igTO2ovoDA&amp;l-class=3&amp;a-v=p1L7IbUDM8k&amp;xble=0&amp;link-id=UCgRvm1yLFoaQKhmaTqXk9SA&amp;a-type=10">
+  <data>{&quot;image_height&quot;:41,&quot;start_ms&quot;:0,&quot;end_ms&quot;:216000,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCN2fhJDo7d8CFY26ggodTu0CzSj4HTICaXZIyeeMqJvkvqmnAQ&quot;,&quot;ei&quot;:&quot;_8g8XJ2kMI31igTO2ovoDA&quot;,&quot;annotation_id&quot;:&quot;a987cffe-b30f-4517-a30d-024cefc96c25&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;p1L7IbUDM8k&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/gRvm1yLFoaQKhmaTqXk9SA\/featured_channel.jpg?v=59b2a5b7&quot;,&quot;channel_name&quot;:&quot;NowThis World&quot;,&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;1949571&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;1.9M&quot;,&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTestTubeNetwork%26app%3Ddesktop%26feature%3Div%26continue_action%3DQUFFLUhqbFhUcmhza3VENzB1M3A0UFltYlJqVUZHRXB1UXxBQ3Jtc0tsR0pFNWJ3NlNTNVpOcHNKSlFQRUEydE1iVkhGcGdXYjYybC1GczVqM3YxSS11QkFDSHFpejdrWE5VYlp3ZXRBRGtYTFlwWjhYdHduTmo1MVN5aHc0dG5ENHdrWGlkVU15bTQyTGRXYV9pbGZlS3k2UG9aLUZGQlRVUU9MbDctemhOYmh5M0VEbXZaRDNVMUM0b0Q4M3BaRDFabF93REktVmJSRUVHVHIwWE5YN2JWWHY0aS1tUG5NeENkLTNmSkl0emFlZGlOV1hfbWRDMVNlODlXRzJvU1VuMXpmS2M1MVEtb2hzSUNWM1FQcHdDNjY4\u0026hl=en\u0026passive=true&quot;,&quot;subscribeCount&quot;:&quot;1.9M&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false},&quot;image_width&quot;:38,&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UCgRvm1yLFoaQKhmaTqXk9SA&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TestTubeNetwork"/>
+  </action>
+</annotation>
+<annotation id="video:a61be2a3-f38b-4668-937a-acc321051c57" style="playlist" type="card" log_data="a-ch=UCgRvm1yLFoaQKhmaTqXk9SA&amp;a-id=a61be2a3-f38b-4668-937a-acc321051c57&amp;a-type=63&amp;a-v=p1L7IbUDM8k&amp;ei=_8g8XJ2kMI31igTO2ovoDA&amp;l-class=2&amp;link-id=PLS0CO0PT_kEKJ3NoGVQ98pw3HTaYZxLaQ&amp;xble=0">
+  <data>{&quot;start_ms&quot;:5167,&quot;meta_info&quot;:[&quot;by NowThis World&quot;,&quot;124 videos&quot;],&quot;end_ms&quot;:5167,&quot;playlist_video_count&quot;:&quot;124&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=yFwx6-ovdEs\u0026list=PLS0CO0PT_kEKJ3NoGVQ98pw3HTaYZxLaQ&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;teaser_text&quot;:&quot;Suggested: Watch the Latest from NowThis World&quot;,&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;Watch the Latest from NowThis World&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/yFwx6-ovdEs\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAkQ1TYY____________ASITCN2fhJDo7d8CFY26ggodTu0CzSj4HTIFY2FyZHNIyeeMqJvkvqmnAQ&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwjdn4SQ6O3fAhWNuoIKHU7tAs0o-B0yBWNhcmRzSMnnjKib5L6ppwE&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCN2fhJDo7d8CFY26ggodTu0CzSj4HTIFY2FyZHNIyeeMqJvkvqmnAQ&quot;},&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;playlist&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCN2fhJDo7d8CFY26ggodTu0CzSj4HTIFY2FyZHNIyeeMqJvkvqmnAQ&quot;,&quot;ei&quot;:&quot;_8g8XJ2kMI31igTO2ovoDA&quot;,&quot;annotation_id&quot;:&quot;a61be2a3-f38b-4668-937a-acc321051c57&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;p1L7IbUDM8k&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;timestamp&quot;:1516631781863}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=yFwx6-ovdEs&amp;list=PLS0CO0PT_kEKJ3NoGVQ98pw3HTaYZxLaQ"/>
+  </action>
+</annotation>
+
+<annotation id="video:327c6b61-fc2c-43b8-944d-dcbb2fba8c59" style="video" type="card" log_data="a-ch=UCgRvm1yLFoaQKhmaTqXk9SA&amp;a-id=327c6b61-fc2c-43b8-944d-dcbb2fba8c59&amp;a-type=62&amp;a-v=p1L7IbUDM8k&amp;ei=_8g8XJ2kMI31igTO2ovoDA&amp;l-class=1&amp;link-id=3V2JO24e9P8&amp;xble=0">
+  <data>{&quot;start_ms&quot;:177278,&quot;video_duration&quot;:&quot;3:08&quot;,&quot;end_ms&quot;:177278,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=3V2JO24e9P8&quot;,&quot;is_live_now&quot;:false,&quot;teaser_text&quot;:&quot;Suggested: Which Regions Are Fighting For Independence?&quot;,&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;Which Regions Are Fighting For Independence?&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/3V2JO24e9P8\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA0Q1TYY____________ASITCN2fhJDo7d8CFY26ggodTu0CzSj4HTIFY2FyZHNIyeeMqJvkvqmnAQ&quot;,&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwjdn4SQ6O3fAhWNuoIKHU7tAs0o-B0yBWNhcmRzSMnnjKib5L6ppwE&quot;,&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCN2fhJDo7d8CFY26ggodTu0CzSj4HTIFY2FyZHNIyeeMqJvkvqmnAQ&quot;},&quot;target&quot;:&quot;new&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking&quot;:{&quot;close&quot;:[],&quot;impression&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;click&quot;:[]},&quot;meta_info&quot;:[&quot;by NowThis World&quot;,&quot;802,088 views&quot;],&quot;session_data&quot;:{&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCN2fhJDo7d8CFY26ggodTu0CzSj4HTIFY2FyZHNIyeeMqJvkvqmnAQ&quot;,&quot;ei&quot;:&quot;_8g8XJ2kMI31igTO2ovoDA&quot;,&quot;annotation_id&quot;:&quot;327c6b61-fc2c-43b8-944d-dcbb2fba8c59&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;src_vid&quot;:&quot;p1L7IbUDM8k&quot;},&quot;teaser_duration_ms&quot;:7000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=3V2JO24e9P8"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;_8g8XJ2kMI31igTO2ovoDA&quot;, 
+  &quot;headerText&quot;: &quot;From NowThis World&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCN2fhJDo7d8CFY26ggodTu0CzSj4HTIFY2FyZHNIyeeMqJvkvqmnAQ==&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwjdn4SQ6O3fAhWNuoIKHU7tAs0o+B0yBWNhcmRzSMnnjKib5L6ppwE=&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwjdn4SQ6O3fAhWNuoIKHU7tAs0o+B0yBWNhcmRzSMnnjKib5L6ppwE=&quot;
+}</data>
+</annotation>
+</annotations></document>

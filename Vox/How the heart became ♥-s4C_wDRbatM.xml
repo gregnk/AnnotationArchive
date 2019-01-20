@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI8NaNtubt3wIVlK0NCh11TAFjKPgdMgJpdkjT1e2ig_ivwLMB">
+<annotation id="annotation_1201614147" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2682357865">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="31.54900" w="38.31200" h="4.17300" t="never"/>
+      <rectRegion x="0.00000" y="31.54900" w="38.31200" h="4.17300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2682357865" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2253030239" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2722757203">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2722757203" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2682357865" type="highlight" log_data="a-type=3&amp;a-v=s4C_wDRbatM&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fvoxdotcom%3Fsub_confirmation%3D1&amp;a-id=annotation_2682357865&amp;l-class=5&amp;ei=Nsc8XPDjLpTbNvWYhZgG&amp;xble=1" itct="CAEQs-UBGP___________wEiEwjw1o225u3fAhWUrQ0KHXVMAWMo-B0yAml2SNPV7aKD-K_AswE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="50.04000" h="50.02800" t="1:19.492"/>
+      <rectRegion x="0.00000" y="0.00000" w="50.04000" h="50.02800" t="1:29.605"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/voxdotcom?annotation_id=annotation_2682357865&amp;ei=Nsc8XPDjLpTbNvWYhZgG&amp;feature=iv&amp;src_vid=s4C_wDRbatM&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2722757203" type="highlight" log_data="a-type=3&amp;a-v=s4C_wDRbatM&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9QcVNahOavw%26list%3DPLJ8cMiYb3G5eJquaiw6Xlyt3Qhe-3e7Xh%26index%3D4&amp;a-id=annotation_2722757203&amp;l-class=1&amp;ei=Nsc8XPDjLpTbNvWYhZgG&amp;xble=1" itct="CAIQs-UBGP___________wEiEwjw1o225u3fAhWUrQ0KHXVMAWMo-B0yAml2SNPV7aKD-K_AswE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="47.60600" w="49.88100" h="52.39400" t="1:19.551"/>
+      <rectRegion x="0.00000" y="47.60600" w="49.88100" h="52.39400" t="1:29.605"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2722757203&amp;ei=Nsc8XPDjLpTbNvWYhZgG&amp;feature=iv&amp;index=4&amp;list=PLJ8cMiYb3G5eJquaiw6Xlyt3Qhe-3e7Xh&amp;src_vid=s4C_wDRbatM&amp;v=9QcVNahOavw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:762ba61a-5b5d-460a-bab5-54b106075fb0" style="branding" type="branding"
+            log_data="a-type=10&amp;a-v=s4C_wDRbatM&amp;link-id=UCLXo7UDZvByw2ixzpQCufnA&amp;a-ch=UCLXo7UDZvByw2ixzpQCufnA&amp;a-id=762ba61a-5b5d-460a-bab5-54b106075fb0&amp;l-class=3&amp;ei=Nsc8XPDjLpTbNvWYhZgG&amp;xble=0">
+  <data>{&quot;image_type&quot;:1,&quot;start_ms&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_id&quot;:&quot;UCLXo7UDZvByw2ixzpQCufnA&quot;,&quot;image_height&quot;:14,&quot;image_width&quot;:54,&quot;end_ms&quot;:90000,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/LXo7UDZvByw2ixzpQCufnA\/featured_channel.jpg?v=59a98ac8&quot;,&quot;channel_name&quot;:&quot;Vox&quot;,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;s4C_wDRbatM&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCPDWjbbm7d8CFZStDQoddUwBYyj4HTICaXZI09XtooP4r8CzAQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;762ba61a-5b5d-460a-bab5-54b106075fb0&quot;,&quot;ei&quot;:&quot;Nsc8XPDjLpTbNvWYhZgG&quot;},&quot;num_subscribers&quot;:&quot;5432722&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;unsubscribeCount&quot;:&quot;5.4M&quot;,&quot;classic&quot;:true,&quot;subscribeCount&quot;:&quot;5.4M&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26feature%3Div%26continue_action%3DQUFFLUhqbHlUQzFDbjNBSXFGOTJYTGNzVWZrYnFqZ3ZMQXxBQ3Jtc0ttWFlhd2R0YkE5dVRlR0FteW00S0JPZ01Jd1FoWGVsdXhDSWhBUS03SEpsdG5qZDNSWHM2VHowZzRHRE4teDFPRXA4SmhuYjgxWWFGOGxNd2ROS0RsVkY4U25YUnIzMzdoS2dRWjJTMVhvRUtfT0NabzZFLUV0eXh2NkRfUlRkaDQzdHNkUHRZUXVvbGJIQmtXTnVqVEw0alZkZ05ZVjRWUEkzam4tZmUzV3FrRTZBX0pmV2pDOFJMQ0VLMnhrbTlvVm42UnVmRnAybXdKWTZNWjEwNUQtaExCTVBkUlZsMXhYNENJWWhUUEFuTlpWdlI0%26app%3Ddesktop%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fvoxdotcom%26hl%3Den\u0026hl=en\u0026uilel=3\u0026service=youtube&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false},&quot;is_mobile&quot;:false}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/voxdotcom"/>
+  </action>
+</annotation></annotations></document>

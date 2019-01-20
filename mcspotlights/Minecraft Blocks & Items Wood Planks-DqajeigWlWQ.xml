@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgKO8i9nt3wIVBNkDCh30QwOmKPgdMgJpdkjkqtrAou-o0w4">
+<annotation id="annotation_2040942919" type="highlight" log_data="xble=1&amp;a-v=DqajeigWlWQ&amp;a-type=3&amp;a-id=annotation_2040942919&amp;ei=O7k8XMCZKoSyD_SHjbAK" itct="CAEQs-UBGP___________wEiEwiAo7yL2e3fAhUE2QMKHfRDA6Yo-B0yAml2SOSq2sCi76jTDg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="23.25000" y="4.00000" w="27.37500" h="31.77800" t="1:04.677"/>
+      <rectRegion x="23.25000" y="4.00000" w="27.37500" h="31.77800" t="1:15.135"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_2059325197" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Available Soon!</TEXT>
+  <segment spaceRelative="annotation_301618347">
+    <movingRegion type="rect">
+      <rectRegion x="1.00000" y="12.88900" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="1.00000" y="12.88900" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_301618347" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2617171395" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Available Soon!</TEXT>
+  <segment spaceRelative="annotation_2040942919">
+    <movingRegion type="rect">
+      <rectRegion x="1.12500" y="11.11100" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="1.12500" y="11.11100" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2040942919" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_301618347" type="highlight" log_data="xble=1&amp;a-v=DqajeigWlWQ&amp;a-type=3&amp;a-id=annotation_301618347&amp;ei=O7k8XMCZKoSyD_SHjbAK" itct="CAIQs-UBGP___________wEiEwiAo7yL2e3fAhUE2QMKHfRDA6Yo-B0yAml2SOSq2sCi76jTDg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="51.62500" y="3.55600" w="28.00000" h="31.55600" t="1:04.677"/>
+      <rectRegion x="51.62500" y="3.55600" w="28.00000" h="31.55600" t="1:15.186"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+</annotation>
+
+<annotation id="annotation_563093877" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_911014775">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_911014775" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_911014775" type="highlight" log_data="a-v=DqajeigWlWQ&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fmcspotlights%3Fsub_confirmation%3D1&amp;xble=1&amp;l-class=5&amp;a-id=annotation_911014775&amp;ei=O7k8XMCZKoSyD_SHjbAK&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwiAo7yL2e3fAhUE2QMKHfRDA6Yo-B0yAml2SOSq2sCi76jTDg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="28.62500" y="48.22200" w="42.87500" h="22.44400" t="1:04.677"/>
+      <rectRegion x="28.62500" y="48.22200" w="42.87500" h="22.44400" t="1:15.201"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/user/mcspotlights?annotation_id=annotation_911014775&amp;ei=O7k8XMCZKoSyD_SHjbAK&amp;feature=iv&amp;src_vid=DqajeigWlWQ&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+</annotations></document>

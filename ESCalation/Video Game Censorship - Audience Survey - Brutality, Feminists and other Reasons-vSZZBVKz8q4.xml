@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI2IKY-_Pt3wIV1YgDCh3XVwnIKPgdMgJpdkiu5c-V1aCWk70B">
+<annotation id="annotation_1964231523" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_388818367">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_388818367" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3066089269" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3929936997">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3929936997" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_388818367" type="highlight" log_data="a-type=3&amp;ei=adU8XJiqEtWRDtevpcAM&amp;a-v=vSZZBVKz8q4&amp;a-id=annotation_388818367&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D20CjczAwKYQ&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwjYgpj78-3fAhXViAMKHddXCcgo-B0yAml2SK7lz5XVoJaTvQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.78100" y="82.17600" w="45.70300" h="15.74100" t="1:56.854"/>
+      <rectRegion x="0.78100" y="82.17600" w="45.70300" h="15.74100" t="2:49.018"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_388818367&amp;ei=adU8XJiqEtWRDtevpcAM&amp;feature=iv&amp;src_vid=vSZZBVKz8q4&amp;v=20CjczAwKYQ" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3929936997" type="highlight" log_data="a-type=3&amp;ei=adU8XJiqEtWRDtevpcAM&amp;a-v=vSZZBVKz8q4&amp;a-id=annotation_3929936997&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPSI_vyn95qw&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwjYgpj78-3fAhXViAMKHddXCcgo-B0yAml2SK7lz5XVoJaTvQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.12500" y="83.79600" w="45.83300" h="14.81500" t="1:56.854"/>
+      <rectRegion x="53.12500" y="83.79600" w="45.83300" h="14.81500" t="2:49.018"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_3929936997&amp;ei=adU8XJiqEtWRDtevpcAM&amp;feature=iv&amp;src_vid=vSZZBVKz8q4&amp;v=PSI_vyn95qw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:555adb2f-0000-2707-85aa-001a113f3238" style="branding" type="branding"
+            log_data="a-type=10&amp;ei=adU8XJiqEtWRDtevpcAM&amp;a-v=vSZZBVKz8q4&amp;a-id=555adb2f-0000-2707-85aa-001a113f3238&amp;link-id=UCz2daX7pxjD88hth-raG3JQ&amp;xble=0&amp;a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;l-class=3">
+  <data>{&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCz2daX7pxjD88hth-raG3JQ&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;44K&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26continue_action%3DQUFFLUhqbk1GMmJZRzR3eWNVOXU4cV8xNlNrWDNvMXY0QXxBQ3Jtc0ttdGwyeVllY2RfS0JIZllBWEVrS012ZDNlSWtwTGdibG5wLTFUQUh1bkY0WU43OVNnVURqU2ZfNHROQUtfaHNuUTZXZ2k0VlEtdXlKS2tsSDdFUlFwQ044UjBrRVZmREZTWjlJS3dETExtendIV1Y0NE5ybTdUSjNmdVBaMGZWWlVoVWtwNGlzRzJSOWdKdFhwMTJoZUZHNmdTMmQyb1d6UDdhSDJ1WEN5a1BJTzlzaUZlWTZvd0pyUnJpal81aG9oS2ZDcXhBTmxRcFY1M0lJS2NoYU95NDhiMjVQeFRPd0xjanU0QjJlZ2huUTZwd0FR%26action_handle_signin%3Dtrue%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCz2daX7pxjD88hth-raG3JQ\u0026passive=true\u0026service=youtube\u0026uilel=3&quot;,&quot;unsubscribeCount&quot;:&quot;44K&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;},&quot;start_ms&quot;:82000,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;use_standalone_subscribe_button&quot;:true,&quot;is_mobile&quot;:false,&quot;image_width&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/z2daX7pxjD88hth-raG3JQ\/featured_channel.jpg?v=555ef8c7&quot;,&quot;image_height&quot;:40,&quot;end_ms&quot;:169000,&quot;channel_name&quot;:&quot;ESCalation&quot;,&quot;num_subscribers&quot;:&quot;44964&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCNiCmPvz7d8CFdWIAwod11cJyCj4HTICaXZIruXPldWglpO9AQ&quot;,&quot;src_vid&quot;:&quot;vSZZBVKz8q4&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;555adb2f-0000-2707-85aa-001a113f3238&quot;,&quot;ei&quot;:&quot;adU8XJiqEtWRDtevpcAM&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/channel/UCz2daX7pxjD88hth-raG3JQ"/>
+  </action>
+</annotation>
+<annotation id="video:7f0311a5-263c-456c-853d-a3c2dbf6c4a2" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=7f0311a5-263c-456c-853d-a3c2dbf6c4a2&amp;a-type=62&amp;a-v=vSZZBVKz8q4&amp;ei=adU8XJiqEtWRDtevpcAM&amp;l-class=1&amp;link-id=20CjczAwKYQ&amp;xble=0">
+  <data>{&quot;title&quot;:&quot;Fuck DLCs, Season Passes and no MODs (rant)&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=20CjczAwKYQ&quot;,&quot;is_live_now&quot;:false,&quot;start_ms&quot;:117076,&quot;teaser_duration_ms&quot;:7000,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;video_duration&quot;:&quot;5:36&quot;,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Suggested: Fuck DLCs, Season Passes and no MODs (rant)&quot;,&quot;pause_on_navigation&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/20CjczAwKYQ\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;12,175 views&quot;],&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAgQ1TYY____________ASITCNiCmPvz7d8CFdWIAwod11cJyCj4HTIFY2FyZHNIruXPldWglpO9AQ&quot;,&quot;src_vid&quot;:&quot;vSZZBVKz8q4&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;7f0311a5-263c-456c-853d-a3c2dbf6c4a2&quot;,&quot;ei&quot;:&quot;adU8XJiqEtWRDtevpcAM&quot;},&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:117076,&quot;timestamp&quot;:1466863221786,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAgQ1TYY____________ASITCNiCmPvz7d8CFdWIAwod11cJyCj4HTIFY2FyZHNIruXPldWglpO9AQ&quot;,&quot;teaser&quot;:&quot;CAkQ0DYY____________ASITCNiCmPvz7d8CFdWIAwod11cJyCj4HTIFY2FyZHNIruXPldWglpO9AQ&quot;,&quot;icon&quot;:&quot;CAoQsJcBGP___________wEiEwjYgpj78-3fAhXViAMKHddXCcgo-B0yBWNhcmRzSK7lz5XVoJaTvQE&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=20CjczAwKYQ"/>
+  </action>
+</annotation>
+
+<annotation id="video:7a553a7b-c5f6-402c-bb1b-7149e4f58829" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=7a553a7b-c5f6-402c-bb1b-7149e4f58829&amp;a-type=62&amp;a-v=vSZZBVKz8q4&amp;ei=adU8XJiqEtWRDtevpcAM&amp;l-class=1&amp;link-id=gyYIjn0V1Uc&amp;xble=0">
+  <data>{&quot;title&quot;:&quot;DoctorK - Baby got back&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=gyYIjn0V1Uc&quot;,&quot;is_live_now&quot;:false,&quot;start_ms&quot;:128711,&quot;teaser_duration_ms&quot;:7000,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;video_duration&quot;:&quot;4:34&quot;,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Suggested: DoctorK - Baby got back&quot;,&quot;pause_on_navigation&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/gyYIjn0V1Uc\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;by Michael Hillard&quot;,&quot;161,939 views&quot;],&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCNiCmPvz7d8CFdWIAwod11cJyCj4HTIFY2FyZHNIruXPldWglpO9AQ&quot;,&quot;src_vid&quot;:&quot;vSZZBVKz8q4&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;7a553a7b-c5f6-402c-bb1b-7149e4f58829&quot;,&quot;ei&quot;:&quot;adU8XJiqEtWRDtevpcAM&quot;},&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:128711,&quot;timestamp&quot;:1466863235424,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAwQ1TYY____________ASITCNiCmPvz7d8CFdWIAwod11cJyCj4HTIFY2FyZHNIruXPldWglpO9AQ&quot;,&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCNiCmPvz7d8CFdWIAwod11cJyCj4HTIFY2FyZHNIruXPldWglpO9AQ&quot;,&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwjYgpj78-3fAhXViAMKHddXCcgo-B0yBWNhcmRzSK7lz5XVoJaTvQE&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=gyYIjn0V1Uc"/>
+  </action>
+</annotation>
+
+<annotation id="video:e7e9bf97-c7e7-4454-9406-5205b2861036" style="video" type="card" log_data="a-ch=UCz2daX7pxjD88hth-raG3JQ&amp;a-id=e7e9bf97-c7e7-4454-9406-5205b2861036&amp;a-type=62&amp;a-v=vSZZBVKz8q4&amp;ei=adU8XJiqEtWRDtevpcAM&amp;l-class=1&amp;link-id=PSI_vyn95qw&amp;xble=0">
+  <data>{&quot;title&quot;:&quot;Cut Content of Day of Defeat | the DoD we didn&#39;t get.&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=PSI_vyn95qw&quot;,&quot;is_live_now&quot;:false,&quot;start_ms&quot;:138959,&quot;teaser_duration_ms&quot;:7000,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;video_duration&quot;:&quot;5:27&quot;,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Suggested: Cut Content of Day of Defeat | the DoD we didn&#39;t get.&quot;,&quot;pause_on_navigation&quot;:true,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/PSI_vyn95qw\/mqdefault.jpg&quot;,&quot;meta_info&quot;:[&quot;by ESCalation&quot;,&quot;40,116 views&quot;],&quot;session_data&quot;:{&quot;itct&quot;:&quot;CBAQ1TYY____________ASITCNiCmPvz7d8CFdWIAwod11cJyCj4HTIFY2FyZHNIruXPldWglpO9AQ&quot;,&quot;src_vid&quot;:&quot;vSZZBVKz8q4&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;e7e9bf97-c7e7-4454-9406-5205b2861036&quot;,&quot;ei&quot;:&quot;adU8XJiqEtWRDtevpcAM&quot;},&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:138959,&quot;timestamp&quot;:1466863255451,&quot;card_type&quot;:&quot;video&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CBAQ1TYY____________ASITCNiCmPvz7d8CFdWIAwod11cJyCj4HTIFY2FyZHNIruXPldWglpO9AQ&quot;,&quot;teaser&quot;:&quot;CBEQ0DYY____________ASITCNiCmPvz7d8CFdWIAwod11cJyCj4HTIFY2FyZHNIruXPldWglpO9AQ&quot;,&quot;icon&quot;:&quot;CBIQsJcBGP___________wEiEwjYgpj78-3fAhXViAMKHddXCcgo-B0yBWNhcmRzSK7lz5XVoJaTvQE&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=PSI_vyn95qw"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;closeTrackingParams&quot;: &quot;CAUQsZcBGP///////////wEiEwjYgpj78+3fAhXViAMKHddXCcgo+B0yBWNhcmRzSK7lz5XVoJaTvQE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAQQwjcY////////////ASITCNiCmPvz7d8CFdWIAwod11cJyCj4HTIFY2FyZHNIruXPldWglpO9AQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAYQsJcBGP///////////wEiEwjYgpj78+3fAhXViAMKHddXCcgo+B0yBWNhcmRzSK7lz5XVoJaTvQE=&quot;, 
+  &quot;eventId&quot;: &quot;adU8XJiqEtWRDtevpcAM&quot;, 
+  &quot;headerText&quot;: &quot;From ESCalation&quot;
+}</data>
+</annotation>
+</annotations></document>

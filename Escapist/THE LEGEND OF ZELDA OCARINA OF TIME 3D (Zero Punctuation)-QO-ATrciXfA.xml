@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI6J65lert3wIVirmCCh1dMQH6KPgdMgJpdkjwu4m564ng90A">
+<annotation id="annotation_315911" type="highlight" log_data="a-v=QO-ATrciXfA&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dtheescapistmagazine&amp;ei=JMs8XOh8ivOKBN3ihNAP&amp;xble=1&amp;l-class=5&amp;a-id=annotation_315911" itct="CAEQs-UBGP___________wEiEwjonrmV6u3fAhWKuYIKHV0xAfoo-B0yAml2SPC7ibnrieD3QA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.75000" y="3.33300" w="89.84400" h="15.83300" t="0:00:23.9"/>
+      <rectRegion x="3.75000" y="3.33300" w="89.84400" h="15.83300" t="0:00:38.9"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=theescapistmagazine&amp;annotation_id=annotation_315911&amp;ei=JMs8XOh8ivOKBN3ihNAP&amp;feature=iv&amp;src_vid=QO-ATrciXfA" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_386026" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click here to visit The Escapist Magazine and watch new episodes of Zero Punctuation a week early!</TEXT>
+  <segment spaceRelative="annotation_479552">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="1.11100" w="87.34400" h="13.05600" t="never"/>
+      <rectRegion x="0.00000" y="1.11100" w="87.34400" h="13.05600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.9116" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_479552" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_479552" type="highlight" log_data="a-v=QO-ATrciXfA&amp;a-type=3&amp;link=http%3A%2F%2Fwww.escapistmagazine.com%2Fvideos%2Fview%2Fzero-punctuation&amp;ei=JMs8XOh8ivOKBN3ihNAP&amp;xble=1&amp;l-class=6&amp;a-id=annotation_479552" itct="CAIQs-UBGP___________wEiEwjonrmV6u3fAhWKuYIKHV0xAfoo-B0yAml2SPC7ibnrieD3QA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.09400" y="79.72200" w="87.03100" h="14.16700" t="0:03:04.2"/>
+      <rectRegion x="6.09400" y="79.72200" w="87.03100" h="14.16700" t="0:03:19.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://www.escapistmagazine.com/videos/view/zero-punctuation" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_519180" type="highlight" log_data="a-v=QO-ATrciXfA&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dtheescapistmagazine&amp;ei=JMs8XOh8ivOKBN3ihNAP&amp;xble=1&amp;l-class=5&amp;a-id=annotation_519180" itct="CAMQs-UBGP___________wEiEwjonrmV6u3fAhWKuYIKHV0xAfoo-B0yAml2SPC7ibnrieD3QA">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.09400" y="6.11100" w="87.03100" h="15.83300" t="0:04:57.5"/>
+      <rectRegion x="6.09400" y="6.11100" w="87.03100" h="15.83300" t="0:05:12.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=theescapistmagazine&amp;annotation_id=annotation_519180&amp;ei=JMs8XOh8ivOKBN3ihNAP&amp;feature=iv&amp;src_vid=QO-ATrciXfA" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_658407" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click here to subscribe to The Escapist!</TEXT>
+  <segment spaceRelative="annotation_315911">
+    <movingRegion type="rect">
+      <rectRegion x="0.15600" y="0.55600" w="88.75000" h="13.88900" t="never"/>
+      <rectRegion x="0.15600" y="0.55600" w="88.75000" h="13.88900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.81426666666667" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_315911" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_729389" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click here to subscribe to The Escapist!</TEXT>
+  <segment spaceRelative="annotation_519180">
+    <movingRegion type="rect">
+      <rectRegion x="0.31300" y="1.38900" w="86.71900" h="11.94400" t="never"/>
+      <rectRegion x="0.31300" y="1.38900" w="86.71900" h="11.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.81426666666667" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_519180" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:51681596-0-2df8-9529-47d7bd769b0" style="branding" type="branding"
+            log_data="a-v=QO-ATrciXfA&amp;a-type=10&amp;a-ch=UCqg5FCR7NrpvlBWMXdt-5Vg&amp;link-id=UCqg5FCR7NrpvlBWMXdt-5Vg&amp;ei=JMs8XOh8ivOKBN3ihNAP&amp;xble=0&amp;l-class=3&amp;a-id=51681596-0-2df8-9529-47d7bd769b0">
+  <data>{&quot;is_mobile&quot;:false,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_type&quot;:0,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/a-\/AAuE7mDQZQZJLRGHeJ6lqi9H5MFm6dG2uLkWR91ElA=s300-mo-c-c0xffffffff-rj-k-no&quot;,&quot;image_width&quot;:40,&quot;channel_id&quot;:&quot;UCqg5FCR7NrpvlBWMXdt-5Vg&quot;,&quot;image_height&quot;:40,&quot;end_ms&quot;:335000,&quot;num_subscribers&quot;:&quot;1126878&quot;,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;51681596-0-2df8-9529-47d7bd769b0&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;JMs8XOh8ivOKBN3ihNAP&quot;,&quot;src_vid&quot;:&quot;QO-ATrciXfA&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCOieuZXq7d8CFYq5ggodXTEB-ij4HTICaXZI8LuJueuJ4PdA&quot;},&quot;channel_name&quot;:&quot;Escapist&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;unsubscribeCount&quot;:&quot;1.1M&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026service=youtube\u0026passive=true\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26continue_action%3DQUFFLUhqbTd3WWR3Vmd0d0xIRVBLSFJkbFF6bmNVTDZEUXxBQ3Jtc0tuNUNlRF9WZE13Z3phSHJYWEFYWHR3TElOSmMxYk5iV1JyZTdRNld4aTNaY3lSckVPMkJJWVpXa2FMcEl1d3hTU1JudGhMOWhRVGp1YThsVEFFTTdqWVotMUQzaUZTMDcyVFB1X3lwU0JQWjZSTDN2VXVrQ2thQVpWcUhVVHBjQjh2U0MwbEVWS0dabk1SMWZVZmIwT1pJczVCWDFaTkVZT0V6WmtPeU14Z3NxSVZTVnJXVWNwbGdSWTV2Uy1pamRLYWpER05ocVUyaVE1TGxNeDluNTJSLWloM19YaHE4Q2pSSG5MZ0hJZkxLbF85b0Nj%26action_handle_signin%3Dtrue%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FTheEscapistMagazine%26app%3Ddesktop&quot;,&quot;classic&quot;:true,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;subscribeCount&quot;:&quot;1.1M&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false},&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/TheEscapistMagazine"/>
+  </action>
+</annotation></annotations></document>

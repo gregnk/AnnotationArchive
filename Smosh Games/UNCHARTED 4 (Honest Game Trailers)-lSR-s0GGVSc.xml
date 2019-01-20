@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIr-6GlPDt3wIVQrIDCh0CkQ-9KPgdMgJpdkinqpmMtNafkpUB">
+<annotation id="annotation_1305155125" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_177308501">
+    <movingRegion type="rect">
+      <rectRegion x="-9.70700" y="35.21100" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-9.70700" y="35.21100" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_177308501" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1521868933" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2685688161">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2685688161" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1736713953" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1921786659">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1921786659" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_177308501" type="highlight" log_data="a-type=3&amp;l-class=1&amp;a-v=lSR-s0GGVSc&amp;ei=a9E8XO-MK8LkDoKivugL&amp;xble=1&amp;a-id=annotation_177308501&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh0d02_OQFvw%26list%3DPLeImKFecYFCzKacBAZGzcJEVm9OWN1PFZ%26index%3D2" itct="CAEQs-UBGP___________wEiEwiv7oaU8O3fAhVCsgMKHQKRD70o-B0yAml2SKeqmYy01p-SlQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="84.31100" y="21.97200" w="13.89900" h="43.83100" t="4:26.019"/>
+      <rectRegion x="84.31100" y="21.97200" w="13.89900" h="43.83100" t="4:52.408"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_177308501&amp;ei=a9E8XO-MK8LkDoKivugL&amp;feature=iv&amp;index=2&amp;list=PLeImKFecYFCzKacBAZGzcJEVm9OWN1PFZ&amp;src_vid=lSR-s0GGVSc&amp;v=h0d02_OQFvw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1921786659" type="highlight" log_data="a-type=3&amp;l-class=5&amp;a-v=lSR-s0GGVSc&amp;ei=a9E8XO-MK8LkDoKivugL&amp;xble=1&amp;a-id=annotation_1921786659&amp;link=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fsmoshgames%3Fannotation_id%3Dannotation_1921786659%26sub_confirmation%3D1" itct="CAIQs-UBGP___________wEiEwiv7oaU8O3fAhVCsgMKHQKRD70o-B0yAml2SKeqmYy01p-SlQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.97600" y="71.54900" w="34.70700" h="17.63400" t="04:26.019"/>
+      <rectRegion x="64.97600" y="71.54900" w="34.70700" h="17.63400" t="04:52.664"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/smoshgames?annotation_id=annotation_1921786659&amp;annotation_id=annotation_1921786659&amp;ei=a9E8XO-MK8LkDoKivugL&amp;feature=iv&amp;src_vid=lSR-s0GGVSc&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1930036941" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2044881629">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2044881629" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2044881629" type="highlight" log_data="a-type=3&amp;l-class=1&amp;a-v=lSR-s0GGVSc&amp;ei=a9E8XO-MK8LkDoKivugL&amp;xble=1&amp;a-id=annotation_2044881629&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DesYss24O9Gc%26list%3DPLeImKFecYFCxBQYxkF-Hvtq_5b-pbjMnM" itct="CAMQs-UBGP___________wEiEwiv7oaU8O3fAhVCsgMKHQKRD70o-B0yAml2SKeqmYy01p-SlQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="68.46300" y="21.97200" w="14.85700" h="44.11300" t="4:26.019"/>
+      <rectRegion x="68.46300" y="21.97200" w="14.85700" h="44.11300" t="4:52.408"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2044881629&amp;ei=a9E8XO-MK8LkDoKivugL&amp;feature=iv&amp;list=PLeImKFecYFCxBQYxkF-Hvtq_5b-pbjMnM&amp;src_vid=lSR-s0GGVSc&amp;v=esYss24O9Gc" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2471393371" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3341139823">
+    <movingRegion type="rect">
+      <rectRegion x="-1.10900" y="42.81700" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="-1.10900" y="42.81700" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3341139823" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2516622099" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_952006107">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.98600" w="14.69100" h="34.73600" t="never"/>
+      <rectRegion x="0.00000" y="0.98600" w="14.69100" h="34.73600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_952006107" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2685688161" type="highlight" log_data="a-type=3&amp;l-class=1&amp;a-v=lSR-s0GGVSc&amp;ei=a9E8XO-MK8LkDoKivugL&amp;xble=1&amp;a-id=annotation_2685688161&amp;link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fannotation_id%3Dannotation_2685688161%26list%3DPLeImKFecYFCzfGJ1euPhobbG1uFMXsQyw%26v%3DGbBZNyfb16s" itct="CAQQs-UBGP___________wEiEwiv7oaU8O3fAhVCsgMKHQKRD70o-B0yAml2SKeqmYy01p-SlQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.01100" y="21.69000" w="33.24100" h="44.39400" t="04:26.019"/>
+      <rectRegion x="3.01100" y="21.69000" w="33.24100" h="44.39400" t="04:52.664"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_2685688161&amp;annotation_id=annotation_2685688161&amp;ei=a9E8XO-MK8LkDoKivugL&amp;feature=iv&amp;list=PLeImKFecYFCzfGJ1euPhobbG1uFMXsQyw&amp;src_vid=lSR-s0GGVSc&amp;v=GbBZNyfb16s" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3341139823" type="highlight" log_data="a-type=3&amp;l-class=1&amp;a-v=lSR-s0GGVSc&amp;ei=a9E8XO-MK8LkDoKivugL&amp;xble=1&amp;a-id=annotation_3341139823&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoozuU1LI6XM%26list%3DPLeImKFecYFCzKacBAZGzcJEVm9OWN1PFZ%26index%3D3" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="53.09000" y="22.53500" w="15.33300" h="43.26800" t="4:26.019"/>
+      <rectRegion x="53.09000" y="22.53500" w="15.33300" h="43.26800" t="4:52.408"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_3341139823&amp;ei=a9E8XO-MK8LkDoKivugL&amp;feature=iv&amp;index=3&amp;list=PLeImKFecYFCzKacBAZGzcJEVm9OWN1PFZ&amp;src_vid=lSR-s0GGVSc&amp;v=oozuU1LI6XM" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_952006107" type="highlight" log_data="a-type=3&amp;l-class=1&amp;a-v=lSR-s0GGVSc&amp;ei=a9E8XO-MK8LkDoKivugL&amp;xble=1&amp;a-id=annotation_952006107&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPibDRo1J5gI%26list%3DPLeImKFecYFCzKacBAZGzcJEVm9OWN1PFZ%26index%3D36" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="38.03500" y="21.69000" w="14.85700" h="44.11300" t="4:26.019"/>
+      <rectRegion x="38.03500" y="21.69000" w="14.85700" h="44.11300" t="4:52.408"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_952006107&amp;ei=a9E8XO-MK8LkDoKivugL&amp;feature=iv&amp;index=36&amp;list=PLeImKFecYFCzKacBAZGzcJEVm9OWN1PFZ&amp;src_vid=lSR-s0GGVSc&amp;v=PibDRo1J5gI" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:27332028-dc0a-425f-82fd-d174c2fe88cf" style="branding" type="branding"
+            log_data="a-type=10&amp;a-ch=UCJ2ZDzMRgSrxmwphstrm8Ww&amp;l-class=3&amp;a-v=lSR-s0GGVSc&amp;ei=a9E8XO-MK8LkDoKivugL&amp;xble=0&amp;a-id=27332028-dc0a-425f-82fd-d174c2fe88cf&amp;link-id=UCJ2ZDzMRgSrxmwphstrm8Ww">
+  <data>{&quot;session_data&quot;:{&quot;ei&quot;:&quot;a9E8XO-MK8LkDoKivugL&quot;,&quot;itct&quot;:&quot;CAUQ8zcY____________ASITCK_uhpTw7d8CFUKyAwodApEPvSj4HTICaXZIp6qZjLTWn5KVAQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;27332028-dc0a-425f-82fd-d174c2fe88cf&quot;,&quot;src_vid&quot;:&quot;lSR-s0GGVSc&quot;},&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026hl=en\u0026uilel=3\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26feature%3Div%26continue_action%3DQUFFLUhqbDd5dlUtMkJ6ZUJ3dGZya3VEYTg4eHYxRVZrd3xBQ3Jtc0tuY3NabFZ5SklfR2V1Q3lvYnJnNjI5TUpvOTZFUUlyd3ItbjZoU0dkLU55MU11eFpqUnlrZnBYNW8zNzlKbExvYWVTRHhMckRIWEdxcnY0TnJNUHRHM05CbDROeFp2bUZhVUh0dHVDZGdUSVhwRnhHY0c1X2hUclJoODEyUU5fc2dCMW5fWkZyaW41V2c2RG80U2E5ajgyMmhqMUJ4dVhpYWN5MFVOYnV2UkRHaWF3VXRkclJCSlNxVnlzeWZheDlqQmcxSGwxMkw4Z0YxdFQ0dGczZ0RlTklCQUFMcXhicmF2bUR2RGpQc2VZVElNanhB%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FSmoshGames%26action_handle_signin%3Dtrue%26app%3Ddesktop&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;7.3M&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;7.3M&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_height&quot;:40,&quot;end_ms&quot;:293000,&quot;channel_name&quot;:&quot;Smosh Games&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/J2ZDzMRgSrxmwphstrm8Ww\/featured_channel.jpg?v=5b7f0aa2&quot;,&quot;image_width&quot;:40,&quot;use_standalone_subscribe_button&quot;:true,&quot;is_mobile&quot;:false,&quot;num_subscribers&quot;:&quot;7398425&quot;,&quot;start_ms&quot;:5000,&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCJ2ZDzMRgSrxmwphstrm8Ww&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/SmoshGames"/>
+  </action>
+</annotation>
+<annotation id="video:a70b941a-841e-4de4-b36b-19547db2bf1a" style="video" type="card" log_data="a-ch=UCJ2ZDzMRgSrxmwphstrm8Ww&amp;a-id=a70b941a-841e-4de4-b36b-19547db2bf1a&amp;a-type=62&amp;a-v=lSR-s0GGVSc&amp;ei=a9E8XO-MK8LkDoKivugL&amp;l-class=1&amp;link-id=h0d02_OQFvw&amp;xble=0">
+  <data>{&quot;teaser_duration_ms&quot;:7000,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=h0d02_OQFvw&quot;,&quot;teaser_text&quot;:&quot;Suggested: WARCRAFT (Honest Game Trailers)&quot;,&quot;meta_info&quot;:[&quot;by Smosh Games&quot;,&quot;2,617,086 views&quot;],&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[]},&quot;end_ms&quot;:183048,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/h0d02_OQFvw\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;title&quot;:&quot;WARCRAFT (Honest Game Trailers)&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAoQ1TYY____________ASITCK_uhpTw7d8CFUKyAwodApEPvSj4HTIFY2FyZHNIp6qZjLTWn5KVAQ&quot;,&quot;teaser&quot;:&quot;CAsQ0DYY____________ASITCK_uhpTw7d8CFUKyAwodApEPvSj4HTIFY2FyZHNIp6qZjLTWn5KVAQ&quot;,&quot;icon&quot;:&quot;CAwQsJcBGP___________wEiEwiv7oaU8O3fAhVCsgMKHQKRD70o-B0yBWNhcmRzSKeqmYy01p-SlQE&quot;},&quot;pause_on_navigation&quot;:true,&quot;timestamp&quot;:1466533067711,&quot;target&quot;:&quot;new&quot;,&quot;video_duration&quot;:&quot;4:38&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;a9E8XO-MK8LkDoKivugL&quot;,&quot;itct&quot;:&quot;CAoQ1TYY____________ASITCK_uhpTw7d8CFUKyAwodApEPvSj4HTIFY2FyZHNIp6qZjLTWn5KVAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;a70b941a-841e-4de4-b36b-19547db2bf1a&quot;,&quot;src_vid&quot;:&quot;lSR-s0GGVSc&quot;},&quot;is_live_now&quot;:false,&quot;card_type&quot;:&quot;video&quot;,&quot;start_ms&quot;:183048}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=h0d02_OQFvw"/>
+  </action>
+</annotation>
+
+<annotation id="video:02954181-29bc-41bb-86d4-27828593f29e" style="video" type="card" log_data="a-ch=UCJ2ZDzMRgSrxmwphstrm8Ww&amp;a-id=02954181-29bc-41bb-86d4-27828593f29e&amp;a-type=62&amp;a-v=lSR-s0GGVSc&amp;ei=a9E8XO-MK8LkDoKivugL&amp;l-class=1&amp;link-id=nSbcBtdqdsA&amp;xble=0">
+  <data>{&quot;teaser_duration_ms&quot;:7000,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=nSbcBtdqdsA&quot;,&quot;teaser_text&quot;:&quot;Suggested: DOOM 4 (Honest Game Trailers)&quot;,&quot;meta_info&quot;:[&quot;by Smosh Games&quot;,&quot;3,893,066 views&quot;],&quot;tracking&quot;:{&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[]},&quot;end_ms&quot;:219984,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/nSbcBtdqdsA\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;title&quot;:&quot;DOOM 4 (Honest Game Trailers)&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA4Q1TYY____________ASITCK_uhpTw7d8CFUKyAwodApEPvSj4HTIFY2FyZHNIp6qZjLTWn5KVAQ&quot;,&quot;teaser&quot;:&quot;CA8Q0DYY____________ASITCK_uhpTw7d8CFUKyAwodApEPvSj4HTIFY2FyZHNIp6qZjLTWn5KVAQ&quot;,&quot;icon&quot;:&quot;CBAQsJcBGP___________wEiEwiv7oaU8O3fAhVCsgMKHQKRD70o-B0yBWNhcmRzSKeqmYy01p-SlQE&quot;},&quot;pause_on_navigation&quot;:true,&quot;timestamp&quot;:1466533056221,&quot;target&quot;:&quot;new&quot;,&quot;video_duration&quot;:&quot;4:38&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;a9E8XO-MK8LkDoKivugL&quot;,&quot;itct&quot;:&quot;CA4Q1TYY____________ASITCK_uhpTw7d8CFUKyAwodApEPvSj4HTIFY2FyZHNIp6qZjLTWn5KVAQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;annotation_id&quot;:&quot;02954181-29bc-41bb-86d4-27828593f29e&quot;,&quot;src_vid&quot;:&quot;lSR-s0GGVSc&quot;},&quot;is_live_now&quot;:false,&quot;card_type&quot;:&quot;video&quot;,&quot;start_ms&quot;:219984}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=nSbcBtdqdsA"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAgQsJcBGP///////////wEiEwiv7oaU8O3fAhVCsgMKHQKRD70o+B0yBWNhcmRzSKeqmYy01p+SlQE=&quot;, 
+  &quot;eventId&quot;: &quot;a9E8XO-MK8LkDoKivugL&quot;, 
+  &quot;trackingParams&quot;: &quot;CAYQwjcY////////////ASITCK/uhpTw7d8CFUKyAwodApEPvSj4HTIFY2FyZHNIp6qZjLTWn5KVAQ==&quot;, 
+  &quot;headerText&quot;: &quot;From Smosh Games&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAcQsZcBGP///////////wEiEwiv7oaU8O3fAhVCsgMKHQKRD70o+B0yBWNhcmRzSKeqmYy01p+SlQE=&quot;
+}</data>
+</annotation>
+</annotations></document>

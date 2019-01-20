@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIz4_zu-Xt3wIVGLkNCh2jJgZLKPgdMgJpdkiyjc7BsdGth3E">
+<annotation id="annotation_2145619013" type="highlight" log_data="ei=NsY8XM-cHZjyNqPNmNgE&amp;a-type=3&amp;a-id=annotation_2145619013&amp;l-class=6&amp;link=http%3A%2F%2Fjerryrigeverything.com%2Ftwitter%2F&amp;xble=1&amp;a-v=cQ62ixgzhrI" itct="CAEQs-UBGP___________wEiEwjPj_O75e3fAhUYuQ0KHaMmBkso-B0yAml2SLKNzsGx0a2HcQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="20.12700" y="1.97200" w="60.65800" h="28.62000" t="4:02.315"/>
+      <rectRegion x="20.12700" y="1.97200" w="60.65800" h="28.62000" t="4:10.751"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://jerryrigeverything.com/twitter/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3633559051" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2145619013">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2145619013" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:55fbff7e-d91d-45a2-b9b4-4f6759d1ef57" style="branding" type="branding"
+            log_data="ei=NsY8XM-cHZjyNqPNmNgE&amp;a-type=10&amp;a-id=55fbff7e-d91d-45a2-b9b4-4f6759d1ef57&amp;a-ch=UCWFKCr40YwOZQx8FHU_ZqqQ&amp;l-class=3&amp;xble=0&amp;link-id=UCWFKCr40YwOZQx8FHU_ZqqQ&amp;a-v=cQ62ixgzhrI">
+  <data>{&quot;image_type&quot;:1,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FJerryRigEverything%26hl%3Den%26continue_action%3DQUFFLUhqbHVMUml5Nms4TzNEbkVTYjVzb2ZzTGpLRTdIZ3xBQ3Jtc0tuWmNPSnhSOGdhZ1VYcGZxajBUaXRiTDZoaENaREt2bzFLMjVtUGJvVnNMdFdfQXBvS3B2N3NBbUw4aVlUQ3gwbmw5MUlXWlE0UktCM2ZpNlFVWnk1Y3JyVGtZblNScWRNam96UkxQXy1hNzdsMW1xemZTNDlxdTRwSHE5VURzd1UweDhNckpKbWFhSXJxdUJ1dzZpTEdBTDRWcmdaVEJMcFUwRmd3LXFPVjN0cG5hdXFrX0NKYUdBSm5jWVV4M29qSmd4MFNia0Q4Y0U2RGxCTjF4WW5RakxBSklYd19fOEtFclBFNE50MXhtcmVvX1lV\u0026uilel=3\u0026hl=en\u0026service=youtube&quot;,&quot;subscribeCount&quot;:&quot;3.1M&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeCount&quot;:&quot;3.1M&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;},&quot;num_subscribers&quot;:&quot;3117473&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;end_ms&quot;:251000,&quot;image_width&quot;:46,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_id&quot;:&quot;UCWFKCr40YwOZQx8FHU_ZqqQ&quot;,&quot;image_height&quot;:33,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/WFKCr40YwOZQx8FHU_ZqqQ\/featured_channel.jpg?v=5b88a863&quot;,&quot;start_ms&quot;:0,&quot;channel_name&quot;:&quot;JerryRigEverything&quot;,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;cQ62ixgzhrI&quot;,&quot;itct&quot;:&quot;CAIQ8zcY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTICaXZIso3OwbHRrYdx&quot;,&quot;ei&quot;:&quot;NsY8XM-cHZjyNqPNmNgE&quot;,&quot;annotation_id&quot;:&quot;55fbff7e-d91d-45a2-b9b4-4f6759d1ef57&quot;,&quot;feature&quot;:&quot;iv&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/JerryRigEverything"/>
+  </action>
+</annotation>
+<annotation id="video:6cf30cbc-5119-4147-8d7b-7df40f31707d" style="playlist" type="card" log_data="a-ch=UCWFKCr40YwOZQx8FHU_ZqqQ&amp;a-id=6cf30cbc-5119-4147-8d7b-7df40f31707d&amp;a-type=63&amp;a-v=cQ62ixgzhrI&amp;ei=NsY8XM-cHZjyNqPNmNgE&amp;l-class=2&amp;link-id=PL0vZL9uwyfOHdcsT4QDrvFuMOmFPQjIPA&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;playlist&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;by JerryRigEverything&quot;,&quot;50 videos&quot;],&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;2016 Smart Phone Durability Tests - JerryRigEverything&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=0oChYfB96lo\u0026list=PL0vZL9uwyfOHdcsT4QDrvFuMOmFPQjIPA&quot;,&quot;timestamp&quot;:1462577801617,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAgQ0DYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;card&quot;:&quot;CAcQ1TYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;icon&quot;:&quot;CAkQsJcBGP___________wEiEwjPj_O75e3fAhUYuQ0KHaMmBkso-B0yBWNhcmRzSLKNzsGx0a2HcQ&quot;},&quot;end_ms&quot;:29966,&quot;pause_on_navigation&quot;:true,&quot;playlist_video_count&quot;:&quot;50&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/0oChYfB96lo\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: 2016 Smart Phone Durability Tests - JerryRigEverything&quot;,&quot;start_ms&quot;:29966,&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;cQ62ixgzhrI&quot;,&quot;itct&quot;:&quot;CAcQ1TYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;ei&quot;:&quot;NsY8XM-cHZjyNqPNmNgE&quot;,&quot;annotation_id&quot;:&quot;6cf30cbc-5119-4147-8d7b-7df40f31707d&quot;,&quot;feature&quot;:&quot;cards&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=0oChYfB96lo&amp;list=PL0vZL9uwyfOHdcsT4QDrvFuMOmFPQjIPA"/>
+  </action>
+</annotation>
+
+<annotation id="video:3076dd8a-7243-4762-9310-f924b6075f97" style="video" type="card" log_data="a-ch=UCWFKCr40YwOZQx8FHU_ZqqQ&amp;a-id=3076dd8a-7243-4762-9310-f924b6075f97&amp;a-type=62&amp;a-v=cQ62ixgzhrI&amp;ei=NsY8XM-cHZjyNqPNmNgE&amp;l-class=1&amp;link-id=ePKZLTPTDd8&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;by JerryRigEverything&quot;,&quot;1,242,411 views&quot;],&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;HTC One M9 Bend test, Flame Test, Scratch Test FAIL&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=ePKZLTPTDd8&quot;,&quot;timestamp&quot;:1462577892495,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CAwQ0DYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;card&quot;:&quot;CAsQ1TYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;icon&quot;:&quot;CA0QsJcBGP___________wEiEwjPj_O75e3fAhUYuQ0KHaMmBkso-B0yBWNhcmRzSLKNzsGx0a2HcQ&quot;},&quot;end_ms&quot;:67674,&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/ePKZLTPTDd8\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: HTC One M9 Bend test, Flame Test, Scratch Test FAIL&quot;,&quot;start_ms&quot;:67674,&quot;video_duration&quot;:&quot;3:37&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;cQ62ixgzhrI&quot;,&quot;itct&quot;:&quot;CAsQ1TYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;ei&quot;:&quot;NsY8XM-cHZjyNqPNmNgE&quot;,&quot;annotation_id&quot;:&quot;3076dd8a-7243-4762-9310-f924b6075f97&quot;,&quot;feature&quot;:&quot;cards&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=ePKZLTPTDd8"/>
+  </action>
+</annotation>
+
+<annotation id="video:3c81ebf1-5cb8-4e5f-a781-7b77faa3ac30" style="video" type="card" log_data="a-ch=UCWFKCr40YwOZQx8FHU_ZqqQ&amp;a-id=3c81ebf1-5cb8-4e5f-a781-7b77faa3ac30&amp;a-type=62&amp;a-v=cQ62ixgzhrI&amp;ei=NsY8XM-cHZjyNqPNmNgE&amp;l-class=1&amp;link-id=V-hspiDxyoI&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;by JerryRigEverything&quot;,&quot;124,639 views&quot;],&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;HTC 10 vs Galaxy S7 video camera test - Best camera for vlogging?&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=V-hspiDxyoI&quot;,&quot;timestamp&quot;:1462835698058,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBAQ0DYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;card&quot;:&quot;CA8Q1TYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;icon&quot;:&quot;CBEQsJcBGP___________wEiEwjPj_O75e3fAhUYuQ0KHaMmBkso-B0yBWNhcmRzSLKNzsGx0a2HcQ&quot;},&quot;end_ms&quot;:75413,&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/V-hspiDxyoI\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: HTC 10 vs Galaxy S7 video camera test - Best camera for vlogging?&quot;,&quot;start_ms&quot;:75413,&quot;video_duration&quot;:&quot;4:56&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;cQ62ixgzhrI&quot;,&quot;itct&quot;:&quot;CA8Q1TYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;ei&quot;:&quot;NsY8XM-cHZjyNqPNmNgE&quot;,&quot;annotation_id&quot;:&quot;3c81ebf1-5cb8-4e5f-a781-7b77faa3ac30&quot;,&quot;feature&quot;:&quot;cards&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=V-hspiDxyoI"/>
+  </action>
+</annotation>
+
+<annotation id="video:b9c0ba95-0d58-464d-99c0-ce6ab44d2fea" style="video" type="card" log_data="a-ch=UCWFKCr40YwOZQx8FHU_ZqqQ&amp;a-id=b9c0ba95-0d58-464d-99c0-ce6ab44d2fea&amp;a-type=62&amp;a-v=cQ62ixgzhrI&amp;ei=NsY8XM-cHZjyNqPNmNgE&amp;l-class=1&amp;link-id=0GQ43cF5TuU&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;by JerryRigEverything&quot;,&quot;711,786 views&quot;],&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;LG G5 - Bend Test - Scratch Test - Burn Test&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=0GQ43cF5TuU&quot;,&quot;timestamp&quot;:1462577933283,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBQQ0DYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;card&quot;:&quot;CBMQ1TYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;icon&quot;:&quot;CBUQsJcBGP___________wEiEwjPj_O75e3fAhUYuQ0KHaMmBkso-B0yBWNhcmRzSLKNzsGx0a2HcQ&quot;},&quot;end_ms&quot;:95032,&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/0GQ43cF5TuU\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: LG G5 - Bend Test - Scratch Test - Burn Test&quot;,&quot;start_ms&quot;:95032,&quot;video_duration&quot;:&quot;2:54&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;cQ62ixgzhrI&quot;,&quot;itct&quot;:&quot;CBMQ1TYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;ei&quot;:&quot;NsY8XM-cHZjyNqPNmNgE&quot;,&quot;annotation_id&quot;:&quot;b9c0ba95-0d58-464d-99c0-ce6ab44d2fea&quot;,&quot;feature&quot;:&quot;cards&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=0GQ43cF5TuU"/>
+  </action>
+</annotation>
+
+<annotation id="video:92d26a63-31b6-4eef-b46c-61e18646918c" style="video" type="card" log_data="a-ch=UCWFKCr40YwOZQx8FHU_ZqqQ&amp;a-id=92d26a63-31b6-4eef-b46c-61e18646918c&amp;a-type=62&amp;a-v=cQ62ixgzhrI&amp;ei=NsY8XM-cHZjyNqPNmNgE&amp;l-class=1&amp;link-id=T5uLJJnEHMk&amp;xble=0">
+  <data>{&quot;card_type&quot;:&quot;video&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;by JerryRigEverything&quot;,&quot;271,262 views&quot;],&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;HTC 10 Teardown - Charging port fix - Battery Repair - Screen Replacement&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=T5uLJJnEHMk&quot;,&quot;timestamp&quot;:1463464365981,&quot;tracking_params&quot;:{&quot;teaser&quot;:&quot;CBgQ0DYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;card&quot;:&quot;CBcQ1TYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;icon&quot;:&quot;CBkQsJcBGP___________wEiEwjPj_O75e3fAhUYuQ0KHaMmBkso-B0yBWNhcmRzSLKNzsGx0a2HcQ&quot;},&quot;end_ms&quot;:211880,&quot;pause_on_navigation&quot;:true,&quot;is_live_now&quot;:false,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/T5uLJJnEHMk\/mqdefault.jpg&quot;,&quot;teaser_text&quot;:&quot;Suggested: HTC 10 Teardown - Charging port fix - Battery Repair - Screen Replacement&quot;,&quot;start_ms&quot;:211880,&quot;video_duration&quot;:&quot;8:10&quot;,&quot;tracking&quot;:{&quot;impression&quot;:[],&quot;close&quot;:[],&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;teaser_duration_ms&quot;:7000,&quot;session_data&quot;:{&quot;src_vid&quot;:&quot;cQ62ixgzhrI&quot;,&quot;itct&quot;:&quot;CBcQ1TYY____________ASITCM-P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;,&quot;ei&quot;:&quot;NsY8XM-cHZjyNqPNmNgE&quot;,&quot;annotation_id&quot;:&quot;92d26a63-31b6-4eef-b46c-61e18646918c&quot;,&quot;feature&quot;:&quot;cards&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=T5uLJJnEHMk"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;headerText&quot;: &quot;From JerryRigEverything&quot;, 
+  &quot;eventId&quot;: &quot;NsY8XM-cHZjyNqPNmNgE&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAQQsZcBGP///////////wEiEwjPj/O75e3fAhUYuQ0KHaMmBkso+B0yBWNhcmRzSLKNzsGx0a2HcQ==&quot;, 
+  &quot;trackingParams&quot;: &quot;CAMQwjcY////////////ASITCM+P87vl7d8CFRi5DQodoyYGSyj4HTIFY2FyZHNIso3OwbHRrYdx&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAUQsJcBGP///////////wEiEwjPj/O75e3fAhUYuQ0KHaMmBkso+B0yBWNhcmRzSLKNzsGx0a2HcQ==&quot;
+}</data>
+</annotation>
+</annotations></document>

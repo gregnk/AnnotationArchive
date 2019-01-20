@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwbHdreft3wIVBKoNCh3MigvDKPgdMgJpdkiMjo2N5-vV5DY">
+<annotation id="annotation_331573" type="highlight" log_data="ei=Mcg8XIHVJoTUNsyVrpgM&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0zbFuNs1-BA&amp;a-v=NslXXnGjRww&amp;a-id=annotation_331573&amp;l-class=1&amp;xble=1&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjBsd2t5-3fAhUEqg0KHcyKC8Mo-B0yAml2SIyOjY3n69XkNg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="22.81300" y="22.22200" w="54.37500" h="55.27800" t="0:12:50.8"/>
+      <rectRegion x="22.81300" y="22.22200" w="54.37500" h="55.27800" t="0:13:03.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="3307707" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_331573&amp;ei=Mcg8XIHVJoTUNsyVrpgM&amp;feature=iv&amp;src_vid=NslXXnGjRww&amp;v=0zbFuNs1-BA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_365140" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click Here to see!!</TEXT>
+  <segment spaceRelative="annotation_331573">
+    <movingRegion type="rect">
+      <rectRegion x="17.65600" y="4.16700" w="16.71900" h="10.00000" t="never"/>
+      <rectRegion x="17.65600" y="4.16700" w="16.71900" h="10.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_331573" state="rollOver"/>
+  </trigger>
+</annotation>
+<annotation author="JonTronShow" id="annotation_419136" itct="CAIQs-UBGP___________wEiEwjBsd2t5-3fAhUEqg0KHcyKC8Mo-B0yAml2SIyOjY3n69XkNg" log_data="ei=Mcg8XIHVJoTUNsyVrpgM&amp;a-id=annotation_419136&amp;xble=1&amp;a-type=2&amp;a-v=NslXXnGjRww" style="speech" type="text"><TEXT>Throw me a like and WAIT A MINUTE YOU CAN'T THROW LIKES THEY'RE THEORETICAL.</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="19.4440002441" sx="69.68800354" sy="100.0" t="0:12:49.4" w="35.78099823" x="60.78099823" y="71.111000061" /><anchoredRegion d="0" h="19.4440002441" sx="69.68800354" sy="100.0" t="0:12:54.4" w="35.78099823" x="60.78099823" y="71.111000061" /></movingRegion></segment><appearance bgAlpha="0.800000011921" bgColor="5610811" borderAlpha="0.20000000298" borderColor="0" borderWidth="0" fgColor="16777215" gloss="0" highlightFontColor="16777215" highlightWidth="3" textSize="3.6107" /></annotation>
+<annotation id="annotation_563318" type="text" style="popup" log_data="ei=Mcg8XIHVJoTUNsyVrpgM&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0zbFuNs1-BA&amp;a-v=NslXXnGjRww&amp;a-id=annotation_563318&amp;l-class=1&amp;xble=1&amp;a-type=1" itct="CAMQs-UBGP___________wEiEwjBsd2t5-3fAhUEqg0KHcyKC8Mo-B0yAml2SIyOjY3n69XkNg">
+  <TEXT>Previous Video!!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.00000" w="20.46900" h="7.22200" t="0:12:50.8"/>
+      <rectRegion x="0.00000" y="0.00000" w="20.46900" h="7.22200" t="0:13:03.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="13369344" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_563318&amp;ei=Mcg8XIHVJoTUNsyVrpgM&amp;feature=iv&amp;src_vid=NslXXnGjRww&amp;v=0zbFuNs1-BA" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_757121" type="text" style="popup" log_data="ei=Mcg8XIHVJoTUNsyVrpgM&amp;a-id=annotation_757121&amp;xble=1&amp;a-type=1&amp;a-v=NslXXnGjRww" itct="CAQQs-UBGP___________wEiEwjBsd2t5-3fAhUEqg0KHcyKC8Mo-B0yAml2SIyOjY3n69XkNg">
+  <TEXT>AWWW SHEIT!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.56300" y="1.66700" w="17.81300" h="7.50000" t="0:00:00.1"/>
+      <rectRegion x="1.56300" y="1.66700" w="17.81300" h="7.50000" t="0:00:05.0"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="5610811" fgColor="0" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation></annotations></document>

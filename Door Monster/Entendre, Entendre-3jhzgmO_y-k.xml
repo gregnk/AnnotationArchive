@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMItbTM-ejt3wIVCUAwCh1u-wm1KPgdMgJpdkjpl_-dpvCcnN4B">
+<annotation id="annotation_102583" type="highlight" log_data="ei=3ck8XPXRComAwQHu9qeoCw&amp;a-v=3jhzgmO_y-k&amp;a-type=3&amp;a-id=annotation_102583&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dqubbie&amp;l-class=5" itct="CAEQs-UBGP___________wEiEwi1tMz56O3fAhUJQDAKHW77CbUo-B0yAml2SOmX_52m8Jyc3gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="38.75000" y="64.16700" w="21.87500" h="9.16700" t="0:01:44.4"/>
+      <rectRegion x="38.75000" y="64.16700" w="21.87500" h="9.16700" t="0:02:13.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=qubbie&amp;annotation_id=annotation_102583&amp;ei=3ck8XPXRComAwQHu9qeoCw&amp;feature=iv&amp;src_vid=3jhzgmO_y-k" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_139529" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_102583">
+    <movingRegion type="rect">
+      <rectRegion x="-1.40600" y="10.27800" w="25.00000" h="6.38900" t="never"/>
+      <rectRegion x="-1.40600" y="10.27800" w="25.00000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_102583" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_498256" type="highlight" log_data="ei=3ck8XPXRComAwQHu9qeoCw&amp;a-v=3jhzgmO_y-k&amp;a-type=3&amp;a-id=annotation_498256&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsHD9h2rgtuw%26index%3D8%26list%3DUU-to_wlckb-bFDtQfUZL3Kw&amp;l-class=1" itct="CAIQs-UBGP___________wEiEwi1tMz56O3fAhUJQDAKHW77CbUo-B0yAml2SOmX_52m8Jyc3gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="52.65600" y="17.50000" w="39.21900" h="38.88900" t="0:01:44.4"/>
+      <rectRegion x="52.65600" y="17.50000" w="39.21900" h="38.88900" t="0:02:13.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_498256&amp;ei=3ck8XPXRComAwQHu9qeoCw&amp;feature=iv&amp;index=8&amp;list=UU-to_wlckb-bFDtQfUZL3Kw&amp;src_vid=3jhzgmO_y-k&amp;v=sHD9h2rgtuw" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_573768" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Gary the Misanthrope</TEXT>
+  <segment spaceRelative="annotation_498256">
+    <movingRegion type="rect">
+      <rectRegion x="6.40600" y="32.50000" w="26.71900" h="6.38900" t="never"/>
+      <rectRegion x="6.40600" y="32.50000" w="26.71900" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_498256" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_590031" type="highlight" log_data="ei=3ck8XPXRComAwQHu9qeoCw&amp;a-v=3jhzgmO_y-k&amp;a-type=3&amp;a-id=annotation_590031&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoQim1JVrgQY%26index%3D6%26list%3DUU-to_wlckb-bFDtQfUZL3Kw&amp;l-class=1" itct="CAMQs-UBGP___________wEiEwi1tMz56O3fAhUJQDAKHW77CbUo-B0yAml2SOmX_52m8Jyc3gE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="7.65600" y="17.77800" w="38.90600" h="38.88900" t="0:01:44.4"/>
+      <rectRegion x="7.65600" y="17.77800" w="38.90600" h="38.88900" t="0:02:13.2"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_590031&amp;ei=3ck8XPXRComAwQHu9qeoCw&amp;feature=iv&amp;index=6&amp;list=UU-to_wlckb-bFDtQfUZL3Kw&amp;src_vid=3jhzgmO_y-k&amp;v=oQim1JVrgQY" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_908558" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Zucchini and Rhubarb</TEXT>
+  <segment spaceRelative="annotation_590031">
+    <movingRegion type="rect">
+      <rectRegion x="6.40600" y="32.50000" w="27.18700" h="6.66700" t="never"/>
+      <rectRegion x="6.40600" y="32.50000" w="27.18700" h="6.66700" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_590031" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:58059c88-0000-2f31-92e3-94eb2c08f0ca" style="branding" type="branding"
+            log_data="ei=3ck8XPXRComAwQHu9qeoCw&amp;a-v=3jhzgmO_y-k&amp;a-type=10&amp;link-id=UC-to_wlckb-bFDtQfUZL3Kw&amp;a-id=58059c88-0000-2f31-92e3-94eb2c08f0ca&amp;xble=0&amp;a-ch=UC-to_wlckb-bFDtQfUZL3Kw&amp;l-class=3">
+  <data>{&quot;end_ms&quot;:133000,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/-to_wlckb-bFDtQfUZL3Kw\/featured_channel.jpg?v=5809443f&quot;,&quot;channel_id&quot;:&quot;UC-to_wlckb-bFDtQfUZL3Kw&quot;,&quot;session_data&quot;:{&quot;ei&quot;:&quot;3ck8XPXRComAwQHu9qeoCw&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCLW0zPno7d8CFQlAMAodbvsJtSj4HTICaXZI6Zf_nabwnJzeAQ&quot;,&quot;src_vid&quot;:&quot;3jhzgmO_y-k&quot;,&quot;annotation_id&quot;:&quot;58059c88-0000-2f31-92e3-94eb2c08f0ca&quot;},&quot;image_width&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026hl=en\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Den%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FQubbie%26feature%3Div%26continue_action%3DQUFFLUhqbVJfZVdFNElFdFJiMk9lc3lKNUo5Szk2NFV0QXxBQ3Jtc0trSWk1MFprc2xuRGViMHBrT1FGNmhnak15YTVfOUh5M3VDbHFiSm5FU3gyWlJ5Yk1QelBqYUZId0lWeVd2UExZTnJQQ0JzWnhPbFc1WElnRG4xZVJEc3dEX3R0SU9kcUN2LVh4ZXA5MXZnNG9fMnpUMWVocVE3aWllZ3Z4TDVzaDd6b0Eyc2I2dXZ1TTZrenR3N3FrZHR3dDBGeTlBc2doSWQ4alJXX2JfdjdfQWtPWDdBWG8xMURQR3luODF3dVZxNGFXel9ab1VpRE56cVVIbGNsSmdIaHhuM19Ib3dEd1BvdnB1LXdna1lTcWxiTEJz%26app%3Ddesktop\u0026passive=true&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;enabled&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeCount&quot;:&quot;264K&quot;,&quot;unsubscribeCount&quot;:&quot;264K&quot;,&quot;subscribed&quot;:false},&quot;num_subscribers&quot;:&quot;264069&quot;,&quot;image_height&quot;:39,&quot;channel_name&quot;:&quot;Door Monster&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;is_mobile&quot;:false,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Qubbie"/>
+  </action>
+</annotation>
+<annotation id="video:5280aa5e-d1db-477d-aa66-23f00c5527d6" style="simple" type="card" log_data="a-ch=UC-to_wlckb-bFDtQfUZL3Kw&amp;a-id=5280aa5e-d1db-477d-aa66-23f00c5527d6&amp;a-type=66&amp;a-v=3jhzgmO_y-k&amp;ei=3ck8XPXRComAwQHu9qeoCw&amp;l-class=7&amp;link=http%3A%2F%2Fstore.dftba.com%2Fcollections%2Fdoor-monster&amp;xble=0">
+  <data>{&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAkQ1TYY____________ASITCLW0zPno7d8CFQlAMAodbvsJtSj4HTIFY2FyZHNI6Zf_nabwnJzeAQ&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwi1tMz56O3fAhUJQDAKHW77CbUo-B0yBWNhcmRzSOmX_52m8Jyc3gE&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCLW0zPno7d8CFQlAMAodbvsJtSj4HTIFY2FyZHNI6Zf_nabwnJzeAQ&quot;},&quot;end_ms&quot;:3068,&quot;custom_message&quot;:&quot;Buy now on DFTBA!&quot;,&quot;card_type&quot;:&quot;simple&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;target&quot;:&quot;new&quot;,&quot;teaser_text&quot;:&quot;Sport the DM logo!&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/3jhzgmO_y-k\/5280aa5e-d1db-477d-aa66-23f00c5527d6_mq.jpg?v=5984caff&quot;,&quot;show_link_icon&quot;:true,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;click&quot;:[],&quot;impression&quot;:[],&quot;close&quot;:[],&quot;teaser_impression&quot;:[]},&quot;sponsored&quot;:false,&quot;url&quot;:&quot;\/redirect?event=infocard\u0026redir_token=dWoW6-1-sbXJzJ1Bl5_xNw49iXF8MTU0NzU3NDEwOUAxNTQ3NDg3NzA5\u0026q=http%3A%2F%2Fstore.dftba.com%2Fcollections%2Fdoor-monster&quot;,&quot;meta_info&quot;:[],&quot;session_data&quot;:{&quot;ei&quot;:&quot;3ck8XPXRComAwQHu9qeoCw&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCLW0zPno7d8CFQlAMAodbvsJtSj4HTIFY2FyZHNI6Zf_nabwnJzeAQ&quot;,&quot;src_vid&quot;:&quot;3jhzgmO_y-k&quot;,&quot;annotation_id&quot;:&quot;5280aa5e-d1db-477d-aa66-23f00c5527d6&quot;},&quot;start_ms&quot;:3068,&quot;pause_on_navigation&quot;:true,&quot;display_domain&quot;:&quot;store.dftba.com&quot;,&quot;title&quot;:&quot;Door Monster Stickers and Pins&quot;,&quot;timestamp&quot;:1501874945642}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?event=infocard&amp;redir_token=dWoW6-1-sbXJzJ1Bl5_xNw49iXF8MTU0NzU3NDEwOUAxNTQ3NDg3NzA5&amp;q=http%3A%2F%2Fstore.dftba.com%2Fcollections%2Fdoor-monster"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwi1tMz56O3fAhUJQDAKHW77CbUo+B0yBWNhcmRzSOmX/52m8Jyc3gE=&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCLW0zPno7d8CFQlAMAodbvsJtSj4HTIFY2FyZHNI6Zf/nabwnJzeAQ==&quot;, 
+  &quot;eventId&quot;: &quot;3ck8XPXRComAwQHu9qeoCw&quot;, 
+  &quot;headerText&quot;: &quot;From Door Monster&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwi1tMz56O3fAhUJQDAKHW77CbUo+B0yBWNhcmRzSOmX/52m8Jyc3gE=&quot;
+}</data>
+</annotation>
+</annotations></document>

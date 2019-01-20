@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI8NWE0Obt3wIVkseCCh0RgA8WKPgdMgJpdkinx9nFkaeTlAo">
+<annotation id="annotation_1080096991" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_815291895">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_815291895" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2988274531" type="highlight" log_data="xble=1&amp;l-class=1&amp;a-v=CihNORi2Y6c&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVu1jmxaUrKA%26list%3DUUoFpRCAsKfWAshvLE1bYzdw&amp;a-type=3&amp;a-id=annotation_2988274531&amp;ei=bcc8XLDrCJKPiwSRgL6wAQ" itct="CAEQs-UBGP___________wEiEwjw1YTQ5u3fAhWSx4IKHRGADxYo-B0yAml2SKfH2cWRp5OUCg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.12000" y="4.22500" w="37.83700" h="44.11300" t="2:35.736"/>
+      <rectRegion x="4.12000" y="4.22500" w="37.83700" h="44.11300" t="2:49.636"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2988274531&amp;ei=bcc8XLDrCJKPiwSRgL6wAQ&amp;feature=iv&amp;list=UUoFpRCAsKfWAshvLE1bYzdw&amp;src_vid=CihNORi2Y6c&amp;v=Vu1jmxaUrKA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3597842233" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2988274531">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2988274531" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_815291895" type="highlight" log_data="xble=1&amp;l-class=5&amp;a-v=CihNORi2Y6c&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FRerezTV%3Fsub_confirmation%3D1&amp;a-type=3&amp;a-id=annotation_815291895&amp;ei=bcc8XLDrCJKPiwSRgL6wAQ" itct="CAIQs-UBGP___________wEiEwjw1YTQ5u3fAhWSx4IKHRGADxYo-B0yAml2SKfH2cWRp5OUCg">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="62.28200" y="10.42300" w="29.75400" h="28.06000" t="2:35.736"/>
+      <rectRegion x="62.28200" y="10.42300" w="29.75400" h="28.06000" t="2:49.636"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/RerezTV?annotation_id=annotation_815291895&amp;ei=bcc8XLDrCJKPiwSRgL6wAQ&amp;feature=iv&amp;src_vid=CihNORi2Y6c&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:53176afc-0-2971-9f80-bcaec5171b21" style="branding" type="branding"
+            log_data="xble=0&amp;l-class=3&amp;a-ch=UCoFpRCAsKfWAshvLE1bYzdw&amp;a-v=CihNORi2Y6c&amp;link-id=UCoFpRCAsKfWAshvLE1bYzdw&amp;a-type=10&amp;a-id=53176afc-0-2971-9f80-bcaec5171b21&amp;ei=bcc8XLDrCJKPiwSRgL6wAQ">
+  <data>{&quot;image_type&quot;:1,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:15,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/oFpRCAsKfWAshvLE1bYzdw\/featured_channel.jpg?v=5317f5e7&quot;,&quot;channel_name&quot;:&quot;Rerez&quot;,&quot;start_ms&quot;:0,&quot;is_mobile&quot;:false,&quot;end_ms&quot;:170000,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;53176afc-0-2971-9f80-bcaec5171b21&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCPDVhNDm7d8CFZLHggodEYAPFij4HTICaXZIp8fZxZGnk5QK&quot;,&quot;ei&quot;:&quot;bcc8XLDrCJKPiwSRgL6wAQ&quot;,&quot;src_vid&quot;:&quot;CihNORi2Y6c&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;channel_id&quot;:&quot;UCoFpRCAsKfWAshvLE1bYzdw&quot;,&quot;image_width&quot;:54,&quot;num_subscribers&quot;:&quot;173993&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fcontinue_action%3DQUFFLUhqa3FqYmJGRkV2YWdCajdmX0xmOE9FUUxfbjUwd3xBQ3Jtc0trOFJGTTl5aHVRMG03Rkh5VUhSM0ZFRG1EQlpCOFFSaEFjWnRmbVhDS1VvVmxOZk00MUE2cEQ5Y3NyMXRZZExzVlNLYnBtS1BRRWNXdUtNS3pCVDMzc2NuN0VrTnpiSmVERDRhZ051VVlwYXU5MXF6SlYyQW5zVm9nemRabkxFWjd6aG9hblhRZHJlWjhvcEkwUEIwMDFkSEQtVEUzVThybjlJdGY1enlQdFVJX3FTRG5DamxIbGdZTWJOTURKS2FsWlFHU18yNHRLZm4zdTdqUzRYQlctX2dRUmxNbmd5Yk1sYk45dFFVWFB3UmZQcHFz%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FRerezTV%26hl%3Den%26app%3Ddesktop%26feature%3Div\u0026uilel=3\u0026hl=en\u0026passive=true&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;173K&quot;,&quot;subscribeCount&quot;:&quot;173K&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/RerezTV"/>
+  </action>
+</annotation></annotations></document>

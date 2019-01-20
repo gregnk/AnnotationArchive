@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIgMH2vNvt3wIVTWkwCh0-YQ2FKPgdMgJpdkjooeiTu4KXwpwB">
+<annotation id="annotation_406802" type="highlight" log_data="a-type=3&amp;l-class=5&amp;a-v=nIRcE7J6EOg&amp;xble=1&amp;ei=vLs8XIDzEM3SwQG-wrWoCA&amp;a-id=annotation_406802&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Ddummeh" itct="CAEQs-UBGP___________wEiEwiAwfa82-3fAhVNaTAKHT5hDYUo-B0yAml2SOih6JO7gpfCnAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="40.00000" y="3.33300" w="21.25000" h="9.16700" t="00:00:00.0"/>
+      <rectRegion x="40.00000" y="3.33300" w="21.25000" h="9.16700" t="00:01:31.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=dummeh&amp;annotation_id=annotation_406802&amp;ei=vLs8XIDzEM3SwQG-wrWoCA&amp;feature=iv&amp;src_vid=nIRcE7J6EOg" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_42313" type="text" style="popup" log_data="a-type=1&amp;l-class=1&amp;a-v=nIRcE7J6EOg&amp;xble=1&amp;ei=vLs8XIDzEM3SwQG-wrWoCA&amp;a-id=annotation_42313&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-d4I-hByVCs" itct="CAIQs-UBGP___________wEiEwiAwfa82-3fAhVNaTAKHT5hDYUo-B0yAml2SOih6JO7gpfCnAE">
+  <TEXT>Rule of Rose</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.09400" y="6.66700" w="17.34400" h="8.05600" t="00:00:00.0"/>
+      <rectRegion x="1.09400" y="6.66700" w="17.34400" h="8.05600" t="00:01:31.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_42313&amp;ei=vLs8XIDzEM3SwQG-wrWoCA&amp;feature=iv&amp;src_vid=nIRcE7J6EOg&amp;v=-d4I-hByVCs" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_460133" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_406802">
+    <movingRegion type="rect">
+      <rectRegion x="0.93800" y="1.38900" w="18.12500" h="6.38900" t="never"/>
+      <rectRegion x="0.93800" y="1.38900" w="18.12500" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_406802" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_946702" type="text" style="popup" log_data="a-type=1&amp;l-class=1&amp;a-v=nIRcE7J6EOg&amp;xble=1&amp;ei=vLs8XIDzEM3SwQG-wrWoCA&amp;a-id=annotation_946702&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxgzH9sIQQzM" itct="CAMQs-UBGP___________wEiEwiAwfa82-3fAhVNaTAKHT5hDYUo-B0yAml2SOih6JO7gpfCnAE">
+  <TEXT>Killzone medley</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="80.46900" y="6.66700" w="18.28100" h="8.05600" t="00:00:00.0"/>
+      <rectRegion x="80.46900" y="6.66700" w="18.28100" h="8.05600" t="00:01:31.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_946702&amp;ei=vLs8XIDzEM3SwQG-wrWoCA&amp;feature=iv&amp;src_vid=nIRcE7J6EOg&amp;v=xgzH9sIQQzM" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="channel:57434c17-0000-24ba-b463-94eb2c057d58" style="branding" type="branding"
+            log_data="a-ch=UCQOm3j7QTQqAJVCyiCNOXBA&amp;a-type=10&amp;l-class=3&amp;a-v=nIRcE7J6EOg&amp;xble=0&amp;ei=vLs8XIDzEM3SwQG-wrWoCA&amp;link-id=UCQOm3j7QTQqAJVCyiCNOXBA&amp;a-id=57434c17-0000-24ba-b463-94eb2c057d58">
+  <data>{&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:27,&quot;num_subscribers&quot;:&quot;139144&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeCount&quot;:&quot;139K&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;139K&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=en\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fdummeh%26continue_action%3DQUFFLUhqbTl0YXdVYW5lNWthd1VWY014NFRhYklxRkMtd3xBQ3Jtc0tuQnByazd4N3QzTWwyQVFUbTZwTHViVWZ3TGhfNXRFUHFXYk9mMU1yYUJQUWdrbXBJWFBqU2FwSFdTOXFaOVl6SUdvbGVrV2c2UHBkSDNjWEtKd19mREtneTdoMkdfcmN0M0xBZDdTbDM3d1Y2dGZwYVBZVmhmOW1BUXpxaFJ1WWY1SDJyVkxkUVdfdS10cjEwTEdqUjdjX0VUdm1rNlBadlo1bk5lcF83RkpWc0Z5ODNhZ3VVd0FVekx4TFEtMDh4Q2wzZ096eGEzZzhLSFVOZTJ2RE5QeWNiWmRKSDlVZk4wUWNRcEkxcHNjT2pNeHlV%26app%3Ddesktop%26action_handle_signin%3Dtrue\u0026passive=true\u0026uilel=3&quot;},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/QOm3j7QTQqAJVCyiCNOXBA\/featured_channel.jpg?v=5748ca45&quot;,&quot;channel_name&quot;:&quot;The Synthetic Orchestra&quot;,&quot;end_ms&quot;:92000,&quot;is_mobile&quot;:false,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCIDB9rzb7d8CFU1pMAodPmENhSj4HTICaXZI6KHok7uCl8KcAQ&quot;,&quot;ei&quot;:&quot;vLs8XIDzEM3SwQG-wrWoCA&quot;,&quot;src_vid&quot;:&quot;nIRcE7J6EOg&quot;,&quot;annotation_id&quot;:&quot;57434c17-0000-24ba-b463-94eb2c057d58&quot;},&quot;image_width&quot;:49,&quot;start_ms&quot;:77000,&quot;channel_id&quot;:&quot;UCQOm3j7QTQqAJVCyiCNOXBA&quot;,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/dummeh"/>
+  </action>
+</annotation></annotations></document>

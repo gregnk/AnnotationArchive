@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIwsjtiNvt3wIVB7CCCh3-VQjRKPgdMgJpdkic69mcrP_fijs">
+<annotation id="annotation_444633" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_454079">
+    <movingRegion type="rect">
+      <rectRegion x="3.43800" y="4.72200" w="25.00000" h="6.38900" t="never"/>
+      <rectRegion x="3.43800" y="4.72200" w="25.00000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_454079" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_454079" type="highlight" log_data="a-id=annotation_454079&amp;l-class=5&amp;xble=1&amp;a-v=OxV_-sOWdZw&amp;ei=T7s8XILlBIfgigT-q6GIDQ&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Ddummeh" itct="CAEQs-UBGP___________wEiEwjCyO2I2-3fAhUHsIIKHf5VCNEo-B0yAml2SJzr2Zys_9-KOw">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="33.90600" y="0.00000" w="31.56300" h="19.16700" t="00:00:00.0"/>
+      <rectRegion x="33.90600" y="0.00000" w="31.56300" h="19.16700" t="00:02:29.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=dummeh&amp;annotation_id=annotation_454079&amp;ei=T7s8XILlBIfgigT-q6GIDQ&amp;feature=iv&amp;src_vid=OxV_-sOWdZw" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_629101" type="text" style="popup" log_data="a-id=annotation_629101&amp;l-class=1&amp;xble=1&amp;a-v=OxV_-sOWdZw&amp;ei=T7s8XILlBIfgigT-q6GIDQ&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxVzMQeNplLU" itct="CAIQs-UBGP___________wEiEwjCyO2I2-3fAhUHsIIKHf5VCNEo-B0yAml2SJzr2Zys_9-KOw">
+  <TEXT>Gears of War</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="81.25000" y="7.50000" w="16.56300" h="8.05600" t="00:00:00.0"/>
+      <rectRegion x="81.25000" y="7.50000" w="16.56300" h="8.05600" t="00:02:29.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_629101&amp;ei=T7s8XILlBIfgigT-q6GIDQ&amp;feature=iv&amp;src_vid=OxV_-sOWdZw&amp;v=xVzMQeNplLU" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_981051" type="text" style="popup" log_data="a-id=annotation_981051&amp;l-class=1&amp;xble=1&amp;a-v=OxV_-sOWdZw&amp;ei=T7s8XILlBIfgigT-q6GIDQ&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgqKXz1NfxqI" itct="CAMQs-UBGP___________wEiEwjCyO2I2-3fAhUHsIIKHf5VCNEo-B0yAml2SJzr2Zys_9-KOw">
+  <TEXT>FMA:B</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="1.09400" y="7.50000" w="10.46900" h="8.05600" t="00:00:00.0"/>
+      <rectRegion x="1.09400" y="7.50000" w="10.46900" h="8.05600" t="00:02:29.5"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="textdropshadow">
+    <padding top="1.98588502407" left="1.11706030369" bottom="1.98588502407" right="1.48941373825"/>
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_981051&amp;ei=T7s8XILlBIfgigT-q6GIDQ&amp;feature=iv&amp;src_vid=OxV_-sOWdZw&amp;v=gqKXz1NfxqI" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="channel:57434c17-0000-24ba-b463-94eb2c057d58" style="branding" type="branding"
+            log_data="a-id=57434c17-0000-24ba-b463-94eb2c057d58&amp;l-class=3&amp;xble=0&amp;a-ch=UCQOm3j7QTQqAJVCyiCNOXBA&amp;a-v=OxV_-sOWdZw&amp;ei=T7s8XILlBIfgigT-q6GIDQ&amp;a-type=10&amp;link-id=UCQOm3j7QTQqAJVCyiCNOXBA">
+  <data>{&quot;start_ms&quot;:135000,&quot;num_subscribers&quot;:&quot;139144&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26continue_action%3DQUFFLUhqbXpiX1lNWHhLSFJ4YzUwX0J1eHVHbGxYWElfd3xBQ3Jtc0ttOFczem5obWs4Nmo1Y1NOZEFRcjJoaml4RWN2aE53WXBmRWxxQ2pNSjBfaUZlUlhHM2RLcDRUSnI4Mk1KUUloaWtRNzJoS2hoYzQxanNBeHhjcERMMndkUDJ6LWpiR2RaMUstZEFTRkZxdFdEUzdEZDZ6SFVZeGVGNGtheElxeXl6NUgxclYwdURzcWpLQUlhR2E4dm5sLXBVWmxQSG00M2pQNTNnc0RWbkJFZjZJWnRfQXVveXRlYU8wczNNMWYzSmx3VV90cVhYTnNUb3VWaXYzU2p0TVZUaGhQZFZLQ09kdGZCbGhRVGFzOXhvV1JV%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fdummeh%26feature%3Div%26hl%3Den\u0026hl=en\u0026passive=true&quot;,&quot;subscribeCount&quot;:&quot;139K&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribed&quot;:false,&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;139K&quot;,&quot;enabled&quot;:false},&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;end_ms&quot;:150000,&quot;use_standalone_subscribe_button&quot;:true,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCMLI7Yjb7d8CFQewggod_lUI0Sj4HTICaXZInOvZnKz_34o7&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;T7s8XILlBIfgigT-q6GIDQ&quot;,&quot;annotation_id&quot;:&quot;57434c17-0000-24ba-b463-94eb2c057d58&quot;,&quot;src_vid&quot;:&quot;OxV_-sOWdZw&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/QOm3j7QTQqAJVCyiCNOXBA\/featured_channel.jpg?v=5748ca45&quot;,&quot;channel_id&quot;:&quot;UCQOm3j7QTQqAJVCyiCNOXBA&quot;,&quot;is_mobile&quot;:false,&quot;image_width&quot;:49,&quot;image_type&quot;:1,&quot;image_height&quot;:27,&quot;channel_name&quot;:&quot;The Synthetic Orchestra&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/dummeh"/>
+  </action>
+</annotation></annotations></document>

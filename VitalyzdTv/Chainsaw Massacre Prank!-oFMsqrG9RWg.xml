@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI3tS719Dt3wIVDKOCCh1h8wtMKPgdMgJpdkjoivWNq5XLqaAB">
+<annotation id="annotation_1070593381" type="highlight" log_data="a-v=oFMsqrG9RWg&amp;ei=a7A8XJ7zCIzGigTh5q_gBA&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2TXiJtL0z7Y&amp;a-type=3&amp;a-id=annotation_1070593381&amp;l-class=1&amp;xble=1" itct="CAEQs-UBGP___________wEiEwje1LvX0O3fAhUMo4IKHWHzC0wo-B0yAml2SOiK9Y2rlcupoAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="22.82100" y="36.62000" w="56.45000" h="53.14400" t="2:29.071"/>
+      <rectRegion x="22.82100" y="36.62000" w="56.45000" h="53.14400" t="2:37.082"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_1070593381&amp;ei=a7A8XJ7zCIzGigTh5q_gBA&amp;feature=iv&amp;src_vid=oFMsqrG9RWg&amp;v=2TXiJtL0z7Y" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1248622189" type="text" style="anchored" log_data="ei=a7A8XJ7zCIzGigTh5q_gBA&amp;a-id=annotation_1248622189&amp;a-type=8&amp;a-v=oFMsqrG9RWg&amp;xble=1" itct="CAIQs-UBGP___________wEiEwje1LvX0O3fAhUMo4IKHWHzC0wo-B0yAml2SOiK9Y2rlcupoAE">
+  <TEXT>Thumbs Up For Part 2!</TEXT>
+  <segment>
+    <movingRegion type="anchored">
+      <anchoredRegion x="3.17000" y="83.94400" w="45.32500" h="11.14100" sx="17.7530002594" sy="97.0849990845" t="0:15.482"/>
+      <anchoredRegion x="3.17000" y="83.94400" w="45.32500" h="11.14100" sx="17.7530002594" sy="97.0849990845" t="0:23.336"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.8" bgColor="16777215" fgColor="1710618" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+
+<annotation id="annotation_702433445" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_1070593381">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_1070593381" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:521ce029-0-28e7-83fa-89e015389fc" style="branding" type="branding"
+            log_data="a-v=oFMsqrG9RWg&amp;link-id=UC1KPy3cAAj0i0RIFC_SzjMg&amp;ei=a7A8XJ7zCIzGigTh5q_gBA&amp;a-ch=UC1KPy3cAAj0i0RIFC_SzjMg&amp;a-type=10&amp;a-id=521ce029-0-28e7-83fa-89e015389fc&amp;l-class=3&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/1KPy3cAAj0i0RIFC_SzjMg\/featured_channel.jpg?v=521d138f&quot;,&quot;image_height&quot;:40,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;channel_name&quot;:&quot;VitalyzdTv&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeCount&quot;:&quot;9.8M&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;9.8M&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026service=youtube\u0026uilel=3\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26continue_action%3DQUFFLUhqblhwUXhPc3JnVGZ6WWJEZ19QdmV6RmVRZUw2Z3xBQ3Jtc0trZzJSUzJUTkpwR3BkaXFLaHhJNzYySlhxd2tZRWJlNGNURUJJNEY0ZzVJLVVOYVhoMVExLXdSdWREVnBNa29uWGNXcU1temdMV1Myb181bW1Pb2puOVVCVHpXY2FkVzI5ejVLUUkzWTRkRjRUSVR1bHZwemJLaFN6SzR5UnNzaWQ0MEp6MmhmMFJhbXdmZzRmLXlrek45M3VvSE5zWTNWellaWTVPMGtwN2NoLURMTlNVUzZhUEZMTDgwZkczWHlxNDBtUVJLOUhUQTJUd2RKNDVIQzhJd2tfejhQRDJpUW5seDhTRUk3QXVRb1RDV19z%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FVitalyzdTv%26hl%3Den%26action_handle_signin%3Dtrue%26feature%3Div&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;},&quot;channel_id&quot;:&quot;UC1KPy3cAAj0i0RIFC_SzjMg&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:5000,&quot;num_subscribers&quot;:&quot;9801454&quot;,&quot;image_type&quot;:1,&quot;is_mobile&quot;:false,&quot;end_ms&quot;:158000,&quot;session_data&quot;:{&quot;ei&quot;:&quot;a7A8XJ7zCIzGigTh5q_gBA&quot;,&quot;annotation_id&quot;:&quot;521ce029-0-28e7-83fa-89e015389fc&quot;,&quot;src_vid&quot;:&quot;oFMsqrG9RWg&quot;,&quot;itct&quot;:&quot;CAMQ8zcY____________ASITCN7Uu9fQ7d8CFQyjggodYfMLTCj4HTICaXZI6Ir1jauVy6mgAQ&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;image_width&quot;:40}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/VitalyzdTv"/>
+  </action>
+</annotation>
+  <annotation id="channel:cta:oFMsqrG9RWg_1455835605306494" style="cta" type="promotion"
+              log_data="a-v=oFMsqrG9RWg&amp;link=http%3A%2F%2Fbit.ly%2F1LlZ5iM&amp;a-ch=UC1KPy3cAAj0i0RIFC_SzjMg&amp;ei=a7A8XJ7zCIzGigTh5q_gBA&amp;a-type=30&amp;a-id=cta%3AoFMsqrG9RWg_1455835605306494&amp;l-class=12&amp;xble=1">
+    <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/cta\/1KPy3cAAj0i0RIFC_SzjMg\/1455835588984787.jpg&quot;,&quot;text_line_2&quot;:&quot;Naturalbornpranksters.com&quot;,&quot;text_line_1&quot;:&quot;NBP MOVIE ON SALE NOW!&quot;,&quot;collapse_delay_ms&quot;:15000,&quot;is_mobile&quot;:false,&quot;start_ms&quot;:0,&quot;end_ms&quot;:158000,&quot;session_data&quot;:{&quot;ei&quot;:&quot;a7A8XJ7zCIzGigTh5q_gBA&quot;,&quot;annotation_id&quot;:&quot;cta:oFMsqrG9RWg_1455835605306494&quot;,&quot;src_vid&quot;:&quot;oFMsqrG9RWg&quot;,&quot;itct&quot;:&quot;CAQQ8jcY____________ASITCN7Uu9fQ7d8CFQyjggodYfMLTCj4HTIASOiK9Y2rlcupoAE&quot;,&quot;feature&quot;:&quot;&quot;}}</data>
+    <segment/>
+    <action trigger="click" type="openUrl">
+      <url type="hyperlink" target="new" value="http://bit.ly/1LlZ5iM"/>
+    </action>
+  </annotation>
+  </annotations></document>

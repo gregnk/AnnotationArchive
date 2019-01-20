@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjcHaoert3wIVGaUDCh272Q7rKPgdMgJpdkiCipXNtMKN0vkB">
+<annotation id="annotation_2234690985" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_910423283">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.42300" w="31.49800" h="20.64800" t="never"/>
+      <rectRegion x="0.00000" y="0.42300" w="31.49800" h="20.64800" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_910423283" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_2486908899" type="highlight" log_data="a-id=annotation_2486908899&amp;ei=Pcs8XM2uLJnKDruzu9gO&amp;a-type=3&amp;a-v=-aQ2E0mlRQI&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrfWgIBwuH_Y%26list%3DPLqtidGFC6X0vP4l7Itfv7xgJsVQl2R3B6%26index%3D2&amp;xble=1&amp;l-class=1" itct="CAEQs-UBGP___________wEiEwiNwdqh6u3fAhUZpQMKHbvZDuso-B0yAml2SIKKlc20wo3S-QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="10.46000" y="4.78900" w="44.33400" h="44.11300" t="5:52.980"/>
+      <rectRegion x="10.46000" y="4.78900" w="44.33400" h="44.11300" t="6:24.592"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2486908899&amp;ei=Pcs8XM2uLJnKDruzu9gO&amp;feature=iv&amp;index=2&amp;list=PLqtidGFC6X0vP4l7Itfv7xgJsVQl2R3B6&amp;src_vid=-aQ2E0mlRQI&amp;v=rfWgIBwuH_Y" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_670612949" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2486908899">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="-0.14100" w="44.17600" h="44.31000" t="never"/>
+      <rectRegion x="0.00000" y="-0.14100" w="44.17600" h="44.31000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2486908899" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_727356197" type="text" style="popup" log_data="a-v=-aQ2E0mlRQI&amp;a-type=1&amp;xble=1&amp;a-id=annotation_727356197&amp;ei=Pcs8XM2uLJnKDruzu9gO" itct="CAIQs-UBGP___________wEiEwiNwdqh6u3fAhUZpQMKHbvZDuso-B0yAml2SIKKlc20wo3S-QE">
+  <TEXT>This is obviously quite wrong. These should be over Chicago. Sorry Boston!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="72.74200" y="12.11300" w="22.71000" h="16.77500" t="4:27.058"/>
+      <rectRegion x="72.74200" y="12.11300" w="22.71000" h="16.77500" t="4:30.860"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_910423283" type="highlight" log_data="a-id=annotation_910423283&amp;ei=Pcs8XM2uLJnKDruzu9gO&amp;a-type=3&amp;a-v=-aQ2E0mlRQI&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fwendoverproductions%3Fsub_confirmation%3D1&amp;xble=1&amp;l-class=5" itct="CAMQs-UBGP___________wEiEwiNwdqh6u3fAhUZpQMKHbvZDuso-B0yAml2SIKKlc20wo3S-QE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="58.00300" y="5.35200" w="31.65600" h="21.29600" t="5:52.980"/>
+      <rectRegion x="58.00300" y="5.35200" w="31.65600" h="21.29600" t="6:24.592"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/wendoverproductions?annotation_id=annotation_910423283&amp;ei=Pcs8XM2uLJnKDruzu9gO&amp;feature=iv&amp;src_vid=-aQ2E0mlRQI&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:8e2b45f0-2d4f-4b91-bab0-43b44577b85b" style="branding" type="branding"
+            log_data="a-id=8e2b45f0-2d4f-4b91-bab0-43b44577b85b&amp;ei=Pcs8XM2uLJnKDruzu9gO&amp;a-type=10&amp;a-v=-aQ2E0mlRQI&amp;xble=0&amp;l-class=3&amp;link-id=UC9RM-iSvTu1uPJb8X5yp3EQ&amp;a-ch=UC9RM-iSvTu1uPJb8X5yp3EQ">
+  <data>{&quot;channel_id&quot;:&quot;UC9RM-iSvTu1uPJb8X5yp3EQ&quot;,&quot;image_width&quot;:40,&quot;channel_name&quot;:&quot;Wendover Productions&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeCount&quot;:&quot;1.7M&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;1.7M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Div%26hl%3Den%26app%3Ddesktop%26continue_action%3DQUFFLUhqbmZKUEN3Mmc4bHp1bVhrTVdBaVJKbXhLekI2Z3xBQ3Jtc0trZGI1Sk9lQV9ZRkFOS1MwVE1OdDFTRVc5SzNiZHNUeU9abWNkSnVvbHhNN1hVUDd2Y1hXbWU1dUtpejFwNVZwVXl2ZTlsTUpleTl5S1BFU2t3ejBTUUh5Mkoxemg2VjlRZUMxaF9RRC1IU0hLY3g3enpZY3hDT3dIVWxhTkp0R2xwNHNGUi1ndktzbkJNM3pnOHNXVHluZkx2QzNpTldjLXIxUFh4ei1aMDZOVnE2Z01uekJmbUFBWkJ0WGN0SWR6V0g4dFUxY0xWcUZDXzRDd0FHVV9YdzBvSGI1TERweGVEY3NfdFlENHBPb1k1enVr%26action_handle_signin%3Dtrue%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FWendoverproductions\u0026hl=en\u0026uilel=3\u0026passive=true&quot;,&quot;enabled&quot;:false,&quot;classic&quot;:true,&quot;subscribed&quot;:false},&quot;end_ms&quot;:385000,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;8e2b45f0-2d4f-4b91-bab0-43b44577b85b&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCI3B2qHq7d8CFRmlAwodu9kO6yj4HTICaXZIgoqVzbTCjdL5AQ&quot;,&quot;ei&quot;:&quot;Pcs8XM2uLJnKDruzu9gO&quot;,&quot;src_vid&quot;:&quot;-aQ2E0mlRQI&quot;,&quot;feature&quot;:&quot;iv&quot;},&quot;start_ms&quot;:5000,&quot;is_mobile&quot;:false,&quot;image_type&quot;:1,&quot;num_subscribers&quot;:&quot;1785286&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_height&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/9RM-iSvTu1uPJb8X5yp3EQ\/featured_channel.jpg?v=5a83ab92&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Wendoverproductions"/>
+  </action>
+</annotation>
+<annotation id="video:a6cac329-b485-49d3-bcd3-f35130180b57" style="video" type="card" log_data="a-ch=UC9RM-iSvTu1uPJb8X5yp3EQ&amp;a-id=a6cac329-b485-49d3-bcd3-f35130180b57&amp;a-type=62&amp;a-v=-aQ2E0mlRQI&amp;ei=Pcs8XM2uLJnKDruzu9gO&amp;l-class=1&amp;link-id=6Oe8T3AvydU&amp;xble=0">
+  <data>{&quot;is_live_now&quot;:false,&quot;timestamp&quot;:1473752713390,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/6Oe8T3AvydU\/mqdefault.jpg&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAkQ1TYY____________ASITCI3B2qHq7d8CFRmlAwodu9kO6yj4HTIFY2FyZHNIgoqVzbTCjdL5AQ&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwiNwdqh6u3fAhUZpQMKHbvZDuso-B0yBWNhcmRzSIKKlc20wo3S-QE&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCI3B2qHq7d8CFRmlAwodu9kO6yj4HTIFY2FyZHNIgoqVzbTCjdL5AQ&quot;},&quot;end_ms&quot;:214941,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;a6cac329-b485-49d3-bcd3-f35130180b57&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCI3B2qHq7d8CFRmlAwodu9kO6yj4HTIFY2FyZHNIgoqVzbTCjdL5AQ&quot;,&quot;ei&quot;:&quot;Pcs8XM2uLJnKDruzu9gO&quot;,&quot;src_vid&quot;:&quot;-aQ2E0mlRQI&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=6Oe8T3AvydU&quot;,&quot;start_ms&quot;:214941,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;video&quot;,&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;Why Flying is So Expensive&quot;,&quot;teaser_text&quot;:&quot;Suggested: Why Flying is So Expensive&quot;,&quot;video_duration&quot;:&quot;10:32&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;by Wendover Productions&quot;,&quot;3,224,416 views&quot;],&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=6Oe8T3AvydU"/>
+  </action>
+</annotation>
+
+<annotation id="video:d35fe53d-05f0-4791-9a56-fe4e9aaac42a" style="video" type="card" log_data="a-ch=UC9RM-iSvTu1uPJb8X5yp3EQ&amp;a-id=d35fe53d-05f0-4791-9a56-fe4e9aaac42a&amp;a-type=62&amp;a-v=-aQ2E0mlRQI&amp;ei=Pcs8XM2uLJnKDruzu9gO&amp;l-class=1&amp;link-id=069y1MpOkQY&amp;xble=0">
+  <data>{&quot;is_live_now&quot;:false,&quot;timestamp&quot;:1473752745813,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/069y1MpOkQY\/mqdefault.jpg&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA0Q1TYY____________ASITCI3B2qHq7d8CFRmlAwodu9kO6yj4HTIFY2FyZHNIgoqVzbTCjdL5AQ&quot;,&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwiNwdqh6u3fAhUZpQMKHbvZDuso-B0yBWNhcmRzSIKKlc20wo3S-QE&quot;,&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCI3B2qHq7d8CFRmlAwodu9kO6yj4HTIFY2FyZHNIgoqVzbTCjdL5AQ&quot;},&quot;end_ms&quot;:353373,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;d35fe53d-05f0-4791-9a56-fe4e9aaac42a&quot;,&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCI3B2qHq7d8CFRmlAwodu9kO6yj4HTIFY2FyZHNIgoqVzbTCjdL5AQ&quot;,&quot;ei&quot;:&quot;Pcs8XM2uLJnKDruzu9gO&quot;,&quot;src_vid&quot;:&quot;-aQ2E0mlRQI&quot;,&quot;feature&quot;:&quot;cards&quot;},&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=069y1MpOkQY&quot;,&quot;start_ms&quot;:353373,&quot;tracking&quot;:{&quot;teaser_click&quot;:[],&quot;close&quot;:[],&quot;impression&quot;:[],&quot;click&quot;:[],&quot;teaser_impression&quot;:[]},&quot;card_type&quot;:&quot;video&quot;,&quot;target&quot;:&quot;new&quot;,&quot;title&quot;:&quot;How Budget Airlines Work&quot;,&quot;teaser_text&quot;:&quot;Suggested: How Budget Airlines Work&quot;,&quot;video_duration&quot;:&quot;8:28&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;meta_info&quot;:[&quot;by Wendover Productions&quot;,&quot;4,423,738 views&quot;],&quot;pause_on_navigation&quot;:true,&quot;teaser_duration_ms&quot;:7000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=069y1MpOkQY"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwiNwdqh6u3fAhUZpQMKHbvZDuso+B0yBWNhcmRzSIKKlc20wo3S+QE=&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwiNwdqh6u3fAhUZpQMKHbvZDuso+B0yBWNhcmRzSIKKlc20wo3S+QE=&quot;, 
+  &quot;headerText&quot;: &quot;From Wendover Productions&quot;, 
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCI3B2qHq7d8CFRmlAwodu9kO6yj4HTIFY2FyZHNIgoqVzbTCjdL5AQ==&quot;, 
+  &quot;eventId&quot;: &quot;Pcs8XM2uLJnKDruzu9gO&quot;
+}</data>
+</annotation>
+</annotations></document>

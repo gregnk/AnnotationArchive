@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI-u2B7-vt3wIVDWIwCh2VLA__KPgdMgJpdkjY-r_Cp8P36bUB">
+<annotation id="annotation_1446616875" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>GameCheck: Immer die neuesten Game-Trailer &amp; mehr…</TEXT>
+  <segment spaceRelative="annotation_1599850665">
+    <movingRegion type="rect">
+      <rectRegion x="-0.00800" y="16.59100" w="31.49800" h="14.94400" t="never"/>
+      <rectRegion x="-0.00800" y="16.59100" w="31.49800" h="14.94400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1599850665" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1448519207" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>SUICIDE SQUAD Trailer German Deutsch (2016)</TEXT>
+  <segment spaceRelative="annotation_1530957825">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="23.49300" w="44.16800" h="22.36600" t="never"/>
+      <rectRegion x="0.00000" y="23.49300" w="44.16800" h="22.36600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_1530957825" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_1530957825" type="highlight" log_data="l-class=1&amp;a-v=tdPeGnhP_Vg&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTnRxdap5UJ0%26list%3DUUOL10n-as9dXO2qtjjFUQbQ&amp;xble=1&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;a-id=annotation_1530957825" itct="CAEQs-UBGP___________wEiEwj67YHv6-3fAhUNYjAKHZUsD_8o-B0yAml2SNj6v8Knw_fptQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="27.73400" y="34.64800" w="44.17600" h="45.80300" t="2:26.800"/>
+      <rectRegion x="27.73400" y="34.64800" w="44.17600" h="45.80300" t="2:36.734"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_1530957825&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;feature=iv&amp;list=UUOL10n-as9dXO2qtjjFUQbQ&amp;src_vid=tdPeGnhP_Vg&amp;v=TnRxdap5UJ0" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1599850665" type="highlight" log_data="l-class=11&amp;a-v=tdPeGnhP_Vg&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2FSpiele%3Fsub_confirmation%3D1&amp;xble=1&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;a-id=annotation_1599850665" itct="CAIQs-UBGP___________wEiEwj67YHv6-3fAhUNYjAKHZUsD_8o-B0yAml2SNj6v8Knw_fptQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="64.02500" y="59.15500" w="31.49800" h="32.00300" t="2:26.800"/>
+      <rectRegion x="64.02500" y="59.15500" w="31.49800" h="32.00300" t="2:36.734"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/Spiele?annotation_id=annotation_1599850665&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;feature=iv&amp;src_vid=tdPeGnhP_Vg&amp;sub_confirmation=1" link_class="11"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_1943329611" type="text" style="popup" log_data="l-class=11&amp;a-v=tdPeGnhP_Vg&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2FKinoCheck%3Fsub_confirmation%3D1&amp;xble=1&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;a-id=annotation_1943329611" itct="CAMQs-UBGP___________wEiEwj67YHv6-3fAhUNYjAKHZUsD_8o-B0yAml2SNj6v8Knw_fptQE">
+  <TEXT>Mehr zum Film [klick]</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="2.53500" w="24.47700" h="6.92900" t="2:16.800"/>
+      <rectRegion x="0.00000" y="2.53500" w="24.47700" h="6.92900" t="2:26.800"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="5218515" fgColor="16777215" textSize="3.911599999999999" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/KinoCheck?annotation_id=annotation_1943329611&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;feature=iv&amp;src_vid=tdPeGnhP_Vg&amp;sub_confirmation=1" link_class="11"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_2126667921" type="highlight" log_data="l-class=11&amp;a-v=tdPeGnhP_Vg&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2FKinoCheck&amp;xble=1&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;a-id=annotation_2126667921" itct="CAQQs-UBGP___________wEiEwj67YHv6-3fAhUNYjAKHZUsD_8o-B0yAml2SNj6v8Knw_fptQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="18.21700" y="10.98600" w="31.98100" h="17.63400" t="2:26.800"/>
+      <rectRegion x="18.21700" y="10.98600" w="31.98100" h="17.63400" t="2:36.734"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/KinoCheck?annotation_id=annotation_2126667921&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;feature=iv&amp;src_vid=tdPeGnhP_Vg" link_class="11"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2734785435" type="highlight" log_data="l-class=1&amp;a-v=tdPeGnhP_Vg&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYL2OepqSbqA%26list%3DUUOL10n-as9dXO2qtjjFUQbQ&amp;xble=1&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;a-id=annotation_2734785435" itct="CAUQs-UBGP___________wEiEwj67YHv6-3fAhUNYjAKHZUsD_8o-B0yAml2SNj6v8Knw_fptQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="4.59600" y="59.43700" w="30.86400" h="32.00300" t="2:26.800"/>
+      <rectRegion x="4.59600" y="59.43700" w="30.86400" h="32.00300" t="2:36.734"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2734785435&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;feature=iv&amp;list=UUOL10n-as9dXO2qtjjFUQbQ&amp;src_vid=tdPeGnhP_Vg&amp;v=YL2OepqSbqA" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2813479803" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Zum Kanal</TEXT>
+  <segment spaceRelative="annotation_828863375">
+    <movingRegion type="rect">
+      <rectRegion x="4.27900" y="4.78900" w="10.09500" h="4.29600" t="never"/>
+      <rectRegion x="4.27900" y="4.78900" w="10.09500" h="4.29600" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_828863375" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3078712005" type="text" style="popup" log_data="l-class=11&amp;a-v=tdPeGnhP_Vg&amp;a-type=1&amp;link=http%3A%2F%2Fwww.youtube.com%2FKinoCheck%3Fsub_confirmation%3D1&amp;xble=1&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;a-id=annotation_3078712005" itct="CAYQs-UBGP___________wEiEwj67YHv6-3fAhUNYjAKHZUsD_8o-B0yAml2SNj6v8Knw_fptQE">
+  <TEXT>Mehr…</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="2.53500" w="11.24400" h="6.94400" t="0:03.200"/>
+      <rectRegion x="0.00000" y="2.53500" w="11.24400" h="6.94400" t="2:16.800"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.600000023842" bgColor="6605272" fgColor="16777215" textSize="3.911591666666667" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/KinoCheck?annotation_id=annotation_3078712005&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;feature=iv&amp;src_vid=tdPeGnhP_Vg&amp;sub_confirmation=1" link_class="11"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_3333401133" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>INDEPENDENCE DAY 2: Resurgence Official Trailer (2016)</TEXT>
+  <segment spaceRelative="annotation_2734785435">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="13.66200" w="30.85600" h="18.39400" t="never"/>
+      <rectRegion x="0.00000" y="13.66200" w="30.85600" h="18.39400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_2734785435" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3841632997" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>und nichts mehr verpassen</TEXT>
+  <segment spaceRelative="annotation_3891360213">
+    <movingRegion type="rect">
+      <rectRegion x="7.60700" y="9.57700" w="25.15100" h="4.87300" t="never"/>
+      <rectRegion x="7.60700" y="9.57700" w="25.15100" h="4.87300" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="16777215"/>
+  <trigger>
+    <condition ref="annotation_3891360213" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3891360213" type="highlight" log_data="l-class=11&amp;a-v=tdPeGnhP_Vg&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2FKinoCheck%3Fsub_confirmation%3D1&amp;xble=1&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;a-id=annotation_3891360213" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="49.92100" y="11.83100" w="32.76500" h="14.53500" t="2:26.800"/>
+      <rectRegion x="49.92100" y="11.83100" w="32.76500" h="14.53500" t="2:36.734"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/KinoCheck?annotation_id=annotation_3891360213&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;feature=iv&amp;src_vid=tdPeGnhP_Vg&amp;sub_confirmation=1" link_class="11"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_828863375" type="highlight" log_data="l-class=11&amp;a-v=tdPeGnhP_Vg&amp;a-type=3&amp;link=http%3A%2F%2Fwww.youtube.com%2FKinoCheck%3Fsub_confirmation%3D1&amp;xble=1&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;a-id=annotation_828863375" itct="">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="85.73700" y="78.31000" w="14.39000" h="9.18300" t="0:03.000"/>
+      <rectRegion x="85.73700" y="78.31000" w="14.39000" h="9.18300" t="2:26.800"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="0" highlightWidth="0" borderAlpha="0.0"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/KinoCheck?annotation_id=annotation_828863375&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;feature=iv&amp;src_vid=tdPeGnhP_Vg&amp;sub_confirmation=1" link_class="11"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_949162169" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Youtube.com/Filme</TEXT>
+  <segment spaceRelative="annotation_2126667921">
+    <movingRegion type="rect">
+      <rectRegion x="10.78400" y="10.98600" w="21.07800" h="6.47900" t="never"/>
+      <rectRegion x="10.78400" y="10.98600" w="21.07800" h="6.47900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.3098083333333332" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2126667921" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:e8d0bd99-3d1b-4215-a09a-f12364251531" style="branding" type="branding"
+            log_data="l-class=3&amp;a-v=tdPeGnhP_Vg&amp;a-ch=UCLRlryMfL8ffxzrtqv0_k_w&amp;a-type=10&amp;xble=0&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;link-id=UCLRlryMfL8ffxzrtqv0_k_w&amp;a-id=e8d0bd99-3d1b-4215-a09a-f12364251531">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/LRlryMfL8ffxzrtqv0_k_w\/featured_channel.jpg?v=5b508e6e&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;end_ms&quot;:157000,&quot;channel_name&quot;:&quot;KinoCheck International&quot;,&quot;image_width&quot;:40,&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=en\u0026uilel=3\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26action_handle_signin%3Dtrue%26hl%3Den%26feature%3Div%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FFilme%26continue_action%3DQUFFLUhqa1p0Y1JQYTh4YXo2cklvbGJmMzl1Z0JiLWZtUXxBQ3Jtc0trSG5QX3g1TWlfaWJsTzRBU0VFcW5GQmdOVmJBUmRCOHhpaW5kU1Z6eDkzcWJUVUFtd1VPYjRDQnNBdFNWd3BtLXB4YmJ0c2pzX1QtWFhBcnpLc0xUOVJaVk5ERkl2a0pvajUwSGdTX0QxQ3FrSG04U3dhN0lzTnlmYnkxTl9jVnZHOUhCejhJY3c1TFhISE9jNERDZDBSQXJPamphQ3g3Z0JoeGR4bjBiXzllX1JrTEtDaEgxU0JhaVROM0RhMG5LckV4VVBudlVmdXdaQ1lEWXFKOWlxQ0pQSElzZ1dOVG1fdUQzTnc1anVEQmFpNWlB&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;1.6M&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeCount&quot;:&quot;1.6M&quot;,&quot;subscribed&quot;:false},&quot;image_height&quot;:40,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAcQ8zcY____________ASITCPrtge_r7d8CFQ1iMAodlSwP_yj4HTICaXZI2Pq_wqfD9-m1AQ&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;7Mw8XPrHEY3EwQGV2bz4Dw&quot;,&quot;annotation_id&quot;:&quot;e8d0bd99-3d1b-4215-a09a-f12364251531&quot;,&quot;src_vid&quot;:&quot;tdPeGnhP_Vg&quot;},&quot;use_standalone_subscribe_button&quot;:true,&quot;image_type&quot;:1,&quot;channel_id&quot;:&quot;UCLRlryMfL8ffxzrtqv0_k_w&quot;,&quot;is_mobile&quot;:false,&quot;start_ms&quot;:142000,&quot;num_subscribers&quot;:&quot;1669558&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/Filme"/>
+  </action>
+</annotation>
+<annotation id="video:3ba7dd04-b703-450d-88b9-f6e27b1523d8" style="video" type="card" log_data="a-ch=UCLRlryMfL8ffxzrtqv0_k_w&amp;a-id=3ba7dd04-b703-450d-88b9-f6e27b1523d8&amp;a-type=62&amp;a-v=tdPeGnhP_Vg&amp;ei=7Mw8XPrHEY3EwQGV2bz4Dw&amp;l-class=1&amp;link-id=TnRxdap5UJ0&amp;xble=0">
+  <data>{&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/TnRxdap5UJ0\/mqdefault.jpg&quot;,&quot;custom_message&quot;:&quot;&quot;,&quot;end_ms&quot;:147120,&quot;title&quot;:&quot;SUICIDE SQUAD Trailer German Deutsch (2016)&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=TnRxdap5UJ0&quot;,&quot;teaser_text&quot;:&quot;Suggested: SUICIDE SQUAD Trailer German Deutsch (2016)&quot;,&quot;teaser_duration_ms&quot;:7000,&quot;tracking&quot;:{&quot;click&quot;:[],&quot;teaser_click&quot;:[],&quot;impression&quot;:[],&quot;teaser_impression&quot;:[],&quot;close&quot;:[]},&quot;meta_info&quot;:[&quot;by KinoCheck&quot;,&quot;1,300,147 views&quot;],&quot;card_type&quot;:&quot;video&quot;,&quot;is_live_now&quot;:false,&quot;pause_on_navigation&quot;:true,&quot;start_ms&quot;:147120,&quot;timestamp&quot;:1453281780245,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAwQ1TYY____________ASITCPrtge_r7d8CFQ1iMAodlSwP_yj4HTIFY2FyZHNI2Pq_wqfD9-m1AQ&quot;,&quot;teaser&quot;:&quot;CA0Q0DYY____________ASITCPrtge_r7d8CFQ1iMAodlSwP_yj4HTIFY2FyZHNI2Pq_wqfD9-m1AQ&quot;,&quot;icon&quot;:&quot;CA4QsJcBGP___________wEiEwj67YHv6-3fAhUNYjAKHZUsD_8o-B0yBWNhcmRzSNj6v8Knw_fptQE&quot;},&quot;video_duration&quot;:&quot;3:11&quot;,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAwQ1TYY____________ASITCPrtge_r7d8CFQ1iMAodlSwP_yj4HTIFY2FyZHNI2Pq_wqfD9-m1AQ&quot;,&quot;feature&quot;:&quot;cards&quot;,&quot;ei&quot;:&quot;7Mw8XPrHEY3EwQGV2bz4Dw&quot;,&quot;annotation_id&quot;:&quot;3ba7dd04-b703-450d-88b9-f6e27b1523d8&quot;,&quot;src_vid&quot;:&quot;tdPeGnhP_Vg&quot;},&quot;target&quot;:&quot;new&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=TnRxdap5UJ0"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;eventId&quot;: &quot;7Mw8XPrHEY3EwQGV2bz4Dw&quot;, 
+  &quot;trackingParams&quot;: &quot;CAgQwjcY////////////ASITCPrtge/r7d8CFQ1iMAodlSwP/yj4HTIFY2FyZHNI2Pq/wqfD9+m1AQ==&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAoQsJcBGP///////////wEiEwj67YHv6+3fAhUNYjAKHZUsD/8o+B0yBWNhcmRzSNj6v8Knw/fptQE=&quot;, 
+  &quot;headerText&quot;: &quot;From KinoCheck International&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAkQsZcBGP///////////wEiEwj67YHv6+3fAhUNYjAKHZUsD/8o+B0yBWNhcmRzSNj6v8Knw/fptQE=&quot;
+}</data>
+</annotation>
+</annotations></document>

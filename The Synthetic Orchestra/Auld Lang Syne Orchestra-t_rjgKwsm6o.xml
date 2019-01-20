@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI2YaK9drt3wIVUBoDCh2kLg-CKPgdMgJpdkiqt7LhivC4_bcB">
+<annotation id="annotation_164122" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Ddummeh&amp;a-type=3&amp;ei=Jbs8XJngJNC0DKTdvJAI&amp;a-id=annotation_164122&amp;l-class=5&amp;xble=1&amp;a-v=t_rjgKwsm6o" itct="CAEQs-UBGP___________wEiEwjZhor12u3fAhVQGgMKHaQuD4Io-B0yAml2SKq3suGK8Lj9twE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="39.68800" y="3.33300" w="21.71900" h="9.44400" t="00:00:00.3"/>
+      <rectRegion x="39.68800" y="3.33300" w="21.71900" h="9.44400" t="00:01:18.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.25"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=dummeh&amp;annotation_id=annotation_164122&amp;ei=Jbs8XJngJNC0DKTdvJAI&amp;feature=iv&amp;src_vid=t_rjgKwsm6o" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_315928" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLX9dzTolD84&amp;a-type=1&amp;ei=Jbs8XJngJNC0DKTdvJAI&amp;a-id=annotation_315928&amp;l-class=1&amp;xble=1&amp;a-v=t_rjgKwsm6o" itct="CAIQs-UBGP___________wEiEwjZhor12u3fAhVQGgMKHaQuD4Io-B0yAml2SKq3suGK8Lj9twE">
+  <TEXT>Dexter</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="84.53100" y="6.38900" w="14.53100" h="6.94400" t="00:00:00.3"/>
+      <rectRegion x="84.53100" y="6.38900" w="14.53100" h="6.94400" t="00:01:18.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_315928&amp;ei=Jbs8XJngJNC0DKTdvJAI&amp;feature=iv&amp;src_vid=t_rjgKwsm6o&amp;v=LX9dzTolD84" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_625363" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_164122">
+    <movingRegion type="rect">
+      <rectRegion x="1.56300" y="1.66700" w="18.75000" h="6.38900" t="never"/>
+      <rectRegion x="1.56300" y="1.66700" w="18.75000" h="6.38900" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="4.8143" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_164122" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_855645" type="text" style="popup" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfrgF90hMoVc&amp;a-type=1&amp;ei=Jbs8XJngJNC0DKTdvJAI&amp;a-id=annotation_855645&amp;l-class=1&amp;xble=1&amp;a-v=t_rjgKwsm6o" itct="CAMQs-UBGP___________wEiEwjZhor12u3fAhVQGgMKHaQuD4Io-B0yAml2SKq3suGK8Lj9twE">
+  <TEXT>Minecraft</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.78100" y="6.94400" w="15.31300" h="7.22200" t="00:00:00.3"/>
+      <rectRegion x="0.78100" y="6.94400" w="15.31300" h="7.22200" t="00:01:18.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.30980833333333" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_855645&amp;ei=Jbs8XJngJNC0DKTdvJAI&amp;feature=iv&amp;src_vid=t_rjgKwsm6o&amp;v=frgF90hMoVc" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="channel:57434c17-0000-24ba-b463-94eb2c057d58" style="branding" type="branding"
+            log_data="a-ch=UCQOm3j7QTQqAJVCyiCNOXBA&amp;link-id=UCQOm3j7QTQqAJVCyiCNOXBA&amp;a-type=10&amp;ei=Jbs8XJngJNC0DKTdvJAI&amp;a-id=57434c17-0000-24ba-b463-94eb2c057d58&amp;l-class=3&amp;xble=0&amp;a-v=t_rjgKwsm6o">
+  <data>{&quot;standalone_subscribe_button_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribed&quot;:false,&quot;subscribeCount&quot;:&quot;139K&quot;,&quot;unsubscribeCount&quot;:&quot;139K&quot;,&quot;enabled&quot;:false,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?passive=true\u0026uilel=3\u0026hl=en\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fdummeh%26continue_action%3DQUFFLUhqbnU4V29FeVd0WE4yWW4tZUlIV1hzdFBUdUFGUXxBQ3Jtc0trVGNTdmRVVWVhR1lIQl9JRHBrbF82QV91QjFRMm9tOW5QR2FLTDJlU0dtaDR2clZYTjlibWt0X0ZpRGo4VUIxSnJBTjd2YkU2Nk9oX1l3WUpsbXNId3p1SWNXMzI5MjB1dGlENmc3bS1UZWpOdWJTWlZFQ3h5XzZFaWVSdXYzcXA4YjM2LVJIYXVlUlpTVURjWDN5Z04zWmxYbjRScE82SUY5ZVZZMUxWdFl6aEl0enZSUVltX1BpRUM0TUc1ZHB1SGpBc2ZUMkpZaDNQelRoX1VnQzZGUDFHWkJ3TjhoY2RWUmEwN0Npb0FETE5kSmg0%26hl%3Den%26feature%3Div%26action_handle_signin%3Dtrue%26app%3Ddesktop\u0026service=youtube&quot;,&quot;classic&quot;:true},&quot;image_height&quot;:27,&quot;channel_name&quot;:&quot;The Synthetic Orchestra&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_width&quot;:49,&quot;num_subscribers&quot;:&quot;139144&quot;,&quot;image_type&quot;:1,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;start_ms&quot;:64000,&quot;channel_id&quot;:&quot;UCQOm3j7QTQqAJVCyiCNOXBA&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/QOm3j7QTQqAJVCyiCNOXBA\/featured_channel.jpg?v=5748ca45&quot;,&quot;is_mobile&quot;:false,&quot;end_ms&quot;:79000,&quot;session_data&quot;:{&quot;annotation_id&quot;:&quot;57434c17-0000-24ba-b463-94eb2c057d58&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;ei&quot;:&quot;Jbs8XJngJNC0DKTdvJAI&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCNmGivXa7d8CFVAaAwodpC4Pgij4HTICaXZIqrey4YrwuP23AQ&quot;,&quot;src_vid&quot;:&quot;t_rjgKwsm6o&quot;}}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/dummeh"/>
+  </action>
+</annotation></annotations></document>

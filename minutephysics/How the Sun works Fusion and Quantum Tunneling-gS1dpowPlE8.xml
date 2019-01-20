@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIi_-uxunt3wIVB_gDCh1QFgO5KPgdMgJpdkjPqL7g6LTXloEB">
+<annotation id="annotation_125210" type="text" style="popup" log_data="a-id=annotation_125210&amp;ei=fso8XIvICofwD9CsjMgL&amp;a-v=gS1dpowPlE8&amp;a-type=1&amp;xble=1" itct="CAEQs-UBGP___________wEiEwiL_67G6e3fAhUH-AMKHVAWA7ko-B0yAml2SM-ovuDotNeWgQE">
+  <TEXT>Click here to watch last week&#39;s video!
+</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="40.78100" y="38.33300" w="20.00000" h="15.27800" t="0:00:58.3"/>
+      <rectRegion x="40.78100" y="38.33300" w="20.00000" h="15.27800" t="0:01:06.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+</annotation>
+<annotation id="annotation_142548" type="highlight" log_data="a-type=3&amp;a-id=annotation_142548&amp;xble=1&amp;l-class=1&amp;a-v=gS1dpowPlE8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_riIY-v2Ym8&amp;ei=fso8XIvICofwD9CsjMgL" itct="CAIQs-UBGP___________wEiEwiL_67G6e3fAhUH-AMKHVAWA7ko-B0yAml2SM-ovuDotNeWgQE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="29.53100" y="45.55600" w="40.78100" h="40.83300" t="0:00:58.3"/>
+      <rectRegion x="29.53100" y="45.55600" w="40.78100" h="40.83300" t="0:01:06.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="3307707" highlightWidth="3" borderAlpha="0.20000000298"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_142548&amp;ei=fso8XIvICofwD9CsjMgL&amp;feature=iv&amp;src_vid=gS1dpowPlE8&amp;v=_riIY-v2Ym8" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_23616" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_23616&amp;xble=1&amp;l-class=1&amp;a-v=gS1dpowPlE8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcTodS8hkSDg&amp;ei=fso8XIvICofwD9CsjMgL" itct="CAMQs-UBGP___________wEiEwiL_67G6e3fAhUH-AMKHVAWA7ko-B0yAml2SM-ovuDotNeWgQE">
+  <TEXT>I&#39;ve explained it now - click here to learn about Quantum Tunneling!</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="69.53100" y="3.88900" w="28.43800" h="15.27800" t="0:00:36.7"/>
+      <rectRegion x="69.53100" y="3.88900" w="28.43800" h="15.27800" t="0:00:45.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.800000011921" bgColor="3307707" fgColor="16770048" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/watch?annotation_id=annotation_23616&amp;ei=fso8XIvICofwD9CsjMgL&amp;feature=iv&amp;src_vid=gS1dpowPlE8&amp;v=cTodS8hkSDg" link_class="1"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_361342" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_361342&amp;xble=1&amp;l-class=5&amp;a-v=gS1dpowPlE8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dminutephysics&amp;ei=fso8XIvICofwD9CsjMgL" itct="CAQQs-UBGP___________wEiEwiL_67G6e3fAhUH-AMKHVAWA7ko-B0yAml2SM-ovuDotNeWgQE">
+  <TEXT>Click here to subscribe for more cool science videos! (a new episode every week)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="3.75000" y="6.66700" w="47.50000" h="11.11100" t="0:00:00.1"/>
+      <rectRegion x="3.75000" y="6.66700" w="47.50000" h="11.11100" t="0:00:05.1"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/subscription_center?add_user=minutephysics&amp;annotation_id=annotation_361342&amp;ei=fso8XIvICofwD9CsjMgL&amp;feature=iv&amp;src_vid=gS1dpowPlE8" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_421690" type="text" style="highlightText" logable="false" itct="">
+  <TEXT>Click here for last week&#39;s video</TEXT>
+  <segment spaceRelative="annotation_142548">
+    <movingRegion type="rect">
+      <rectRegion x="9.53100" y="41.38900" w="18.75000" h="9.44400" t="never"/>
+      <rectRegion x="9.53100" y="41.38900" w="18.75000" h="9.44400" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.6107" highlightFontColor="15921906"/>
+  <trigger>
+    <condition ref="annotation_142548" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_735873" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_735873&amp;xble=1&amp;l-class=5&amp;a-v=gS1dpowPlE8&amp;link=http%3A%2F%2Fwww.youtube.com%2Fsubscription_center%3Fadd_user%3Dminutephysics&amp;ei=fso8XIvICofwD9CsjMgL" itct="CAUQs-UBGP___________wEiEwiL_67G6e3fAhUH-AMKHVAWA7ko-B0yAml2SM-ovuDotNeWgQE">
+  <TEXT>Click here to subscribe for more cool science videos! (a new episode every week)</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="2.96900" y="6.11100" w="46.87500" h="12.50000" t="0:00:55.6"/>
+      <rectRegion x="2.96900" y="6.11100" w="46.87500" h="12.50000" t="0:01:06.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/subscription_center?add_user=minutephysics&amp;annotation_id=annotation_735873&amp;ei=fso8XIvICofwD9CsjMgL&amp;feature=iv&amp;src_vid=gS1dpowPlE8" link_class="5"/>
+  </action>
+
+</annotation>
+<annotation id="annotation_801753" type="text" style="popup" log_data="a-type=1&amp;a-id=annotation_801753&amp;xble=1&amp;l-class=11&amp;a-v=gS1dpowPlE8&amp;link=http%3A%2F%2Fwww.youtube.com%2Finbox%3Faction_compose%3D1%26to_users%3Dminutephysics&amp;ei=fso8XIvICofwD9CsjMgL" itct="CAYQs-UBGP___________wEiEwiL_67G6e3fAhUH-AMKHVAWA7ko-B0yAml2SM-ovuDotNeWgQE">
+  <TEXT>Click here to request topics for future videos...</TEXT>
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="63.59400" y="6.66700" w="31.56300" h="11.11100" t="0:00:55.6"/>
+      <rectRegion x="63.59400" y="6.66700" w="31.56300" h="11.11100" t="0:01:06.8"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0.25" bgColor="0" fgColor="16777215" textSize="3.6107" effects="">
+    
+  </appearance>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/inbox?action_compose=1&amp;annotation_id=annotation_801753&amp;ei=fso8XIvICofwD9CsjMgL&amp;feature=iv&amp;src_vid=gS1dpowPlE8&amp;to_users=minutephysics" link_class="11"/>
+  </action>
+
+</annotation><annotation author="minutephysics" id="annotation_859225" itct="CAcQs-UBGP___________wEiEwiL_67G6e3fAhUH-AMKHVAWA7ko-B0yAml2SM-ovuDotNeWgQE" log_data="a-id=annotation_859225&amp;ei=fso8XIvICofwD9CsjMgL&amp;a-v=gS1dpowPlE8&amp;a-type=2&amp;xble=1" style="speech" type="text"><TEXT>OK, nuclear subs use fission, not fusion... but it's still a nuclear (i.e. not chemical) reaction</TEXT><segment><movingRegion type="anchored"><anchoredRegion d="0" h="12.7779998779" sx="37.1879997253" sy="27.7779998779" t="0:00:12.5" w="45.0" x="2.96900010109" y="5.0" /><anchoredRegion d="0" h="12.7779998779" sx="37.1879997253" sy="27.7779998779" t="0:00:14.2" w="45.0" x="2.96900010109" y="5.0" /></movingRegion></segment></annotation>
+<annotation id="channel:51112275-0-2d16-96fd-bcaec54d3fb4" style="branding" type="branding"
+            log_data="a-type=10&amp;a-id=51112275-0-2d16-96fd-bcaec54d3fb4&amp;xble=0&amp;l-class=3&amp;a-v=gS1dpowPlE8&amp;link-id=UCUHW94eEFW7hkUMVaZz4eDg&amp;ei=fso8XIvICofwD9CsjMgL&amp;a-ch=UCUHW94eEFW7hkUMVaZz4eDg">
+  <data>{&quot;num_subscribers&quot;:&quot;4543158&quot;,&quot;image_type&quot;:1,&quot;is_mobile&quot;:false,&quot;image_height&quot;:40,&quot;image_width&quot;:40,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/UHW94eEFW7hkUMVaZz4eDg\/featured_channel.jpg?v=5111775c&quot;,&quot;start_ms&quot;:0,&quot;use_standalone_subscribe_button&quot;:true,&quot;channel_name&quot;:&quot;minutephysics&quot;,&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;subscribed&quot;:false,&quot;unsubscribeCount&quot;:&quot;4.5M&quot;,&quot;subscribeCount&quot;:&quot;4.5M&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=en\u0026passive=true\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Div%26continue_action%3DQUFFLUhqbGVLYk55Y0FTZ3RMdk0xR2dDd2VIdlMtRkljQXxBQ3Jtc0tuYm1uWnR5Vjg1Z0RQaDJWR1JnOUJzS2EtaG1QeU1Kc0hiX0RfYWVIay00a0RJYnltTkFFUDFYTUNJU0Q3dkZXUHRKV3RDaHBOcEE2YkFLQzJtTFA3R2hFZFlveG5oOU1ZLWc3TmNOdmg1WU5KeTdsX0RkeFZ3aHlEZ2ZwN0FQUzUwd3dhSnl2VDFCTVczaHNXdk9rWW5ZYkliNTFXajRKdlpmRHdHdGc1YVdEdGg4RVk1d3p2NlBUUVZkY2lHbjc5U1pmdXlwaGUtOVlkWG1nV3ctQ1NMWTNpc2p3Q3NlQjNxdnRNcUJtLWZOb3FZTnMw%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fminutephysics%26hl%3Den\u0026uilel=3&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;enabled&quot;:false},&quot;channel_id&quot;:&quot;UCUHW94eEFW7hkUMVaZz4eDg&quot;,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;session_data&quot;:{&quot;ei&quot;:&quot;fso8XIvICofwD9CsjMgL&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;annotation_id&quot;:&quot;51112275-0-2d16-96fd-bcaec54d3fb4&quot;,&quot;src_vid&quot;:&quot;gS1dpowPlE8&quot;,&quot;itct&quot;:&quot;CAgQ8zcY____________ASITCIv_rsbp7d8CFQf4AwodUBYDuSj4HTICaXZIz6i-4Oi015aBAQ&quot;},&quot;end_ms&quot;:67000}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/minutephysics"/>
+  </action>
+</annotation></annotations></document>

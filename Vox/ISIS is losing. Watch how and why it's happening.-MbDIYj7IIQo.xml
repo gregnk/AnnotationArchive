@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMIjIvmvObt3wIVqYbCAR0GWAl1KPgdMgJpdkiKwqD2o4yy2DE">
+<annotation id="annotation_2177884057" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLJ8cMiYb3G5d-BYhxNlzr4Nj4RZuljssq&amp;ei=RMc8XIzZMKmNir4PhrClqAc&amp;a-type=3&amp;l-class=2&amp;a-v=MbDIYj7IIQo&amp;xble=1&amp;a-id=annotation_2177884057" itct="CAEQs-UBGP___________wEiEwiMi-a85u3fAhWphsIBHQZYCXUo-B0yAml2SIrCoPajjLLYMQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="49.57700" w="50.04000" h="49.18300" t="3:07.000"/>
+      <rectRegion x="0.00000" y="49.57700" w="50.04000" h="49.18300" t="3:14.744"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/playlist?annotation_id=annotation_2177884057&amp;ei=RMc8XIzZMKmNir4PhrClqAc&amp;feature=iv&amp;list=PLJ8cMiYb3G5d-BYhxNlzr4Nj4RZuljssq&amp;src_vid=MbDIYj7IIQo" link_class="2"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2349600195" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIcq60Uxd3As&amp;ei=RMc8XIzZMKmNir4PhrClqAc&amp;a-type=3&amp;l-class=1&amp;a-v=MbDIYj7IIQo&amp;xble=1&amp;a-id=annotation_2349600195" itct="CAIQs-UBGP___________wEiEwiMi-a85u3fAhWphsIBHQZYCXUo-B0yAml2SIrCoPajjLLYMQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="0.28200" w="49.24700" h="50.02800" t="3:07.000"/>
+      <rectRegion x="0.00000" y="0.28200" w="49.24700" h="50.02800" t="3:14.744"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="current" value="https://www.youtube.com/watch?annotation_id=annotation_2349600195&amp;ei=RMc8XIzZMKmNir4PhrClqAc&amp;feature=iv&amp;src_vid=MbDIYj7IIQo&amp;v=Icq60Uxd3As" link_class="1"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3838468213" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2349600195">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2349600195" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3926764869" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2177884057">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2177884057" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3937754811" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_951959901">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_951959901" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_951959901" type="highlight" log_data="link=http%3A%2F%2Fwww.youtube.com%2Fuser%2Fvoxdotcom%3Fsub_confirmation%3D1&amp;ei=RMc8XIzZMKmNir4PhrClqAc&amp;a-type=3&amp;l-class=5&amp;a-v=MbDIYj7IIQo&amp;xble=1&amp;a-id=annotation_951959901" itct="CAMQs-UBGP___________wEiEwiMi-a85u3fAhWphsIBHQZYCXUo-B0yAml2SIrCoPajjLLYMQ">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="49.92100" y="0.00000" w="50.07900" h="27.77500" t="3:07.800"/>
+      <rectRegion x="49.92100" y="0.00000" w="50.07900" h="27.77500" t="3:14.744"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/voxdotcom?annotation_id=annotation_951959901&amp;ei=RMc8XIzZMKmNir4PhrClqAc&amp;feature=iv&amp;src_vid=MbDIYj7IIQo&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="channel:762ba61a-5b5d-460a-bab5-54b106075fb0" style="branding" type="branding"
+            log_data="link-id=UCLXo7UDZvByw2ixzpQCufnA&amp;ei=RMc8XIzZMKmNir4PhrClqAc&amp;a-ch=UCLXo7UDZvByw2ixzpQCufnA&amp;a-type=10&amp;l-class=3&amp;a-v=MbDIYj7IIQo&amp;xble=0&amp;a-id=762ba61a-5b5d-460a-bab5-54b106075fb0">
+  <data>{&quot;image_width&quot;:54,&quot;session_data&quot;:{&quot;feature&quot;:&quot;iv&quot;,&quot;itct&quot;:&quot;CAQQ8zcY____________ASITCIyL5rzm7d8CFamGwgEdBlgJdSj4HTICaXZIisKg9qOMstgx&quot;,&quot;ei&quot;:&quot;RMc8XIzZMKmNir4PhrClqAc&quot;,&quot;src_vid&quot;:&quot;MbDIYj7IIQo&quot;,&quot;annotation_id&quot;:&quot;762ba61a-5b5d-460a-bab5-54b106075fb0&quot;},&quot;end_ms&quot;:195000,&quot;use_standalone_subscribe_button&quot;:true,&quot;start_ms&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/LXo7UDZvByw2ixzpQCufnA\/featured_channel.jpg?v=59a98ac8&quot;,&quot;channel_name&quot;:&quot;Vox&quot;,&quot;channel_id&quot;:&quot;UCLXo7UDZvByw2ixzpQCufnA&quot;,&quot;image_type&quot;:1,&quot;is_mobile&quot;:false,&quot;standalone_subscribe_button_data&quot;:{&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;classic&quot;:true,&quot;unsubscribeCount&quot;:&quot;5.4M&quot;,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;enabled&quot;:false,&quot;subscribed&quot;:false,&quot;feature&quot;:&quot;iv&quot;,&quot;subscribeCount&quot;:&quot;5.4M&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?hl=en\u0026service=youtube\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26hl%3Den%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252Fvoxdotcom%26continue_action%3DQUFFLUhqa0RuMFl4MG9jU3EzOGttRl8zOWxHZTZLeFFPUXxBQ3Jtc0ttUFQ1RFM3V2ppRWN2eVg1TXFZZHJId0VKS3dUeVZuM0stcWdPQ3NEZG9YblBkajRsWE1qenMwQjZNMnA5ZUZmWmVSQXVjSDB5akEtbDdnbllybGhka0o3RzVJVmFRNzNFMXFWZFk1TTN1elZDVlBxWmpoQ1c5OGp3aEI2ZlJYUWVxa1pEMDRJRGlKRE9rSVBRSktHR1BRdXlHUk9ONHd6cUNqNW52RWllaFJzMDd5Z0ctM00tMVpEQ0dnN2pkRGJybmpFc2VyUGVIc1dDbGlxWmozaXVfa3Atbk1HZUt1bUpuQUFqcG1XZVJTOElBYjNr%26action_handle_signin%3Dtrue%26feature%3Div\u0026passive=true\u0026uilel=3&quot;},&quot;image_height&quot;:14,&quot;num_subscribers&quot;:&quot;5432722&quot;}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/voxdotcom"/>
+  </action>
+</annotation>
+<annotation id="video:51bac6ee-b28d-4f00-84db-5b97b78d1ea0" style="simple" type="card" log_data="a-ch=UCLXo7UDZvByw2ixzpQCufnA&amp;a-id=51bac6ee-b28d-4f00-84db-5b97b78d1ea0&amp;a-type=68&amp;a-v=MbDIYj7IIQo&amp;ei=RMc8XIzZMKmNir4PhrClqAc&amp;l-class=6&amp;link=http%3A%2F%2Fwww.vox.com%2Fisis&amp;xble=0">
+  <data>{&quot;custom_message&quot;:&quot;Read more at Vox!&quot;,&quot;card_type&quot;:&quot;simple&quot;,&quot;end_ms&quot;:19459,&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;ISIS&quot;,&quot;image_url&quot;:&quot;https:\/\/yt3.ggpht.com\/proxy\/PYRjpVxnp2JgrhM-ExqEHzSvA5x3nPjoraJncU4hPeSC2odvMqMTiGIBnMKx0g9hDE0rd4mYwLgLPxW0h-z8tH8ZaBPwna0Uv1E0lYGj5pFWwvwIysoV9_bhVsLWYiqefGrD3MtRAzO6lZ3HZEVYrPdDm0ID11y48zF5f9BXIANsf8WN7ACaU9Fo-gLi-psOuD-UnIg98aLwi2G13uWk-A5jDUVUJyBvOMcWrwx72aNq-XANzQZ-oSOPG5g-_kNUS_Hz5nFV&quot;,&quot;display_domain&quot;:&quot;vox.com&quot;,&quot;sponsored&quot;:false,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CAkQ1TYY____________ASITCIyL5rzm7d8CFamGwgEdBlgJdSj4HTIFY2FyZHNIisKg9qOMstgx&quot;,&quot;icon&quot;:&quot;CAsQsJcBGP___________wEiEwiMi-a85u3fAhWphsIBHQZYCXUo-B0yBWNhcmRzSIrCoPajjLLYMQ&quot;,&quot;teaser&quot;:&quot;CAoQ0DYY____________ASITCIyL5rzm7d8CFamGwgEdBlgJdSj4HTIFY2FyZHNIisKg9qOMstgx&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:19459,&quot;teaser_text&quot;:&quot;Read more at Vox!&quot;,&quot;target&quot;:&quot;new&quot;,&quot;url&quot;:&quot;\/redirect?event=infocard\u0026redir_token=ttISZSpgv-J9o7S2aprPMQ5tjcl8MTU0NzU3MzQ0NEAxNTQ3NDg3MDQ0\u0026q=http%3A%2F%2Fwww.vox.com%2Fisis&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CAkQ1TYY____________ASITCIyL5rzm7d8CFamGwgEdBlgJdSj4HTIFY2FyZHNIisKg9qOMstgx&quot;,&quot;ei&quot;:&quot;RMc8XIzZMKmNir4PhrClqAc&quot;,&quot;src_vid&quot;:&quot;MbDIYj7IIQo&quot;,&quot;annotation_id&quot;:&quot;51bac6ee-b28d-4f00-84db-5b97b78d1ea0&quot;},&quot;tracking&quot;:{&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[]},&quot;meta_info&quot;:[],&quot;show_link_icon&quot;:true}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="/redirect?event=infocard&amp;redir_token=ttISZSpgv-J9o7S2aprPMQ5tjcl8MTU0NzU3MzQ0NEAxNTQ3NDg3MDQ0&amp;q=http%3A%2F%2Fwww.vox.com%2Fisis"/>
+  </action>
+</annotation>
+
+<annotation id="video:dd265e5d-a1c5-4b77-84fb-56a64e62471f" style="video" type="card" log_data="a-ch=UCLXo7UDZvByw2ixzpQCufnA&amp;a-id=dd265e5d-a1c5-4b77-84fb-56a64e62471f&amp;a-type=62&amp;a-v=MbDIYj7IIQo&amp;ei=RMc8XIzZMKmNir4PhrClqAc&amp;l-class=1&amp;link-id=9jv0-dUu4_k&amp;xble=0">
+  <data>{&quot;custom_message&quot;:&quot;&quot;,&quot;card_type&quot;:&quot;video&quot;,&quot;end_ms&quot;:155952,&quot;pause_on_navigation&quot;:true,&quot;title&quot;:&quot;What I learned by befriending Iranians on Facebook&quot;,&quot;teaser_text&quot;:&quot;Suggested: What I learned by befriending Iranians on Facebook&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=9jv0-dUu4_k&quot;,&quot;tracking_params&quot;:{&quot;card&quot;:&quot;CA0Q1TYY____________ASITCIyL5rzm7d8CFamGwgEdBlgJdSj4HTIFY2FyZHNIisKg9qOMstgx&quot;,&quot;icon&quot;:&quot;CA8QsJcBGP___________wEiEwiMi-a85u3fAhWphsIBHQZYCXUo-B0yBWNhcmRzSIrCoPajjLLYMQ&quot;,&quot;teaser&quot;:&quot;CA4Q0DYY____________ASITCIyL5rzm7d8CFamGwgEdBlgJdSj4HTIFY2FyZHNIisKg9qOMstgx&quot;},&quot;teaser_duration_ms&quot;:7000,&quot;start_ms&quot;:155952,&quot;video_duration&quot;:&quot;3:01&quot;,&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/vi\/9jv0-dUu4_k\/mqdefault.jpg&quot;,&quot;is_live_now&quot;:false,&quot;target&quot;:&quot;new&quot;,&quot;session_data&quot;:{&quot;feature&quot;:&quot;cards&quot;,&quot;itct&quot;:&quot;CA0Q1TYY____________ASITCIyL5rzm7d8CFamGwgEdBlgJdSj4HTIFY2FyZHNIisKg9qOMstgx&quot;,&quot;ei&quot;:&quot;RMc8XIzZMKmNir4PhrClqAc&quot;,&quot;src_vid&quot;:&quot;MbDIYj7IIQo&quot;,&quot;annotation_id&quot;:&quot;dd265e5d-a1c5-4b77-84fb-56a64e62471f&quot;},&quot;tracking&quot;:{&quot;click&quot;:[],&quot;close&quot;:[],&quot;teaser_click&quot;:[],&quot;teaser_impression&quot;:[],&quot;impression&quot;:[]},&quot;meta_info&quot;:[&quot;by Vox&quot;,&quot;741,529 views&quot;]}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/watch?v=9jv0-dUu4_k"/>
+  </action>
+</annotation>
+
+<annotation id="drawer" type="drawer">
+  <segment/>
+  <data>{
+  &quot;trackingParams&quot;: &quot;CAUQwjcY////////////ASITCIyL5rzm7d8CFamGwgEdBlgJdSj4HTIFY2FyZHNIisKg9qOMstgx&quot;, 
+  &quot;eventId&quot;: &quot;RMc8XIzZMKmNir4PhrClqAc&quot;, 
+  &quot;iconTrackingParams&quot;: &quot;CAcQsJcBGP///////////wEiEwiMi+a85u3fAhWphsIBHQZYCXUo+B0yBWNhcmRzSIrCoPajjLLYMQ==&quot;, 
+  &quot;closeTrackingParams&quot;: &quot;CAYQsZcBGP///////////wEiEwiMi+a85u3fAhWphsIBHQZYCXUo+B0yBWNhcmRzSIrCoPajjLLYMQ==&quot;, 
+  &quot;headerText&quot;: &quot;From Vox&quot;
+}</data>
+</annotation>
+</annotations></document>

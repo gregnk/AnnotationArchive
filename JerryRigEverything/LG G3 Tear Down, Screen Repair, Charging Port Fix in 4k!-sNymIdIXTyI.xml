@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?><document><annotations itct="CAAQwOYBIhMI5vKVyuXt3wIVxuQDCh0SBA2JKPgdMgJpdkiint2QncSp7rAB">
+<annotation id="annotation_121851881" type="highlight" log_data="a-v=sNymIdIXTyI&amp;l-class=4&amp;xble=1&amp;link=https%3A%2F%2Fplus.google.com%2Fu%2F0%2Fb%2F105752259006089642701%2F105752259006089642701&amp;a-id=annotation_121851881&amp;ei=VMY8XOb4GMbJD5KItMgI&amp;a-type=3" itct="CAEQs-UBGP___________wEiEwjm8pXK5e3fAhXG5AMKHRIEDYko-B0yAml2SKKe3ZCdxKnusAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="54.35800" y="60.56300" w="13.43100" h="22.70400" t="3:55.019"/>
+      <rectRegion x="54.35800" y="60.56300" w="13.43100" h="22.70400" t="4:04.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://plus.google.com/u/0/b/105752259006089642701/105752259006089642701" link_class="4"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2399303923" type="highlight" log_data="a-v=sNymIdIXTyI&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2FJerryrigeverything.com%2Finstagram%2F&amp;a-id=annotation_2399303923&amp;ei=VMY8XOb4GMbJD5KItMgI&amp;a-type=3" itct="CAIQs-UBGP___________wEiEwjm8pXK5e3fAhXG5AMKHRIEDYko-B0yAml2SKKe3ZCdxKnusAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="76.22800" y="59.71800" w="13.59000" h="23.83100" t="3:55.019"/>
+      <rectRegion x="76.22800" y="59.71800" w="13.59000" h="23.83100" t="4:04.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://Jerryrigeverything.com/instagram/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_2753860963" type="highlight" log_data="a-v=sNymIdIXTyI&amp;l-class=5&amp;xble=1&amp;link=http%3A%2F%2Fwww.youtube.com%2Fuser%2FJerryRigEverything%3Fsub_confirmation%3D1&amp;a-id=annotation_2753860963&amp;ei=VMY8XOb4GMbJD5KItMgI&amp;a-type=3" itct="CAMQs-UBGP___________wEiEwjm8pXK5e3fAhXG5AMKHRIEDYko-B0yAml2SKKe3ZCdxKnusAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="6.18100" y="6.19700" w="89.97600" h="20.16900" t="3:55.019"/>
+      <rectRegion x="6.18100" y="6.19700" w="89.97600" h="20.16900" t="4:04.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="https://www.youtube.com/user/JerryRigEverything?annotation_id=annotation_2753860963&amp;ei=VMY8XOb4GMbJD5KItMgI&amp;feature=iv&amp;src_vid=sNymIdIXTyI&amp;sub_confirmation=1" link_class="5"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_3038239643" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_121851881">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_121851881" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3241363925" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2753860963">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2753860963" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3379499761" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_561315105">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_561315105" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3633216963" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_3778996595">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_3778996595" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="annotation_3778996595" type="highlight" log_data="a-v=sNymIdIXTyI&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2FJerryRigEverything.com%2Ffacebook%2F&amp;a-id=annotation_3778996595&amp;ei=VMY8XOb4GMbJD5KItMgI&amp;a-type=3" itct="CAQQs-UBGP___________wEiEwjm8pXK5e3fAhXG5AMKHRIEDYko-B0yAml2SKKe3ZCdxKnusAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="54.67500" y="30.98600" w="12.95600" h="23.26800" t="3:55.019"/>
+      <rectRegion x="54.67500" y="30.98600" w="12.95600" h="23.26800" t="4:04.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://JerryRigEverything.com/facebook/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_561315105" type="highlight" log_data="a-v=sNymIdIXTyI&amp;l-class=6&amp;xble=1&amp;link=http%3A%2F%2FJerryRigEverything.com%2Ftwitter%2F&amp;a-id=annotation_561315105&amp;ei=VMY8XOb4GMbJD5KItMgI&amp;a-type=3" itct="CAUQs-UBGP___________wEiEwjm8pXK5e3fAhXG5AMKHRIEDYko-B0yAml2SKKe3ZCdxKnusAE">
+  <segment>
+    <movingRegion type="rect">
+      <rectRegion x="76.07000" y="31.26800" w="13.59000" h="22.98600" t="3:55.019"/>
+      <rectRegion x="76.07000" y="31.26800" w="13.59000" h="22.98600" t="4:04.900"/>
+    </movingRegion>
+  </segment>
+  <appearance bgColor="16777215" highlightWidth="3" borderAlpha="0.2"/>
+  
+  <action type="openUrl" trigger="click">
+    <url target="new" value="http://JerryRigEverything.com/twitter/" link_class="6"/>
+  </action>
+
+</annotation>
+
+<annotation id="annotation_855672689" type="text" style="highlightText" logable="false" itct="">
+  
+  <segment spaceRelative="annotation_2399303923">
+    <movingRegion type="rect">
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+      <rectRegion x="0.00000" y="29.72200" w="25.00000" h="6.00000" t="never"/>
+    </movingRegion>
+  </segment>
+  <appearance bgAlpha="0" textSize="3.911599999999999" highlightFontColor="0"/>
+  <trigger>
+    <condition ref="annotation_2399303923" state="rollOver"/>
+  </trigger>
+</annotation>
+
+<annotation id="channel:55fbff7e-d91d-45a2-b9b4-4f6759d1ef57" style="branding" type="branding"
+            log_data="ei=VMY8XOb4GMbJD5KItMgI&amp;a-v=sNymIdIXTyI&amp;link-id=UCWFKCr40YwOZQx8FHU_ZqqQ&amp;a-ch=UCWFKCr40YwOZQx8FHU_ZqqQ&amp;xble=0&amp;a-id=55fbff7e-d91d-45a2-b9b4-4f6759d1ef57&amp;a-type=10&amp;l-class=3">
+  <data>{&quot;start_ms&quot;:0,&quot;subscription_token&quot;:[&quot;&quot;,&quot;&quot;],&quot;standalone_subscribe_button_data&quot;:{&quot;classic&quot;:true,&quot;feature&quot;:&quot;iv&quot;,&quot;signinUrl&quot;:&quot;https:\/\/accounts.google.com\/ServiceLogin?service=youtube\u0026uilel=3\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3Dhttps%253A%252F%252Fwww.youtube.com%252Fuser%252FJerryRigEverything%26app%3Ddesktop%26feature%3Div%26continue_action%3DQUFFLUhqa210dGZGTk01T1phcVVFT0dtRDJ6a2Y5Tlg4UXxBQ3Jtc0tuSUdHMnE0RnI2UzhfX2VQVTZWVVFmSHFOOVk0dm9rS3N0UWhSaW4tR0txcWprOVYzU1hhcGoxN1pLU000clItLXNxWjYxUjg1WllWaVlYaTc1bko0c0lENElCZ3IxNVI3bUhOOGJkcTdIQkVPdjd0MXk5T2cxeU5tSTdDUUFtZ1BqcDBFc1ZKeDFOU1F1ZTdNQXk5WlVfdmF6eVhOMlFZWnlhUF92SzVmVVNYellHWTJQNTVrbmhLSzlmeVBETGxTaGpfb0ZmUGVGUDF0U2lsVzhSZmtzcDFuNldNMU1RUTB4R3FfMkU2X20zV3ZYWHBF%26action_handle_signin%3Dtrue%26hl%3Den\u0026hl=en\u0026passive=true&quot;,&quot;subscribeCount&quot;:&quot;3.1M&quot;,&quot;subscribed&quot;:false,&quot;enabled&quot;:false,&quot;unsubscribeText&quot;:&quot;Subscribed&quot;,&quot;subscribeText&quot;:&quot;Subscribe&quot;,&quot;unsubscribeCount&quot;:&quot;3.1M&quot;},&quot;image_width&quot;:46,&quot;is_mobile&quot;:false,&quot;channel_id&quot;:&quot;UCWFKCr40YwOZQx8FHU_ZqqQ&quot;,&quot;image_height&quot;:33,&quot;session_data&quot;:{&quot;itct&quot;:&quot;CAYQ8zcY____________ASITCObylcrl7d8CFcbkAwodEgQNiSj4HTICaXZIop7dkJ3Eqe6wAQ&quot;,&quot;annotation_id&quot;:&quot;55fbff7e-d91d-45a2-b9b4-4f6759d1ef57&quot;,&quot;ei&quot;:&quot;VMY8XOb4GMbJD5KItMgI&quot;,&quot;feature&quot;:&quot;iv&quot;,&quot;src_vid&quot;:&quot;sNymIdIXTyI&quot;},&quot;image_url&quot;:&quot;https:\/\/i.ytimg.com\/an\/WFKCr40YwOZQx8FHU_ZqqQ\/featured_channel.jpg?v=5b88a863&quot;,&quot;channel_name&quot;:&quot;JerryRigEverything&quot;,&quot;end_ms&quot;:245000,&quot;num_subscribers&quot;:&quot;3117473&quot;,&quot;use_standalone_subscribe_button&quot;:true,&quot;image_type&quot;:1}</data>
+  <segment/>
+  <action trigger="click" type="openUrl">
+    <url type="hyperlink" target="new" value="https://www.youtube.com/user/JerryRigEverything"/>
+  </action>
+</annotation></annotations></document>
